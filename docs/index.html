@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=4">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <header class="masthead">
@@ -37,8 +37,8 @@
       Regulatory
       <span class="count" id="count-regulatory">0</span>
     </button>
-    <button class="tab" data-tab="roadmap" role="tab" aria-selected="false" title="Design decisions &amp; roadmap">
-      Roadmap
+    <button class="tab" data-tab="roadmap" role="tab" aria-selected="false" title="Approach, design decisions &amp; roadmap">
+      About
     </button>
     <button class="tab brief-tab" data-tab="brief" role="tab" aria-selected="false" title="Items you've starred">
       <span class="brief-icon" aria-hidden="true">&#9733;</span>
@@ -79,61 +79,86 @@
 
   <article id="roadmap" class="roadmap" hidden>
     <header class="roadmap-header">
-      <p class="roadmap-eyebrow">Dashboard notes</p>
-      <h2>How this dashboard is built &mdash; and what it could become</h2>
-      <p class="roadmap-lede">A working brief on the data we pull, the sources we deliberately don't pull, and the next moves worth considering.</p>
+      <p class="roadmap-eyebrow">About this dashboard</p>
+      <h2>Approach, design decisions &amp; roadmap</h2>
+      <p class="roadmap-lede">A working brief on why the dashboard exists, the choices behind what it does (and doesn't) pull, and the next moves on the table.</p>
     </header>
 
     <section class="roadmap-section">
-      <h3>What's tracked</h3>
-      <ul class="roadmap-list">
-        <li><strong>8 competitors</strong> &mdash; Eltropy, Kasisto, Posh, Glia, Active.Ai, Omilia, Gridspace, Born Digital.</li>
-        <li><strong>6 banking regulators</strong> &mdash; CFPB, Federal Reserve, OCC, FDIC, NCUA, Treasury. Foreign-policy items (sanctions, Iran, tariffs) are filtered out.</li>
-        <li><strong>Industry coverage</strong> &mdash; TechCrunch AI, Finextra, American Banker, Product Hunt AI, Hacker News, Google News.</li>
-        <li><strong>Refresh cadence</strong> &mdash; daily at 07:00 PT via GitHub Actions; data commits straight back to the repo, the site picks it up automatically.</li>
-      </ul>
+      <h3>Approach</h3>
+      <p class="roadmap-prose">The point is to compress an entire morning of competitive scanning into one page that loads in under a second. Every day at 07:00 PT a Python job pulls fresh signal from a dozen sources, dedupes across them, tags each item with the competitor and category it belongs to, and commits the result as JSON. The site reads that JSON &mdash; no backend, no database, no servers to babysit. Total operating cost is zero dollars a month.</p>
+      <p class="roadmap-prose">Signal beats volume. We'd rather show twelve real competitor items than thirty with eighteen false positives, so source coverage and tagging rules are tuned aggressively against noise &mdash; even at the cost of occasionally missing a marginal item.</p>
     </section>
 
     <section class="roadmap-section">
-      <h3>Constraints &amp; how to overcome them</h3>
+      <h3>Design decisions</h3>
+
+      <div class="roadmap-card">
+        <h4>Two tabs of content, one tab of personal saves</h4>
+        <p>Competitor Intel and AI News are the consumption surfaces; Regulatory adds banking-policy signal that almost no competitor watches; CEO Brief is your personal staging area &mdash; star anything from any tab and it lands there with a shareable link and a print view for 1:1 prep.</p>
+      </div>
+
+      <div class="roadmap-card">
+        <h4>Trust the regex, not the search</h4>
+        <p>Google News and HN search both fuzzy-match aggressively. A query for "Eltropy" returns articles about "Entropy"; a query for "Posh" returns hotel reviews. Every item is verified against a narrow per-competitor regex before it's allowed onto the Competitor Intel tab &mdash; items that fail the check are dropped entirely, not demoted to AI News.</p>
+      </div>
+
+      <div class="roadmap-card">
+        <h4>Case-sensitive matching for ambiguous names</h4>
+        <p>"born digital" lowercase is a common phrase meaning digital natives. "Born Digital" Title Case is the company. The Born Digital matcher is case-sensitive on purpose; Glia and Posh have similar guards baked in.</p>
+      </div>
+
+      <div class="roadmap-card">
+        <h4>Regulatory tab filters foreign policy</h4>
+        <p>CFPB, OCC, NCUA, FDIC, Fed and Treasury press feeds technically include sanctions, tariffs, and Iran/Russia coverage. None of that is useful for a banking-AI strategy conversation, so we filter those keywords out and keep only domestic financial regulation.</p>
+      </div>
+
+      <div class="roadmap-card">
+        <h4>Per-source resilience</h4>
+        <p>Every source is wrapped so a single broken feed never kills the whole run. The footer of every tab shows live source health; if you see the failed count creep up, that's the signal something needs tightening.</p>
+      </div>
+    </section>
+
+    <section class="roadmap-section">
+      <h3>Sources we deliberately don't pull &mdash; and what it would take</h3>
 
       <div class="roadmap-card">
         <h4>Twitter / X</h4>
-        <p>Not currently a source. X's API requires a paid plan starting at <strong>~$100/month</strong> even for read-only search. Free scraping is rate-limited and blocks our automation IPs.</p>
-        <p class="roadmap-resolve"><strong>How to enable:</strong> sponsor a basic API seat ($100/mo) or wait for X to restore free read access. Adding it would re-introduce live conversation from analysts and AI-Twitter.</p>
+        <p>X's API now starts at <strong>~$100/month</strong> for the basic read-only tier, and free scraping is rate-limited and IP-blocked. Without paid access there's no reliable way to ingest X content.</p>
+        <p class="roadmap-resolve"><strong>How to enable:</strong> sponsor a $100/mo basic API seat or wait for X to restore free read access. Would re-introduce live analyst conversation and AI-Twitter chatter that doesn't appear anywhere else.</p>
       </div>
 
       <div class="roadmap-card">
         <h4>Bluesky</h4>
-        <p>Attempted, then pulled. The public search endpoint now requires authentication; even with credentials, the signal-to-noise on competitor names was poor &mdash; short posts containing words like "posh" or "active AI" leaked into the competitor feed.</p>
+        <p>Attempted and pulled. The public search endpoint now requires auth, and even with credentials the signal-to-noise on competitor names was poor &mdash; short informal posts containing words like "posh" or "active AI" leaked through every filter.</p>
         <p class="roadmap-resolve"><strong>How to enable:</strong> two paths.
-          <strong>(a)</strong> curate a list of follow-accounts (analysts, vendors, banking AI thinkers) and only pull their posts &mdash; trades breadth for precision.
-          <strong>(b)</strong> add a semantic-relevance step using an LLM to filter Bluesky posts before they enter the feed (~$1/month at current volume).
+          <strong>(a)</strong> curate a Bluesky list of high-signal accounts (banking AI analysts, vendor engineers) and pull only their posts &mdash; trades breadth for precision.
+          <strong>(b)</strong> add an LLM-based semantic-relevance filter before posts enter the feed (~$1/month at current volume).
         </p>
       </div>
 
       <div class="roadmap-card">
         <h4>Reddit</h4>
-        <p>Reddit blocks our automation's IPs at the API layer. We currently route via a public mirror (pullpush.io), which works but adds a delay and depends on a community-run service.</p>
-        <p class="roadmap-resolve"><strong>How to harden:</strong> move to Reddit's own OAuth flow &mdash; free, but requires registering an app and storing two more secrets. Worth it if pullpush starts to fail intermittently.</p>
+        <p>Reddit blocks our automation's IPs at the API layer. We currently route via the community-run pullpush.io archive &mdash; works but adds delay and depends on a third party staying up.</p>
+        <p class="roadmap-resolve"><strong>How to harden:</strong> move to Reddit's own OAuth flow &mdash; free, requires registering an app and storing two more secrets. Worth it if pullpush gets flaky.</p>
       </div>
 
       <div class="roadmap-card">
         <h4>Competitor blogs</h4>
-        <p>Most competitor blogs aren't on standardized RSS paths. Today we pull from Omilia, with the rest as TODO &mdash; their site search/feed URLs need to be probed one-by-one.</p>
-        <p class="roadmap-resolve"><strong>How to fill in:</strong> for each competitor, find their actual blog URL (Eltropy, Kasisto, Posh, Glia, Gridspace, Born Digital) and add the verified RSS URL to <code>COMPETITOR_BLOG_FEEDS</code>.</p>
+        <p>Most competitor blogs aren't on standardized RSS paths. Today we pull from Omilia; the rest need their actual feed URL probed and added.</p>
+        <p class="roadmap-resolve"><strong>How to fill in:</strong> for each remaining competitor (Eltropy, Kasisto, Posh, Glia, Gridspace, Born Digital), find the real blog RSS and add it to <code>COMPETITOR_BLOG_FEEDS</code>.</p>
       </div>
     </section>
 
     <section class="roadmap-section">
-      <h3>Possible enhancements</h3>
+      <h3>Roadmap &mdash; what to build next</h3>
       <ol class="roadmap-list">
-        <li><strong>AI daily brief at the top.</strong> Claude reads everything we pulled and writes "3 things you need to know today" in plain English. ~$1&ndash;2/month in API calls. Highest leverage: turns a feed into a briefing.</li>
-        <li><strong>Email or Slack digest at 07:00.</strong> Same content auto-delivered before your standup &mdash; you scan before the dashboard ever opens.</li>
-        <li><strong>Customer-win tracker.</strong> Dedicated pattern match for "[Competitor] signs [Bank/CU]" across all sources, surfaced as a separate sub-tab.</li>
-        <li><strong>Hiring velocity tracker.</strong> Scrape competitor /careers pages; new conversational-AI engineer postings are a leading indicator of where they're investing next.</li>
-        <li><strong>Earnings call mentions.</strong> Bank and CU earnings transcripts (via Seeking Alpha / Capital IQ) often name vendor partners. Surface every mention of our competitor set.</li>
-        <li><strong>Sentiment over time.</strong> Track tone of social/news mentions per competitor as a small chart per item set &mdash; useful for spotting momentum shifts before they're newsworthy.</li>
+        <li><strong>AI daily brief at the top.</strong> Claude reads the day's items and writes "3 things you need to know" in plain English. ~$1&ndash;2/month in API calls. Highest leverage by a mile &mdash; turns a feed into a briefing.</li>
+        <li><strong>Email or Slack digest at 07:00.</strong> Same content auto-delivered before standup &mdash; you scan it before the dashboard ever opens.</li>
+        <li><strong>Customer-win tracker.</strong> Dedicated pattern match for "[Competitor] signs [Bank/CU]" across all sources, surfaced as its own sub-tab.</li>
+        <li><strong>Hiring velocity tracker.</strong> Scrape competitor /careers pages. New conversational-AI engineer postings are a leading indicator of where they're investing.</li>
+        <li><strong>Earnings-call mentions.</strong> Bank and CU earnings transcripts often name vendor partners. Surface every mention of our competitor set via Seeking Alpha / Capital IQ.</li>
+        <li><strong>Sentiment over time.</strong> Track tone of social/news mentions per competitor as a small chart &mdash; useful for spotting momentum shifts before they break.</li>
       </ol>
     </section>
 
@@ -147,6 +172,6 @@
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
-  <script src="app.js?v=5"></script>
+  <script src="app.js?v=6"></script>
 </body>
 </html>
