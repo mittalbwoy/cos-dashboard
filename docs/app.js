@@ -351,10 +351,9 @@ function renderItem(it) {
   const noteSlot = hasNote
     ? `<div class="note" data-note-id="${escapeAttr(it.id)}"><div class="note-label">my take</div><div class="note-body">loading&hellip;</div></div>`
     : '';
-  const addNote = hasNote
-    ? ''
-    : `<div class="add-note">add note: <code>docs/notes/${escapeHtml(it.id)}.md</code>` +
-      `<button type="button" class="copy-id" data-id="${escapeAttr(it.id)}">copy id</button></div>`;
+  // 'add note' affordance intentionally hidden — restore by re-adding an
+  // <div class="add-note"> block here if you want note authoring back.
+  const addNote = '';
   const star = `<button type="button" class="star-btn ${isPinned ? 'is-on' : ''}"
                         data-pin="${escapeAttr(it.id)}"
                         aria-label="${isPinned ? 'Unpin item' : 'Pin item'}"
