@@ -66,9 +66,14 @@ COMPETITORS = [
 COMPETITOR_PATTERNS = {
     "Eltropy":      r"\beltropy\b",
     "Kasisto":      r"\bkasisto\b",
+    # Narrowed to disambiguate the company from the English adjective.
     "Posh":         r"\bposh(\s+ai|\.ai|\s+technologies)\b",
-    "Glia":         r"\bglia\b(?=.*(ai|bank|customer|conversational|contact))",
-    "Active.Ai":    r"\bactive[\.\s]?ai\b",
+    # Require Glia near a banking/AI context word, else 'glia' as a biology
+    # term creeps in.
+    "Glia":         r"\bglia\b(?=.*(\b(ai|bank|customer|conversational|contact|credit\s+union|fintech)\b))",
+    # Require the literal dot — 'active AI' as a generic phrase shows up
+    # in countless AI articles and was the largest source of false positives.
+    "Active.Ai":    r"\bactive\.ai\b",
     "Omilia":       r"\bomilia\b",
     "Gridspace":    r"\bgridspace\b",
     "Born Digital": r"\bborn[\s-]digital\b",
@@ -435,16 +440,26 @@ def fetch_google_news(query: str, force_competitor: str | None = None) -> list[I
     one as a separate source in the dropdown). The per-query detail still
     lives in meta.json's sources status for monitoring.
 
-    If force_competitor is set, every item returned is tagged with that
-    competitor — used when the query is an exact-quoted competitor name."""
+    If force_competitor is set, Google's exact-quote search is *supposed* to
+    return on-topic results — but it doesn't (e.g. "Posh" funding returns
+    hotel articles). So we only keep items whose title/snippet actually
+    matches the narrow competitor regex. Items that don't match are
+    discarded entirely, not demoted to AI News, since they came from a
+    competitor-targeted search and don't belong in the feed at all."""
     url = f"https://news.google.com/rss/search?q={quote_plus(query)}&hl=en-US&gl=US&ceid=US:en"
     items = fetch_rss("Google News", url)
-    if force_competitor:
-        for it in items:
+    if not force_competitor:
+        return items
+    pattern = COMPETITOR_PATTERNS.get(force_competitor)
+    kept: list[Item] = []
+    for it in items:
+        haystack = f"{it.title} {it.snippet}"
+        if pattern and re.search(pattern, haystack, flags=re.IGNORECASE):
             if force_competitor not in it.competitors:
                 it.competitors = sorted(it.competitors + [force_competitor])
-            it.category = categorize(it.competitors)
-    return items
+            it.category = categorize(it.competitors, it.category)
+            kept.append(it)
+    return kept
 
 
 # ---------------------------------------------------------------------------
