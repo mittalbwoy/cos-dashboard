@@ -3,8 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Intelligence — Competitor & AI</title>
-  <meta name="color-scheme" content="dark light">
+  <title>Intelligence &mdash; Competitor &amp; AI</title>
+  <meta name="color-scheme" content="light">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -33,12 +36,19 @@
   </nav>
 
   <section class="filters" aria-label="Filters">
-    <input type="search" id="search" placeholder="Search title or excerpt&hellip;" autocomplete="off" spellcheck="false">
-    <div class="filter-group" id="competitor-filters" aria-label="Competitor filter"></div>
-    <select id="source-filter" aria-label="Source filter">
-      <option value="">All sources</option>
-    </select>
-    <button id="clear-filters" type="button">Clear</button>
+    <div class="filter-row">
+      <input type="search" id="search" placeholder="Search title or excerpt&hellip;" autocomplete="off" spellcheck="false">
+      <select id="source-filter" aria-label="Source filter">
+        <option value="">All sources</option>
+      </select>
+      <button id="clear-filters" type="button">Clear all</button>
+    </div>
+    <div class="filter-row competitor-row" id="competitor-row">
+      <span class="filter-label">Competitors</span>
+      <div class="filter-group" id="competitor-filters" aria-label="Competitor multi-select"></div>
+      <span class="filter-count" id="competitor-count-indicator"></span>
+      <button type="button" class="filter-link" id="clear-competitors" hidden>clear</button>
+    </div>
   </section>
 
   <main id="items" class="items" aria-live="polite">

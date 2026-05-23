@@ -107,13 +107,20 @@ function initUI() {
     render();
   });
 
-  // Clear
+  // Clear all
   document.getElementById('clear-filters').addEventListener('click', () => {
     state.search = '';
     state.selectedCompetitors.clear();
     state.selectedSource = '';
     searchEl.value = '';
     document.getElementById('source-filter').value = '';
+    document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('is-active'));
+    render();
+  });
+
+  // Clear competitor selections only
+  document.getElementById('clear-competitors').addEventListener('click', () => {
+    state.selectedCompetitors.clear();
     document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('is-active'));
     render();
   });
@@ -172,9 +179,16 @@ function populateSourceFilter() {
 }
 
 function render() {
-  // Show/hide competitor chips depending on tab
-  document.getElementById('competitor-filters').style.display =
-    state.tab === 'competitor' ? 'flex' : 'none';
+  // Show/hide the whole competitor filter row depending on tab.
+  const compRow = document.getElementById('competitor-row');
+  compRow.style.display = state.tab === 'competitor' ? 'flex' : 'none';
+
+  // Selection count + conditional clear link
+  const indicator = document.getElementById('competitor-count-indicator');
+  const clearLink = document.getElementById('clear-competitors');
+  const n = state.selectedCompetitors.size;
+  indicator.textContent = n > 0 ? `${n} selected` : '';
+  clearLink.hidden = n === 0;
 
   populateSourceFilter();
 
