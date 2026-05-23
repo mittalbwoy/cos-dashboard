@@ -35,6 +35,9 @@ jobs:
 
       - name: Run fetcher
         run: python scripts/fetch.py
+        env:
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
 
       - name: Commit & push if changed
         run: |
