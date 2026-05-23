@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-23T03:57:26.843161+00:00",
-  "item_count": 510,
-  "competitor_count": 16,
-  "ai_news_count": 494,
+  "generated_at": "2026-05-23T04:04:33.835456+00:00",
+  "item_count": 522,
+  "competitor_count": 110,
+  "ai_news_count": 412,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -18,121 +18,69 @@
       "ok": true,
       "count": 30
     },
-    "Bluesky search: Eltropy": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Eltropy&limit=25&sort=latest"
-    },
     "HN search: Kasisto": {
       "ok": true,
-      "count": 2
-    },
-    "Bluesky search: Kasisto": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Kasisto&limit=25&sort=latest"
+      "count": 13
     },
     "HN search: Posh": {
       "ok": true,
       "count": 30
     },
-    "Bluesky search: Posh": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Posh&limit=25&sort=latest"
-    },
     "HN search: Glia": {
       "ok": true,
       "count": 30
-    },
-    "Bluesky search: Glia": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Glia&limit=25&sort=latest"
     },
     "HN search: Active.Ai": {
       "ok": true,
       "count": 0
     },
-    "Bluesky search: Active.Ai": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Active.Ai&limit=25&sort=latest"
-    },
     "HN search: Omilia": {
       "ok": true,
       "count": 4
     },
-    "Bluesky search: Omilia": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Omilia&limit=25&sort=latest"
-    },
     "HN search: Gridspace": {
       "ok": true,
-      "count": 0
-    },
-    "Bluesky search: Gridspace": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Gridspace&limit=25&sort=latest"
+      "count": 1
     },
     "HN search: Born Digital": {
       "ok": true,
       "count": 0
     },
-    "Bluesky search: Born Digital": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=Born+Digital&limit=25&sort=latest"
-    },
     "HN search: conversational AI": {
       "ok": true,
       "count": 30
-    },
-    "Bluesky search: conversational AI": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=conversational+AI&limit=25&sort=latest"
     },
     "HN search: voice AI": {
       "ok": true,
       "count": 30
     },
-    "Bluesky search: voice AI": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=voice+AI&limit=25&sort=latest"
-    },
     "HN search: agentic AI": {
       "ok": true,
       "count": 30
-    },
-    "Bluesky search: agentic AI": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=agentic+AI&limit=25&sort=latest"
     },
     "HN search: banking AI": {
       "ok": true,
       "count": 30
     },
-    "Bluesky search: banking AI": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=banking+AI&limit=25&sort=latest"
-    },
     "HN search: credit union AI": {
       "ok": true,
       "count": 1
     },
-    "Bluesky search: credit union AI": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=credit+union+AI&limit=25&sort=latest"
-    },
     "Reddit r/MachineLearning": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/MachineLearning/new.json?limit=50"
+      "ok": true,
+      "count": 0
     },
     "Reddit r/singularity": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/singularity/new.json?limit=50"
+      "ok": true,
+      "count": 0
     },
     "Reddit r/fintech": {
       "ok": false,
-      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/fintech/new.json?limit=50"
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
     },
     "Reddit r/CreditUnions": {
-      "ok": false,
-      "error": "HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/r/CreditUnions/new.json?limit=50"
+      "ok": true,
+      "count": 0
     },
     "RSS: TechCrunch AI": {
       "ok": true,
@@ -204,7 +152,7 @@
     },
     "Google News: \"Glia\" launches": {
       "ok": true,
-      "count": 8
+      "count": 7
     },
     "Google News: \"Glia\" hiring": {
       "ok": true,
@@ -228,7 +176,7 @@
     },
     "Google News: \"Active.Ai\" partnership": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "Google News: \"Omilia\" funding": {
       "ok": true,
@@ -284,11 +232,11 @@
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 5
+      "count": 7
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "Google News: credit union AI": {
       "ok": true,
