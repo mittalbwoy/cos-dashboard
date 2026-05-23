@@ -5,10 +5,13 @@ Daily fetcher for the chief-of-staff dashboard.
 Pulls items from:
   - Hacker News (Algolia search API) — one search per competitor + AI keyword
   - Reddit via pullpush.io archive (Reddit's own API blocks GitHub Actions IPs)
-  - Bluesky authenticated searchPosts (skipped if BSKY_* env vars missing)
   - RSS feeds — TechCrunch AI, Finextra, American Banker, Product Hunt AI
   - Regulatory RSS — CFPB, Federal Reserve, OCC, FDIC, NCUA, Treasury
   - Google News RSS — per-competitor queries for funding / launches / hiring
+
+Bluesky was removed: low signal-to-noise on the competitor side and
+the broader AI-keyword searches duplicate what HN + Google News already
+return.
 
 Writes:
   docs/data/feed.json   { generated_at, items: [...] }
@@ -30,7 +33,6 @@ import hashlib
 import html
 import json
 import logging
-import os
 import re
 import time
 from pathlib import Path
@@ -88,13 +90,6 @@ AI_KEYWORDS = [
 ]
 
 REDDIT_SUBS = ["MachineLearning", "singularity", "fintech", "CreditUnions"]
-
-BLUESKY_TERMS = (
-    # Competitor names — Bluesky search is broad; is_relevant() then drops
-    # anything that doesn't match a competitor regex or AI keyword.
-    *("Eltropy", "Kasisto", "Posh AI", "Glia", "Active.Ai", "Omilia", "Gridspace", "Born Digital"),
-    "conversational AI", "voice AI", "agentic AI", "banking AI",
-)
 
 RSS_FEEDS = [
     ("TechCrunch AI",     "https://techcrunch.com/category/artificial-intelligence/feed/"),
@@ -325,82 +320,6 @@ def fetch_reddit(sub: str) -> list[Item]:
     return out
 
 
-_bsky_auth = {"tried": False, "token": None}
-
-
-def _get_bsky_token() -> str | None:
-    """Log into Bluesky once per process. Returns None if creds are not
-    configured or auth failed — fetch_bluesky then no-ops."""
-    if _bsky_auth["tried"]:
-        return _bsky_auth["token"]
-    _bsky_auth["tried"] = True
-    handle = os.environ.get("BSKY_HANDLE")
-    password = os.environ.get("BSKY_APP_PASSWORD")
-    if not (handle and password):
-        log.info("Bluesky: BSKY_HANDLE/BSKY_APP_PASSWORD not set, skipping")
-        return None
-    try:
-        r = session.post(
-            "https://bsky.social/xrpc/com.atproto.server.createSession",
-            json={"identifier": handle, "password": password},
-            timeout=HTTP_TIMEOUT,
-        )
-        r.raise_for_status()
-        _bsky_auth["token"] = r.json().get("accessJwt")
-        log.info("Bluesky: authenticated as %s", handle)
-    except Exception as exc:
-        log.warning("Bluesky auth failed: %s", exc)
-        _bsky_auth["token"] = None
-    return _bsky_auth["token"]
-
-
-def fetch_bluesky(query: str) -> list[Item]:
-    token = _get_bsky_token()
-    if not token:
-        return []
-    r = session.get(
-        "https://bsky.social/xrpc/app.bsky.feed.searchPosts",
-        params={"q": query, "limit": 25, "sort": "latest"},
-        headers={"Authorization": f"Bearer {token}"},
-        timeout=HTTP_TIMEOUT,
-    )
-    r.raise_for_status()
-    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=ITEM_MAX_AGE_DAYS)
-    out: list[Item] = []
-    for p in r.json().get("posts", []):
-        record = p.get("record", {})
-        text = (record.get("text") or "").strip()
-        date_iso = to_iso_utc(record.get("createdAt"))
-        if not (text and date_iso):
-            continue
-        if dt.datetime.fromisoformat(date_iso) < cutoff:
-            continue
-        if not is_relevant(text):
-            continue
-        handle = p.get("author", {}).get("handle", "")
-        uri = p.get("uri", "")
-        rkey = uri.rsplit("/", 1)[-1] if uri else ""
-        link = (
-            f"https://bsky.app/profile/{handle}/post/{rkey}"
-            if (handle and rkey)
-            else (f"https://bsky.app/profile/{handle}" if handle else "")
-        )
-        if not link:
-            continue
-        title = (text[:140] + "…") if len(text) > 140 else text
-        item = build_item(
-            source="Bluesky",
-            title=title,
-            url=link,
-            date=date_iso,
-            snippet=text,
-        )
-        if item:
-            out.append(item)
-    polite_sleep()
-    return out
-
-
 def fetch_regulatory_rss(name: str, url: str) -> list[Item]:
     """Wrap fetch_rss but force category='regulatory'. Bank regulators
     publish dense, on-topic press releases — no relevance filter applied;
@@ -507,10 +426,6 @@ def main():
 
     for kw in AI_KEYWORDS:
         items += safe(f"HN search: {kw}",         fetch_hn,       status, kw)
-
-    if _get_bsky_token():
-        for term in BLUESKY_TERMS:
-            items += safe(f"Bluesky search: {term}", fetch_bluesky, status, term)
 
     for sub in REDDIT_SUBS:
         items += safe(f"Reddit r/{sub}",          fetch_reddit,   status, sub)
