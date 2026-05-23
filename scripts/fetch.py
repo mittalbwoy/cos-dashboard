@@ -95,6 +95,17 @@ RSS_FEEDS = [
     ("Product Hunt — AI", "https://www.producthunt.com/feed?category=artificial-intelligence"),
 ]
 
+# Banking / financial regulators — official press feeds. The script gracefully
+# skips any URL that 404s, so changes upstream won't kill the run.
+REGULATORY_FEEDS = [
+    ("CFPB",             "https://www.consumerfinance.gov/about-us/newsroom/feed/"),
+    ("Federal Reserve",  "https://www.federalreserve.gov/feeds/press_all.xml"),
+    ("OCC",              "https://www.occ.treas.gov/news-issuances/news-releases/index-news-releases-rss.xml"),
+    ("NCUA",             "https://ncua.gov/news/rss/all.xml"),
+    ("FDIC",             "https://www.fdic.gov/news/press-releases/feed.xml"),
+    ("Treasury",         "https://home.treasury.gov/rss/press-releases"),
+]
+
 GOOGLE_NEWS_COMPETITOR_SUFFIXES = ("funding", "launches", "hiring", "partnership")
 GOOGLE_NEWS_AI_QUERIES = (
     "conversational AI banking",
@@ -151,7 +162,11 @@ def tag_competitors(text: str) -> list[str]:
     return [name for name, pat in COMPETITOR_PATTERNS.items() if re.search(pat, text, flags=re.IGNORECASE)]
 
 
-def categorize(competitors: list[str]) -> str:
+def categorize(competitors: list[str], current: str | None = None) -> str:
+    # Regulatory is sticky — set explicitly by fetch_regulatory_rss and must
+    # survive dedup merges even if the item happens to mention a competitor.
+    if current == "regulatory":
+        return "regulatory"
     return "competitor" if competitors else "ai-news"
 
 
@@ -299,6 +314,16 @@ def fetch_reddit(sub: str) -> list[Item]:
     return out
 
 
+def fetch_regulatory_rss(name: str, url: str) -> list[Item]:
+    """Wrap fetch_rss but force category='regulatory'. Bank regulators
+    publish dense, on-topic press releases — no relevance filter applied;
+    show everything they post."""
+    items = fetch_rss(name, url)
+    for it in items:
+        it.category = "regulatory"
+    return items
+
+
 def fetch_rss(name: str, url: str) -> list[Item]:
     parsed = feedparser.parse(url, agent=USER_AGENT)
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=ITEM_MAX_AGE_DAYS)
@@ -371,7 +396,7 @@ def dedup(items: list[Item]) -> list[Item]:
             keep = it
         merged = sorted(set(prev.competitors) | set(it.competitors))
         keep.competitors = merged
-        keep.category = categorize(merged)
+        keep.category = categorize(merged, keep.category)
         seen[it.id] = keep
     return sorted(seen.values(), key=lambda i: i.date, reverse=True)
 
@@ -391,6 +416,9 @@ def main():
 
     for name, url in RSS_FEEDS:
         items += safe(f"RSS: {name}",             fetch_rss,      status, name, url)
+
+    for name, url in REGULATORY_FEEDS:
+        items += safe(f"Regulatory: {name}",      fetch_regulatory_rss, status, name, url)
 
     for comp in COMPETITORS:
         for suffix in GOOGLE_NEWS_COMPETITOR_SUFFIXES:
@@ -412,6 +440,7 @@ def main():
         "item_count": len(deduped),
         "competitor_count": sum(1 for i in deduped if i.category == "competitor"),
         "ai_news_count":    sum(1 for i in deduped if i.category == "ai-news"),
+        "regulatory_count": sum(1 for i in deduped if i.category == "regulatory"),
         "competitors": COMPETITORS,
         "sources": status,
     }

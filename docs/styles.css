@@ -160,6 +160,16 @@ select {
   color: var(--accent);
   border-color: transparent;
 }
+.brief-tab {
+  margin-left: auto;
+  color: var(--accent);
+}
+.brief-tab .brief-icon {
+  font-size: 12px;
+  line-height: 1;
+}
+.brief-tab:hover { color: var(--accent-hover); }
+.brief-tab.is-active { color: var(--accent); }
 
 /* ---------- filters ---------- */
 .filters {
@@ -259,12 +269,42 @@ select {
 }
 
 .item {
+  position: relative;
   border: 1px solid var(--border);
   border-radius: 10px;
   padding: 16px 18px;
   background: var(--bg-elevated);
   transition: border-color 0.15s, background 0.15s, transform 0.15s;
 }
+.item.is-pinned {
+  border-color: var(--tag-border);
+  box-shadow: inset 3px 0 0 var(--accent);
+}
+
+.star-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  color: var(--text-faint);
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 0.12s, background 0.12s, border-color 0.12s;
+}
+.star-btn:hover { color: var(--accent); background: var(--accent-soft); border-color: transparent; }
+.star-btn:focus { box-shadow: 0 0 0 3px var(--accent-soft); }
+.star-btn.is-on { color: var(--accent); }
+
+.item-title { padding-right: 36px; }
 .item:hover {
   border-color: var(--border-strong);
   background: var(--bg-elevated-hover);
@@ -390,6 +430,47 @@ select {
 .copy-id:hover { color: var(--accent); border-color: var(--accent); }
 .copy-id.copied { color: var(--accent); border-color: var(--accent); }
 
+/* ---------- brief toolbar ---------- */
+.brief-toolbar {
+  max-width: var(--maxw);
+  margin: 8px auto 0;
+  padding: 14px var(--pad-x);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.brief-toolbar-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.brief-toolbar-meta {
+  font-size: 12px;
+  color: var(--text-muted);
+  font-family: var(--mono);
+}
+.brief-toolbar-actions {
+  margin-left: auto;
+  display: flex;
+  gap: 8px;
+}
+.brief-toolbar-actions button {
+  font-size: 12px;
+  padding: 5px 11px;
+}
+.brief-toolbar-actions .brief-danger {
+  color: var(--warn);
+  border-color: rgba(184, 84, 30, 0.25);
+}
+.brief-toolbar-actions .brief-danger:hover {
+  background: rgba(184, 84, 30, 0.06);
+  border-color: var(--warn);
+}
+
 /* ---------- footer ---------- */
 .footer {
   max-width: var(--maxw);
@@ -416,4 +497,26 @@ select {
 
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
+}
+
+/* ---------- print (for CEO Brief) ---------- */
+@media print {
+  body { background: #ffffff; }
+  .masthead, .tabs, .filters, .footer,
+  .brief-toolbar-actions, .star-btn, .add-note, .copy-id { display: none !important; }
+  .brief-toolbar { border: none; padding: 0 0 12px; }
+  .items { padding: 0; max-width: none; }
+  .item {
+    page-break-inside: avoid;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 12px 0;
+    background: transparent;
+  }
+  .item:hover { background: transparent; }
+  .note { background: transparent; padding-left: 10px; }
+  a { color: #000; text-decoration: none; }
+  a[href]::after { content: " (" attr(href) ")"; font-size: 10px; color: #666; }
 }

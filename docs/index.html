@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=2">
+  <link rel="stylesheet" href="styles.css?v=3">
 </head>
 <body>
   <header class="masthead">
@@ -33,6 +33,15 @@
       AI News
       <span class="count" id="count-ai-news">0</span>
     </button>
+    <button class="tab" data-tab="regulatory" role="tab" aria-selected="false">
+      Regulatory
+      <span class="count" id="count-regulatory">0</span>
+    </button>
+    <button class="tab brief-tab" data-tab="brief" role="tab" aria-selected="false" title="Items you've starred">
+      <span class="brief-icon" aria-hidden="true">&#9733;</span>
+      CEO Brief
+      <span class="count" id="count-brief">0</span>
+    </button>
   </nav>
 
   <section class="filters" aria-label="Filters">
@@ -51,6 +60,16 @@
     </div>
   </section>
 
+  <section class="brief-toolbar" id="brief-toolbar" hidden>
+    <span class="brief-toolbar-label">CEO Brief</span>
+    <span class="brief-toolbar-meta" id="brief-meta">&mdash;</span>
+    <div class="brief-toolbar-actions">
+      <button type="button" id="brief-share" title="Copy a shareable link to this exact brief">Share link</button>
+      <button type="button" id="brief-print">Print</button>
+      <button type="button" id="brief-clear" class="brief-danger" title="Remove all starred items">Clear all</button>
+    </div>
+  </section>
+
   <main id="items" class="items" aria-live="polite">
     <div class="empty">Loading&hellip;</div>
   </main>
@@ -60,6 +79,6 @@
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
-  <script src="app.js?v=2"></script>
+  <script src="app.js?v=3"></script>
 </body>
 </html>
