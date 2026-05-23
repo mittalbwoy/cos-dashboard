@@ -323,12 +323,15 @@ def fetch_rss(name: str, url: str) -> list[Item]:
 
 
 def fetch_google_news(query: str, force_competitor: str | None = None) -> list[Item]:
-    """Run a Google News RSS search. If force_competitor is set, every item
-    returned is tagged with that competitor — used when the query itself is an
-    exact-quoted competitor name, so the search results are by construction
-    on-topic even when the headline doesn't repeat the name verbatim."""
+    """Run a Google News RSS search. The displayed source label is collapsed
+    to just "Google News" (we run ~30 queries; the user shouldn't see each
+    one as a separate source in the dropdown). The per-query detail still
+    lives in meta.json's sources status for monitoring.
+
+    If force_competitor is set, every item returned is tagged with that
+    competitor — used when the query is an exact-quoted competitor name."""
     url = f"https://news.google.com/rss/search?q={quote_plus(query)}&hl=en-US&gl=US&ceid=US:en"
-    items = fetch_rss(f"Google News: {query}", url)
+    items = fetch_rss("Google News", url)
     if force_competitor:
         for it in items:
             if force_competitor not in it.competitors:
