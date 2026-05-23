@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Intelligence — Competitor & AI</title>
+  <meta name="color-scheme" content="dark light">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="brand">
+        <h1>Intelligence</h1>
+        <p class="tagline">Competitor activity &middot; Conversational, voice &amp; agentic AI in banking</p>
+      </div>
+      <div class="generated">
+        <span class="generated-label">last refresh</span>
+        <span id="generated-at" class="generated-time">&mdash;</span>
+      </div>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button class="tab is-active" data-tab="competitor" role="tab" aria-selected="true">
+      Competitor Intel
+      <span class="count" id="count-competitor">0</span>
+    </button>
+    <button class="tab" data-tab="ai-news" role="tab" aria-selected="false">
+      AI News
+      <span class="count" id="count-ai-news">0</span>
+    </button>
+  </nav>
+
+  <section class="filters" aria-label="Filters">
+    <input type="search" id="search" placeholder="Search title or excerpt&hellip;" autocomplete="off" spellcheck="false">
+    <div class="filter-group" id="competitor-filters" aria-label="Competitor filter"></div>
+    <select id="source-filter" aria-label="Source filter">
+      <option value="">All sources</option>
+    </select>
+    <button id="clear-filters" type="button">Clear</button>
+  </section>
+
+  <main id="items" class="items" aria-live="polite">
+    <div class="empty">Loading&hellip;</div>
+  </main>
+
+  <footer class="footer">
+    <span id="status-summary">&mdash;</span>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
