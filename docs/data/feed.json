@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T18:03:15.773470+00:00",
+  "generated_at": "2026-05-23T18:13:08.068217+00:00",
   "items": [
     {
       "id": "d8236df31002",
@@ -88,6 +88,26 @@
       "source": "Finextra",
       "date": "2026-05-28T15:00:00+00:00",
       "snippet": "Exploring the expectations and realities of AI in payments testing.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "537497baa7de",
+      "title": "Handling multiple languages in voice AI usually means complexity. This feature makes it a configuration choice. Here’s what’s under the hoo…",
+      "url": "https://bsky.app/profile/voiceinfra.bsky.social/post/3mmk26iwvms2e",
+      "source": "Bluesky",
+      "date": "2026-05-23T18:08:39.399000+00:00",
+      "snippet": "Handling multiple languages in voice AI usually means complexity. This feature makes it a configuration choice. Here’s what’s under the hood ↓",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "1a8a758163a8",
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "source": "Hacker News",
+      "date": "2026-05-23T18:02:42+00:00",
+      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -872,16 +892,6 @@
       "category": "ai-news"
     },
     {
-      "id": "275f05cef73b",
-      "title": "Are we overthinking post-quantum cryptography? (2025)",
-      "url": "https://neilmadden.blog/2025/06/20/are-we-overthinking-post-quantum-cryptography/",
-      "source": "Hacker News",
-      "date": "2026-05-22T23:13:05+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "ea533f7d9c28",
       "title": "AI is being used to resurrect the voices of dead pilots",
       "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -928,6 +938,16 @@
       "source": "Federal Reserve",
       "date": "2026-05-22T20:15:00+00:00",
       "snippet": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
+      "id": "6f16338d9ff5",
+      "title": "U.S. Sanctions Reach Deep into Lebanese State - الحرة",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKY280WUNDczVqd01KSGJQNkJGX2RLdWxReXdVNDB2bzYwcXRHTlB6SmF6WUVpMV9jZWE0b19YSmFxZw?oc=5",
+      "source": "Treasury",
+      "date": "2026-05-22T20:11:04+00:00",
+      "snippet": "U.S. Sanctions Reach Deep into Lebanese State الحرة",
       "competitors": [],
       "category": "regulatory"
     },
@@ -1582,18 +1602,6 @@
       "category": "ai-news"
     },
     {
-      "id": "d66f60d074e9",
-      "title": "CapCut Partners with Google’s Gemini for In-App Video Editing - Lapaas Voice",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ocEt4d0JTX0Ita3J5VmtkdS1JQmRtQTJ2U0VQdV9qWnlQdVZISmZnaUhBTFdKNC1rM21zVUk4dzFiZDlIQXc?oc=5",
-      "source": "Google News",
-      "date": "2026-05-22T06:17:33+00:00",
-      "snippet": "CapCut Partners with Google’s Gemini for In-App Video Editing Lapaas Voice",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "7712ba4cfac0",
       "title": "DecisionBox for Databricks",
       "url": "https://www.producthunt.com/products/decisionbox",
@@ -1652,30 +1660,6 @@
       "snippet": "Turn customer interviews into your product roadmap Discussion | Link",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "b28d20ab17d3",
-      "title": "Posh Launch Exclusive Peterborough United Memorabilia Auction Site - Peterborough United",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRmk5eV9ZZzd2YVVmMUJVS3VSc2N6Q2JUS3ptd0tLX05lVnRFNGlvWmp6d0lvX2txUGdxMGdKbTZjSmJCSmgyUGtMX2dLMGhEUlk2Z3ZnbXJjcGhpeVVqelpNS0xTeEtKMVpqR3RtZEl4ME51TmdicXdmSFpnX05wUmFEbC1WS21QQkw4NWo3dkp1ZkhOSTladDhvZw?oc=5",
-      "source": "Google News",
-      "date": "2026-05-22T02:23:01+00:00",
-      "snippet": "Posh Launch Exclusive Peterborough United Memorabilia Auction Site Peterborough United",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "49bf09a801eb",
-      "title": "LinkedIn's AI Memory Platform - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50VHVVS2dtRE5EQmFoSWJiNUZBV0ZkMWlWNElLYVpoZTlNWGF0d093cnMxdEJUVVQ0OUZDaElOZFZEVlQxWllJR25CbURBeGtJWWVVckhxd1NMbjhpQ3c0MUp3YWpIMUhIcjZLYXNGMDFZZFI2b0JSZjVJY01rZw?oc=5",
-      "source": "Google News",
-      "date": "2026-05-22T01:01:02+00:00",
-      "snippet": "LinkedIn's AI Memory Platform StartupHub.ai",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "0a97ca7090a4",
@@ -1898,18 +1882,6 @@
       "category": "ai-news"
     },
     {
-      "id": "b953fd888570",
-      "title": "Caribbean POSH announces 2026 ICON woman awards honorees - St Vincent Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDh3ZU44UlByWG8xek5aeV9sbEN3M3hON2VmWkZKTkJiNlFucUNudElXYzJkcWhCVy1CNDJHRVp3Y2FYTGVzZnE1LVFHR1hWV05VWDdDd18zMTQwQTQ4NjVFME94bkJ3X0ZMWDdDT05ZVUI3VVY1OUd2bEhTNzZRaGRiaUJ2MEZhcmRyMThrb1NyUQ?oc=5",
-      "source": "Google News",
-      "date": "2026-05-21T16:40:56+00:00",
-      "snippet": "Caribbean POSH announces 2026 ICON woman awards honorees St Vincent Times",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "4b088d30ded8",
       "title": "Show HN: Personal business communication coach for Technical Leaders",
       "url": "https://clarityhoop.com/",
@@ -1918,18 +1890,6 @@
       "snippet": "Hi all, During the early years of my career I had to present the software products I built to clients and it was a daunting task to prepare well for these moments. Over the 20 years of my career I honed skills on presenting well so that it resonates. I felt that something I can practice for just a few minutes on impro…",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "0488073fdd5e",
-      "title": "Peterborough United have launched a live auction of club memorabilia - Peterborough Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdmVNWW52SFBQTUtqTklzQzdPaUZfZ0JhcGZBR3dFSm54WktMSW5CdUM3WUJrZnRKSklYR3ZnaHJ2R0JyMnE3ZTl4bEJPbWNObFRLeVl0eExIWXZNVS1PdUM2Qk81V2JkR2pweFdHb3pwTmthV3pqLWQtVW01cFVJQUJLU1VsZHBUZ3Zhcm44eU16UF9FOEtDdVVqMFNNMV9zRlFITjhFZnpvTzZ0OGJEaWhNd1ZXbkNyTmdmS0ZNTlYxQjJzb2dTaXppQmRRMVpxTGowZ3BJQUIxa3FDYVptcg?oc=5",
-      "source": "Google News",
-      "date": "2026-05-21T16:35:00+00:00",
-      "snippet": "Peterborough United have launched a live auction of club memorabilia Peterborough Telegraph",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
     },
     {
       "id": "5c55b7ad58e2",
@@ -2030,16 +1990,6 @@
       "source": "TechCrunch AI",
       "date": "2026-05-21T14:00:00+00:00",
       "snippet": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "5cecf9b5e243",
-      "title": "The stock market returns 4 %",
-      "url": "https://entropicthoughts.com/stock-market-returns-4-percent",
-      "source": "Hacker News",
-      "date": "2026-05-21T13:58:54+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2346,9 +2296,9 @@
       "category": "ai-news"
     },
     {
-      "id": "fd10fce638f3",
+      "id": "b6e5852e5666",
       "title": "The U.S. Treasury Department lifts sanctions against Francesca Albanese. - Agenzia Nova",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdFE2SXNwYlRfLWk5QlFyUHE3RlRmZHZMcGs3UHZHOWU0WWhhbVZwbGpqdV90VU1HVTFsZDJWaFN1czc1cVNjMGRjZldMM001Y0VWX1JaX3g3RDhReC0yMUNwMDJVM3R5V2xuMTZGc0VBd1Y1clFYa25tcVUtVGxIUWJsamEyOXdoemJuVS13RTA2c1hiU3BJYjBtMzZuRlhrOUpBVEJCbFdrcmprd2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHpFamtESnRHR2pqd3BMQjZVeXB2T1Z4dmV0STNzc2wyendpRzc5TERWRlZsU1FZdk4yUFJjWFBrekJ2NXhTV2RXSDF3Q1lKa01nYVJXLVZ5NDJIaGJRU3R6c1hsNnh6R3M3TW9PTm1KazZCNGdEcFAtdnZEbWNuYzhKWE5fTkYzSU9DdzdzZkN6S216TGRaVTBtM1hueGROazd2cUpNNXJ6aHEyZ3kyRG1hc0hqR29R?oc=5",
       "source": "Treasury",
       "date": "2026-05-21T06:30:28+00:00",
       "snippet": "The U.S. Treasury Department lifts sanctions against Francesca Albanese. Agenzia Nova",
@@ -2364,18 +2314,6 @@
       "snippet": "Huawei Intelligent Finance Summit opens in Shanghai, unveils agentic banking AI strategies eciks.org",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "20d744def452",
-      "title": "What is a Forward Deployed Engineer: The AI Role OpenAI, Anthropic, and Google Are Hiring in 2026 - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV1dKbFloTUo1SUY2bktQR1lCRWNFWDR1emJaMFN0bEtTM0FaYzJOSDIwMTFiRjhLRE5QLXVhRnlqamRHYkpoSkw5MXVXalY5bm4xUnFwRS0xZXpJUmw5Q0lGTURxci1SY0VlMTZiYW9Yd05PcTdJZjRNYjU2dDhsekdXajIyMzdpSWxjanZMSzljZ0gzUkl1ME5nSGpKdVFNVXJXTGNOWlhJRXFMemZwM2JYTkFKNi04MzhNbDJCQk5QemJYN21oMXRCOE9WMkJh?oc=5",
-      "source": "Google News",
-      "date": "2026-05-21T04:58:31+00:00",
-      "snippet": "What is a Forward Deployed Engineer: The AI Role OpenAI, Anthropic, and Google Are Hiring in 2026 MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "9539f0b05733",
@@ -2520,16 +2458,6 @@
       "category": "ai-news"
     },
     {
-      "id": "bb69f4a63586",
-      "title": "US Treasury removes anti-Israel UN envoy Albanese from sanctions list - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yNGhfWlZlMldqQUNYU3NVdDJrWkhPRDVGMDVEN0JKR0VlSzA4MkxRTHdndk1aYWRiZVI3eGxLdkN1R1k4MWZmNk56ZUNCeU5GY1F0bm9WQXFocEE3UG90OUwzd1VTUdIBZkFVX3lxTE8yNGhfWlZlMldqQUNYU3NVdDJrWkhPRDVGMDVEN0JKR0VlSzA4MkxRTHdndk1aYWRiZVI3eGxLdkN1R1k4MWZmNk56ZUNCeU5GY1F0bm9WQXFocEE3UG90OUwzd1VTUQ?oc=5",
-      "source": "Treasury",
-      "date": "2026-05-20T22:35:00+00:00",
-      "snippet": "US Treasury removes anti-Israel UN envoy Albanese from sanctions list The Times of Israel",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
       "id": "79656576c43a",
       "title": "US removes UN Palestinian rights expert from sanctions list - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEZS1lcVB2Xy1KTksyNVgybWsxWUIwbmEyV1JHTnZsN19IMDBYUXhzS2ZWZnQ5OUpyZGtkaHhjdGNsa3lBdDhwcXhFM2l0NW8zelljVzZRa01GWk1GWjM0?oc=5",
@@ -2568,18 +2496,6 @@
       "snippet": "US Treasury removes anti-Israel UN envoy Albanese from sanctions list The Times of Israel",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "6ff4009e6c84",
-      "title": "Posh London dock 15 minutes from Ian McKellen's pub launches floating festival - MSN",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFpNeDRKblhlR1pvaHN0SUZ2SUc1cEtOVC1oRzNSRDFXd200YWNFWEY0M0o1bUFJczNxdGYxakVHN1RlZFh3TDhULUw4ZFVIdFZIMVUwODRjQ0Q2T0FDdmFWS0NJNFNKbWduTHBZZWVEcE5UWk5jNk9jQ2ctbDlKVlJ1c3drZk5kSGlzSHNaOV9SeEx2UWJqOER0cHgwS1FxVUdiVWUteVB5ajhBRF9KMnMyRHBkOU1RR0RocEwzcmVzLW1zQm1N?oc=5",
-      "source": "Google News",
-      "date": "2026-05-20T20:11:23+00:00",
-      "snippet": "Posh London dock 15 minutes from Ian McKellen's pub launches floating festival MSN",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
     },
     {
       "id": "bdce82aec8b8",
@@ -2782,30 +2698,6 @@
       "category": "ai-news"
     },
     {
-      "id": "52d30ab4acf6",
-      "title": "India's Artificial Intelligence Job Postings Skyrocket 6X Since 2019 - The Hans India",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRnpzeHUzN2RtWmJYMmtsYnpOdk9UaW1JRkh1Z3AwS2Zwdm5MMXIyLVpwQjRRbm42SGpCd3pJQ1JoVjFHOHE5QXJfUUNrcDhTTU85aVU1b0ljZXlJUC10Y055NkxYeEJLUTVlN0gyY3pKV3BTeFdBazN1SWdNbzlCM2lqT29LNUZsaU5OTEVMT1FOeVlOLWtVSUFYcVJmck83NlpfMTJmTWtYb1pWLWfSAbMBQVVfeXFMTmpacHBsbU8xUEN6SElXXzdudXhPM3ZTcWF1THFJcmdJUm1RQk4yVVpPQVZiQ2IxaUJGWFBabXM0aDV0MHd0aDNXY0JIT0ZQdUZObFV4bUQ4cnV0Uk9na3B5Vks1LXFQSXEwVTR4cG52LTQtakJlMjgwNFZuXzJCUUd6aE9DQnJrSXd6RUE2UFQwV0Y3ZjlwZkMzem50MWtKTFoxUlRFLWdzcmhzUVBROFRoQnM?oc=5",
-      "source": "Google News",
-      "date": "2026-05-20T08:20:40+00:00",
-      "snippet": "India's Artificial Intelligence Job Postings Skyrocket 6X Since 2019 The Hans India",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "9105f3c4693d",
-      "title": "Strategic support. Shared ambition. Bigger science. Proud to receive the @csic.es ASPIRA-MaX distinction under the DeepMaX initiative, suppo…",
-      "url": "https://bsky.app/profile/cncajal-csic.bsky.social/post/3mmbhgfbzjs26",
-      "source": "Bluesky",
-      "date": "2026-05-20T08:11:44.999000+00:00",
-      "snippet": "Strategic support. Shared ambition. Bigger science. Proud to receive the @csic.es ASPIRA-MaX distinction under the DeepMaX initiative, supporting the next phase of CNC neuroscience research across #circuits #glia #neurodegeneration #cancer #brainbody #omics and #organoids",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "7785774a26c9",
       "title": "The Download: Musk vs. Altman, smart glasses for warfare, and Google I/O",
       "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
@@ -2874,18 +2766,6 @@
       "snippet": "Hey HN, Two days ago, Anthropic bought Stainless and then immediately killed it. Stainless offered the ability to take an OpenAPI spec and automatically turn it into SDKs in almost any language, plus an MCP server. My company makes legal AI models that we serve through an API. All our SDKs we're generated by Stainless…",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "42a4c1751bbc",
-      "title": "Ivy League invests $30M to future-proof grads in AI job market - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVUtxbVQ1NGNOVVktSjdmMWRCNkItTDFtemNGUm5kM0lUQUd3d25oZmxGUFNVTmc5cXNxRWgtaFE3d0VmeUhfNTdXSkFHbEk3U1F0TUF2anN0dTRKTDhoMkNwSFlfRnFIektEa1hCbWxWTVBaemtreG54TmNFNEFCR2tyWFk4QmpTWlZMbXFmQ3UzM0hFR2pEakNoektuUUJkWDlnYnhtcC1Qdm1QZlcydzlzSTJLNWxmQWtfQTlWY3c1akhqOS1KN3RvcktZMmNXRkk2QXhVTDgtOEdpdGZOOHhWdXhlZw?oc=5",
-      "source": "Google News",
-      "date": "2026-05-20T02:05:02+00:00",
-      "snippet": "Ivy League invests $30M to future-proof grads in AI job market MSN",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "53ec40607cfa",
@@ -3140,10 +3020,8 @@
       "source": "Product Hunt — AI",
       "date": "2026-05-19T14:12:55+00:00",
       "snippet": "Local-first AI memory bridge between browser chats and IDEs Discussion | Link",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "ff93b164d071",
@@ -3164,18 +3042,6 @@
       "snippet": "Multiple screenshots - Single paste - Auto compressed for AI Discussion | Link",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "5f3ac090bc05",
-      "title": "Government launches ‘mansion tax’ consultation as posh properties set to become piggy banks - IFA Magazine",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGs4QjVNdlhjM2ctTG9hQktjdWhad1BDXzJvSFdydjAxUlgwQzVCb1o2UDRqb1BSSl9xM3ZHWnFQamZBeDNmWE9SbkdOdVMzQ2dVQWZZS2wyZFVlOENKNGI1T1l4b2w4M0RoOG5qYnV5NUJRU2J1dkN0dkpMMWR3dENqOVd5U1cxVXNVY21ZOHNYNFdFQ3RqdldpU3lWZ19YdXFjZTdLZVFjR1d1RWFIYzZxYjE?oc=5",
-      "source": "Google News",
-      "date": "2026-05-19T13:07:15+00:00",
-      "snippet": "Government launches ‘mansion tax’ consultation as posh properties set to become piggy banks IFA Magazine",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
     },
     {
       "id": "064f190fa39a",
@@ -3216,18 +3082,6 @@
       "snippet": "'Even a CEO's job can be replaced by AI': DBS CEO Tan Su Shan bets big on agentic AI The Business Times",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "c7fe34e4752c",
-      "title": "UK AI companies secure £8.3bn funding as global investors pile in - Computing UK",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeTluUTA3R255Nkl6a0lyaE5ONDhOQ0pzS3NySzJXbHVNTUdCRTczak82SEFoTGlJYkljbnY1S1RFUHNSd25lZGJaT2l5cUg5STNQRHV6bHRsWHI5NS0tNnk2VjNHMkZBNVlxQTRKNmV0U0ZmTnQxWUVyem4tNmJHdlU3ekVHMWllaWFERkNLU3p4Y0EtcWpvYjlHRUY1RENrQkNtMVZLMXU?oc=5",
-      "source": "Google News",
-      "date": "2026-05-19T05:53:27+00:00",
-      "snippet": "UK AI companies secure £8.3bn funding as global investors pile in Computing UK",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "450b8604e899",
@@ -3290,16 +3144,6 @@
       "category": "ai-news"
     },
     {
-      "id": "34b952ecaf2a",
-      "title": "Sources: The U.S. Treasury Department will once again extend the sanctions exemption for Russian seaborne crude oil. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQy1adV9WZ2EtVjRZTzdLT3pRTndpYzI3YklIMDc2X1VBMklycmVnVlRKaGdWZXN3Ykc4c1N1SU9oNXRBNEFZYUUzYzJwTzNQTEpIRjdELTVfSmprMHBodV9mWWhYVU1MRVFJSmFpd0Z5RDVJTmY4Ykk2MHphLXRJSFFHcTl0aVhQbTZIZ3dYckZxZ1l2U1ozWWFGNW5SX0laa3FpdA?oc=5",
-      "source": "Treasury",
-      "date": "2026-05-19T02:19:33+00:00",
-      "snippet": "Sources: The U.S. Treasury Department will once again extend the sanctions exemption for Russian seaborne crude oil. 富途牛牛",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
       "id": "72fe08e6870c",
       "title": "Google, Blackstone plan AI cloud venture with $5B backing, WSJ reports",
       "url": "https://www.reuters.com/business/google-blackstone-create-new-ai-cloud-company-wsj-reports-2026-05-19/",
@@ -3346,6 +3190,16 @@
       "source": "Treasury",
       "date": "2026-05-18T18:01:02+00:00",
       "snippet": "US Extends Russian Oil Waiver As Bessent Urges Tougher Iran Sanctions Radio Free Europe/Radio Liberty",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
+      "id": "3951c3b5d397",
+      "title": "NCUA Proposes Stablecoin Issuer Rules for Credit Unions - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNalhyNzVMZUVRNWlKakhJemJBbWQtUUZSd2otZXVwSFdJNWY5aGdQaVAwUXJHUnUzUmdwalJvT0V2OC1ZVUpyMjREd2kxSlI0QWhSUGxOcW9pcFVFQzlPbDF2TkJqQ2M1R096cmJDaFJ2Y29pMG56Q2lkejBXZHhEdlVLOWRKTGhlWXFfbFJyTHFyeTZOM0ZpcA?oc=5",
+      "source": "NCUA",
+      "date": "2026-05-18T17:36:32+00:00",
+      "snippet": "NCUA Proposes Stablecoin Issuer Rules for Credit Unions CryptoRank",
       "competitors": [],
       "category": "regulatory"
     },
@@ -3472,6 +3326,16 @@
       "category": "ai-news"
     },
     {
+      "id": "8dc4fb2a8ca8",
+      "title": "NCUA Proposes Stablecoin Issuer Rules for Credit Unions - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15WXZ1ZDI3WVlTYWd2LU1NVUQ0bGphWVlMZjd2RlNUMll6aWktOEJ1Wk1BWWNtTkEzVHFmVmUyeVVSMnY2Q2p4cW94dWo3WFdYMXRULVdHdmpRamdWTWhJNUJwZGxFMDRFalHSAWpBVV95cUxNeVl2dWQyN1lZU2Fndi1NTVVENGxqYVlZTGY3dkZTVDJZemlpLThCdVpNQVljbU5BM1RxZlZlMnlVUjJ2NkNqeHFveHVqN1hXWDF0VC1XR3ZqUWpnVk1oSTVCcGRsRTA0RWpR?oc=5",
+      "source": "NCUA",
+      "date": "2026-05-18T11:41:54+00:00",
+      "snippet": "NCUA Proposes Stablecoin Issuer Rules for Credit Unions Bitget",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "47a987c94832",
       "title": "The Rise of Agentic Banking—and the Silent Collapse It Could Trigger: By Alex Kreger - Finextra Research",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmhMRXhlUFhKSlMzbkNUYmIxZDUxWlU4d3RIWjBadnQwekdtOHVDNVpMd2Z3N183azhkOERHazQwcU8ycGpPc2pNWnU5X3laTXJINWViZGJfcVY1ZGhScHpzb0FtVTRDRFFCYXlRd2pmSjFWNTIwZFEzbEhxVGo1TFV6WXpwT1QyQTFoLVRyLTFrSmNmMFkwbUVrZkhISWk4ZnBKRlZFTk5XR29NRHRZ?oc=5",
@@ -3482,28 +3346,6 @@
       "category": "ai-news"
     },
     {
-      "id": "dff10aa4b44f",
-      "title": "Shyld AI Raises $13.4M in Seed Funding - FinSMEs",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE9IVllJMUxYR3hybHkyU2JPRmNYTGpBWmVaVm9XQnV3UzdLN0xkeXFVc0tlb1VBOTVOSDJLcjlfT21nQTNuR2tZQ011MVlSQXpvWTNqZ1FXMUY0ZHVmdjRYY0RoVVppU3VvdGRRNDZyMHRRWEJtN0cwa1Ntem8?oc=5",
-      "source": "Google News",
-      "date": "2026-05-18T08:06:26+00:00",
-      "snippet": "Shyld AI Raises $13.4M in Seed Funding FinSMEs",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "01b92fc0869d",
-      "title": "UAE sanctions Hezbollah-linked financial network, reflecting US designations - Foundation for Defense of Democracies",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2w3dHlBUTRqLVZZaFlMS0RkcmNINHZib0FxdjdGVVVzN1E4UGdqTGhvaVd2TmtLRWdBNzhqZ3YyM1FIclU2Vy1EbVlLTFEzOHFPX2U1THB0bVdCMnY4ME9DbGkyMzJmY1dFVEVIV1pxN2VkcUViNEwtMEdhdnJ1WThiYUM1T3dfWUVRNEVlUjdOQTYzVkwxSVpFT1V3YXRlQnFUb3ByUWZEaDNsTExXTnQycGNNNk0?oc=5",
-      "source": "Treasury",
-      "date": "2026-05-18T07:00:00+00:00",
-      "snippet": "UAE sanctions Hezbollah-linked financial network, reflecting US designations Foundation for Defense of Democracies",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
       "id": "58082baafd80",
       "title": "Our Stories",
       "url": "https://www.producthunt.com/products/our-stories",
@@ -3512,18 +3354,6 @@
       "snippet": "A storytelling tool for raising bilingual kids Discussion | Link",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "5f7376ee8fd0",
-      "title": "Pair hiring £50k a year nanny to get up in night to deal with son when he wakes - The Irish Sun",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQallEVjFOV2d6NWNnU3MzWXBXX1JINUtSNU42di1lTjVxUmt0SW40b3Itcm1JNVZaZVhacG1BNG14cDdBNmFRbU9NbHplc05walhDY1lPRWlsbUMwZ2QyWU1Cdl9DcVVWM2VIZnJoS002N0lDOXQ2Qjk4bWtMZEpsMHpUampaR2JlT1luUg?oc=5",
-      "source": "Google News",
-      "date": "2026-05-17T20:04:52+00:00",
-      "snippet": "Pair hiring £50k a year nanny to get up in night to deal with son when he wakes The Irish Sun",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
     },
     {
       "id": "43e3f6708af9",
@@ -3556,6 +3386,16 @@
       "category": "ai-news"
     },
     {
+      "id": "056996fa2337",
+      "title": "US, UK unveil widespread sanctions against Russia's energy sector - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOFUwZjhKdVB6TnRJNlhueUJvTXNTZzZmME5ncllsdWJmamRwNmQ2UTVaVURKSlFrVzNwQl83ZkdfNldOTGQxMU5FZG5RVHRTLV9tMDFEZXFSckhsMklwRTR3Z2JTUnlBVllkTmU0b2p6bDJNczB2TlZFZFNuVUNra2hTanpqR01ManBBaUFNZmlHck15cVE?oc=5",
+      "source": "Treasury",
+      "date": "2026-05-17T14:22:46+00:00",
+      "snippet": "US, UK unveil widespread sanctions against Russia's energy sector Courthouse News",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "7a0e1ba279df",
       "title": "Επίθεση του ΠΑΣΟΚ κατά του Άδωνι Γεωργιάδη μετά την ομιλία του στο συνέδριο της ΝΔ https://thepressproject.gr/epithesi-tou-pasok-kata-tou-ad…",
       "url": "https://bsky.app/profile/thepressproject.libretooth.gr.ap.brid.gy/post/3mm23zz32z662",
@@ -3568,16 +3408,24 @@
       "category": "competitor"
     },
     {
-      "id": "756975ea1c2c",
-      "title": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVk1yNGVVWmFhRWJfc01vQjB5cXJ3RWxSVHdNbFVJR1UybWQ3V0ZuUVI4RC1yZndmaXVMdW5GTzdwRklsb2FMbVFxbC1pano0STl2T3dKRTlBVkVqVU9XekJOVzk2TC15MklJaGFFZFhXbm9naWNUZFpXajBMU2trS0htcDlTaGRWZEI5dXd1SG9hU0g3ZFNra0hBbWJVRmtBbjRLQmNJZmZsRlRHdFRxOEs0VFJkRFEzdjh1R29oWDBNSFE5RkZVMjFXRjV0WXA4TF9BQVVSaHd6bUFpbXhUZXZqeHlsZmltTkNFLThZRWM3R0FY?oc=5",
-      "source": "Google News",
-      "date": "2026-05-17T08:11:49+00:00",
-      "snippet": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
+      "id": "5c88b527b68d",
+      "title": "NCUA Issues Proposed Rules on Payment Stablecoin Issuance Standards - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pWGhkejU1TUtnQnZjT1JvSVc2OFNrM3AtUTlvSHZzSUxWUmJtVXlaZS1nQWQ1YXVXOWpiX2QzRXNBZF9KbmgyeXp2RHNyZzFYVWEzQld1dHh4ekVkQmfSAWNBVV95cUxQM1hqaUpXSGFWUU5HcUxVVzVyLUNTR0RkczlHcThNWFM3cDJKZEFzdk1LT2tTS2hBWjZFYmdyZFA2c0tYajdBWGxyX3lsaUQ3ZFJBYTkyWTRjUkhxNDZrNlFzbHc?oc=5",
+      "source": "NCUA",
+      "date": "2026-05-17T09:42:09+00:00",
+      "snippet": "NCUA Issues Proposed Rules on Payment Stablecoin Issuance Standards Bitget",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
+      "id": "1c49bdb03f3b",
+      "title": "NCUA in the United States issues proposed rules for payment stablecoin issuance standards - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnbGEtYi1WT1VhVWtxa2ZIVVZZQ2lGaHAwT0N6SHBaZFdvX0lTcWVzQVBIVlF2WnJ0RDFGc1Z5LWJ4VVRvYllvbDlGVnZsSTljdnJTYmRDME9iMW5LVXfSAWNBVV95cUxNTFM4MnotODAxZDRYaFJzeDJ3MTZ1Sm1BLVhocTVWSy1hQmNxR183V1ZFNEs1b2hUOTU1MzZjZHJtVHBLeUF6SGZaUGVTQ001YUNtTEhxUHFSS3FZNEN0ZHU1VnM?oc=5",
+      "source": "NCUA",
+      "date": "2026-05-17T09:21:59+00:00",
+      "snippet": "NCUA in the United States issues proposed rules for payment stablecoin issuance standards Bitget",
+      "competitors": [],
+      "category": "regulatory"
     },
     {
       "id": "13741ae24f99",
@@ -3720,18 +3568,6 @@
       "category": "regulatory"
     },
     {
-      "id": "990a450e6d3f",
-      "title": "Glia - 2026 Funding Rounds & List of Investors - Tracxn",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3dyOXlYYzljR2VPWW1UNmVSYkp6LUNFN2NDVHlqcjN4RE44QTVrYmlzTHota3R6SXZSblpaNGIxbk10S1dVWkw5R3JnQ0dsWWJrME9hRWEtbW94elhwWms4aVEtb0VtR25VcWdza1hWOE1EWF9Xbm91Qlg0dkhneUE1NGJnTEZmLVpFaTYwR3h1QUM1elZmZUw2Z1czeWstQTBiTndn?oc=5",
-      "source": "Google News",
-      "date": "2026-05-15T14:34:40+00:00",
-      "snippet": "Glia - 2026 Funding Rounds & List of Investors Tracxn",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "f009bb5ad831",
       "title": "OSFI warns AI voice cloning is putting Canadian bank accounts at risk - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObE5OT0ZxYXd2NGhFWGVVU2lTWlJ3UkpTakdTa2IzdmJ3VTdDME9WaEhSSTlQaktRQU50a1VSemczSm9LWTUxTk5RWG5SLURiaWxBeTlvRU9BYmdmVFBaM2I0RWplWVpoUDhuZV8zYVk3SnlxUEpRSUk2S0NraU96N3ZR?oc=5",
@@ -3782,18 +3618,6 @@
       "category": "ai-news"
     },
     {
-      "id": "430435000442",
-      "title": "First Orion, Glia Partner to Strengthen Identity-First Banking Communications - The Fast Mode",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdXVvWEFlOFBXUk1kb1RWLUFtQVhlLUZ1MEZJVFpqdkFaSTdBTGh4VnNuOHU4VHdBU3dfVmhob25PVjRwNHkwNWI3ZHFjNDdmTjZrU1ZYd0Fvbi1JSmV5dFQ5UlpxYjBEUVhUY3YxY01tbnRlenF5MUdIYlo3ZWM2UC04SEZ0Y0xtMnBHRVpodEVjbDExbEFRVkNZS1hxU0JjSFVObkxRYVh2T052TG1kT2NxaUhnWWVoVUtiWElvUzFlV1VDUV8wUGQ1QQ?oc=5",
-      "source": "Google News",
-      "date": "2026-05-15T01:30:36+00:00",
-      "snippet": "First Orion, Glia Partner to Strengthen Identity-First Banking Communications The Fast Mode",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "eefd7e788df8",
       "title": "Press Release: FDIC Releases Public Sections of Informational Filings for Six Insured Depository Institutions",
       "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/417184a",
@@ -3812,18 +3636,6 @@
       "snippet": "",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "b4c3cd17c9b4",
-      "title": "Shyld AI Raises $13.4 Million to Bring “Active AI” Into Hospital Operations - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamVUWUlxYnNFYXFmdHExYndnWWpsUERXMmg5em95T3Bya0FwQW9rYTJsMDI1UGxia3kzTndVUS1jUmN0djBzMWl3VXVyZ09fR083TGg4OGRaNGVBNmtTdzJTaFRBQ09STTF2Z3RpSERJN3FyTF90V1RRbDkwT0NrSFU0NTVVMVdJNEYxOE56TTdJYVg4T1JFODVn?oc=5",
-      "source": "Google News",
-      "date": "2026-05-14T18:08:50+00:00",
-      "snippet": "Shyld AI Raises $13.4 Million to Bring “Active AI” Into Hospital Operations Unite.AI",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "3ee2507cfa56",
@@ -3854,30 +3666,6 @@
       "snippet": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "0370e2d55cdf",
-      "title": "First Orion and Glia Partner to Secure Branded Calls for Financial Institutions - citybuzz -",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXpfM05Qc3JaTkN5akVOUVNveGJLa0I1SUxaS0RxeEpfcjgyQnh1YnEtMTlMUjl0a0NZVmtUQUNOcVBwclltdXhJNnlpU2NSVTZROUFmZ3FpQWg1MThpTkNsVEszbFUtamM0cGJMTkh6cGZtSk9JNFNieTE1SkVYbjl5TUw4UkF2WHhtWUVYZGhvcUJpckFxZ2l1dTBUeWlvcHhVcUYySVJEQUhhWVh5VG55d0Y1UQ?oc=5",
-      "source": "Google News",
-      "date": "2026-05-14T16:28:16+00:00",
-      "snippet": "First Orion and Glia Partner to Secure Branded Calls for Financial Institutions citybuzz -",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "bca7fdb4a80c",
-      "title": "First Orion and Glia Launch Identity-First Partnership to Secure Branded Calls with Call Authentication and Spoof Protection - Telecom Reseller / Technology Reseller News",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUk9JZDdpOGMzcWpYeTBDYm9ES25iNnZLajVZQk15SW1oUnY5XzlwX3FKZ2l5Zi1nR0Z5dWZYdWRvbzJRM09JRXFpcW1fRUszNVBaY29MdHdWN0lyZUVucTJWckNCVGZrc0tSYUVQN3BOZXFsREVoRDB6cmJvSGxOdmpTQnN2ZXB1WU5BMm41N1V4RDZ1VVBJY0lxdHlOWUtjYmtJQk5MNE8xTDEzeHNjY25Qb0JrUTZFSlZYWXUtVHdEN3RfdmJMR0RzYnZlR0ZmM3gxeENtaDhadXFCSzNUV3hjRk14NmxGeFJiTXJSMndCS25EVVVv0gH8AUFVX3lxTE5rSmNLQzZJZ2RCeUJSNzZROXlqUzlhcU93S2FpaHJnb1MwX0ZoalVmVnY3VTRfMFZmY1lsQmxUNlk4Qzk4SmtSM2Q3cEw4NFJnaWl3M3RBT3JBR1pFOUlxWFQ1bzl0dGhpNzdMNzAtMHFBTExxZThBUnVvNmx1WWQ3b2F0b1hCVC14STFoWmdsbnB6OE91M3Q3Q05kb3lSWjVqdEVfRTVsdTRKdWF0YURwQnRRSnloNjF5OTlEdFV5T3l0NXY4dkxnRXZGM1F4RkZRRTg1aEJ3Zk9kd1F4UV9JdDFZZlg1NE9TNzM0WDU4T0xrTVhna2Z0Umk2RQ?oc=5",
-      "source": "Google News",
-      "date": "2026-05-14T15:59:46+00:00",
-      "snippet": "First Orion and Glia Launch Identity-First Partnership to Secure Branded Calls with Call Authentication and Spoof Protection Telecom Reseller / Technology Reseller News",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
     },
     {
       "id": "60377777821e",
@@ -3972,6 +3760,16 @@
       "category": "competitor"
     },
     {
+      "id": "a1811cc49d80",
+      "title": "High-Entropy Alloy",
+      "url": "https://en.wikipedia.org/wiki/High-entropy_alloy",
+      "source": "Hacker News",
+      "date": "2026-05-14T10:08:04+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "67a93a2bef83",
       "title": "Ομιλία του Δημήτρη Σκαρτσιλάκη για τη Μάχη της Κρήτης στο Ρέθυμνο στη Δημόσια Κεντρική Βιβλιοθήκη - Rethemnos Live rethemnos.gr/event/omil…",
       "url": "https://bsky.app/profile/rethemnos.bsky.social/post/3mlseatwjkc23",
@@ -3980,18 +3778,6 @@
       "snippet": "Ομιλία του Δημήτρη Σκαρτσιλάκη για τη Μάχη της Κρήτης στο Ρέθυμνο στη Δημόσια Κεντρική Βιβλιοθήκη - Rethemnos Live rethemnos.gr/event/omilia...",
       "competitors": [
         "Omilia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "e0b1d6f3f119",
-      "title": "Shyld AI Raises $13.4M to Expand Active AI Across U.S. Hospitals - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjhJbW8tdF9jdjVVUmVCdXQxVlpUR1MxbUNWOUxrcDV2d3V0bGJPNmNmNmRNOXpKV3BnSVR1VDA0NlNfQl9NUHZJN2p6MWJMZ1JvNnZ6OEM5SVp1djVsallRcVE5ZlQtWDdHT25RMHcyQTlYNDVRRFhZZzZ4VmNTNFIxZzFNMnFmUlJlY1dnTElvY1FVSEVDbmE4UW4yTHhMYXZjZzFPWk9HdC1VLUg1VUgyeUxSYk1SUmVGV0JlLVBlbGp2ZWpuMnNoMkVzUmc?oc=5",
-      "source": "Google News",
-      "date": "2026-05-14T07:00:00+00:00",
-      "snippet": "Shyld AI Raises $13.4M to Expand Active AI Across U.S. Hospitals GlobeNewswire",
-      "competitors": [
-        "Active.Ai"
       ],
       "category": "competitor"
     },
@@ -4182,18 +3968,6 @@
       "category": "competitor"
     },
     {
-      "id": "0d443954e76b",
-      "title": "Mira Murati's Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPaEtwd1hfTlUzUWVjTlBrOVFHSDJkdWNoWGpXR0M1NjRFcHpHeFotdWdXaXZ0azdEWEhnMVBkOXByd1lsWTl0ZjJIWDlmSUpaS0N4ZThOQy1nTUdWYk52SUYxa1dZbldNMUh3TVhKRldneDRBQVlXbjRsRVpCYUdpeXZVZGxKVmxueFgtbnBqNUpmMW11QzN0bkthREp5dXlybVk4by1EOE5SbjFicE9rRGdnMWU0Q2VRZlpVNi0yY3gzSmNuTVp3NkhxREdLRC0zTWViQ3UtaHVqWEU4N1pxNFhNUkRKbi1tZlBpNVpzUlJNeVB5OWNuOXlOZkZPdjd0akJNcFp3?oc=5",
-      "source": "Google News",
-      "date": "2026-05-13T07:00:00+00:00",
-      "snippet": "Mira Murati's Thinking Machines Lab Introduces Interaction Models: A Native Multimodal Architecture for Real-Time Human-AI Collaboration MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "e78b565413cc",
       "title": "Putting agentic AI to work in third party risk management - DB.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjF1NVVldGlCWDVhSjRHWENHOHhTU3g3aTBiaTVMREdrOHI2bXVPTnpRZnhWT2RkaDZQSjQ2RlU3VVhXV2U3TEp1RGFWeWVaZDVWYjQ4bkdySXl6WFN5U2FUTnFFcUFjUjFBNDR2M3hjSW9VcGRkM1JURDVFQ29mdDdoVFBlYXdReEtmZmRzSXVPMHdCdTFLVjZUdWZjTXZPNVZXZGt0WFZQdjRORFJsZQ?oc=5",
@@ -4326,16 +4100,6 @@
       "category": "competitor"
     },
     {
-      "id": "938fa0145ac4",
-      "title": "Regatta Starting Stations – Chi-Squared Continued",
-      "url": "https://entropicthoughts.com/regatta-starting-stations",
-      "source": "Hacker News",
-      "date": "2026-05-12T14:03:49+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "a1b6bd32a3dc",
       "title": "Speculative KV coding: ~4× losslessly compressed KV cache using a small model",
       "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
@@ -4408,18 +4172,6 @@
       "category": "competitor"
     },
     {
-      "id": "47e91921390f",
-      "title": "57% Firms Struggle to Hire AI Security Specialists as India’s Cybersecurity Talent Crisis Deepens: SANS-DSCI Study - Express Computer",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ091MVdlWl9ObVd3LVJLLW9KT2Ezb3V2NXVGUVdSN2hySlFQY1EzRGE5V2VkbHRMeWxOVXBMc3FVUkNwVkU1R1g5ZzgtVkg2R3JYbUc3Yl9UWEFyc01qSDNUTHlTVmhMMDVLbzFvZnRRcXU4Rl9rbHNTcEdOdEE4d2V3eUhfZTBSWTFRVjFyYUZNMllNeklRNEZKMmF4QW9pbkNUNjRzR3M5NkU1QV9fajVYVExHRnpfMkhFZjFoQmMxUXZVY1RMU1VYZWlZbHRIdDlycTlTSF9RTktyNkdnUkZ5TUx6eklUZm1J0gHwAUFVX3lxTE9ac0YtZWpiR09zZi1XYVJVbDdQS1dJUDdvcExfQzh2Y2duZkI2OG4zOVJDT1BWRHpGcmc2OXV5emgtLXgzZkhrOThLS21CMlBOMDFjSXZ1OTdRdGQxZlNWbHI2U0ROeVJfUHZmeDJIZ0hraEFJSlNQc3F4ejBaX2MzZTRCVWRkQnZsdGNRNjczTVh4c1d2VFg0ZXhBMElHR1RueW56d3hWRllnSGY5V0QyMmlRbDFmTHVReVFMd2g3ZUxqQW1aVTFWc1d2NDRlTDByUUpNUjZxejBzYnVOSU5nZ2wydEo0X1VoUmg2WU5hMw?oc=5",
-      "source": "Google News",
-      "date": "2026-05-12T05:09:45+00:00",
-      "snippet": "57% Firms Struggle to Hire AI Security Specialists as India’s Cybersecurity Talent Crisis Deepens: SANS-DSCI Study Express Computer",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "1506afaf069e",
       "title": "TestSprite 3.0",
       "url": "https://www.producthunt.com/products/testsprite",
@@ -4460,6 +4212,16 @@
       "category": "ai-news"
     },
     {
+      "id": "529c8f20a25e",
+      "title": "Trump Nominates Treasury Official John Crews to NCUA Board - Credit Union Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGlzMExQR1hLWTVOZmlNMWw5NUxrX2kweHBOVnhBNG5odzl1cUZuY1NhQzJ3VG0xejVxWEZJMGRFY3VsVzEzcUJVdEk2XzF6LXZuQ202SGlHeFNhd3FvZnAyRG1udUV0V25xUThxdGJrTVByYUZKQW5QckdBZnJ1YkxzeUx3LVFqTGRPcGhTZ1Nabl9sNFkwLVl30gGfAUFVX3lxTE0yVGt4M2JULS1mcWJ2SUllSVpUak1hREM3dU5ZcHdPQlZ1UTY3YlRaOWhSSWFVZ0UyMENwYndYYm52NkowN1JCQXRWa0pDdl80cXhBeG5LR3ZWT3RObjIySDVxMjFPTFBZdmhqNVhpdEFJVzJJNTg1TEVBRTFKNVlReFNCQ0NESkVFUWxSVktidV9EVGg4ZUx1eG9IZkY5OA?oc=5",
+      "source": "NCUA",
+      "date": "2026-05-11T19:49:14+00:00",
+      "snippet": "Trump Nominates Treasury Official John Crews to NCUA Board Credit Union Times",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "779a0c28fa56",
       "title": "Show HN: YC Interview Simulator (Voice of Garry Tan)",
       "url": "https://yc.speko.ai",
@@ -4468,18 +4230,6 @@
       "snippet": "Got into YC interview recently and built this to practice, it's been helpful. Sharing, so it can be used by others well. Good luck everyone!",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "9067f231b32c",
-      "title": "Cardiff go to Posh and Newport host Gills in FA Cup - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQWkV3S256SHZuckF3MERwVXJWR2thMWRfRVczUVlPVE9hYzFpSklEcHU2ZmdhR2o5ZzFETW8weXVtalRYNlp6R1dxeE00RFRqQVA5VG1xV3o0dzZQNTM1LVZVTVRIeWFjV044emhEMkVzSmp0NmVYS1c2VTN6Rk5feFFfY1B5Wk9hWGNvaEp4LVZ3aWRyWGhlUmF3ejBMVC1OTnFDQzFjb1pkdGtoNWI2Mjg1d2tReHBtWGUtVXlYYldDcDEzc0dtZl9QNFpCbHE4Q29MQ3FTUkdYYXNJVzdHdHp3U2NoblFNWGM4U3RVWXBjWFZ1UDVzQ0drTzN3TnFyZmN6ck5tMGpMZHlGY1pkVHJEeE55R2Q2VDlWY2JjVG53bkliWlp6UE1nSzV5eWlKLXdWQUtPTGkyYmxzcXJRdG9rTC1BRHVFQ3MydG1abXRBcGF0T2g5ZFpKT2NaUFViUzdnN3JyanYxUXUzYzFDeHYzMWFvSWF4UTM1NFJMVTBaZw?oc=5",
-      "source": "Google News",
-      "date": "2026-05-11T14:41:02+00:00",
-      "snippet": "Cardiff go to Posh and Newport host Gills in FA Cup MSN",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
     },
     {
       "id": "6e7b4fcd1373",
@@ -4512,16 +4262,6 @@
       "category": "ai-news"
     },
     {
-      "id": "529c8f20a25e",
-      "title": "Trump Nominates Treasury Official John Crews to NCUA Board - Credit Union Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGlzMExQR1hLWTVOZmlNMWw5NUxrX2kweHBOVnhBNG5odzl1cUZuY1NhQzJ3VG0xejVxWEZJMGRFY3VsVzEzcUJVdEk2XzF6LXZuQ202SGlHeFNhd3FvZnAyRG1udUV0V25xUThxdGJrTVByYUZKQW5QckdBZnJ1YkxzeUx3LVFqTGRPcGhTZ1Nabl9sNFkwLVl30gGfAUFVX3lxTE0yVGt4M2JULS1mcWJ2SUllSVpUak1hREM3dU5ZcHdPQlZ1UTY3YlRaOWhSSWFVZ0UyMENwYndYYm52NkowN1JCQXRWa0pDdl80cXhBeG5LR3ZWT3RObjIySDVxMjFPTFBZdmhqNVhpdEFJVzJJNTg1TEVBRTFKNVlReFNCQ0NESkVFUWxSVktidV9EVGg4ZUx1eG9IZkY5OA?oc=5",
-      "source": "NCUA",
-      "date": "2026-05-11T07:00:00+00:00",
-      "snippet": "Trump Nominates Treasury Official John Crews to NCUA Board Credit Union Times",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
       "id": "c4225bc88ea9",
       "title": "US issues alert to banks on IRGC efforts to evade sanctions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb3QtUVJiYmR1RjljSnkxYjZYc1BUTzVmQ3RhN3RydnItcy1VMFkwaHNiaExuNFZWV1F2dU8tSUk1RlM2WmYyWVkxQnJkQXl1VDd6bENfRzYtUk05MXdXWTR5Y3hDSHpodVdySFJpVEx0aHdSa3VvM05Nc2o1VEI4R3RMeXJ5T2t1cHJaWFlUbUtZdWlLUnFwUktJSi1NYXlGcVItZ0V1NjVPZw?oc=5",
@@ -4550,18 +4290,6 @@
       "snippet": "Dubious Delistings: Unexplained U.S. Sanctions Removals for the Corrupt and Well-Connected Just Security",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "ad7d63835ec1",
-      "title": "Indian Institute Of Management Indore Study Decodes The Success Formula For Digital Transformation - Free Press Journal",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRTVqa09UNWhva0FMODk5RVVKMGp5UGw1dmxsNmJXOGpXM2ZnSzdKdXVNYVFHVjBmZFdTWVlYNFpNNlZnVXFhTUZsVFdrMFFzMUg3RWxuclY2dl80MDNYZldDcUVOS1JZc3JwSHZIZ3RqRk42VzZIV2w4SC1veU1SSmtqdEhmV0JwaHRkUjF3M1V2eGFtcG0yQUJILUV2Z00xSzByR2hpT182NDRYeDZlZmNaRWZad1VSaldWcjFtSkVhNTR6MTl4cEhqNXdSa2VYX2I00gHYAUFVX3lxTE5WVFlaQWtZTEtkX1JpOEtXQ2hYM2dPRGI4Y2Q0TW5ZZ2FBVWVZWXQ4by13YUp1YUFjakFrUTV2S1YtRF8yZnlMemtIU1FmUl9IbDVzTXBnZS1Ua2EzRFBQV3dSdU8yRHFQWi1ockEyOWJsS1NEbm5mdjE0am55MG5idzRTOG5paDJ6R1dzWTllcGxoeHVvMkk3RF95S1dUY0dScVFvOVV0dHBwMExIUUFBMGxtcWhGMlVVbXlGbTg3NS02amdzeTRBN1RBQWFkSm94bTNnZXNqTQ?oc=5",
-      "source": "Google News",
-      "date": "2026-05-11T07:00:00+00:00",
-      "snippet": "Indian Institute Of Management Indore Study Decodes The Success Formula For Digital Transformation Free Press Journal",
-      "competitors": [
-        "Born Digital"
-      ],
-      "category": "competitor"
     },
     {
       "id": "3048ccb04389",
@@ -4664,26 +4392,14 @@
       "category": "ai-news"
     },
     {
-      "id": "426afb76b61e",
-      "title": "US’ new Iran-related sanctions include Chinese firms, individuals; China remains firm on safeguarding legitimate rights, interests: expert - Global Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsRTZUVy05enI2dWxXZWV0ME5XQjBJRFVQT0VibF9wblMxZ0NZS2xLSFQ2ZnJrbGZ0WHctQTRBdi1FbGRLN3NIYU45ZXhjaDM5WlZjbEF4Njd6LTE4SlprcTdn?oc=5",
+      "id": "61254589de0c",
+      "title": "US sanctions 10 individuals, companies for aiding Iran’s weapons, drone programs - Middle East Monitor",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOajhHMndobmtsMGhrdUZ5MjBBdzhra3JaUjlxVFFFWlFsbE1Qc1poRzNKd0RidUkxcjJnWTJsdFZRMXZEb1NLY0FOWUhDcl9GeWIteUZXbjczREFudnZJcThOa0x5M3Q0OUQyYUc1MGdvWkJEbHluTkprbUtDMFYyRVQ2dXVCcFpkZ09kTDB2ekNVQ2NfUjZMSzF1XzVsUGZOcXM0dXJmMXNzVzQxZ2VBVDNKSWNqNGRTZldlQWV30gHDAUFVX3lxTFBfUk9QLVExc0wxMXZ4enlVLTV1WDZlY244SkhVQ0g5NmdaTVF3eG11Ty1EVnJtOHZRRl83ektMRG9ZQXhabjlSbVZZTnd6UWxNZHQtM1gxaWZSbW1URlBGRWpFVXdvQUpmLVZac1dLc1JLQUFsYlI0QlMybWtfNnk3eE00aXdWVWFSRV9VOWt3QXR3UmZPZUhPcUFyamNWSmNsQjFXeTBLbFkxTmc4aUJESVFGUWpXNmhlWjd1SWVjRXgwaw?oc=5",
       "source": "Treasury",
       "date": "2026-05-09T07:00:00+00:00",
-      "snippet": "US’ new Iran-related sanctions include Chinese firms, individuals; China remains firm on safeguarding legitimate rights, interests: expert Global Times",
+      "snippet": "US sanctions 10 individuals, companies for aiding Iran’s weapons, drone programs Middle East Monitor",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "3cd88257fead",
-      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmhqbkMxb0lwMW1PcjlQa0NYZUVaV3hZSVRsN05xUFphdHZ6YXNPb05aaW1kandaNmM2elBKMFlDelhVVVRxdDZoUVB1ZEViaTE3QnNrWERZbDJPYW12WG5sVmxWQmhKYlVUckVmRnV2VWZhcDV1ZHBNdUJvTVFEUjRQU3pqcUJiUUlONmEyaGY3S2hOUFFoMmdaYXFSVjZFcHowV2dwMjdoUXkwb0RUTGFWdlM0TDF5MF9BYmtUSEVSTE1SUGJ5SDU4cDREa1lhQi1WZDA0aHZKMGVlQTdPMVdncmdCZWwtVXNlR0h3?oc=5",
-      "source": "Google News",
-      "date": "2026-05-09T07:00:00+00:00",
-      "snippet": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "02de64c2ceb3",
@@ -4738,16 +4454,6 @@
       "category": "competitor"
     },
     {
-      "id": "44a7f2954bfd",
-      "title": "Epstein Advised U.S. Treasury on Crypto During Obama’s Iran Sanctions Push - Drop Site News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0Q3MUN0VHRHaGM1b3hPUXJHNVF2Sm1RZjM1YWpNUExCMkE1dElhMnpVQ1ZreUZET2lIMS1nSVZsSGJJMkxyMFVnekFTcnRXS1ByelV1QjlPMjFuakF2bEVVc05vUU4tZEdqeVd5aTBmUDJCNjlWZkNfejNqUG0tMA?oc=5",
-      "source": "Treasury",
-      "date": "2026-05-08T07:00:00+00:00",
-      "snippet": "Epstein Advised U.S. Treasury on Crypto During Obama’s Iran Sanctions Push Drop Site News",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
       "id": "497bd6d90281",
       "title": "FSA entrusts FDUA to build AI agent for regional banks - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV3F0cUMxRTNtNUY1U2o4NjlhcHVjM3NBbktXcDVhX1RBdnp1TmdYeG5TdWJYT1FVSi1BbGg5ckFWaUMwUkVsc25xR1hXUEJKZ2toTFhNcXNyb1g5akZiamVMUEZnbWpwYmppNlpxcjhOVmhpdmg5WVhIUWM4S3pPTTkwZ3g4bldxZ09vRjc2T1ZVMEFJaGtKS2JaOVY?oc=5",
@@ -4800,18 +4506,6 @@
       "category": "ai-news"
     },
     {
-      "id": "92c707b6380d",
-      "title": "Nepal’s recent history on pdf - Nepali Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53TnpzS013VUVNbmdiTkNfdEhBQVlKbHNpbFp5cnBUZW5qclZUQkkwQVQxQjZ1bW1GYlQycXhOcExHb0tjZ195NjNyc0NfR0NuZFZ6c2I2dHBpMFBnNzJ5cDdn?oc=5",
-      "source": "Google News",
-      "date": "2026-05-08T01:21:48+00:00",
-      "snippet": "Nepal’s recent history on pdf Nepali Times",
-      "competitors": [
-        "Born Digital"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "f18b149a59d2",
       "title": "Kyndryl: The agentic AI shortcut to faster, cheaper and safer bank IT overhauls - Impact Economist",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vMkdOclVOdThBMm9ZME9CTzhxYWZiRUoxNngzdVEtMzUyS2Nxb0lsYmlUNV9NSTJRWWh0UDJVckoydmp5eU9QWmpIZUs0QWNwNmo1T0YzdzBHMlg1MDI3LS1iMElpT3N5Q2Y4SWdWc2NXdnNTMHM3bS1fOHlWY1k?oc=5",
@@ -4830,18 +4524,6 @@
       "snippet": "Hi HN, Ahmed here. If you already run an OpenTelemetry collector, this is the entire install: exporters: otlp/incidentary: endpoint: api.incidentary.com:4317 headers: authorization: \"Bearer ${INCIDENTARY_API_KEY}\" service: pipelines: traces: exporters: [otlp/incidentary] What it does: when an alert fires (PagerDuty, O…",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "11df2fa68643",
-      "title": "Artscape to Launch Baltimore Pride Season With Free POSH Kickoff Party at M&T Bank Stadium - Gaye Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVUdWeUxCVUhueHdpekYwQ3h6SHYwNmJKeDB2WTV5b1cxVUpVVXhnbFk2OUdjaldYTlFaNHh4QjRtaDlWRmY5aFBQZ3B0czJmMWE0N1Yzb1QySVpfaTNPVW5MZ0dnOWJRQzhpVjZwd1lOVHdsY2F6MDVmaGVGVDE1YXdLRHlROXNlQ0FZdm02MkZnSzl5NkFnT0I3OG5GUVNoZWNQWkVXTldRT0dJMG5KaXpkaDZaalFRaEtr?oc=5",
-      "source": "Google News",
-      "date": "2026-05-07T22:08:18+00:00",
-      "snippet": "Artscape to Launch Baltimore Pride Season With Free POSH Kickoff Party at M&T Bank Stadium Gaye Magazine",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
     },
     {
       "id": "2761b3c2de2b",
@@ -4864,26 +4546,6 @@
       "category": "ai-news"
     },
     {
-      "id": "95b12186910b",
-      "title": "Fizz Buzz Through Monoids",
-      "url": "https://entropicthoughts.com/fizzbuzz-through-monoids",
-      "source": "Hacker News",
-      "date": "2026-05-07T13:17:55+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "210e64630fcd",
-      "title": "Article Previews in RSS",
-      "url": "https://entropicthoughts.com/article-previews-in-rss",
-      "source": "Hacker News",
-      "date": "2026-05-07T13:04:29+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "ae4b402b1c60",
       "title": "Show HN: LaoTzu Writer Studio",
       "url": "https://news.ycombinator.com/item?id=48048118",
@@ -4894,38 +4556,24 @@
       "category": "ai-news"
     },
     {
-      "id": "9a6ed60bcb62",
-      "title": "Posh Paws unveils Kawaii Kuties window at Hamleys - Toys n Playthings",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGtEaXpaZWswZlhZY2hDVWRNMU5jUmFFVTNyWV93bWlEcmdsTkZyMWZ6bkhWcVpONzZhMzJFeUZkb0w3ZDNIOE53Smk3Ny1LMmtEMWdhQTRsQkJtUDctcFhBOURsOFBnd0h4SEhRVG5fQ05LbEFuV2tJSzd0c1NOX3RQbkJ4cDRXUVJMYtIBjAFBVV95cUxPRGtEaXpaZWswZlhZY2hDVWRNMU5jUmFFVTNyWV93bWlEcmdsTkZyMWZ6bkhWcVpONzZhMzJFeUZkb0w3ZDNIOE53Smk3Ny1LMmtEMWdhQTRsQkJtUDctcFhBOURsOFBnd0h4SEhRVG5fQ05LbEFuV2tJSzd0c1NOX3RQbkJ4cDRXUVJMYg?oc=5",
-      "source": "Google News",
-      "date": "2026-05-07T07:24:56+00:00",
-      "snippet": "Posh Paws unveils Kawaii Kuties window at Hamleys Toys n Playthings",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "592d7dcb6e14",
-      "title": "U.S. Sanctions Iraqi Official Over Allegedly Aiding Iranian Oil Sales - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWJpUFl3TWlFYXJJUTBtMy1oZ2YtYnRHSWE4cnByVVBOTmU0SkMzZmxxT3VtUzVoRFV4WnIyb3JGYjNPdWRpNldMNEVFenVoZlNpZWY5VFBfTy0zZERLeGVEY2RzQXhKUUczdDBMMlAwSlYyV1AwejRhcDI1VEVKNjh6Z3hRSTdLNk9kaUtNZDNkcHZNdGJNczlCdWJsRE1MMUVsQy1uUlBhaUJRZUZpWjAwaFFWck5B?oc=5",
-      "source": "Treasury",
-      "date": "2026-05-07T07:00:00+00:00",
-      "snippet": "U.S. Sanctions Iraqi Official Over Allegedly Aiding Iranian Oil Sales WSJ",
+      "id": "4b39a2995b3d",
+      "title": "USB-Vault v1.0.0 – Deterministic Password Generator",
+      "url": "https://github.com/emilianosolazzi/USB-Vault",
+      "source": "Hacker News",
+      "date": "2026-05-07T08:16:38+00:00",
+      "snippet": "",
       "competitors": [],
-      "category": "regulatory"
+      "category": "ai-news"
     },
     {
-      "id": "1ecbd713fe47",
-      "title": "Exclusive | Child sex abuse probe launched at $40K-a-year NYC preschool after staff didn’t immediately report claim, kept parents in dark: records - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLTlDWUYtVEs5QnFvbEFIWXNPWEs4MHdpa043cm5uamtuQ2VoemN3VDNfSVFjbjZyYjNEbXpEYnZHSE1mOEN3Um1peXJoa1p6Sm0yX1lkbk9nT3UybGx6T1hWX3lZdTE4OUJqVDRwWEJTaE8zWlMwWVlTWXhXb3RHNDNFZVJQRjhEcU5aSS1STTU5cmlwbjZGc1FaMDdPdjdVb0hsTVFnNTdQQkZEeW9wY1kybjd3eDFOQS01clJXUWNIU2VySElBYUlCbzJ1d1VrczVkLUtYcHdveFhhWk8zZTNObGJqRXZCLW8ydzBn?oc=5",
+      "id": "fe8c8d3ff705",
+      "title": "Lewis Moody says using AI to bank voice ‘warming’ after being diagnosed with MND - echo live",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KcnlPMnVZZ1ItcGE4dEZMTzNuM255WVd1VUFqa29vT0pYMkZDNnpyZ3lDOXN1YmNZWHY3eHBYRkdkNGs3aUdOY01wMTJGR1RMQlJ2bk41T1RfZFk0ZjJ4cEg4Zkx5Y1k?oc=5",
       "source": "Google News",
       "date": "2026-05-07T07:00:00+00:00",
-      "snippet": "Exclusive | Child sex abuse probe launched at $40K-a-year NYC preschool after staff didn’t immediately report claim, kept parents in dark: records New York Post",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
+      "snippet": "Lewis Moody says using AI to bank voice ‘warming’ after being diagnosed with MND echo live",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "c1e65b647347",
@@ -5000,18 +4648,6 @@
       "category": "ai-news"
     },
     {
-      "id": "2d3baf35f974",
-      "title": "Luisa Pinto: Rethinking depression through the lens of neuron–glia plasticity (IMAGE) - EurekAlert!",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YWXNmZjZFSjFPWXc5aEtFVTFJNGFnZDVMQzk1TWNrMHM2ZkhETV9zOUxjZkNlZ1F5alNlczJkYW5zQS1kY3V2bVFHenJpUzExSkFXWmpUWUM?oc=5",
-      "source": "Google News",
-      "date": "2026-05-05T17:00:15+00:00",
-      "snippet": "Luisa Pinto: Rethinking depression through the lens of neuron–glia plasticity (IMAGE) EurekAlert!",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "1609bf9b7914",
       "title": "Understanding the different conversational dynamics of comments sections with AI",
       "url": "https://opennotes.ai/blog/same-policy-three-comment-sections",
@@ -5050,54 +4686,6 @@
       "snippet": "",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "f42a14a47941",
-      "title": "Genomic Press launches Brain Health, a new peer-reviewed journal of lifelong brain resilience, with inaugural interview featuring Luísa Pinto on glial plasticity - EurekAlert!",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03bXdHTjh6T0ZSd3Z0THlXU013RXZxcnotbzQ4RWRQemJUU2pQbHFkXzJwWlFkZ1NiQXNsemdqYkhLOEIwMWNoTF9rakpxaFFMQzQ0dGFpRE9IVTNr?oc=5",
-      "source": "Google News",
-      "date": "2026-05-05T07:00:00+00:00",
-      "snippet": "Genomic Press launches Brain Health, a new peer-reviewed journal of lifelong brain resilience, with inaugural interview featuring Luísa Pinto on glial plasticity EurekAlert!",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "1360e04ce6ab",
-      "title": "First Orion Partners with Vodafone to Launch Branded Calling in the United Kingdom - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdC1jbXpCSWNQSElIeVNZNnBkQ3c3Um40UGVjeHJ4UzFSOWtLWmJIa01wZll4MVo5Ty1jTzRlZkdVRlM5MUNaMzJUbDMyWUVKdS12RlpPb2lteU5MbWtXUUdUcG80WjBuTGdGZ0RWMmMwbERzS3puNHhkVV9pM1dIdU1OOWNKM3ptcEJNNlpCTDAtOTdzeVd3dVB0NmVaOVhHN1lwSm03Q2VPSFNFelBualJyQVNVNmhIaVNnS1I2by1MS2Z1ZGxMRTgtcXQyNGJ3SjM2NnY0cDlXTjc0MmZYeDJxbzRNSmRRY1E?oc=5",
-      "source": "Google News",
-      "date": "2026-05-05T07:00:00+00:00",
-      "snippet": "First Orion Partners with Vodafone to Launch Branded Calling in the United Kingdom GlobeNewswire",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "8e8d92367559",
-      "title": "Inworld AI Launches Realtime TTS-2: A Closed-Loop Voice Model That Adapts to How You Actually Talk - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdURrdnNTbmtCc1hxNTVobVNPMTlQNEZscDJFV0xjZjJfalVPZUZGNFNoSTh3eGZpNm05X3E1YjI5WE5wcERZM2xheVpDTHdEMmV4a0FMOEc4ZEpDcXhhRkZqTHhmYm1RZjg1ckhyT3gtV2gtNi1tQzhLdm1FVFJpMk1oVGN1Q3FzZDc5aXppeHlpQXFKTDZ2bDFLZXA1d3VJQ0tIMkttVVFfYVpzQklNZDM4WmVfZ2NZWWhtMWpZN2sxSjhEc2lZa19OODlQS0tBVWEwcw?oc=5",
-      "source": "Google News",
-      "date": "2026-05-05T07:00:00+00:00",
-      "snippet": "Inworld AI Launches Realtime TTS-2: A Closed-Loop Voice Model That Adapts to How You Actually Talk MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "2e2d1b87401d",
-      "title": "Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaHVrNFlPcy1fcWJkcWJlcXFLMTZNTTZjQXRNbTZvOHF5ZG5hMVBJeThhbTVfUnJzWkUyZjBFMHNNcUFZTnlKd0JUTUxldkJKR2tsVEZBTGlDY19ZQlpmTlVMLWJITUdLQ0wwc1FaVnpXalBXbFhSbWRCS2lScF9tRXB4VW4yRDFzRDdqdHlOdVI2cWVmTndHVFB6Um82M01WdG54Umh6WnI3Y0tUdW9uODJNTDdFMTkyU3R3VDJhaUtDV1pZS01ISWFZTnZnMnFwX0dPby1oY1dKTDlob2l4NTZ2QQ?oc=5",
-      "source": "Google News",
-      "date": "2026-05-05T07:00:00+00:00",
-      "snippet": "Google Adds Event-Driven Webhooks to the Gemini API, Eliminating the Need for Polling in Long-Running AI Jobs MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "395da26b89df",
@@ -5140,18 +4728,6 @@
       "snippet": "Go from newsletters & podcasts to published manuscript Discussion | Link",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "e3f4d5a646bb",
-      "title": "Nexea and MyInnovationX launch AI-driven open innovation platform in Asean to accelerate innovation - Digital News Asia",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWM3Y3RYUG93bUNibFlPb0tETmFRZEUzUTRtSzhpSEREeGdUc3ZOeWtxcUdPakVpTFBjU1dKcDd2aTlaY0lSUWREY3RHMDdPTXJWcWlsb29RNXYtSkVHTkQ5UkZINFNsaVM4VXB2WDdUcGI5c09kOTJvNmdiaHZ3VkZZdFdaV0FqMmwzbTJTZm1ObzdieExfcm5qUGJJWjlON2RVRVBxcTFQeXVLaWRvY3ZINTA1LVBPRjVDZ3dwejIxN3lFZnFYTnB3?oc=5",
-      "source": "Google News",
-      "date": "2026-05-04T07:00:00+00:00",
-      "snippet": "Nexea and MyInnovationX launch AI-driven open innovation platform in Asean to accelerate innovation Digital News Asia",
-      "competitors": [
-        "Born Digital"
-      ],
-      "category": "competitor"
     },
     {
       "id": "cd68c1b5dd62",
@@ -5204,18 +4780,6 @@
       "snippet": "Hi everyone, I've encountered two major problems while building AI-powered sites: 1) Most agentic tooling doesn't have a enough of a targeted approach to edits to existing files, and will make extraneous edits, 2) Many users will want to try things casually but not spend on each LLM-powered webapp they want to use. Th…",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "b8e9ab648b49",
-      "title": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNFRxVHMxYUZsaWFoSUdybXNXRHZ1d0J5M2ZSc2xRd2NGcEhSRC11QmlPMmZ6NGlHMU9JT2dPOHVZeVBqcnc2ZWREUFpTRWY0VjV6NC1ZNl9WSkh4QWRjMVI5M0xjeHBmcTJ5V3pmVDh0UThHeTAzQWVoZjNqRU9KSlVnMUFJSVlkYm5pOTNqbTh4NkFaY2RyU25VQWtzWFhaaUplSmlYOG5YcklfTVdmM0tpWmpzR3QtRl9fNVhyVDZ4VWdrQnQ0N1F0VDRqWWhheF9acE9XSQ?oc=5",
-      "source": "Google News",
-      "date": "2026-05-02T07:00:00+00:00",
-      "snippet": "Mistral AI Launches Remote Agents in Vibe and Mistral Medium 3.5 with 77.6% SWE-Bench Verified Score MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "d15e02d5b243",
@@ -5288,16 +4852,14 @@
       "category": "regulatory"
     },
     {
-      "id": "53aeab4bbf98",
-      "title": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTE5MdjIwYjdNY0lIZnJNLU8tVUl5ZzF6dkdSN2VWazU0WG9veHBvOURjNnRaX1BnN3poM29ob0hBRzU0N0RqMjVHRkNldjVOc3NsQXRXbnhyRXpnMkFuSE9kaGpQQ3c4YUtKeFZaMmZLTi1ydG9FVjRGOEhPNTdad3lscDhaOXRuN2Z4bnhZdzZqM3QwTmdEaUpDQjNaX0RCdUhuZjN4U212WW9iS0RvQVRrQ0NHMXNJc0VYc3JpSzQxQnY1NWh4Sk1yYnM3WDlkd2Q4bWVOVDdYS2pBdFBxbFhNQXZQQnRRN0JldVRCNGVvbVhveWllWDF3VThJVW5tZ19kTlRyVEVDVDA?oc=5",
-      "source": "Google News",
+      "id": "8bb5e39f8df2",
+      "title": "US Treasury announces sanctions targeting Iranian 'shadow banking' networks - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS051U2RGa0JHam1RVkFYVFR1NHlHT243WDFJNTRGeEFDT3dValdYWFBpaldpalhxcmhpMklzaGNkenVlamhTUXk3ZDBiTV9GNzR1Vkhielh6Rmo5UkpVazhka2hnSE5XTHhlME5zTjFqOXhYUjdSTlEzV1pVQ0ZqYlNVR0YyLUNKbmFVVjBtMkZzYVBETFlPbmFBVEtpc0ZDaDl0WUtraFVYNzR3cnVpMGtpR3RHdw?oc=5",
+      "source": "Treasury",
       "date": "2026-05-01T07:00:00+00:00",
-      "snippet": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
+      "snippet": "US Treasury announces sanctions targeting Iranian 'shadow banking' networks Anadolu Ajansı",
+      "competitors": [],
+      "category": "regulatory"
     },
     {
       "id": "1b31a094b151",
@@ -5332,16 +4894,6 @@
       "category": "competitor"
     },
     {
-      "id": "661da6c83045",
-      "title": "Donating to Open Source",
-      "url": "https://entropicthoughts.com/open-source-donation",
-      "source": "Hacker News",
-      "date": "2026-04-30T11:37:32+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "b8d9c938dd4d",
       "title": "Beyond 80/20: High-Entropy Minority Tokens Drive Effective RL for LLM Reasoning",
       "url": "https://arxiv.org/abs/2506.01939",
@@ -5350,18 +4902,6 @@
       "snippet": "",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "593e99fe47ef",
-      "title": "First Orion Introduces SIP Redirect Call Authentication Integration to Expand Access to Trusted, Logo Branded Calling - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQOGkxYzJabkFYUlN3U0dvcFNka0g0RnJETzdrbGoxZUhSVkNoQ2U4Wk9VZDNXRzYxeUc4ejlrSEw1Sm1YamstZHJDNEp0cXgxdmIwQ1lXSkFIV3hIXzl5dkJHMGxneEFSalFieVA2Y3YxblRvaXQ0eUVrdW5wcVNnWV93bGVFWEFDX3dlNjNlalNwX2NMd3l5M0xGdWRzeUhINzlJdnlGWTVjWjZla2k3VzhoV2poVC16UFNFVEdzVno0TVRKTDg2MGNNRkkwaDI1VFVzS3o4NHg1djVSajFjNHR6c2hCTGx0aXRJTlR4UGZUNVdBR2JJMndFTnFSVVFaZWx3ODZtNWQ0X1FWT1dCV3JpUmRkb3c?oc=5",
-      "source": "Google News",
-      "date": "2026-04-30T07:00:00+00:00",
-      "snippet": "First Orion Introduces SIP Redirect Call Authentication Integration to Expand Access to Trusted, Logo Branded Calling GlobeNewswire",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
     },
     {
       "id": "f736f496b687",
@@ -5392,30 +4932,6 @@
       "snippet": "Federal Reserve issues FOMC statement",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "e86af17d3796",
-      "title": "Onecom launches Halo, a first-of-a-kind agentic AI platform empowering businesses to deploy autonomous digital workforces - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVhzUkg5ZzdyaURLbFJBVWd3R21jc2E4TDF4TnNaN3l4OXJlRllyWHJiOWc3WUJ6LVZRa2l6V3pXX0xEbGJ6cHlqZ1h1VEhUTDZBbHhOVlRyd0lLblEycVNidDdWNkMwZDZKSnl4cHRxX0ZVdlplT1lZbjlWU1lCXzBJRmF6Y2gzc3hUZ3Z2akMyNnExSWViN3JtZVk3UFlSN0E?oc=5",
-      "source": "Google News",
-      "date": "2026-04-29T07:00:00+00:00",
-      "snippet": "Onecom launches Halo, a first-of-a-kind agentic AI platform empowering businesses to deploy autonomous digital workforces Yahoo Finance",
-      "competitors": [
-        "Omilia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "de0ca2deb5ab",
-      "title": "A digital archive reveals how a funding agency cooperated with academics to support the nascent field of genomics - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YaXhDTmFEWUR3ekJRT0R6RjZSMnQtMDFLa29JR09LTjVlRzhmOVNlOEphVS10WDhic3NnV2RfUXFaaVhNZGlHSUxmb2lYX3kxeVRfal9tR0d2SG1DblRv?oc=5",
-      "source": "Google News",
-      "date": "2026-04-29T07:00:00+00:00",
-      "snippet": "A digital archive reveals how a funding agency cooperated with academics to support the nascent field of genomics Nature",
-      "competitors": [
-        "Born Digital"
-      ],
-      "category": "competitor"
     },
     {
       "id": "a29ceb1ade15",
@@ -5460,16 +4976,6 @@
       "category": "ai-news"
     },
     {
-      "id": "52fa1eada6c6",
-      "title": "Understanding Systems",
-      "url": "https://entropicthoughts.com/understanding-systems",
-      "source": "Hacker News",
-      "date": "2026-04-28T14:20:40+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "27adc308f677",
       "title": "mailX by mailwarm",
       "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20",
@@ -5488,6 +4994,16 @@
       "snippet": "U.S. Treasury Department Sanctions 35 Linked to Iran’s ‘Shadow Banking’ Network Kurdistan24",
       "competitors": [],
       "category": "regulatory"
+    },
+    {
+      "id": "633a2d5cb7ae",
+      "title": "Sam Sidhu used AI voice amid Customers Bank's automation push - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOREVvYzMtSGo3NkZCTmJVSmt0cFpKSXhvVnl5ZDloT3V0X3J4WHVTQ21QakxXVU5BSjlYRWVnbkdOUDhyMGJ6ZGRVMVpBLXpCTzFxdHhGMnR2ejJRdFd6T1VxbDE3RjEtTW1aQ0FseXpidzdjeDRDOGp5VnNNd201Y2QtOXdiM0loR0JTTE94eU01cXY5NFI1dlpKMVhodWpKSzlqN3JhcUloQ1Vi?oc=5",
+      "source": "Google News",
+      "date": "2026-04-28T07:00:00+00:00",
+      "snippet": "Sam Sidhu used AI voice amid Customers Bank's automation push NewsBytes",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "ad9acbfcda68",
@@ -5550,16 +5066,34 @@
       "category": "ai-news"
     },
     {
-      "id": "b87d6a347651",
-      "title": "MediaTek unveils active AI smart cockpit, advancing AI-defined vehicles - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMF9tLVBVREVwdm9OMG5TQUhrZklrWk9BZkEzZ3RuZFZ1YWFKMTJRMTByaEZNUVphbDZfRmd2SWRiRVFJY2tRVXpYeDl4c0tmTkppMjFPcVVSZThNYVZERTB5NnQtZlBHS1VhZ1h6QkFLZjRlSUp0Qk96RFVJOWpzQWozb3BRRDJ1Tjc4RG0zNk1BQW5ENDJqcTJnUG5QbG00b0Z0aw?oc=5",
-      "source": "Google News",
+      "id": "ac4d0c520741",
+      "title": "Show HN: Webhook API – inbound email –> webhook",
+      "url": "https://www.echovalue.dev/webhook-api/",
+      "source": "Hacker News",
+      "date": "2026-04-27T11:40:15+00:00",
+      "snippet": "Hi HN, I often run into systems that can send email but cannot call a webhook directly I built a tool that creates an opaque email address <mailboxId>@hook.echovalue.dev and forwards inbound messages as structured JSON to a configured endpoint. It can also call a webhook from a cron schedule, so small scheduled jobs d…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "64573c27e9dc",
+      "title": "US treasury chief says businesses working with Iranian airlines risk sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXhJQW5WeC1iQWtQYnhibTJlbVd0YUxRS3Z2b0hNb3g4NXpYWjhlWnpVYTl2RjdUUlpTWVExNFlGVVlic2FrMUU3Rm5nUXJ6ZUZaX0FCSnAyOWstM1ViRGJnQWlJSms0Y1ZLWE41UWJsRzN4Rk9qRkYtN3BlM2JtalVkRXpCUjNTWk1vVEF1SE9ZeEVlUzJ3QkRCeXkwdGVTaW9BN09BQ05YZ2JyeWZfaUdqd0dvZnhCOHdkSE1fRXNqWGxsT25BWjhvVUM?oc=5",
+      "source": "Treasury",
       "date": "2026-04-27T07:00:00+00:00",
-      "snippet": "MediaTek unveils active AI smart cockpit, advancing AI-defined vehicles digitimes",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
+      "snippet": "US treasury chief says businesses working with Iranian airlines risk sanctions Reuters",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
+      "id": "c1736cf99b0d",
+      "title": "US Sanctions Turkish Textile Firm Tied to Iran Weapons - WWD",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1o2cmRuNjlBN0toQ190SEp3WEJxQ1MwZE9GODJwa3RqQlBGRkduTmNTTDlmeG8wUFgwb3pxcVA0SVdfTWdFRm04bWlZN21zWDBMV2d4cnhqM3JrcEl5RS1KdWc5Z3dBMkNEOC1qXzBqUHVaNTl6aUZwa3hvdnByRXVMNDAzeFpnSk5YTk0wM3N2OVlGWTYyZA?oc=5",
+      "source": "Treasury",
+      "date": "2026-04-27T07:00:00+00:00",
+      "snippet": "US Sanctions Turkish Textile Firm Tied to Iran Weapons WWD",
+      "competitors": [],
+      "category": "regulatory"
     },
     {
       "id": "8f2f3cf7e410",
@@ -5620,42 +5154,6 @@
       "category": "competitor"
     },
     {
-      "id": "2656edf00649",
-      "title": "Ghana Officially Launches National AI Strategy, Betting $270 Million That It Can Become Africa's AI Powerhouse - Tech Labari",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZEpyZTJwTVFabW5TemxrTzNiazQ0MFREMGVGbGdmVGtRZTc0WU44Qk10R2xxNi1lYWpUWG11eEl0dWpJWTdwYUJBckdYN2J0bjRzam1uVU5iRDlmZEpBbHFCOUtWTG9IVHZMcGR4YTZReHUydUt6WjdIczNnX3UxSlViMks0ZzRqOXRnQ05sOFBQZUc2N2hnUDE5QmMydGdfTFFHNzV1OEQxM1p4RG5WU3ZmblA0c1FvVk4tLWFaYzFSVm9QWkVCUVpEcw?oc=5",
-      "source": "Google News",
-      "date": "2026-04-25T07:00:00+00:00",
-      "snippet": "Ghana Officially Launches National AI Strategy, Betting $270 Million That It Can Become Africa's AI Powerhouse Tech Labari",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "fd327e00476e",
-      "title": "The Complete Guide to Starting an AI Career in Tanzania in 2026 - nucamp.co",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUcyQlBUMGtyMk1nUE50Qno0QVE4ajktbUhCWDNIdUc2YkNwUjFuSmtTOWhkSENiRkFBUy0tTnNsclZHbW85WUgwQmhyLUhPQ3lGWUZzLVdUbnVPTHRpcW9YbGdkX2xueXYyQmtmbjdZZEN6NlBTSlBmNkxVZzJXTU41OEVyUjY1OFpBM3JEWk83N2hhWi1VX3ZRYXVxeXFzbHVLWXpEaHFRTDBkcWRmclNaanNDaW8?oc=5",
-      "source": "Google News",
-      "date": "2026-04-25T07:00:00+00:00",
-      "snippet": "The Complete Guide to Starting an AI Career in Tanzania in 2026 nucamp.co",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "b31d01d6c276",
-      "title": "2026 AI push: How UNILAG, other African universities set the pace - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeGxVSEJHZkNtZC1kZXBoMzhzVFBjQXJuTTFHakYyT21iVDM0QzNmR1h3dTROU1A4Yk5xQkI3RExOZXdKQVdpOW4yVEFDRmhXOG1ZMEhsUi1ra0wwdWtrTXhlc2NrazBUcUs5Wi02eE92Q1hWX3ZkcTR3Nzd1RmpJdFRVNmtBaHBxUmV4ZVpucHA0eV9VZGZsa3VuWnZoOExUS2JHYkZKdklvOHd2?oc=5",
-      "source": "Google News",
-      "date": "2026-04-25T07:00:00+00:00",
-      "snippet": "2026 AI push: How UNILAG, other African universities set the pace Business News Nigeria",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "fbade160f383",
       "title": "How Midsize Banks Should Approach Agentic AI - ABF Journal",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02RURjaWtRWEp2eHVQb1lFZWQySGtlRTFSSGhaZ0ZsRTBXTXlPZnpQTjhsTEhHV01yeFphay1BSWEybXdaeEpiSEZHMVRyc2N4V2VPM0hiR0gwazZKOEhHaGFuV1JHSWwyQ1VONzBLNlJadnB1TGlUZXZENjQ?oc=5",
@@ -5706,16 +5204,6 @@
       "category": "regulatory"
     },
     {
-      "id": "4e1ad5698a96",
-      "title": "OCC Formalizes Illinois IFPA Preemption Push, Turning Spotlight On NCUA - CUToday",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWpLOVJJVGFQMUtBT3VFSnRlbzZHQ2hKdlY3cVRhNnVQVmVkZS1FdFpXdWl4dGdaSk5Ib2pHVXZ1VWNlSlJfTTZ1MTZmeURhMEctZFJ4TVFXTWYzYzkyMU5WQ1JDSDNSWFl0aUE2RzlLQlZGd3hjOTM2UnZlYzViMUkybkZiVHRHWGVUZHFXTUJIX3BaMFdDUEptUUd6OTJON0JzQzJJX0dfQlE?oc=5",
-      "source": "NCUA",
-      "date": "2026-04-24T07:00:00+00:00",
-      "snippet": "OCC Formalizes Illinois IFPA Preemption Push, Turning Spotlight On NCUA CUToday",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
       "id": "adb75d6884f3",
       "title": "U.S. targets China’s shadow trade with Iran in sweeping sanctions - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjJ0Y2E5ZW9PX05qZEhSV1Z5S0c4SGZ5c0pjQzNwdXRYaHRYNTlKZjBvNkU0UlZ1dVdPdVFiQUZGem85OTVFRVZsRUlLcVFUUG1nWmFudU5EelI4X2ZqbE5SdnhIdnYtYWhsbEphQjdkNFlzSWRodUVQVHpWdV9ETTZsTHlURGV4NXl4M2hDbWtiMGthZHBxNDZ3?oc=5",
@@ -5724,18 +5212,6 @@
       "snippet": "U.S. targets China’s shadow trade with Iran in sweeping sanctions The Washington Post",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "a8dabdd22f7b",
-      "title": "DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compressed Attention Enable One-Million-Token Contexts - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ2Nndmx4bV83dGU0Mm1PdFNDS2Q2ODBsMWFrZWw5RTNiRmRuTVMyR2MwVXBJOGxWS3NtQWhJM0RrVURfU180QTU2TmdVTzQtRWpwWW41bGtjTFRyX0p6a3IxTHVSb0RsZ2h5bDVJVnJRd0F6RDVrRTlELXE1OHpfcy0xazFHdWJZQnc5b0pxTmNLbUVzQzRtclBVbkpzbi1UdHk4RmJPamZMU0JsdkxEMHNZNUxqbmJ6OHZlZGNUajAzMGY2dDRFdFNsQUlrYWxzMVV4dkVRaFlQWmNyMEpFRUtodWVrcjRLX3cycV85MU8tem1SaXA4dUxSemU?oc=5",
-      "source": "Google News",
-      "date": "2026-04-24T07:00:00+00:00",
-      "snippet": "DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compressed Attention Enable One-Million-Token Contexts MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "6c232512b206",
@@ -5780,6 +5256,16 @@
       "category": "regulatory"
     },
     {
+      "id": "6d1d09515c16",
+      "title": "Show HN: A Collatz conjecture full music generator in 800 lines of C",
+      "url": "https://github.com/pumpkin-bit/Flux3n1",
+      "source": "Hacker News",
+      "date": "2026-04-23T14:01:40+00:00",
+      "snippet": "Hi HN, while the hype around neural networks and neural network tools is still going strong. I decided to release my project as open source it generates IDM/Ambient music based on the Collatz hypothesis using numbers. It’s a procedural synthesizer written in pure C. It takes any number, calculates a sequence for it, a…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "dc9af149c6d8",
       "title": "NCUA Seeks Input on Overhaul of Credit Union Reporting Requirements - Credit Union Times",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdnBrSTcyU2Nrdmd6THQ4M1AxdUs1LThVa3ZCUEFZWlVDbkgwVFRXWXZiTTBkc3VFQmtFaEE1bmVBMGFXeEFfZldhVWtuWTFock42YzdOa2pOVlRLSzYzMDNVODgyMTREdFNUMU1mSXpXMVRFbXFKNXk3RnUzamtTSXowLU4tLXBKbDdRZWZIM1pYRUNJWXpCWGhVTDlReWlQTTRVVXhB0gGrAUFVX3lxTFBrRWNRRDhKdjVDYVlkUmdncWh2V3lCVGpvbGU2SUlCVUY5eFlGZ2VnTzJIOTFOdGN2X1dtSU9SM3RwOUI2ZXpqQzZBczBLQTJTczRyNjk4NU1aWDQ4M1ZqNjJFZDd5RmI0bTFyMkwzNWx5SEFKUUsyX0xqSUM1YXBKNXZ1UmxVdkRiTjV0Sk1wek9xVWVDaVVKTVdnVHlOc1NpU08zeUl1TTVwbw?oc=5",
@@ -5788,42 +5274,6 @@
       "snippet": "NCUA Seeks Input on Overhaul of Credit Union Reporting Requirements Credit Union Times",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "10c869abda9b",
-      "title": "Posh Peanut And Hulken Launch Mother’s Day Collection For Stylish Schlepping - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUczN2xGZGRrWHJFTS15RzBNVGpCdGhhU0x6TWpSSUpCU0JyWDRlV1B1ZXB0cFB2QTZRXzZDYjRmY3hyclRETEhsUWZCWlMxTEtXdjQwWEJfNXNFSjlod0ZEUy1FM0gyRFRxc045NHlBWUs1dUdzekl3WmtWZnE4QlZHTVdVYjg2aHl6aDdSUzJYZ2s1UmxYNExPa0IyMlZlQ2R2S0dZWnBFMVVIcUJmWGs5WmlocTNBQ3FOUGxMem9MeVU2LVlYdl9adw?oc=5",
-      "source": "Google News",
-      "date": "2026-04-23T07:00:00+00:00",
-      "snippet": "Posh Peanut And Hulken Launch Mother’s Day Collection For Stylish Schlepping Forbes",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "7c6ac3fbeee4",
-      "title": "Infosys CEO says ‘Mythos-like’ AI finding hidden flaws could create jobs - financialexpress.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1FlLVJFTmhDQTFZVUhPYkVpSHBNcERzdi1WYllSVXcwNVpTa25kT0tKcFZaTTlHTjlaV3lRX21mZzY3WVRvYW9jd0hBQ0xZb0p4a1JIUlR2SHVDVkNrTjZTQmZoRXYzY0RHbDV4TjcxRE95YUdtR3hSMzBqTFFVeWs2NzczWFZNLWRsUFU0UGVURWxrVmM3UkNrMEJHdFpHNUVHcjdIWC15MmJ4UUlqclJCS0JkdUY5YzNldXI0dldhaG9pRGFn0gHOAUFVX3lxTE5xbW1XeVRfdkROSjdhS3hOc3RqckVtZ08tX0piUDRaT0JqdUVPREN3OHc2LVRLdi1SSlBUS29qTlBlQ1VOdFU3bENrTHNUeG1yb0pfdjZBbC01a3ljOVNJUGJCbFl0dTF5MXYtWDFfZzJCNjNlaUxBdTlyTXhJWE42S2ExVktWUDY5Sl9JZ1RBZF9xdXNiM2ZqMDlXaENxRkE4X2Q1MC00UlppdllpeXVENi1fdlNWMUVSYUM3S2VfY2N4UWRWYTM0U25wY1d3?oc=5",
-      "source": "Google News",
-      "date": "2026-04-23T07:00:00+00:00",
-      "snippet": "Infosys CEO says ‘Mythos-like’ AI finding hidden flaws could create jobs financialexpress.com",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "786c0a968c62",
-      "title": "MYX Ventures launches AI platform to match companies with tech solution providers - The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QN2FKeF9jbDc0R2s3YnVxaU9CaThFQjZhandTN1Z2dWltM2daMi1kMVY4Umo4Z2VzcUxBQy1FcGFtdFhCS3VBeDlKUVJtMko3?oc=5",
-      "source": "Google News",
-      "date": "2026-04-23T07:00:00+00:00",
-      "snippet": "MYX Ventures launches AI platform to match companies with tech solution providers The Edge Malaysia",
-      "competitors": [
-        "Born Digital"
-      ],
-      "category": "competitor"
     },
     {
       "id": "fb2907fc188d",
@@ -5856,18 +5306,6 @@
       "category": "regulatory"
     },
     {
-      "id": "f81e506a59bb",
-      "title": "Game Industry Embraces AI Amid Worker Job Insecurity - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl9FZjBhVzBWd2Q5Y25IM3g0UkNkMWRONU5NbDVmZFc3OWdGMlJQbHFFYVpaZTZNVmdhWFk5ZFBHMTB6SGw2RFRGaWdHVDMzTzFraWRmT1NJNUpCYWtRWXpya0JvWTA3T01sRVBwRENBSHpmZTZrRTdrdkJORlk4QUhMTlNUcm9r?oc=5",
-      "source": "Google News",
-      "date": "2026-04-22T07:00:00+00:00",
-      "snippet": "Game Industry Embraces AI Amid Worker Job Insecurity 조선일보",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "32ad2a7dba20",
       "title": "BofA Double-Upgrades Twilio From Underperform to Buy and Nearly Doubles the Target: Is This the AI Voice and Messaging Winner? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTVg0QXY5NzZ0UFNkcFRSalNSZmoybDZwR21fakY4cV95dEtiZ3FUTnpZbG5OX3p4RlVsYVdJSDVWbkNaTUtPWGhHTktvY09ZZEtpZm51Q005MU5oXzBYZXZFdGQxQ0l2ZFQzc0FyeC00Wmg1MnptLXRmU3lmU1pfMG5fQmpwWC1ITldiTzdxVmNHOHRhSzdoRUplRGVHT001TWRjckRzLTFnRm5kZl9mY3FwMnVvVVFnbTNwOFVRQTFRT25fNkNyQll5OV8wajB3YlpmR2NqVVZ3dFZraUhQX3ZTMDF2UE9CNlBKY1YtOEFVcmVwQU9TXzBBWEQ?oc=5",
@@ -5888,32 +5326,12 @@
       "category": "ai-news"
     },
     {
-      "id": "c28030dc82c7",
-      "title": "Show HN: ModelX – Prediction Exchange for LLMs",
-      "url": "https://model-x.up.railway.app/",
-      "source": "Hacker News",
-      "date": "2026-04-22T05:01:36+00:00",
-      "snippet": "Hey all! I work in quantitative trading, and so far our team’s use of LLMs has barely gone beyond coding. I wanted to find out whether they could contribute to actual trading decisions, and the first step felt like building an evaluation harness. ModelX is my attempt at that. It’s a prediction exchange where LLMs trad…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "d7eb37125fb4",
       "title": "How Vozzo AI Labs Is Automating Over 100,000 Enterprise Calls Every Month Across Banking, Government, E-Commerce, and More - Dailyhunt",
       "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPWVQ1TUx1NFEyRzcybU1meXBvcm1QOEZLdllnTDlreWZGT0JmeHQ5eXlpTHUyTVNXY2lEN21lQnotMndaMGIwcDh5dC1wYVBCVDF0UlBOeENvQjVIMk95UmRXeWJPdWNCZHQ2akJyVEFibXYzTU5LRWNNRjVNVFdtU19GbmQxNlBReHNERjRxTm5IZy1tZlBWNWQyZTIteXd2Qm41VTBYNkNpUHM2VG5YTUoxQ3BZZldqWDNxSkEwTmYyTGU5N3hUdGlkNEM5el9ORGNWcElhSDdjdTFOY2ZMNzhCQ2NBWWRCa3NGSHpqSTZUeUN2WDFnbTVidnBJRFJtWTA5VkxyWXlTQUFsWlhrNWxPQzJmbnhHRzdRTm5HYW5BdWg2UW5FQU5yTkNWRXQ3Vk82LVhXbkpmT0ZWcldJWjVnLVc4OENxZThWWTRlUEs4YktfdnRRTDNRYUpDZ1NHNjlHWGIySF9sc1VjRTZibWJZbURZME52SDhJSDV4RnEtYXRpbHJpTndWZ25CbW9iYjBmMUVZbEpGS2JsNWc?oc=5",
       "source": "Google News",
       "date": "2026-04-22T04:55:29+00:00",
       "snippet": "How Vozzo AI Labs Is Automating Over 100,000 Enterprise Calls Every Month Across Banking, Government, E-Commerce, and More Dailyhunt",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "3cf360367fd9",
-      "title": "Spaced Repetition: Beginner Guide/FAQ",
-      "url": "https://entropicthoughts.com/spaced-repetition-beginner-guide-faq",
-      "source": "Hacker News",
-      "date": "2026-04-21T12:22:57+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -5936,54 +5354,6 @@
       "snippet": "ACU Contends NCUA Can—And Should—Match OCC In Illinois Swipe-Fee Fight CUToday",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "d5c5fe91e51c",
-      "title": "'I quit my posh job to squeeze men between my thighs and now make £1.5k a day' - Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzTVJ3ZkJNWUptNFBQZ3BFZXR1U3RGMnRhWUtTWkZrTzJJSENhY1RuUHc3OTdBb2lhSlVqOXRvUGxmanZYR2tIUkJxVGw2RUtQYUdyU01EXzViZzdtcEdGWU91S0ptY2lPMC01WlNXcXU2S2M?oc=5",
-      "source": "Google News",
-      "date": "2026-04-20T07:00:00+00:00",
-      "snippet": "'I quit my posh job to squeeze men between my thighs and now make £1.5k a day' Daily Star",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "8637a3a70301",
-      "title": "Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coordinated Steps - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN2tMVDNQVG4tUW1jX2Jyb1c1ZUtmQl80Vm5TcHgwbTkzQkd3YzhmZWpjd3V0VGIzNzBhNVRaU3VWWGNuNjV5NWt1X2lNaVFLZjhRWUhJRWY5UW90X1dGMkVlNEZkUlppN3dSZE1ZQV92ZzQyMXhVYVVBOGw2MG9IaFN5eFFydG1QYmhIZDZJNEd4TnZDNlBEZmlBNllSamM3UXQ1SFRFUkRLQ0M2RnhjN2JPX0tPX2xHbEttVGgxeEw2R21IY3RFMjRvcENJTHlRWktZbThTenFwME42TlJ1YzkxUWlCcE05akRQZVZBZE1VR2c?oc=5",
-      "source": "Google News",
-      "date": "2026-04-20T07:00:00+00:00",
-      "snippet": "Moonshot AI Releases Kimi K2.6 with Long-Horizon Coding, Agent Swarm Scaling to 300 Sub-Agents and 4,000 Coordinated Steps MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "9ff592f85731",
-      "title": "Software Is Hiring Software: How AI Agents Became Crypto’s Latest Power Users - HackerNoon",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRXVqM1o3WUVpWDBnZ0ZHeDZZOFhMd21ndEFiTlVJY3U4RGRwQ29OeVFaN3poalgxT0dOY1hYYzdaRHB1d0pMQjhVQm95SzZPOFo2eWpZclFZN0lOZmJIRUc4Z2x6alc0dkpsTjEyV2JqT3FLSWFqR1VRMkdHR2pLam53d3JNNnRkdnJYRHIwSTRXSWwzVDhLRmJQMW5NRzQ?oc=5",
-      "source": "Google News",
-      "date": "2026-04-20T07:00:00+00:00",
-      "snippet": "Software Is Hiring Software: How AI Agents Became Crypto’s Latest Power Users HackerNoon",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "c3fc1084b0d9",
-      "title": "Digital films of life in Bradford to be screened at city event - Telegraph and Argus",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTgyWm4tTkwtQ2FlVEo0V1lRUExSbWMyb0JqZS1kWGkxb1prYW90UGVHUnAyS3JwNnItTjdNVDEwencwVTQxVGZ2bEgyWHJrQkE4cEd0ZkJjaGlnUXJ0WmtLZGpFcnJ5eDlMOUloM21GanlVNzJWOF9kNEgzcmVBOE5NNUthX0l3Vy1EejZlRi13QXhTU0pVYnpfREtMd2owc0NWX293MHhEdXZfaFZwUnIyM0ZDUQ?oc=5",
-      "source": "Google News",
-      "date": "2026-04-20T07:00:00+00:00",
-      "snippet": "Digital films of life in Bradford to be screened at city event Telegraph and Argus",
-      "competitors": [
-        "Born Digital"
-      ],
-      "category": "competitor"
     },
     {
       "id": "d724363508af",
@@ -6026,40 +5396,6 @@
       "category": "ai-news"
     },
     {
-      "id": "144d0df3131d",
-      "title": "Snakes and Ladders",
-      "url": "https://entropicthoughts.com/snakes-and-ladders",
-      "source": "Hacker News",
-      "date": "2026-04-18T11:56:52+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "b7ec8b0181c1",
-      "title": "Nida Khan not HR manager, no POSH complaint filed: TCS says amid sexual abuse, conversion case - WION",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUF2REdjbG5peVc3aEdOOHUxR2NkZ2JYaEpJWS00X1JFdmQ5dFBQUkFRTUxBRjNpS3ZjUll4WXZEb2N1UFZvYVVfeTYtUVNybDg5S3ZlV2NxeG5DM3hXcU9MdlJZMTl1VFVmVzByQlNGTkZnSTRrd3I0dU9pWGYxb0FkUjlJSEdEbzVCV1N0aEkzZ0ZWVDkxeXptS240SXlILW9lLTUwNGstV2ctOTAwbWRFenlXUlAxdjZKd2x3eUthZWc1aDVQb0pGYmoyRmhVVmRtUC1Oa9IB3AFBVV95cUxOZFZWaU5sNVcwbWctS0FfamctVm9CLVQtRE5kekM1S1ZJc1Etb1REcmJOWlY4eUo0c0JzN1BmWDNGdjlRbHlnQVVkOTdHbHo1X1JIU19PQlhLWGNTN1g5b3VmN1dfaDN1Z2RYVVpxUUlyR2tRcGttX3Q2SWlUdU4yUFpYT1hRcGZPRkJLYzFncGUxTE1zakxmMGFKZDhOS0Z4RGZwY1VMdnpPNkxjbzNtM0ZFQXRtcm5WaFcxc3FvSkpVUXhYeXAweUxWOG1fcVlQM1dDQkU4QURlNjhm?oc=5",
-      "source": "Google News",
-      "date": "2026-04-18T07:00:00+00:00",
-      "snippet": "Nida Khan not HR manager, no POSH complaint filed: TCS says amid sexual abuse, conversion case WION",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "0bb1d28d57d0",
-      "title": "DeepSeek Seeks First Outside Funding at $10 Billion Valuation - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHVldnJ5SjRNei05UUt1eVAzSldaS2hGNWJyLUJ1OVM0MkYtdC1WNHMtU0FabHF5Z3pNc19VaWZaQ21BMGJLN1RIRTJHb2dxcERlSGotQXpnNWphWDgwYUhNdlNrOTAxZmNuRC12Nm1CU2tJeWxaTlh4OXN3QWs4VlVxMDQzbE9FUnc?oc=5",
-      "source": "Google News",
-      "date": "2026-04-18T07:00:00+00:00",
-      "snippet": "DeepSeek Seeks First Outside Funding at $10 Billion Valuation Unite.AI",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "b778d6396d5e",
       "title": "Effective Conversational AI Book: Detailed Review",
       "url": "https://noroinsight.com/effective-conversational-ai-book-review/",
@@ -6100,18 +5436,6 @@
       "category": "ai-news"
     },
     {
-      "id": "74eb889629a3",
-      "title": "Peterborough United Announce OnSide As Official Wellbeing Partner | Peterborough United - The Posh - Peterborough United",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUt1UWNmazRHbXBDNWIxWUJQcTZuMDBaamZMNlBRYzZBaTl5Mm5DMzZtX2dDNmQ3TlJfMlRQRDFUbG1RVkxCWXBOUG9TR29McU5BS1VxNy1qY3pQZjYxTVVJNlozZll5bEZWTGFuaHhBRFAweC1TUDRVdmJLei1DNUFOZ0lwUERXTDVISzR3dWJtWjh1d3c?oc=5",
-      "source": "Google News",
-      "date": "2026-04-17T07:17:22+00:00",
-      "snippet": "Peterborough United Announce OnSide As Official Wellbeing Partner | Peterborough United - The Posh Peterborough United",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "995fb7bb94f2",
       "title": "NCUA issues ninth round of deregulatory proposals - JD Supra",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0ZUQVhUOV9lY2lJd01YTERTWjRkR2VtTHl4a2hwTkRyYXN4cUN4cXoyVEFkdXVMRnpaM3Y4RGk4bHotN3dHSTE2UFRQaEZvTy1FcnRwNFQyeFRNMW84bmYtNVRXRUU0NmV6dENmZGRQaEhWUzR3TUVFZkk4UDFhd0xYQXp1N09CckE?oc=5",
@@ -6130,18 +5454,6 @@
       "snippet": "DTIF critiques NCUA’s Proposed Regulations to enact GENIUS Act Asset Servicing Times",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "2b64fd0fe97c",
-      "title": "Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdGZsbWFRRDNHbVZDRGg4Unh0b0ZHTzhvRElER2o2ajdMVUNmNExfblVxTUo2SUhLYjlvaGFWb0hUaFBUNlp3elYxTURGWWtuc2FMeWpvWUJ6cEZHM2lSV2xObmpjTGZ4UGdyaDV4dVItX2hjVFY2X2laNUVnUE1wOHBSU3pydUtwNmo2NDItblZfOFdfVm1aNllVclg2SWFrZnJUMGtGbTJtTG9WdlVLSXZpWVp2WElYMjg3N2N2b1Q2RWJUTUhRV3lGX1NaY1dhb2d4cXYxNnVxTjJQd1FwR3dJZjRXc19PclFRUTB6Qm02aEE?oc=5",
-      "source": "Google News",
-      "date": "2026-04-17T07:00:00+00:00",
-      "snippet": "Google AI Releases Auto-Diagnose: An Large Language Model LLM-Based System to Diagnose Integration Test Failures at Scale MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "032039614cf5",
@@ -6176,28 +5488,6 @@
       "category": "competitor"
     },
     {
-      "id": "55df04dfc929",
-      "title": "Cinia Taps Nokia for Real-Time Network-Wide DDoS Detection and Mitigation - The Fast Mode",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeHBpTF9TOHdPX2VwWVhVcVpRV19uY001cm16OWw2NWhQbmxST2JERUJuaG5UaF9FWUh6ZHBWc0NidXZua2dqYllaVHhia05NVEVSM3U5Q2dxdWZVOGVoNTVTSnVXYzZQZHNSVkFrYVhIWV9nbWsxQWpyT1IwYlhfSEIxdkQxX2ZuZjJHU0FFUFhIalUtdXlzZUszWVNiUUhrdkdOdlkzVGJkUGc3bXFCaDBJNmNucC1wVVJNSGlOQnVPcE1rMDQ4?oc=5",
-      "source": "Google News",
-      "date": "2026-04-17T01:54:51+00:00",
-      "snippet": "Cinia Taps Nokia for Real-Time Network-Wide DDoS Detection and Mitigation The Fast Mode",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "6033fbb8af18",
-      "title": "SI Units for Request Rate (2024)",
-      "url": "https://entropicthoughts.com/si-units-for-request-rate",
-      "source": "Hacker News",
-      "date": "2026-04-16T08:42:05+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "c769863947c5",
       "title": "Kasisto Tech - 2026 Funding Rounds & List of Investors - Tracxn",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2RMS1hQM3lEcjdpckpKano0UmJ0dllTSWlKTnU3a0NoMktHUW5oalJOWFBRTkp5ZExCLTdndFd5S3VWX3dyYTFmY1IwX2o3NHlBZDdGYk5zSmZLRTU3ZXU2ZTdVcTZfbHktcmdlekRLVmhLX3RIRHFTaVUwVXVyRXZER0VGRW9VX0JPcEFmVUNTdUZfZFBYckhlV09INGRSMHpEanRkVHh6bGs4ZEFF?oc=5",
@@ -6210,42 +5500,6 @@
       "category": "competitor"
     },
     {
-      "id": "3a2e59b77179",
-      "title": "OpenAI Launches GPT-Rosalind: Its First Life Sciences AI Model Built to Accelerate Drug Discovery and Genomics Research - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU1B0TlcyUXdja1gzV3JzVXI1UVhaenRFZlY3YVRHdVpmN2RpLVBmVGpkcHozSG1hbk5FcE1nNnRMbEYweVpjRkw2MXFaYVhqOHBKSjVudEEzRW1LV1dpdFF6NV9haWRqRXJpRUNrUHFMWEtFbHFJX0NmcElpVFRxSTBNZkJjN2FpT2pYVnNkcw?oc=5",
-      "source": "Google News",
-      "date": "2026-04-16T07:00:00+00:00",
-      "snippet": "OpenAI Launches GPT-Rosalind: Its First Life Sciences AI Model Built to Accelerate Drug Discovery and Genomics Research MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "2b93f1acf845",
-      "title": "Top 10 Companies Hiring AI Engineers in Israel in 2026 - nucamp.co",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEpiaElrbExmV3JwYVB0SGExdXk5TGF3eFY2ZDY1RHpEQk5VNGJGRzVGUDQwbUNjZko0Y1BUUVIwUXUzdmxNcWdNbnlLYm9pX1VqZ05NV1o3S0FqVVJKZDlVMVdSSktGbnR3Qi0wRldhUkRjQVRST19uM2ZWc0sxcmd2cUtqM2JIQkNVd3Z3ZEU3UFh6aE5YZ0lCOHMwMGt1bHFwRUsybEM?oc=5",
-      "source": "Google News",
-      "date": "2026-04-16T07:00:00+00:00",
-      "snippet": "Top 10 Companies Hiring AI Engineers in Israel in 2026 nucamp.co",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "eac8c2859216",
-      "title": "AI and European Offices: Separating Hype from Hiring Reality – April 2026 - Savills",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGUkFjY0lqVmJ5WVhHWGdOTnFKNlpmX2V6bnozU0tOWnFGdFlkaTgzOHQ5dlA1QjB3Qi1QZFQxUUhacmI4M2pZeV9tcjNsZHBQbDJEZ2hWOGMwaExVZ1JYdnp2SzlyQ2d3QlY0?oc=5",
-      "source": "Google News",
-      "date": "2026-04-16T07:00:00+00:00",
-      "snippet": "AI and European Offices: Separating Hype from Hiring Reality – April 2026 Savills",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "3234338a2894",
       "title": "Show HN: Flint – A 30B model fine-tuned for less repetition",
       "url": "https://springboards.ai/models/flint-alpha",
@@ -6254,28 +5508,6 @@
       "snippet": "As frontier LLMs have very little output diversity even for open ended queries. We built Flint to see if we could reverse this. It’s a finetuned Qwen3 30B model specifically trained to produce higher entropy when asked open ended questions. Flint significantly increases the NoveltyBench score compared to the base mode…",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "40e2904f02e0",
-      "title": "Object Oriented Programming in Ada",
-      "url": "https://entropicthoughts.com/object-oriented-programming-in-ada",
-      "source": "Hacker News",
-      "date": "2026-04-15T16:25:08+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "918ab3382e97",
-      "title": "Google AI Launches Gemini 3.1 Flash TTS: A New Benchmark in Expressive and Controllable AI Voice - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSFVXY3Z3RHpONDlZRmpINW1MT0swT2E4MGVBMHdMVXVUQUFzMmRwMUR2T09sazN5bHFzMUp2QkFTcjJDYXNlREdQTHVlVktvZXY0bnhrZExmUGJUMGwtQUxUcFNHeWcyOTFNUU9aUlRXdmlHYlUxZFlFOFdtZFQ0Tzh2TlBFTWQ1NXFuOTM5WTF3TmFHblNMTEp5NnJUQndRajM2RHlVOVFNMS1vMG1sM2IzNVpRS1g5UDJEcko0bWJKdW5BQWlTV2VURy1wbXZrWkE?oc=5",
-      "source": "Google News",
-      "date": "2026-04-15T07:00:00+00:00",
-      "snippet": "Google AI Launches Gemini 3.1 Flash TTS: A New Benchmark in Expressive and Controllable AI Voice MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "20bf43f96a47",
@@ -6328,30 +5560,6 @@
       "category": "regulatory"
     },
     {
-      "id": "34a8f4bd6cf5",
-      "title": "TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, and Agent Under One API Key - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGpiUUU4UWZuRDUtMzdYcEc5Mk5CSDlZVmZSb3dtN3JEUUxhMDBnaVRWenF5a3FBekNvWDQzUVhNcFVlaXZ1ZE93LTlSWWtKeFBJNWR4YkluRkhPUlNJcTlLTUdDbjF2R0pwYzV1MUtFZFNzNmlqNlVHMG91WXhYbG40UndKdldfWjNmV1RKMnhidGl0UjBKWGFvOXFLWERMSzZSRzJKNFIxeV9U?oc=5",
-      "source": "Google News",
-      "date": "2026-04-14T07:00:00+00:00",
-      "snippet": "TinyFish AI Releases Full Web Infrastructure Platform for AI Agents: Search, Fetch, Browser, and Agent Under One API Key MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "efb99021a06c",
-      "title": "Google Launches 'Skills' in Chrome: Turning Reusable AI Prompts into One-Click Browser Workflows - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3hoVlliZmFlaVQteGE1ZTRSZ3Ftd0VtbnJiNTdNa3plM0YtWmhCTXp0cHBUZFlwVVE2MS1ZMWxkZmh2eWlpTVBkVU5MaHlOMTR0UmxSWE9pS2dvb3RGOE45SHFuNVJOM29RYlZLMDBESXVydVFiS1JuOUFwUHg4V1RydFRVb2hIZ3hRTmlzbnV5QzFpYkFlaG5ZS2YwcW9QT3J6R1psdXZOdXdwcEZKMDhoVk1YNFhqSk9kcFJTcW8xX19DWEFXM0ctQzR4T1E?oc=5",
-      "source": "Google News",
-      "date": "2026-04-14T07:00:00+00:00",
-      "snippet": "Google Launches 'Skills' in Chrome: Turning Reusable AI Prompts into One-Click Browser Workflows MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "02a90f12cc12",
       "title": "Oracle Financial Services Extends Agentic AI Platform to Corporate Banking - Oracle",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGUwLUkyRFRtYWdEZ0hTOUFXV2RNT2wwcktDaGY1bHZKSWpsa3Z3dUh5OU1ncnRMU2QyWDZ6R1J1ZkUtYUFJd0dTZ212SHViMkhNSURaQTBvWVNVQkJFUzc3V0VzT3JIZFJkbjBFbVR4MGx1eVR1WEFxanZUUmwtT1JKYnVuV011VC1PNk1meDZZc0hIQlJ3VFZQU2gzM0hmRG92Q2xQNVhFejhWOHVJVE1Qb3lGZTAtWHUyWmRWTXI2U0RzcVE?oc=5",
@@ -6390,30 +5598,6 @@
       "snippet": "ABA Warns NCUA Against Finalizing Stablecoin Application Rule Too Soon CUToday",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "0b6791d864da",
-      "title": "TCS Nashik case: NITES approaches labour ministry, seeks POSH compliance audit in tech firm - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTk1nc05BNUZtTHp1WGw5OGhCVzJGRUdTNmtIWGd4VUFCUWRGUm1oc0xyNnpRV3VrbElMR2QxS2Zia296Y1ZsZVRoS0xqVldMNFY0a29DbWxRX3hQYXYtM3dWc0FlQ3Y5eUJZdGpnQUQtUGFJZWx5em9zRGlTUnVBXy1EcEZjMXMycnJPNEJrOG5TbWxJM3FiRWJUTEFYRlRYMnhOdWt4V2FJQTJQZmlqelF4Y2RXQ1ZvLVJmOWstclM1SW9ralVrLS1sOV9RdWJFSnN2REliTkJXd2ZCSHJVU2lFOGRZZ1ZsYjFLQmlGYXZHblZrTy1mONIB_gFBVV95cUxNS24xVjFlalFnaTNCbXFoTkMwMHdsRUZQOG9HY2ZTQjN5OUFHUkl1YTdVbWFvVmZGcVVOSGQzSmFMZnJCSEhNdUxQdXBhUHNSVnpOWDVuXzgxa3Y5ck92cW8wY2RTS2d6a2txTnlYRkw5ZUtYUXU5dnJ4M29QWWdhTHluZnotVkhFeGxFaHNOdzRtdHBMQ0hPMERoNEc3NldRRW81SHFSQzQyeG1zckpWeWJaMXdjd1BWWWZsNC1lN3NGS3B5WmgyZl9mVVJBcjlCSm5KWC00MUFQRUZxWE1tYmVoaV81aWlfeEFrcHhqWWt6RmNnTHBWaUFnRVZDUQ?oc=5",
-      "source": "Google News",
-      "date": "2026-04-13T07:00:00+00:00",
-      "snippet": "TCS Nashik case: NITES approaches labour ministry, seeks POSH compliance audit in tech firm The Economic Times",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "89a2aca74b2d",
-      "title": "Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinking - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWW5CM3NuRWZEYmNEVk5MVy1EX3ZQNGVubGt2cWlxMFVKQUxmUmdOZnJKQmhISHpLWWlSc3N1NWhBdUJxZ2hkNlNKLXA4Uk5ZQ2JJSmQ5RmtCcUt4azQ1cHN6THZvTkJuR1RkMEFNbHFlcHpSXzBMSmNZempYUHhQMDIxVkdjOUFlOTI4WFY2NEpJNnpSUFBSNmVMRmlWTFlhR1JTbTFnM08yQ09oSGtRamV0X05scWhXalBZMFVUNkhxTWJFRGMyc0FrT0RsWmFUREFlQmR2dHZKRTVRVm9HXzkwVmFwOS03b0J4RG5ua0M?oc=5",
-      "source": "Google News",
-      "date": "2026-04-13T07:00:00+00:00",
-      "snippet": "Google AI Research Proposes Vantage: An LLM-Based Protocol for Measuring Collaboration, Creativity, and Critical Thinking MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "352d89f3bcf7",
@@ -6456,54 +5640,6 @@
       "category": "ai-news"
     },
     {
-      "id": "3ae0a6cba1c2",
-      "title": "Top 10 Most Used AI Tools in the World (2026) – Best AI Tools List - Business Outreach Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LelV5SGtZcGxJdVpOdEYxVF9IRnZSa1VwUTRka0hPTzRoNXpwazBWaFRJTEY3bFRwekhvWk8zV1IxUi1XZWxPNjNSYTFidTQxUGZwUkpQUlJFSVE4bkFTUDNyZHZ1blh1?oc=5",
-      "source": "Google News",
-      "date": "2026-04-11T07:00:00+00:00",
-      "snippet": "Top 10 Most Used AI Tools in the World (2026) – Best AI Tools List Business Outreach Magazine",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "df0dea061528",
-      "title": "Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model with Bounding Box Prediction, Multilingual Support, and Sub-250ms Edge Inference - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNenRRM0J5LVlnWi1LSWthalNnSFFfV29MZXVXWjZkdTFiY3YtUlROWW9yaWZONmc1LUVnTVFXRlNUVXpyQm04RElMR3JLYUJBUGhCcjZlZlFLaTFsbE5LYzZaVTYzcVBPWDhoaVUyV0VjNXlFR2kzWmI0ZV9uWVpscW1wdWdmVUMtQkhQVHA1X2xLMFZMRkplYlJZM2taSmpKcy02RnN6VTNXOWdHa01kU0k5MFo2WUotTU9QNHZlbURjVG5tUEdWaHJqY0wzNlJKWFgxeHlZenNCTlhwSjBXSE1uWG9Nc0kwTXZSN2cwWjlER2xrMmhRekE5aUJCbVNSWjFYTjdFRDRxdlgxLUQ3cXpEV3hrQjYtNHVOaQ?oc=5",
-      "source": "Google News",
-      "date": "2026-04-11T07:00:00+00:00",
-      "snippet": "Liquid AI Releases LFM2.5-VL-450M: a 450M-Parameter Vision-Language Model with Bounding Box Prediction, Multilingual Support, and Sub-250ms Edge Inference MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "b40945a68c6b",
-      "title": "AI Meetups, Communities, and Networking Events in Cyprus in 2026 - nucamp.co",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamZKa1YyMjRqejcxWHhJaGxTcFBlaTJMS3UweVplUUY3aTNfaF9MbzVWcUVtZEhuYXlPNWV4anl5MXFxVTE4cXk0TFVRQmg0ODN5aE9Zd3VtS0dFY2FzSkkzelNENnJuRUZrV190NGF1aGJ3NHpmeDJjckhRbm5rSnViQkpxUm1heGFKMHBPaFo2OXprd0F2V3dMVjV6N3ZLSGs1QU5EZG8xZW5tcno0?oc=5",
-      "source": "Google News",
-      "date": "2026-04-11T07:00:00+00:00",
-      "snippet": "AI Meetups, Communities, and Networking Events in Cyprus in 2026 nucamp.co",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "3b650b92c2e3",
-      "title": "Revolut Launches AIR, An In-App AI Assistant, to 13 Million UK Customers - FinTech Weekly",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3M3YlNHQkIydlE0anNFd29MbFNuWGowUWpCNTBQeTVqR3UwTEJnU3I4TU1iOURTYklKYWNxSDc5M0VEbmtvalFUUnNlY0puTklONWhBR3owR0xDdVFSdHFPRGdQVEdoZVl6MTJ6U3NlN2psY1ZpcW1COGFLZS1PV0dsNUs2ODhnZm15TUF6bmctby1FOXRWbFJYNEQ5Zw?oc=5",
-      "source": "Google News",
-      "date": "2026-04-11T02:02:00+00:00",
-      "snippet": "Revolut Launches AIR, An In-App AI Assistant, to 13 Million UK Customers FinTech Weekly",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "32fdb265dc17",
       "title": "Show HN: PyClaw",
       "url": "https://github.com/venkatram-s/pyclaw/",
@@ -6512,42 +5648,6 @@
       "snippet": "A lightweight Python-based AI assistant in alpha stage with conversational capabilities and task management via CLI Contributors are welcome!",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "0a22d3e3cc0d",
-      "title": "Firms partner to drive AI adoption in Africa - Vanguard News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVXlXTDFaRVQ1NHNsOVFBR21TUGV2Skh4cWtqOHljb2dvUnZvbWRWOGVrUTBBODVmeXIxWmlMaGU0aks5bm5Bc3dyTzlFd25IdDAySjVKMG9HT1RLOVcyTnFFaHA1ZkNWc3U1MEZocUR2d0tmRmFZTkxhc0g0YzNnZnFzLVAwRHN10gGOAUFVX3lxTE5YVEpzbzY3WmJ1X0JCYXlEdzljXzVrQk5YOF9iRTRzYVhrNEt1YnE4ZzlCMXVNWGdFX3JEZTVDWG9neHg4SUdxUlRNUGlhMkIzcy0yZjFKZ3BYay1KRUtnMHAxWElCUFc2eDBvM3Q3OTdTQUVBY0R6SndOTWg0ZXdQSGVHSU9ORlkycmJCQ1E?oc=5",
-      "source": "Google News",
-      "date": "2026-04-10T07:00:00+00:00",
-      "snippet": "Firms partner to drive AI adoption in Africa Vanguard News",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "248d1b637a27",
-      "title": "InnoPower Africa, Luma Learn Partner To Scale AI Access Across Africa - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVktNVo3em96WGo3aHFhdmFGMGNfR3VhNGUzMHZjaVRXVzlkMEN3bTAxeVZaVUtKY2xJOFNrY0hxVGJOMWFIQ2R2Vk14a3BaYk8xTWRrSlJmZW9KLUd6a01sS0pucVNOWkFLZEp5QnVfblN0NVhfeWF3NnozOEZfYWlXRFpCeWJFbGtKTUFObTR5RmJGRlE?oc=5",
-      "source": "Google News",
-      "date": "2026-04-10T07:00:00+00:00",
-      "snippet": "InnoPower Africa, Luma Learn Partner To Scale AI Access Across Africa LEADERSHIP Newspapers",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "3b635af4cb78",
-      "title": "Bank of Punjab and Office of AI Partner to Accelerate Digital Growth in Punjab - ProPakistani",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXdfdXZUMnBFYkFlYlJKOUZ5bjZzUm5rTS1Fb2RkWkhwRlF5Qlp6RnVROWd4eVRCSXo3OXVQUEZFYW5WMVAtdWhoSklqWFBRSHJaWnZfaTA4WjVES09uR2V1Qnd1cldRbkRWTVFUQWo2clpEc2kwRkhHbURIcnoxdzRCbHpmTHNfX2Z5dEhzN19iUURTN0ZnWElOdFpya3JuQm95V1cyT0tjQVIwOU9mV2xvQWvSAboBQVVfeXFMTk9XU3hjNmo1WHhkbUFPOHl1dVZlSHhYMnBnRjRRcnA0UFhWVmlHWEpRbWpEdXVDbzlIYUlQYWw3OXdtWVNnZGU2Sm9jQi1yM3FGQ2w5dW1iRklQRWd2OWp0ZDBzUDQtMTVEbmktcGllSllKVDlZeUhGd0NyRmtzTWRDZmNpbEdEM0YxWHFHYllkdVBsVHhHLURjYjRkOElNRC1rZElKazNvdmpHZWxPZ29FTFNpQlZ6WFRn?oc=5",
-      "source": "Google News",
-      "date": "2026-04-10T07:00:00+00:00",
-      "snippet": "Bank of Punjab and Office of AI Partner to Accelerate Digital Growth in Punjab ProPakistani",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "a6395b47aa27",
@@ -6572,24 +5672,22 @@
       "category": "ai-news"
     },
     {
-      "id": "8867a96f73bc",
-      "title": "43 Companies Hiring Account Executives - Built In",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84T2R2eW1ONlBTR3kzeVpyUWxWUnhBa3ByelFvUkM0QkZjUzZOZWdxSmVVU04yelJtbTkzbzQzcXZtSHF2aEpjS1ZCbkppZDdTLXpwZGtrZkhsaFdDTnBEV1BxN3kwLWI2TFQyUWpPNU4wUQ?oc=5",
-      "source": "Google News",
-      "date": "2026-04-09T07:00:00+00:00",
-      "snippet": "43 Companies Hiring Account Executives Built In",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "f6d9c46b7ed8",
       "title": "A Breath of Fresh AIR: Revolut’s Financial Literacy Chatbot - FinTech Magazine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjlKTHNUaERzN1JjOEtpeUpidVJXSUJtR0RkeFV0WkpPNXpGM0FUdi1wRFQ2VFc0LUFvdTJUUzlSZVJCZkJVUWZsczI4a1lDZ3YzWnNheFBDbkdlNkJCQXdLTUdWbW1PcXFIUUpNLUVWX0RxcnExMlZQWDExcGpiVkl1N3ZIZVl3eVpsMmhfZWVPWmJk?oc=5",
       "source": "Google News",
       "date": "2026-04-09T07:00:00+00:00",
       "snippet": "A Breath of Fresh AIR: Revolut’s Financial Literacy Chatbot FinTech Magazine",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "ece7c2ac5665",
+      "title": "weya AI Releases Hush, Open-Source Tool to Filter Noise in Voice AI - Tech Observer Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekRKc0x5aVkyc3B3TjFTUEpJRllhX1kyNGdPT2JOVG1yM0ZpXzJVMDA2X1o0Y0ptV3p2alkxNjNud2N1R1lsSkJnSkdza3ZtazhuX3dJeW5zemp4YjNjRF9sdi10bXBoQzhaR3Q0MFVNMFR5eGEwZngyeXFKZG9NdnREcnVaSDjSAYwBQVVfeXFMTzJ3R3FXT3FTeVFuVlJhVXlmdkZrWldxa016TW5GS0lIc0I4ektDYWVKcnFiS1ZtZ1VBck53X21KdFpkS1FqQ0Y2bVZIM1l6TW9QQXdiaTJVRVloWHlaa3FGMWF3SFhNaDgtTVI2ckNYZ3l5VXJvckFUUXZaUDRTYWFSZHVoNHJwcm5WNFE?oc=5",
+      "source": "Google News",
+      "date": "2026-04-09T07:00:00+00:00",
+      "snippet": "weya AI Releases Hush, Open-Source Tool to Filter Noise in Voice AI Tech Observer Magazine",
       "competitors": [],
       "category": "ai-news"
     },
@@ -6604,45 +5702,21 @@
       "category": "ai-news"
     },
     {
-      "id": "00203033348c",
-      "title": "Readership Maths Skills",
-      "url": "https://entropicthoughts.com/readership-math-skills",
-      "source": "Hacker News",
-      "date": "2026-04-08T11:54:46+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "d407b96100ee",
-      "title": "Z.AI Introduces GLM-5.1: An Open-Weight 754B Agentic Model That Achieves SOTA on SWE-Bench Pro and Sustains 8-Hour Autonomous Execution - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWG1iSWoySDIwUGdFMV9hMGFHcEx4aTRfOFJBcXFCTURlOHNqd3VUMnJSWDhiS0ptSWVPaTRHakJmXzhFdGxPN3l1X0ZZXzZlVmF0NVRxRmlrc1R6c2Y2eEZXbGg3OXJQVGZWcjdZSGc3dUFueTM4Z1p4R2hsWDQ4M1FLV3lZS05nMWI2TUVwN1JuQ3FwYXUwSXhndmxJcHIzT2wzQ1JOMjFIM3d2NlFvc0NTdjc5VVhZTEJ6bEU1ZU9hTlhIVzZtbkdJRzA5WlVIa3hvaTZDU0hkcmpVa29CQXRQNDRaS3NBZFNkMlR4LWw5b3BFcHhzblREZUl1TURINmtCZVlR?oc=5",
-      "source": "Google News",
-      "date": "2026-04-08T07:00:00+00:00",
-      "snippet": "Z.AI Introduces GLM-5.1: An Open-Weight 754B Agentic Model That Achieves SOTA on SWE-Bench Pro and Sustains 8-Hour Autonomous Execution MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "7c4d09d146bd",
-      "title": "Infosys and Harness align to turn post-code execution gaps into a shared opportunity - CRN Asia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMS1nRmE4dFFGMkhZLTN4ck1PNUJXM3JuVzdHR1dXS2FHekM2TXBWc083VlNQY2F4US1HNkdVQklHalFxQnMxSmNxUEpBYjk5SXBwTU1OOUNYSHMzSnB5N2Y0dS1ZaURQUlZoSzB5dzFWY1gtaWlSVEFZMFoxMktTdE53eUF3RTJHU1lHeko5ZkFHdXJJY1pfSDFoX2VoM2JTeEZrMzRMLXZoZjIyY0x5ZzZpM0JfUjBKZWpXZGZLZ09Tdw?oc=5",
-      "source": "Google News",
-      "date": "2026-04-08T07:00:00+00:00",
-      "snippet": "Infosys and Harness align to turn post-code execution gaps into a shared opportunity CRN Asia",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "02fcfa1fa382",
       "title": "Part 1 of 8 – The Infrastructure Entropy Problem",
       "url": "https://www.planetform.io/blog/infrastructure-entropy-problem",
       "source": "Hacker News",
       "date": "2026-04-08T03:34:01+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "74f633986058",
+      "title": "Show HN: Visualize token entropy in a tiny in-browser LLM",
+      "url": "https://tonkotsu-ai.github.io/prism/",
+      "source": "Hacker News",
+      "date": "2026-04-07T19:57:12+00:00",
       "snippet": "",
       "competitors": [],
       "category": "ai-news"
@@ -6666,40 +5740,6 @@
       "snippet": "NCUA Proposes Membership Rule Change to Expand Associational Eligibility Credit Union Times",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "d182ea9c0d00",
-      "title": "FDIC, OCC, NCUA Propose Risk-Based AML/CFT Rewrite for Banks, Credit Unions - CUToday",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX05XbWNPWUtpdG8zdWFKVU1ybFVJTllJMmdLSzFnRHA2SkNMZ2xYY29WSjVCYTJ1VW1uV0pjZXFzM1NJMDRWZGExWHNuTE4xVHJKdXNWTll6UFpHbkJPbl8teUFvMEFZRVl0NE5raEhPOFFNR2VycDczZ2pxWlI0UkpHa0RhWkZBWG1ITE9HbHhRS1RXUXFQRlMyNXdHd1VRSDlBcXBoWjgwVW1NYnc?oc=5",
-      "source": "NCUA",
-      "date": "2026-04-07T07:00:00+00:00",
-      "snippet": "FDIC, OCC, NCUA Propose Risk-Based AML/CFT Rewrite for Banks, Credit Unions CUToday",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
-      "id": "1c0420923d0b",
-      "title": "The cybersecurity talent shortage narrative is wrong. The real crisis is what your team doesn’t know, starting with AI - Intelligent CISO",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdXZQeUxBZ2x4OWlWZ093WWZUQURqa2FBbnlVb1ZqR0Z0Nm4zQjFaYkJZSEdpWjJvVFZmTXl6enl1UmhPV3R2R3dQMTdGSXBoUGFRX21VRGljUU94czUtaXhyRFY1SS1vblRuS1lqTFZWcUpBQUlHVy1TUXFGVWhHSk9rTHkwVmduNllsV3FtZzBESXU1YTA4aWMxNmdLNHV3NTlTRzI5MnpXUEZ3MV91MHZnYW8xVFVvMEE1RThWUFVBSXRjd01ieHpNa0Zwc05uam9nQkJrN2UxNkV2Mm05TlhBOGhSaVdIbXF4MHBqRmU?oc=5",
-      "source": "Google News",
-      "date": "2026-04-07T07:00:00+00:00",
-      "snippet": "The cybersecurity talent shortage narrative is wrong. The real crisis is what your team doesn’t know, starting with AI Intelligent CISO",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "971c506e7f55",
-      "title": "How to write a job post that filters out the wrong people - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCZy13dUo0U1RsdmQyOV9jV2dlRTZVd2tvRDFjSlpVSFdOeEZBR010YjR1b0xkbGFfRndzRDV3OEg0MFZaSF9KalFUeF9oSXBMTGpWcnVuQTFWbVpiVlBNcnRreWZab2tSbDktVnJXRzlZNDhwbG02T3Z6SWM?oc=5",
-      "source": "Google News",
-      "date": "2026-04-07T07:00:00+00:00",
-      "snippet": "How to write a job post that filters out the wrong people New York Post",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "3eb23d21029e",
@@ -6732,16 +5772,14 @@
       "category": "regulatory"
     },
     {
-      "id": "7dd13ec69e80",
-      "title": "Germany's AI Powerhouses: Top 10 Companies Leading Innovation in 2026 - International Business Times Australia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjRDMmUyNFFOVlhIZVZsWUU5dVExeW9NUllpcW1JcFpPUU05WDZ2am5xbTJtaGtDa3M4a19pSC1QMFlfalRJbWVOenRmLWhNY2F4REIwVm1nMWJzd3piemRUeHc2LTRfQnR3Tkttc1J6NzVkdnRUSW1hTVdMVGJfbTBQX0lrMExUb2FnRFJPdTRfSk1hb3czLVB0LXV4bTd5?oc=5",
-      "source": "Google News",
-      "date": "2026-04-06T07:00:00+00:00",
-      "snippet": "Germany's AI Powerhouses: Top 10 Companies Leading Innovation in 2026 International Business Times Australia",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
+      "id": "db15ecb2b54f",
+      "title": "Emilia Britannia (public domain freedom mascot)",
+      "url": "https://github.com/Joy-less/EmiliaBritannia",
+      "source": "Hacker News",
+      "date": "2026-04-05T20:18:53+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "ef4ae471cead",
@@ -6754,6 +5792,16 @@
       "category": "regulatory"
     },
     {
+      "id": "b97308889e1d",
+      "title": "ARCHE3-7B – Sparse Moe with SmartRouter and Foundation Curriculum Training",
+      "url": "https://news.ycombinator.com/item?id=47628238",
+      "source": "Hacker News",
+      "date": "2026-04-03T15:54:02+00:00",
+      "snippet": "This is my first post on HN — a bit nervous, but excited to share what I've been building. I’ve been working on a 7B sparse Mixture-of-Experts prototype that can actually run on consumer hardware. For example, on a Colab T4 it uses around 5 GB RAM and 5 GB VRAM during training, and roughly 3.5–5 GB for inference. A co…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "5c2f1dc1ebee",
       "title": "Press Release: FDIC Issues List of Banks Examined for CRA Compliance",
       "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/40f0c1a",
@@ -6762,6 +5810,26 @@
       "snippet": "PRESS RELEASE | APRIL 3, 2026 FDIC Issues List of Banks Examined for CRA Compliance WASHINGTON - The Federal Deposit Insurance Corporation (FDIC) today issued its list of state nonmember banks recently evaluated for compliance with the Community Reinvestment Act (CRA). The list covers evaluation ratings that the FDIC…",
       "competitors": [],
       "category": "regulatory"
+    },
+    {
+      "id": "d4b952214981",
+      "title": "Cybernetic Entropy Control of LLMs",
+      "url": "https://github.com/orthogonaltohumanity/Cybernetic_Entropy_Control",
+      "source": "Hacker News",
+      "date": "2026-04-03T06:30:36+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "480c2a60e2ef",
+      "title": "Refactoring Is Not Heroism – An Information-Theoretic Proof",
+      "url": "https://github.com/HeinrichvH/articles/blob/main/building-with-ai/01-entropy-cycle/01-entropy-cycle.md",
+      "source": "Hacker News",
+      "date": "2026-04-02T07:17:20+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "76052d73576d",
@@ -6784,6 +5852,16 @@
       "category": "ai-news"
     },
     {
+      "id": "78137455a841",
+      "title": "Refactoring Is Not Heroism – An Information-Theoretic Proof",
+      "url": "https://github.com/HeinrichvH/articles/blob/main/building-with-ai/01-entropy-cycle.md",
+      "source": "Hacker News",
+      "date": "2026-04-01T13:10:23+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "10e28f4885aa",
       "title": "NCUA Releases 2025 Annual Report - CUToday",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KaTA2ZzZzRDZreW5tbkpPZ2UyV1ltS051OWptTkljaU41bDVkLTZZMEtkdDZNeGFUbXQ1aUhzVXhmUFdjQVFQN1RrcXF3TE42RjJPM1JZS19qMEF1SGltR093Y19zRGx4Wnp6M0JIbVNFREpWTFM3VQ?oc=5",
@@ -6794,30 +5872,6 @@
       "category": "regulatory"
     },
     {
-      "id": "64b0267e4c0e",
-      "title": "Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Capacity Agentic Engineering Workflows Everywhere - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSVNUZEpvbGppMWxIZnZDVzg2VUVSbm1DcDBEUVJ3bWRFMlZZSVNoLXRrZGNycjRFTHBBRURxNkVieFBDWXNXd1h3T1psTng5NnE5d1R1NGJyQkl3SGVxNC1mQm4wTE5JWjJTZ1pSQWhSZEdDbXVSWmlTcmQtUnphZXhhSG9rWUJoUEFJRURSdFROQS1aN3VKSVpIWDgzdHZUdm9xQXo3aFo4dGJ6SVhJb0R5a1hkdk0zMlY1NGxVRTl1MnlMUzYxcDRzVkVvOUhvX1U3ZFBNWE1Ddk1rY1phYmkzRDNLZnhvcEhQMUJfRlR1bWJ0dHdTZW5acHJuN3JmYkF5REEzYkM2Z2NyQjliY1gyVU5DaGNm?oc=5",
-      "source": "Google News",
-      "date": "2026-04-01T07:00:00+00:00",
-      "snippet": "Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Capacity Agentic Engineering Workflows Everywhere MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "a7409ac954bd",
-      "title": "Ericsson Delivers AI-Optimized 5G RAN for Virgin Media O2 Nationwide - The Fast Mode",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXpMUV8xMWtCR0UtUFdTbkgxeml3ZUdTOVhmQUI2SWg4b3U3cURWZmY0blU1eGFjX252bXE1elpyQXRnc01NdE0wUnlqenpKQXphbUFhSGpJVHlIdHdZZklPamJQMklGYmJERHM5SHFVdjJTNDAwRHNxN2p6blFvTnh3cXBacHZNdFNyVFVHMjlFRjdLc3JvRE9yaXFqb0M4Ul9ScFJ6T3lDTWJBQi1PcE1vSTkwVmJ0WnFZQmRnMmU?oc=5",
-      "source": "Google News",
-      "date": "2026-04-01T01:32:41+00:00",
-      "snippet": "Ericsson Delivers AI-Optimized 5G RAN for Virgin Media O2 Nationwide The Fast Mode",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "3c93ebf881a1",
       "title": "Financial Institution Letter: FDIC Consumer Compliance Supervisory Highlights",
       "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/4101448",
@@ -6826,30 +5880,6 @@
       "snippet": "FINANCIAL INSTITUTION LETTER | MARCH 31, 2026 FDIC Consumer Compliance Supervisory Highlights Summary: The FDIC’s Consumer Compliance Supervisory Highlights is an annual publication. Its purpose is to enhance transparency regarding the FDIC’s consumer compliance supervisory activities and provide a high-level overview…",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "0f72606139ff",
-      "title": "Posh: $37 Million Raised For Digital Ticketing And Event Management Platform Expansion - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3BLeEFQRkpaM083c1c3OGlTZ19BdnlWQkZCNTZaSm42bGdGdUFrTlRFMUphZGhIeUJuUExLVVBTZzFwM2t6RXh1WFhkUTJYX1hBbno3VThRd1N2RGNoWm1tU1hpdk5uNzZ4ZmlLNjdjN0hLUzEwaERpRkFqejZkMXVJSmYwcWxLMV9LTUMtSFVEaV9QRHhoRHdhQTEwTm9teUZvTWlaVdIBrAFBVV95cUxPSktFR2IwRHNPemxxaUc1czR4cGg5SVhTcG13STJuaWh6MmdSV25vWHdGV1lBYktDeG9WWjdDeUZXOU1kQXhvTVFKMFZpNGRiQ1dLUldRcjRkcUx6cFE0cW1uOUNCNHo0LTVxRlhBZlRmNEN0M1lINkVZN3J1czItc194YnFjOUN2aUg3aGdWQVlJMHpjTGk0S0xuei1ZTFRMVnhGWUt2UDU4VlI4?oc=5",
-      "source": "Google News",
-      "date": "2026-03-31T07:00:00+00:00",
-      "snippet": "Posh: $37 Million Raised For Digital Ticketing And Event Management Platform Expansion Pulse 2.0",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "0c40ef0a52fd",
-      "title": "J2O unveils posh sparkling duo to target non-drinkers - The Grocer",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWms5VV9uel9QczdVR1NWcFhKUlNJY0EtOW1yZ1hQN1JmTXdCZ2JzQ3MzTHc4Nmt2eE1JQmJjcEpva3l4R0h3Z0FxbnFvUFRCOW9CbzY4TUp5UklmSnVQREd5MXRNZnZfUFZPMTBXeGlJLS02LXJiUVV6YUdiLTNXa0FCejBieVFCLVJlN1czbFU5RkFDd2Q5U0toaVA0V1h2b3Nv?oc=5",
-      "source": "Google News",
-      "date": "2026-03-31T07:00:00+00:00",
-      "snippet": "J2O unveils posh sparkling duo to target non-drinkers The Grocer",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
     },
     {
       "id": "418160f8b456",
@@ -6872,62 +5902,14 @@
       "category": "regulatory"
     },
     {
-      "id": "eb679db763c6",
-      "title": "NCUA Rolls Out Streamlined Charter Application Platform For New CUs - CUToday",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTB6OVJqUG56eGhSVUVGTU1UdGM0RnV6bVBrUVdwWG1PTVRwZjU3UDNTLUcyLU5qeHZtZTF0MHA5MW9LcC1GckVaX2VCU3NzNGVCZlZIVXNrcERhU3RqMHZOc2RkVUhKbFE0WjJBMFdEM0M3ZkNKQVM3UVZoMmN3Um4td3l6aVBzdjItQnFrU3dpUllQblBGSk1LTVBxUUtZRzh6d05Zaw?oc=5",
-      "source": "NCUA",
-      "date": "2026-03-30T07:00:00+00:00",
-      "snippet": "NCUA Rolls Out Streamlined Charter Application Platform For New CUs CUToday",
+      "id": "d1a2e53bfa74",
+      "title": "Show HN: I built a Bitcoin signing device where the private key is physical",
+      "url": "https://frozensecurity.com/",
+      "source": "Hacker News",
+      "date": "2026-03-30T23:20:42+00:00",
+      "snippet": "The core problem I kept running into with hardware wallets: the private key exists as a persistent digital object inside a chip. It’s protected — but it exists. That’s the vulnerability. Protection fails; existence is structural. I built a different model. The private key is encoded as a geometric hole pattern in a ti…",
       "competitors": [],
-      "category": "regulatory"
-    },
-    {
-      "id": "ec3f5b45b471",
-      "title": "Glia Launches CoPilot, an Agentic Knowledge Partner for Every Banking Team - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNHNibnc5VjNIdlZyRE5PLTUxRDZ4U29XM19pWGNpRlBnQmViUUpzdzNkbnFPUnZObmZueVF4dTZDdjNRR04xeHEzWWktc3RvU1dwLXNTSV8yNllmU2lXR2Mwb09RaWFLVGU1YmpjNFpJckc3a0ZheFlNSXNfYXBya0NTY2xNWnZSQS1qNl8xTi0yaDBmb2FzbkJXRnkydGM2RGZray1teHdmZEZuTU5RelRNRnJQd1NkVmpSRHBnRHBTQXRzbHVIQ1RR?oc=5",
-      "source": "Google News",
-      "date": "2026-03-30T07:00:00+00:00",
-      "snippet": "Glia Launches CoPilot, an Agentic Knowledge Partner for Every Banking Team Business Wire",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "8b4685d069a0",
-      "title": "AI Product & Service Launches – 3/30/2026 - planadviser",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EMjhrTWJSNGc3aTFmLXI3UXBWbTZrbnZja29RV3AwWlhDV0s2VFkwVmd3T0tYM1N4eHpROEp6YjdreTExVXhndkE1aFVNM2N2S20zTUFCQXRVRHVsNDktM0hVM3VoZWd1X0NFVWdwMlR1OXNh?oc=5",
-      "source": "Google News",
-      "date": "2026-03-30T07:00:00+00:00",
-      "snippet": "AI Product & Service Launches – 3/30/2026 planadviser",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "fbf06492563c",
-      "title": "Palantir (PLTR) Stock Rises as Stellantis Extends AI Partnership to 2031 - CoinCentral",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaW8wTVJ3Ry00dHVPNlpHbkxPZjBycE4zd0szbW5qZzhvdjlKZFVJNkVvOXB0R1BUS2hTeWZ0QV9pWjY2ejdXaWo5U2pIVlJQVlZ6M0xRb091aVdMbEVoTWFfcGdhdXg5U2x1TXFqX2gyLXQ3MXkzZHdETlhFVHFkR2Z5bEZOTUc3ZUdFTEdWTW05ZHBVTWpWZUE2MA?oc=5",
-      "source": "Google News",
-      "date": "2026-03-30T07:00:00+00:00",
-      "snippet": "Palantir (PLTR) Stock Rises as Stellantis Extends AI Partnership to 2031 CoinCentral",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "89c78e4527ab",
-      "title": "Iconic 'Deccan Queen' Turns Posh As Railways Introduces Special Amenities For Passengers - ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUERfWWJrVU1sZHhET3VrNXZQY19tOGRKcU1pdVM5WHRnZEhBWFl1Nk1POHpsTHk0Y3BwU3A5YWdVNDdoMEF5Skt5cHZfMmFEdlFCM0UtUU9YQ1E2RFV5X2xxVF9Rc25PRTZuWmthdWpfOWFHbzZLUmdhOWpfbzMzSGNtaF9fb3pfM0pCYURnYi1kZ0NFSFFEZWR1aVExb2g0cFZDVElRblVJV0RLM0FmSjBOLXRpbktUcFVxbk1lNWtiVlRvRVAydU00NEhKdnZuMVY40gHYAUFVX3lxTE1YZ2tOdWRfZ0xwWVN1VGMwMDlNV2FTLVVTMmRQWGVzWHByaGNYYzhLdjd0WUQ2RnFUaWhrRnVCNlJYWEFMTVJuOTBWZWZfNzlZUlp6bW1NY3lIQ05na2g3Tm1XekdkNVZsUWpxUktrb05NNU90N0hoM2xld1huQ0EyanIyYWhSb193ckNhU2tlZ2kwX0hETjFvOUZSTXFGSElrcC1uT3FhNTNjVVc1SU1fQ2h5RG1mS3BBMENSUUJySkJoMVJaN2I2TWNjYjI5ZXJ5WENKRUt3Vg?oc=5",
-      "source": "Google News",
-      "date": "2026-03-28T07:00:00+00:00",
-      "snippet": "Iconic 'Deccan Queen' Turns Posh As Railways Introduces Special Amenities For Passengers ETV Bharat",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
+      "category": "ai-news"
     },
     {
       "id": "9272177b85d1",
@@ -6950,40 +5932,24 @@
       "category": "regulatory"
     },
     {
-      "id": "fd5b72d49c65",
-      "title": "Live Events Platform POSH Raises $37M Series B Funding Round To Apply AI To Support Organizers - afrotech.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSm50bFpsalFvaGliZU1CTU05RmF5WloxdldfU0tBc0JGanMxNEFoelJhQzF1cl9ZMEhmNnhsRmNGNERvTmNfMWxlRE5wdkhpcEg0a2QxQlN4WmJfbHQ1WkhEaldQTmk2eGdyYzI3bF9oNmVrekdIUjJMbnRRczVqQ21uWks?oc=5",
-      "source": "Google News",
-      "date": "2026-03-27T07:00:00+00:00",
-      "snippet": "Live Events Platform POSH Raises $37M Series B Funding Round To Apply AI To Support Organizers afrotech.com",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
+      "id": "c5d8bc72e6b8",
+      "title": "System Stability Protocol [REF-333]: Axiomatic Logic and Entropy Minimization",
+      "url": "https://archive.org/details/system-stability-protocol-ref-333",
+      "source": "Hacker News",
+      "date": "2026-03-26T17:03:40+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
-      "id": "d2825b431bfa",
-      "title": "Fortnum & Mason launches posh hot cross bun breakfast box, and how to DIY it for less - Good Housekeeping",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPckF6SDVPcFQtTHdabTVILUstRjNJNDJjNFNnbDMwYkVIRW9LSENCRUFKREFyYWFULUROZDJySTd1Nm9SckxiRFVWTEJVTW5nNm9IeUQxZG4yNG0tWGlqS1gzemU1dmwyeVgtY0J1WUxrSnlmWEJsM0hWWXg2UUxDX3VLVUFudk01TU51MG5sN0E2VXZlekFCYQ?oc=5",
-      "source": "Google News",
-      "date": "2026-03-27T07:00:00+00:00",
-      "snippet": "Fortnum & Mason launches posh hot cross bun breakfast box, and how to DIY it for less Good Housekeeping",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "d7d7ac11b570",
-      "title": "Exec Eventz Announces 'Testing for Tickets' Partnership with Bee Busy Inc. for Houston's POSH Tour Stop - Gaye Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMXlZb0U4b3l6Q1ZqdkRCZTBNay1RblF1RnBhVDlGbzEzc041RXdpRzZ6dEUxN2hIRHhqRUFXUGlyWTdobUphTURpRU1xS2gxOW0xU3AySDh2MXlkY2hFbkFFMV9vOVRRWkxZZ1pvdFRoNmdJUXlpZE1OQzlKalJBM1VnSW5PblJxNXZEcG9SX1gxaU5BZUlMdnFTbzZQR2tFUzRmakowOVp5cnhWdXRHUlZXYmVwdXJzSUZNbDF0SHc3T3Z5eEs2SQ?oc=5",
-      "source": "Google News",
-      "date": "2026-03-26T22:23:11+00:00",
-      "snippet": "Exec Eventz Announces 'Testing for Tickets' Partnership with Bee Busy Inc. for Houston's POSH Tour Stop Gaye Magazine",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
+      "id": "55568f0b4ba7",
+      "title": "Show HN: Sup AI, a confidence-weighted ensemble (52.15% on Humanity's Last Exam)",
+      "url": "https://sup.ai",
+      "source": "Hacker News",
+      "date": "2026-03-26T15:45:14+00:00",
+      "snippet": "Hi HN. I'm Ken, a 20-year-old Stanford CS student. I built Sup AI. I started working on this because no single AI model is right all the time, but their errors don’t strongly correlate. In other words, models often make unique mistakes relative to other models. So I run multiple models in parallel and synthesize the o…",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "417f797647dd",
@@ -6996,16 +5962,14 @@
       "category": "regulatory"
     },
     {
-      "id": "0434a5964124",
-      "title": "Cohere AI Releases Cohere Transcribe: A SOTA Automatic Speech Recognition (ASR) Model Powering Enterprise Speech Intelligence - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQc1JRTk5WTzFVYjg3S29KWGV5T3J1R0ZXV0FTUHphZTFMNjFOUVcxd0dtc3pvdUZwSDBVcUdhS0lYcFFKR1RudlAyN3MyWG1QRFNyd0xVN09JczcyRWZFREhRRzEyMjc3N191bkFLcmhxUXJ6dXN0MG14UjBwcnkzdjZENHN1aGw4a2FPekh3UlI1WWJBS2JnTFVhNWdtM0M1VkdpbFh4eEZqOWU2V293VkxuR05KS1UxeFJ5SXNPalZXdGxOMzB1b2pJWEFLY2hhV3c3bTBRYWpsSk5YTlJ5YmhiVlRkX2VjRlN1c1JRbmx0UEdBQnc?oc=5",
-      "source": "Google News",
-      "date": "2026-03-26T07:00:00+00:00",
-      "snippet": "Cohere AI Releases Cohere Transcribe: A SOTA Automatic Speech Recognition (ASR) Model Powering Enterprise Speech Intelligence MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
+      "id": "396fdb89d92d",
+      "title": "What Is Entropy, Really?",
+      "url": "https://mathoverflow.net/questions/146463/what-is-entropy-really",
+      "source": "Hacker News",
+      "date": "2026-03-26T09:07:08+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "291da980eb6e",
@@ -7026,54 +5990,6 @@
       "snippet": "Validate your design decisions instantly with AI insights Discussion | Link",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "aa5e6574db82",
-      "title": "Quorum and Glia Redefine Phone Banking With Always-On, Intelligent Voice Support - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT2xUMTVjdzVNN1VMdlBWNnR5NzgxU3BITjhQT3ppdWVFLWVzN2hsRXZRZllzUThyRGgtZHdPNXpVTUhPNGZHVld0TDg2Q2UtcG5LMjZaTTdPdFlCUGoxQmpjclNtRUNsSmxKTG1XYnhSTmR0RkRNdDU0VzFBVGstX1pnTVlkQzJ0dG51NS1fdEJTeFdsX3N6N0hPVHRoVTdBU2dCaFVDYTNFUjZDV0RxdmNkbzR4Z3ZBbVdzZm94N0hLeUdrUFgzYVoxWEJSUTFsMmc?oc=5",
-      "source": "Google News",
-      "date": "2026-03-25T07:00:00+00:00",
-      "snippet": "Quorum and Glia Redefine Phone Banking With Always-On, Intelligent Voice Support Business Wire",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "9fb45270dc84",
-      "title": "The Five Countries Capturing 90% of Africa’s AI Funding - Launch Base Africa",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTS0tZnV1V0FtYlZ5eUt0NWk2am5nUmtZajc5ZWROc3hhZVl5Mm1YRURZdkZOcFk4MktNM1RDcVd4cG1SRU55OXlsTVAyRnlxMTNiSkl6S25aMFZwVjJQUUhZdWhPZ1piaDlGQVVuQkJFMkppLUl4UVA2M3NlRUZnaTNSRkhhMU0tUW4zS1hxWlVGcWIxZDdaNVBn?oc=5",
-      "source": "Google News",
-      "date": "2026-03-25T07:00:00+00:00",
-      "snippet": "The Five Countries Capturing 90% of Africa’s AI Funding Launch Base Africa",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "c1eb1b0d2cbb",
-      "title": "NVIDIA AI Introduces PivotRL: A New AI Framework Achieving High Agentic Accuracy With 4x Fewer Rollout Turns Efficiently - MarkTechPost",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ0dWVWstakYzSW1JTnpVcWt5MWVuSEN0WUZMcjVCOWZMUWx3VV9KUlg0cWIxcGhkdFM5TVI3aVJkSEFvVWJKMGNWbEx0bmdmdEptZHlvRk1DNV9xbUZTQjJHcTV6UHZ3S3dmV2Z2cmF3ZUVmdlhyNGFxYUowYmE2ZFBGRXJNd2tiYVo2MGs1X3hEcE1wVEFNZHZkRTF2VnBtTFgzeEsxemJfSGd4cUdVQWJEbDVfeEM5bzFuRTRFRGYtWVZ3bk1obTJVVTFRUTQ3ZWZBYWdhckhlcjZJY000M1JyZll4OFlsdGZ0d2FfTnoyQQ?oc=5",
-      "source": "Google News",
-      "date": "2026-03-25T07:00:00+00:00",
-      "snippet": "NVIDIA AI Introduces PivotRL: A New AI Framework Achieving High Agentic Accuracy With 4x Fewer Rollout Turns Efficiently MarkTechPost",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "ed7a1983df22",
-      "title": "Top 10 Companies Hiring AI Engineers in Seattle, WA in 2026 - nucamp.co",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGJyWnBaSzFKUTlZbVFKTGxtcjZjSkh1dWU5V0U1ZmtUM1hEeHhqUDFvUGpzeEc3a2N0ZEZCZWdtYnRNc0FJVkI0U3Z5UlkxYldSY3BjM1BDMDc2V0l2WE45SFBhM09xelEzYnZUc3V4OGhLcTRueTlwTEY5NC1FaV90SDdYQVFBbmxtcUNnUlZYT3RCU2Y1WVc1TTB4amhZcEVxNFUxNndDZw?oc=5",
-      "source": "Google News",
-      "date": "2026-03-25T07:00:00+00:00",
-      "snippet": "Top 10 Companies Hiring AI Engineers in Seattle, WA in 2026 nucamp.co",
-      "competitors": [
-        "Active.Ai"
-      ],
-      "category": "competitor"
     },
     {
       "id": "19f84acac465",
