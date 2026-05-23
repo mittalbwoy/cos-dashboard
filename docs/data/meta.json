@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-23T18:17:13.272607+00:00",
-  "item_count": 523,
-  "competitor_count": 2,
-  "ai_news_count": 384,
+  "generated_at": "2026-05-23T19:06:49.101172+00:00",
+  "item_count": 560,
+  "competitor_count": 9,
+  "ai_news_count": 414,
   "regulatory_count": 137,
   "competitors": [
     "Eltropy",
@@ -17,11 +17,11 @@
   "sources": {
     "HN search: Eltropy": {
       "ok": true,
-      "count": 0
+      "count": 30
     },
     "HN search: Kasisto": {
       "ok": true,
-      "count": 13
+      "count": 10
     },
     "HN search: Posh": {
       "ok": true,
@@ -37,11 +37,11 @@
     },
     "HN search: Omilia": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "HN search: Gridspace": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "HN search: Born Digital": {
       "ok": true,
@@ -209,7 +209,7 @@
     },
     "Google News: \"Omilia\" launches": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Omilia\" hiring": {
       "ok": true,
@@ -237,27 +237,27 @@
     },
     "Google News: \"Born Digital\" funding": {
       "ok": true,
-      "count": 0
+      "count": 3
     },
     "Google News: \"Born Digital\" launches": {
       "ok": true,
-      "count": 0
+      "count": 2
     },
     "Google News: \"Born Digital\" hiring": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Born Digital\" partnership": {
       "ok": true,
-      "count": 0
+      "count": 3
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 12
+      "count": 11
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 7
+      "count": 10
     },
     "Google News: agentic AI bank": {
       "ok": true,
@@ -265,7 +265,7 @@
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 22
+      "count": 23
     }
   }
 }
