@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=3">
+  <link rel="stylesheet" href="styles.css?v=4">
 </head>
 <body>
   <header class="masthead">
@@ -36,6 +36,9 @@
     <button class="tab" data-tab="regulatory" role="tab" aria-selected="false">
       Regulatory
       <span class="count" id="count-regulatory">0</span>
+    </button>
+    <button class="tab" data-tab="roadmap" role="tab" aria-selected="false" title="Design decisions &amp; roadmap">
+      Roadmap
     </button>
     <button class="tab brief-tab" data-tab="brief" role="tab" aria-selected="false" title="Items you've starred">
       <span class="brief-icon" aria-hidden="true">&#9733;</span>
@@ -74,11 +77,76 @@
     <div class="empty">Loading&hellip;</div>
   </main>
 
+  <article id="roadmap" class="roadmap" hidden>
+    <header class="roadmap-header">
+      <p class="roadmap-eyebrow">Dashboard notes</p>
+      <h2>How this dashboard is built &mdash; and what it could become</h2>
+      <p class="roadmap-lede">A working brief on the data we pull, the sources we deliberately don't pull, and the next moves worth considering.</p>
+    </header>
+
+    <section class="roadmap-section">
+      <h3>What's tracked</h3>
+      <ul class="roadmap-list">
+        <li><strong>8 competitors</strong> &mdash; Eltropy, Kasisto, Posh, Glia, Active.Ai, Omilia, Gridspace, Born Digital.</li>
+        <li><strong>6 banking regulators</strong> &mdash; CFPB, Federal Reserve, OCC, FDIC, NCUA, Treasury. Foreign-policy items (sanctions, Iran, tariffs) are filtered out.</li>
+        <li><strong>Industry coverage</strong> &mdash; TechCrunch AI, Finextra, American Banker, Product Hunt AI, Hacker News, Google News.</li>
+        <li><strong>Refresh cadence</strong> &mdash; daily at 07:00 PT via GitHub Actions; data commits straight back to the repo, the site picks it up automatically.</li>
+      </ul>
+    </section>
+
+    <section class="roadmap-section">
+      <h3>Constraints &amp; how to overcome them</h3>
+
+      <div class="roadmap-card">
+        <h4>Twitter / X</h4>
+        <p>Not currently a source. X's API requires a paid plan starting at <strong>~$100/month</strong> even for read-only search. Free scraping is rate-limited and blocks our automation IPs.</p>
+        <p class="roadmap-resolve"><strong>How to enable:</strong> sponsor a basic API seat ($100/mo) or wait for X to restore free read access. Adding it would re-introduce live conversation from analysts and AI-Twitter.</p>
+      </div>
+
+      <div class="roadmap-card">
+        <h4>Bluesky</h4>
+        <p>Attempted, then pulled. The public search endpoint now requires authentication; even with credentials, the signal-to-noise on competitor names was poor &mdash; short posts containing words like "posh" or "active AI" leaked into the competitor feed.</p>
+        <p class="roadmap-resolve"><strong>How to enable:</strong> two paths.
+          <strong>(a)</strong> curate a list of follow-accounts (analysts, vendors, banking AI thinkers) and only pull their posts &mdash; trades breadth for precision.
+          <strong>(b)</strong> add a semantic-relevance step using an LLM to filter Bluesky posts before they enter the feed (~$1/month at current volume).
+        </p>
+      </div>
+
+      <div class="roadmap-card">
+        <h4>Reddit</h4>
+        <p>Reddit blocks our automation's IPs at the API layer. We currently route via a public mirror (pullpush.io), which works but adds a delay and depends on a community-run service.</p>
+        <p class="roadmap-resolve"><strong>How to harden:</strong> move to Reddit's own OAuth flow &mdash; free, but requires registering an app and storing two more secrets. Worth it if pullpush starts to fail intermittently.</p>
+      </div>
+
+      <div class="roadmap-card">
+        <h4>Competitor blogs</h4>
+        <p>Most competitor blogs aren't on standardized RSS paths. Today we pull from Omilia, with the rest as TODO &mdash; their site search/feed URLs need to be probed one-by-one.</p>
+        <p class="roadmap-resolve"><strong>How to fill in:</strong> for each competitor, find their actual blog URL (Eltropy, Kasisto, Posh, Glia, Gridspace, Born Digital) and add the verified RSS URL to <code>COMPETITOR_BLOG_FEEDS</code>.</p>
+      </div>
+    </section>
+
+    <section class="roadmap-section">
+      <h3>Possible enhancements</h3>
+      <ol class="roadmap-list">
+        <li><strong>AI daily brief at the top.</strong> Claude reads everything we pulled and writes "3 things you need to know today" in plain English. ~$1&ndash;2/month in API calls. Highest leverage: turns a feed into a briefing.</li>
+        <li><strong>Email or Slack digest at 07:00.</strong> Same content auto-delivered before your standup &mdash; you scan before the dashboard ever opens.</li>
+        <li><strong>Customer-win tracker.</strong> Dedicated pattern match for "[Competitor] signs [Bank/CU]" across all sources, surfaced as a separate sub-tab.</li>
+        <li><strong>Hiring velocity tracker.</strong> Scrape competitor /careers pages; new conversational-AI engineer postings are a leading indicator of where they're investing next.</li>
+        <li><strong>Earnings call mentions.</strong> Bank and CU earnings transcripts (via Seeking Alpha / Capital IQ) often name vendor partners. Surface every mention of our competitor set.</li>
+        <li><strong>Sentiment over time.</strong> Track tone of social/news mentions per competitor as a small chart per item set &mdash; useful for spotting momentum shifts before they're newsworthy.</li>
+      </ol>
+    </section>
+
+    <footer class="roadmap-footer">
+      Built and maintained by your Chief of Staff. Source &amp; cron at <a href="https://github.com/mittalbwoy/cos-dashboard" target="_blank" rel="noopener">github.com/mittalbwoy/cos-dashboard</a>.
+    </footer>
+  </article>
+
   <footer class="footer">
     <span id="status-summary">&mdash;</span>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
-  <script src="app.js?v=4"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>

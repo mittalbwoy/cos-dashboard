@@ -122,10 +122,22 @@ REGULATORY_FEEDS = [
     ("OCC",              "https://www.occ.treas.gov/rss/occ_news.xml"),
     ("FDIC",             "https://public.govdelivery.com/topics/USFDIC_26/feed.rss"),
     # NCUA + Treasury don't expose public news RSS — use a Google News
-    # exact-quote search as a proxy so we still see major policy moves.
-    ("NCUA",             "https://news.google.com/rss/search?q=%22NCUA%22+(press+OR+enforcement+OR+rule+OR+chairman)&hl=en-US&gl=US&ceid=US:en"),
-    ("Treasury",         "https://news.google.com/rss/search?q=%22U.S.+Treasury+Department%22+(press+OR+enforcement+OR+sanctions+OR+ruling)&hl=en-US&gl=US&ceid=US:en"),
+    # exact-quote search as a proxy. Treasury query is scoped to domestic
+    # banking topics (FinCEN/banks/consumer/fintech) so we don't surface
+    # foreign-policy / sanctions / Iran items.
+    ("NCUA",             "https://news.google.com/rss/search?q=%22NCUA%22+(credit+union+OR+rule+OR+chairman+OR+supervision)&hl=en-US&gl=US&ceid=US:en"),
+    ("Treasury",         "https://news.google.com/rss/search?q=%22U.S.+Treasury%22+(bank+OR+FinCEN+OR+fintech+OR+consumer+OR+AI)&hl=en-US&gl=US&ceid=US:en"),
 ]
+
+# Block-list applied to regulatory items: drop anything that looks like a
+# foreign-policy / international affairs piece. The CEO cares about US
+# domestic financial regulation, not Iran sanctions.
+REG_FOREIGN_BLOCKLIST = (
+    "iran", "iranian", "russia", "russian", "china", "chinese",
+    "north korea", "venezuela", "syria", "ofac", "sanctions",
+    "foreign currency", "exchange rate", "tariff",
+    "hamas", "hezbollah", "kremlin", "putin",
+)
 
 GOOGLE_NEWS_AI_QUERIES = (
     "conversational AI banking",
@@ -366,13 +378,19 @@ def fetch_competitor_blog(name: str, url: str, competitor: str) -> list[Item]:
 
 
 def fetch_regulatory_rss(name: str, url: str) -> list[Item]:
-    """Wrap fetch_rss but force category='regulatory'. Bank regulators
-    publish dense, on-topic press releases — no relevance filter applied;
-    show everything they post."""
+    """Wrap fetch_rss but force category='regulatory' and drop foreign-policy
+    items. The CEO cares about US domestic bank/CU/fintech regulation, not
+    Iran sanctions or tariffs even though they technically come from
+    Treasury / Federal Reserve feeds."""
     items = fetch_rss(name, url)
+    kept: list[Item] = []
     for it in items:
+        text = f"{it.title} {it.snippet}".lower()
+        if any(kw in text for kw in REG_FOREIGN_BLOCKLIST):
+            continue
         it.category = "regulatory"
-    return items
+        kept.append(it)
+    return kept
 
 
 def fetch_rss(name: str, url: str) -> list[Item]:

@@ -430,6 +430,99 @@ select {
 .copy-id:hover { color: var(--accent); border-color: var(--accent); }
 .copy-id.copied { color: var(--accent); border-color: var(--accent); }
 
+/* ---------- roadmap (CEO-facing dashboard notes) ---------- */
+.roadmap {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 28px var(--pad-x) 80px;
+}
+.roadmap[hidden] { display: none; }
+.roadmap-header { margin-bottom: 28px; }
+.roadmap-eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 8px;
+}
+.roadmap h2 {
+  margin: 0 0 10px;
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: -0.018em;
+  line-height: 1.25;
+  color: var(--text);
+}
+.roadmap-lede {
+  margin: 0;
+  font-size: 15px;
+  color: var(--text-muted);
+  line-height: 1.55;
+}
+.roadmap-section {
+  padding: 24px 0;
+  border-top: 1px solid var(--border);
+}
+.roadmap-section h3 {
+  margin: 0 0 12px;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  color: var(--text);
+}
+.roadmap-list {
+  margin: 0;
+  padding-left: 22px;
+  color: var(--text-muted);
+  font-size: 14.5px;
+  line-height: 1.65;
+}
+.roadmap-list li { margin: 4px 0; }
+.roadmap-list li strong { color: var(--text); font-weight: 600; }
+.roadmap-card {
+  border: 1px solid var(--border);
+  background: var(--bg-elevated);
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin-top: 12px;
+}
+.roadmap-card h4 {
+  margin: 0 0 8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+}
+.roadmap-card p {
+  margin: 4px 0;
+  color: var(--text-muted);
+  font-size: 13.5px;
+  line-height: 1.6;
+}
+.roadmap-card p strong { color: var(--text); }
+.roadmap-card .roadmap-resolve {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px dashed var(--border);
+}
+.roadmap-card code {
+  background: var(--accent-soft);
+  color: var(--accent);
+  padding: 1px 5px;
+  border-radius: 3px;
+  font-family: var(--mono);
+  font-size: 12px;
+}
+.roadmap-footer {
+  margin-top: 28px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+  font-size: 12px;
+  color: var(--text-faint);
+  font-family: var(--mono);
+}
+.roadmap-footer a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
+
 /* ---------- brief toolbar ---------- */
 .brief-toolbar {
   max-width: var(--maxw);

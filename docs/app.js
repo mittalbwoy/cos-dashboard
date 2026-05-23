@@ -256,13 +256,21 @@ function populateSourceFilter() {
 function render() {
   const isBrief = state.tab === 'brief';
   const isCompetitor = state.tab === 'competitor';
+  const isRoadmap = state.tab === 'roadmap';
+
+  // Toggle the static Roadmap section vs the dynamic items list.
+  document.getElementById('items').hidden = isRoadmap;
+  document.getElementById('roadmap').hidden = !isRoadmap;
 
   // Show/hide the competitor filter row + brief toolbar based on tab.
   document.getElementById('competitor-row').style.display = isCompetitor ? 'flex' : 'none';
   const filtersSection = document.querySelector('.filters');
-  filtersSection.style.display = isBrief ? 'none' : 'flex';
+  filtersSection.style.display = (isBrief || isRoadmap) ? 'none' : 'flex';
   const briefToolbar = document.getElementById('brief-toolbar');
   briefToolbar.hidden = !isBrief;
+
+  // On the roadmap tab there's no list rendering to do.
+  if (isRoadmap) return;
 
   // Selection count + conditional clear link (competitor tab only)
   const indicator = document.getElementById('competitor-count-indicator');
