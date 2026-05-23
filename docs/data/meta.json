@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T17:50:55.395513+00:00",
-  "item_count": 642,
-  "competitor_count": 96,
-  "ai_news_count": 410,
-  "regulatory_count": 136,
+  "generated_at": "2026-05-23T18:03:15.773470+00:00",
+  "item_count": 685,
+  "competitor_count": 127,
+  "ai_news_count": 421,
+  "regulatory_count": 137,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -21,7 +21,7 @@
     },
     "HN search: Kasisto": {
       "ok": true,
-      "count": 9
+      "count": 2
     },
     "HN search: Posh": {
       "ok": true,
@@ -37,11 +37,11 @@
     },
     "HN search: Omilia": {
       "ok": true,
-      "count": 4
+      "count": 1
     },
     "HN search: Gridspace": {
       "ok": true,
-      "count": 1
+      "count": 0
     },
     "HN search: Born Digital": {
       "ok": true,
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 30
+      "count": 26
     },
     "HN search: voice AI": {
       "ok": true,
@@ -66,6 +66,54 @@
     "HN search: credit union AI": {
       "ok": true,
       "count": 1
+    },
+    "Bluesky search: Eltropy": {
+      "ok": true,
+      "count": 0
+    },
+    "Bluesky search: Kasisto": {
+      "ok": true,
+      "count": 0
+    },
+    "Bluesky search: Posh AI": {
+      "ok": true,
+      "count": 3
+    },
+    "Bluesky search: Glia": {
+      "ok": true,
+      "count": 2
+    },
+    "Bluesky search: Active.Ai": {
+      "ok": true,
+      "count": 0
+    },
+    "Bluesky search: Omilia": {
+      "ok": true,
+      "count": 22
+    },
+    "Bluesky search: Gridspace": {
+      "ok": true,
+      "count": 1
+    },
+    "Bluesky search: Born Digital": {
+      "ok": true,
+      "count": 1
+    },
+    "Bluesky search: conversational AI": {
+      "ok": true,
+      "count": 6
+    },
+    "Bluesky search: voice AI": {
+      "ok": true,
+      "count": 0
+    },
+    "Bluesky search: agentic AI": {
+      "ok": true,
+      "count": 15
+    },
+    "Bluesky search: banking AI": {
+      "ok": true,
+      "count": 0
     },
     "Reddit r/MachineLearning": {
       "ok": true,
@@ -121,7 +169,7 @@
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "Google News: \"Eltropy\" funding": {
       "ok": true,
@@ -165,7 +213,7 @@
     },
     "Google News: \"Posh\" hiring": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "Google News: \"Posh\" partnership": {
       "ok": true,
@@ -177,7 +225,7 @@
     },
     "Google News: \"Glia\" launches": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "Google News: \"Glia\" hiring": {
       "ok": true,
