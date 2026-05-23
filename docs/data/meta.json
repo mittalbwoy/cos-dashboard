@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T18:13:08.068217+00:00",
-  "item_count": 596,
-  "competitor_count": 30,
-  "ai_news_count": 428,
-  "regulatory_count": 138,
+  "generated_at": "2026-05-23T18:17:13.272607+00:00",
+  "item_count": 523,
+  "competitor_count": 2,
+  "ai_news_count": 384,
+  "regulatory_count": 137,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -17,11 +17,11 @@
   "sources": {
     "HN search: Eltropy": {
       "ok": true,
-      "count": 30
+      "count": 0
     },
     "HN search: Kasisto": {
       "ok": true,
-      "count": 2
+      "count": 13
     },
     "HN search: Posh": {
       "ok": true,
@@ -37,7 +37,7 @@
     },
     "HN search: Omilia": {
       "ok": true,
-      "count": 4
+      "count": 3
     },
     "HN search: Gridspace": {
       "ok": true,
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 26
+      "count": 30
     },
     "HN search: voice AI": {
       "ok": true,
@@ -66,54 +66,6 @@
     "HN search: credit union AI": {
       "ok": true,
       "count": 1
-    },
-    "Bluesky search: Eltropy": {
-      "ok": true,
-      "count": 0
-    },
-    "Bluesky search: Kasisto": {
-      "ok": true,
-      "count": 0
-    },
-    "Bluesky search: Posh AI": {
-      "ok": true,
-      "count": 3
-    },
-    "Bluesky search: Glia": {
-      "ok": true,
-      "count": 1
-    },
-    "Bluesky search: Active.Ai": {
-      "ok": true,
-      "count": 0
-    },
-    "Bluesky search: Omilia": {
-      "ok": true,
-      "count": 22
-    },
-    "Bluesky search: Gridspace": {
-      "ok": true,
-      "count": 1
-    },
-    "Bluesky search: Born Digital": {
-      "ok": true,
-      "count": 1
-    },
-    "Bluesky search: conversational AI": {
-      "ok": true,
-      "count": 6
-    },
-    "Bluesky search: voice AI": {
-      "ok": true,
-      "count": 1
-    },
-    "Bluesky search: agentic AI": {
-      "ok": true,
-      "count": 15
-    },
-    "Bluesky search: banking AI": {
-      "ok": true,
-      "count": 0
     },
     "Reddit r/MachineLearning": {
       "ok": true,
@@ -165,7 +117,7 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 27
+      "count": 26
     },
     "Regulatory: Treasury": {
       "ok": true,
@@ -305,11 +257,11 @@
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 10
+      "count": 7
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 38
+      "count": 36
     },
     "Google News: credit union AI": {
       "ok": true,
