@@ -275,6 +275,10 @@ def fetch_hn(query: str) -> list[Item]:
             "tags": "story",
             "numericFilters": f"created_at_i>{since_epoch}",
             "hitsPerPage": 30,
+            # Algolia defaults to typo-tolerant fuzzy matching: a query for
+            # 'Eltropy' returns stories about 'Entropy' / 'entropicthoughts'.
+            # Disable so we only get stories that actually contain the word.
+            "typoTolerance": "false",
         },
         timeout=HTTP_TIMEOUT,
     )
