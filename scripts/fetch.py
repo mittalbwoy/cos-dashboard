@@ -4,10 +4,14 @@ Daily fetcher for the chief-of-staff dashboard.
 
 Pulls items from:
   - Hacker News (Algolia search API) — one search per competitor + AI keyword
-  - Reddit (r/MachineLearning, r/singularity, r/fintech, r/CreditUnions)
-  - Bluesky public search API — one search per competitor + AI keyword
+  - Reddit via pullpush.io archive (Reddit's own API blocks GitHub Actions IPs)
   - RSS feeds — TechCrunch AI, Finextra, American Banker, Product Hunt AI
   - Google News RSS — per-competitor queries for funding / launches / hiring
+
+Bluesky note: searchPosts now requires authentication; running it
+unauthenticated from a CI IP returns 403. Re-enable by adding a
+BSKY_HANDLE + BSKY_APP_PASSWORD secret to the repo and logging in
+via com.atproto.server.createSession before each search.
 
 Writes:
   docs/data/feed.json   { generated_at, items: [...] }
@@ -81,6 +85,8 @@ AI_KEYWORDS = [
 ]
 
 REDDIT_SUBS = ["MachineLearning", "singularity", "fintech", "CreditUnions"]
+
+# Bluesky removed: see module docstring.
 
 RSS_FEEDS = [
     ("TechCrunch AI",     "https://techcrunch.com/category/artificial-intelligence/feed/"),
@@ -184,7 +190,7 @@ def trim_snippet(text: str) -> str:
 
 
 def is_relevant(text: str) -> bool:
-    """For noisy sources (Reddit/Bluesky), only keep items mentioning a
+    """For noisy sources like Reddit, only keep items mentioning a
     competitor or AI keyword we care about."""
     if not text:
         return False
@@ -251,16 +257,21 @@ def fetch_hn(query: str) -> list[Item]:
 
 
 def fetch_reddit(sub: str) -> list[Item]:
+    # pullpush.io mirrors Reddit and is not IP-blocked from GitHub Actions.
     r = session.get(
-        f"https://www.reddit.com/r/{sub}/new.json",
-        params={"limit": 50},
+        "https://api.pullpush.io/reddit/search/submission/",
+        params={
+            "subreddit": sub,
+            "size": 100,
+            "sort": "desc",
+            "sort_type": "created_utc",
+        },
         timeout=HTTP_TIMEOUT,
     )
     r.raise_for_status()
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=ITEM_MAX_AGE_DAYS)
     out: list[Item] = []
-    for child in r.json().get("data", {}).get("children", []):
-        post = child.get("data", {})
+    for post in r.json().get("data", []):
         created = post.get("created_utc")
         if not created:
             continue
@@ -270,56 +281,16 @@ def fetch_reddit(sub: str) -> list[Item]:
         body = post.get("selftext", "") or ""
         if not is_relevant(f"{title} {body}"):
             continue
-        link = f"https://www.reddit.com{post.get('permalink','')}"
+        permalink = post.get("permalink", "")
+        link = f"https://www.reddit.com{permalink}" if permalink else (post.get("url") or "")
+        if not link:
+            continue
         item = build_item(
             source=f"Reddit r/{sub}",
             title=title,
             url=link,
             date=to_iso_utc(created),
             snippet=body,
-        )
-        if item:
-            out.append(item)
-    polite_sleep()
-    return out
-
-
-def fetch_bluesky(query: str) -> list[Item]:
-    r = session.get(
-        "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts",
-        params={"q": query, "limit": 25, "sort": "latest"},
-        timeout=HTTP_TIMEOUT,
-    )
-    r.raise_for_status()
-    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=ITEM_MAX_AGE_DAYS)
-    out: list[Item] = []
-    for p in r.json().get("posts", []):
-        record = p.get("record", {})
-        text = (record.get("text") or "").strip()
-        date_iso = to_iso_utc(record.get("createdAt"))
-        if not (text and date_iso):
-            continue
-        if dt.datetime.fromisoformat(date_iso) < cutoff:
-            continue
-        if not is_relevant(text):
-            continue
-        handle = p.get("author", {}).get("handle", "")
-        uri = p.get("uri", "")
-        rkey = uri.rsplit("/", 1)[-1] if uri else ""
-        link = (
-            f"https://bsky.app/profile/{handle}/post/{rkey}"
-            if (handle and rkey)
-            else (f"https://bsky.app/profile/{handle}" if handle else "")
-        )
-        if not link:
-            continue
-        title = (text[:140] + "…") if len(text) > 140 else text
-        item = build_item(
-            source="Bluesky",
-            title=title,
-            url=link,
-            date=date_iso,
-            snippet=text,
         )
         if item:
             out.append(item)
@@ -397,11 +368,9 @@ def main():
 
     for comp in COMPETITORS:
         items += safe(f"HN search: {comp}",       fetch_hn,       status, comp)
-        items += safe(f"Bluesky search: {comp}",  fetch_bluesky,  status, comp)
 
     for kw in AI_KEYWORDS:
         items += safe(f"HN search: {kw}",         fetch_hn,       status, kw)
-        items += safe(f"Bluesky search: {kw}",    fetch_bluesky,  status, kw)
 
     for sub in REDDIT_SUBS:
         items += safe(f"Reddit r/{sub}",          fetch_reddit,   status, sub)
