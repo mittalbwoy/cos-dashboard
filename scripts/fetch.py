@@ -79,7 +79,7 @@ COMPETITOR_PATTERNS = {
     "Eltropy":      re.compile(r"\beltropy\b",   re.IGNORECASE),
     "Kasisto":      re.compile(r"\bkasisto\b",   re.IGNORECASE),
     # Narrowed to disambiguate the company from the English adjective.
-    "Posh":         re.compile(r"\bposh(\s+ai|\.ai|\s+technologies)\b", re.IGNORECASE),
+    "Posh":         re.compile(r"\bposh(\s+ai|\.ai|\.tech|\s+technologies)\b", re.IGNORECASE),
     # Require Glia near a banking/AI context word, else 'glia' as a biology
     # term creeps in.
     "Glia":         re.compile(
@@ -127,13 +127,24 @@ REGULATORY_FEEDS = [
     ("Treasury",         "https://news.google.com/rss/search?q=%22U.S.+Treasury+Department%22+(press+OR+enforcement+OR+sanctions+OR+ruling)&hl=en-US&gl=US&ceid=US:en"),
 ]
 
-GOOGLE_NEWS_COMPETITOR_SUFFIXES = ("funding", "launches", "hiring", "partnership")
 GOOGLE_NEWS_AI_QUERIES = (
     "conversational AI banking",
     "voice AI bank",
     "agentic AI bank",
     "credit union AI",
 )
+
+# Per-competitor blog RSS — candidate URLs. Failure is graceful (source
+# returns empty for the day). Each tuple: (display name, competitor key,
+# RSS url).
+COMPETITOR_BLOG_FEEDS = [
+    ("Eltropy Blog",   "Eltropy",   "https://eltropy.com/feed/"),
+    ("Kasisto Blog",   "Kasisto",   "https://kasisto.com/feed/"),
+    ("Posh Blog",      "Posh",      "https://posh.tech/feed/"),
+    ("Glia Blog",      "Glia",      "https://www.glia.com/feed/"),
+    ("Omilia Blog",    "Omilia",    "https://www.omilia.com/feed/"),
+    ("Gridspace Blog", "Gridspace", "https://www.gridspace.com/blog/rss.xml"),
+]
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("fetch")
@@ -342,6 +353,18 @@ def fetch_reddit(sub: str) -> list[Item]:
     return out
 
 
+def fetch_competitor_blog(name: str, url: str, competitor: str) -> list[Item]:
+    """Pull a competitor's own blog RSS. Every item from this source is
+    by definition about the competitor, so we force-tag — no regex check
+    needed."""
+    items = fetch_rss(name, url)
+    for it in items:
+        if competitor not in it.competitors:
+            it.competitors = sorted(it.competitors + [competitor])
+        it.category = categorize(it.competitors, it.category)
+    return items
+
+
 def fetch_regulatory_rss(name: str, url: str) -> list[Item]:
     """Wrap fetch_rss but force category='regulatory'. Bank regulators
     publish dense, on-topic press releases — no relevance filter applied;
@@ -377,32 +400,27 @@ def fetch_rss(name: str, url: str) -> list[Item]:
 
 def fetch_google_news(query: str, force_competitor: str | None = None) -> list[Item]:
     """Run a Google News RSS search. The displayed source label is collapsed
-    to just "Google News" (we run ~30 queries; the user shouldn't see each
-    one as a separate source in the dropdown). The per-query detail still
-    lives in meta.json's sources status for monitoring.
+    to just "Google News" (we run many queries; the user shouldn't see each
+    one as a separate source in the dropdown). Per-query detail still lives
+    in meta.json's sources status for monitoring.
 
-    If force_competitor is set, Google's exact-quote search is *supposed* to
-    return on-topic results — but it doesn't (e.g. "Posh" funding returns
-    hotel articles). So we only keep items whose title/snippet actually
-    matches the narrow competitor regex. Items that don't match are
-    discarded entirely, not demoted to AI News, since they came from a
-    competitor-targeted search and don't belong in the feed at all."""
+    If force_competitor is set, the query was a competitor-name search and
+    we only keep items whose narrow competitor regex actually matches the
+    title/snippet/url. Items that don't match are discarded entirely —
+    they were returned by a competitor-targeted search but aren't about
+    the competitor, and aren't AI-News-worthy either. Same logic for all
+    competitors, ambiguous and unambiguous alike: trust the regex, not the
+    query."""
     url = f"https://news.google.com/rss/search?q={quote_plus(query)}&hl=en-US&gl=US&ceid=US:en"
     items = fetch_rss("Google News", url)
     if not force_competitor:
         return items
-    is_ambiguous = force_competitor in AMBIGUOUS_COMPETITORS
     pattern = COMPETITOR_PATTERNS.get(force_competitor)
     kept: list[Item] = []
     for it in items:
-        if is_ambiguous:
-            # Posh / Glia / Active.Ai / Born Digital — verify the narrow
-            # regex matches title or snippet before keeping the item.
-            haystack = f"{it.title} {it.snippet}"
-            if not (pattern and pattern.search(haystack)):
-                continue
-        # Unambiguous names (Eltropy etc) — Google's exact-quote search is
-        # reliable enough that we trust the result and force the tag.
+        haystack = f"{it.title} {it.snippet} {it.url}"
+        if not (pattern and pattern.search(haystack)):
+            continue
         if force_competitor not in it.competitors:
             it.competitors = sorted(it.competitors + [force_competitor])
         it.category = categorize(it.competitors, it.category)
@@ -466,12 +484,14 @@ def main():
         items += safe(f"Regulatory: {name}",      fetch_regulatory_rss, status, name, url)
 
     for comp in COMPETITORS:
-        for suffix in GOOGLE_NEWS_COMPETITOR_SUFFIXES:
-            q = f'"{comp}" {suffix}'
-            items += safe(f"Google News: {q}", fetch_google_news, status, q, comp)
+        q = f'"{comp}"'
+        items += safe(f"Google News: {q}", fetch_google_news, status, q, comp)
 
     for kw in GOOGLE_NEWS_AI_QUERIES:
         items += safe(f"Google News: {kw}", fetch_google_news, status, kw)
+
+    for name, comp, url in COMPETITOR_BLOG_FEEDS:
+        items += safe(f"Blog: {name}", fetch_competitor_blog, status, name, url, comp)
 
     deduped = dedup(items)
 
