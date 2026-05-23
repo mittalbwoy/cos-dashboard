@@ -65,6 +65,12 @@ COMPETITORS = [
 # Patterns are narrowed where the company name collides with a common English
 # word (Posh, Glia) — we'd rather miss a borderline mention than wrongly tag
 # "posh hotel" as a competitor item.
+# Competitor names that collide with English words / generic phrases.
+# Google News exact-quote searches for these return lots of unrelated
+# results, so we require the narrow regex to match the item text before
+# we'll force-tag it from a competitor-targeted search.
+AMBIGUOUS_COMPETITORS = {"Posh", "Glia", "Active.Ai"}
+
 COMPETITOR_PATTERNS = {
     "Eltropy":      r"\beltropy\b",
     "Kasisto":      r"\bkasisto\b",
@@ -230,7 +236,10 @@ def build_item(*, source: str, title: str, url: str, date: str | None, snippet: 
     if not (title and url and date):
         return None
     url = normalize_url(url)
-    haystack = f"{title} {snippet}"
+    # Include the URL in the haystack so HN submissions whose title doesn't
+    # repeat the company name (e.g. "Loyalty CU launches mobile" linking to
+    # eltropy.com) still get tagged correctly.
+    haystack = f"{title} {snippet} {url}"
     comps = tag_competitors(haystack)
     return Item(
         id=make_id(source, url),
@@ -369,15 +378,22 @@ def fetch_google_news(query: str, force_competitor: str | None = None) -> list[I
     items = fetch_rss("Google News", url)
     if not force_competitor:
         return items
+    is_ambiguous = force_competitor in AMBIGUOUS_COMPETITORS
     pattern = COMPETITOR_PATTERNS.get(force_competitor)
     kept: list[Item] = []
     for it in items:
-        haystack = f"{it.title} {it.snippet}"
-        if pattern and re.search(pattern, haystack, flags=re.IGNORECASE):
-            if force_competitor not in it.competitors:
-                it.competitors = sorted(it.competitors + [force_competitor])
-            it.category = categorize(it.competitors, it.category)
-            kept.append(it)
+        if is_ambiguous:
+            # Posh / Glia / Active.Ai — verify the narrow regex matches
+            # title or snippet before keeping the item.
+            haystack = f"{it.title} {it.snippet}"
+            if not (pattern and re.search(pattern, haystack, flags=re.IGNORECASE)):
+                continue
+        # Unambiguous names (Eltropy etc) — Google's exact-quote search is
+        # reliable enough that we trust the result and force the tag.
+        if force_competitor not in it.competitors:
+            it.competitors = sorted(it.competitors + [force_competitor])
+        it.category = categorize(it.competitors, it.category)
+        kept.append(it)
     return kept
 
 
