@@ -95,12 +95,13 @@ RSS_FEEDS = [
     ("Product Hunt — AI", "https://www.producthunt.com/feed?category=artificial-intelligence"),
 ]
 
-GOOGLE_NEWS_QUERIES: list[str] = []
-for _c in COMPETITORS:
-    for _suffix in ("funding", "launches", "hiring", "partnership"):
-        GOOGLE_NEWS_QUERIES.append(f'"{_c}" {_suffix}')
-for _kw in ("conversational AI banking", "voice AI bank", "agentic AI bank", "credit union AI"):
-    GOOGLE_NEWS_QUERIES.append(_kw)
+GOOGLE_NEWS_COMPETITOR_SUFFIXES = ("funding", "launches", "hiring", "partnership")
+GOOGLE_NEWS_AI_QUERIES = (
+    "conversational AI banking",
+    "voice AI bank",
+    "agentic AI bank",
+    "credit union AI",
+)
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 log = logging.getLogger("fetch")
@@ -321,9 +322,19 @@ def fetch_rss(name: str, url: str) -> list[Item]:
     return out
 
 
-def fetch_google_news(query: str) -> list[Item]:
+def fetch_google_news(query: str, force_competitor: str | None = None) -> list[Item]:
+    """Run a Google News RSS search. If force_competitor is set, every item
+    returned is tagged with that competitor — used when the query itself is an
+    exact-quoted competitor name, so the search results are by construction
+    on-topic even when the headline doesn't repeat the name verbatim."""
     url = f"https://news.google.com/rss/search?q={quote_plus(query)}&hl=en-US&gl=US&ceid=US:en"
-    return fetch_rss(f"Google News — {query}", url)
+    items = fetch_rss(f"Google News: {query}", url)
+    if force_competitor:
+        for it in items:
+            if force_competitor not in it.competitors:
+                it.competitors = sorted(it.competitors + [force_competitor])
+            it.category = categorize(it.competitors)
+    return items
 
 
 # ---------------------------------------------------------------------------
@@ -378,8 +389,13 @@ def main():
     for name, url in RSS_FEEDS:
         items += safe(f"RSS: {name}",             fetch_rss,      status, name, url)
 
-    for q in GOOGLE_NEWS_QUERIES:
-        items += safe(f"Google News: {q}",        fetch_google_news, status, q)
+    for comp in COMPETITORS:
+        for suffix in GOOGLE_NEWS_COMPETITOR_SUFFIXES:
+            q = f'"{comp}" {suffix}'
+            items += safe(f"Google News: {q}", fetch_google_news, status, q, comp)
+
+    for kw in GOOGLE_NEWS_AI_QUERIES:
+        items += safe(f"Google News: {kw}", fetch_google_news, status, kw)
 
     deduped = dedup(items)
 
