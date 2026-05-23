@@ -98,12 +98,15 @@ RSS_FEEDS = [
 # Banking / financial regulators — official press feeds. The script gracefully
 # skips any URL that 404s, so changes upstream won't kill the run.
 REGULATORY_FEEDS = [
+    # Official feeds (verified URLs).
     ("CFPB",             "https://www.consumerfinance.gov/about-us/newsroom/feed/"),
     ("Federal Reserve",  "https://www.federalreserve.gov/feeds/press_all.xml"),
-    ("OCC",              "https://www.occ.treas.gov/news-issuances/news-releases/index-news-releases-rss.xml"),
-    ("NCUA",             "https://ncua.gov/news/rss/all.xml"),
-    ("FDIC",             "https://www.fdic.gov/news/press-releases/feed.xml"),
-    ("Treasury",         "https://home.treasury.gov/rss/press-releases"),
+    ("OCC",              "https://www.occ.treas.gov/rss/occ_news.xml"),
+    ("FDIC",             "https://public.govdelivery.com/topics/USFDIC_26/feed.rss"),
+    # NCUA + Treasury don't expose public news RSS — use a Google News
+    # exact-quote search as a proxy so we still see major policy moves.
+    ("NCUA",             "https://news.google.com/rss/search?q=%22NCUA%22+(press+OR+enforcement+OR+rule+OR+chairman)&hl=en-US&gl=US&ceid=US:en"),
+    ("Treasury",         "https://news.google.com/rss/search?q=%22U.S.+Treasury+Department%22+(press+OR+enforcement+OR+sanctions+OR+ruling)&hl=en-US&gl=US&ceid=US:en"),
 ]
 
 GOOGLE_NEWS_COMPETITOR_SUFFIXES = ("funding", "launches", "hiring", "partnership")
