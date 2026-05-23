@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T17:42:23.712105+00:00",
-  "item_count": 521,
+  "generated_at": "2026-05-23T17:50:55.395513+00:00",
+  "item_count": 642,
   "competitor_count": 96,
-  "ai_news_count": 404,
-  "regulatory_count": 21,
+  "ai_news_count": 410,
+  "regulatory_count": 136,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -21,7 +21,7 @@
     },
     "HN search: Kasisto": {
       "ok": true,
-      "count": 2
+      "count": 9
     },
     "HN search: Posh": {
       "ok": true,
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 26
+      "count": 30
     },
     "HN search: voice AI": {
       "ok": true,
@@ -109,19 +109,19 @@
     },
     "Regulatory: OCC": {
       "ok": true,
-      "count": 0
-    },
-    "Regulatory: NCUA": {
-      "ok": true,
-      "count": 0
+      "count": 10
     },
     "Regulatory: FDIC": {
       "ok": true,
-      "count": 0
+      "count": 21
+    },
+    "Regulatory: NCUA": {
+      "ok": true,
+      "count": 26
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 0
+      "count": 58
     },
     "Google News: \"Eltropy\" funding": {
       "ok": true,
@@ -177,7 +177,7 @@
     },
     "Google News: \"Glia\" launches": {
       "ok": true,
-      "count": 8
+      "count": 7
     },
     "Google News: \"Glia\" hiring": {
       "ok": true,
@@ -193,7 +193,7 @@
     },
     "Google News: \"Active.Ai\" launches": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "Google News: \"Active.Ai\" hiring": {
       "ok": true,
@@ -257,11 +257,11 @@
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 10
+      "count": 7
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 36
+      "count": 38
     },
     "Google News: credit union AI": {
       "ok": true,
