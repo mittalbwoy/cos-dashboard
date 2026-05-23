@@ -69,22 +69,31 @@ COMPETITORS = [
 # Google News exact-quote searches for these return lots of unrelated
 # results, so we require the narrow regex to match the item text before
 # we'll force-tag it from a competitor-targeted search.
-AMBIGUOUS_COMPETITORS = {"Posh", "Glia", "Active.Ai"}
+AMBIGUOUS_COMPETITORS = {"Posh", "Glia", "Active.Ai", "Born Digital"}
 
+# Compiled patterns — case-sensitivity is per-pattern. Most are case-
+# insensitive; 'Born Digital' is case-SENSITIVE because the lowercase
+# 'born digital' phrase (digital natives) is a common concept and the
+# company always brands as Title Case.
 COMPETITOR_PATTERNS = {
-    "Eltropy":      r"\beltropy\b",
-    "Kasisto":      r"\bkasisto\b",
+    "Eltropy":      re.compile(r"\beltropy\b",   re.IGNORECASE),
+    "Kasisto":      re.compile(r"\bkasisto\b",   re.IGNORECASE),
     # Narrowed to disambiguate the company from the English adjective.
-    "Posh":         r"\bposh(\s+ai|\.ai|\s+technologies)\b",
+    "Posh":         re.compile(r"\bposh(\s+ai|\.ai|\s+technologies)\b", re.IGNORECASE),
     # Require Glia near a banking/AI context word, else 'glia' as a biology
     # term creeps in.
-    "Glia":         r"\bglia\b(?=.*(\b(ai|bank|customer|conversational|contact|credit\s+union|fintech)\b))",
+    "Glia":         re.compile(
+        r"\bglia\b(?=.*(\b(ai|bank|customer|conversational|contact|credit\s+union|fintech)\b))",
+        re.IGNORECASE,
+    ),
     # Require the literal dot — 'active AI' as a generic phrase shows up
     # in countless AI articles and was the largest source of false positives.
-    "Active.Ai":    r"\bactive\.ai\b",
-    "Omilia":       r"\bomilia\b",
-    "Gridspace":    r"\bgridspace\b",
-    "Born Digital": r"\bborn[\s-]digital\b",
+    "Active.Ai":    re.compile(r"\bactive\.ai\b", re.IGNORECASE),
+    "Omilia":       re.compile(r"\bomilia\b",     re.IGNORECASE),
+    "Gridspace":    re.compile(r"\bgridspace\b",  re.IGNORECASE),
+    # NOTE: case-sensitive. 'born digital' lowercase = the concept of
+    # digital natives. 'Born Digital' Title Case = the company.
+    "Born Digital": re.compile(r"\bBorn[\s-]Digital\b"),
 }
 
 AI_KEYWORDS = [
@@ -171,7 +180,7 @@ def make_id(source: str, url: str) -> str:
 def tag_competitors(text: str) -> list[str]:
     if not text:
         return []
-    return [name for name, pat in COMPETITOR_PATTERNS.items() if re.search(pat, text, flags=re.IGNORECASE)]
+    return [name for name, pat in COMPETITOR_PATTERNS.items() if pat.search(text)]
 
 
 def categorize(competitors: list[str], current: str | None = None) -> str:
@@ -225,7 +234,7 @@ def is_relevant(text: str) -> bool:
     lower = text.lower()
     if any(kw.lower() in lower for kw in AI_KEYWORDS):
         return True
-    return any(re.search(p, text, flags=re.IGNORECASE) for p in COMPETITOR_PATTERNS.values())
+    return any(pat.search(text) for pat in COMPETITOR_PATTERNS.values())
 
 
 def polite_sleep():
@@ -383,10 +392,10 @@ def fetch_google_news(query: str, force_competitor: str | None = None) -> list[I
     kept: list[Item] = []
     for it in items:
         if is_ambiguous:
-            # Posh / Glia / Active.Ai — verify the narrow regex matches
-            # title or snippet before keeping the item.
+            # Posh / Glia / Active.Ai / Born Digital — verify the narrow
+            # regex matches title or snippet before keeping the item.
             haystack = f"{it.title} {it.snippet}"
-            if not (pattern and re.search(pattern, haystack, flags=re.IGNORECASE)):
+            if not (pattern and pattern.search(haystack)):
                 continue
         # Unambiguous names (Eltropy etc) — Google's exact-quote search is
         # reliable enough that we trust the result and force the tag.
