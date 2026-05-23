@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T19:06:49.101172+00:00",
-  "item_count": 560,
-  "competitor_count": 9,
-  "ai_news_count": 414,
-  "regulatory_count": 137,
+  "generated_at": "2026-05-23T19:12:00.441638+00:00",
+  "item_count": 552,
+  "competitor_count": 4,
+  "ai_news_count": 412,
+  "regulatory_count": 136,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -21,7 +21,7 @@
     },
     "HN search: Kasisto": {
       "ok": true,
-      "count": 10
+      "count": 13
     },
     "HN search: Posh": {
       "ok": true,
@@ -37,11 +37,11 @@
     },
     "HN search: Omilia": {
       "ok": true,
-      "count": 4
+      "count": 3
     },
     "HN search: Gridspace": {
       "ok": true,
-      "count": 1
+      "count": 0
     },
     "HN search: Born Digital": {
       "ok": true,
@@ -121,7 +121,7 @@
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 59
+      "count": 58
     },
     "Google News: \"Eltropy\" funding": {
       "ok": true,
@@ -149,7 +149,7 @@
     },
     "Google News: \"Kasisto\" hiring": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Kasisto\" partnership": {
       "ok": true,
@@ -237,35 +237,35 @@
     },
     "Google News: \"Born Digital\" funding": {
       "ok": true,
-      "count": 3
+      "count": 0
     },
     "Google News: \"Born Digital\" launches": {
       "ok": true,
-      "count": 2
+      "count": 0
     },
     "Google News: \"Born Digital\" hiring": {
       "ok": true,
-      "count": 1
+      "count": 0
     },
     "Google News: \"Born Digital\" partnership": {
       "ok": true,
-      "count": 3
+      "count": 0
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 11
+      "count": 10
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 10
+      "count": 8
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 36
+      "count": 39
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 23
+      "count": 22
     }
   }
 }
