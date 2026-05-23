@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-23T04:04:33.835456+00:00",
-  "item_count": 522,
-  "competitor_count": 110,
-  "ai_news_count": 412,
+  "generated_at": "2026-05-23T04:34:46.460583+00:00",
+  "item_count": 508,
+  "competitor_count": 101,
+  "ai_news_count": 407,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -20,7 +20,7 @@
     },
     "HN search: Kasisto": {
       "ok": true,
-      "count": 13
+      "count": 2
     },
     "HN search: Posh": {
       "ok": true,
@@ -75,12 +75,12 @@
       "count": 0
     },
     "Reddit r/fintech": {
-      "ok": false,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
-    },
-    "Reddit r/CreditUnions": {
       "ok": true,
       "count": 0
+    },
+    "Reddit r/CreditUnions": {
+      "ok": false,
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
     },
     "RSS: TechCrunch AI": {
       "ok": true,
@@ -152,7 +152,7 @@
     },
     "Google News: \"Glia\" launches": {
       "ok": true,
-      "count": 7
+      "count": 9
     },
     "Google News: \"Glia\" hiring": {
       "ok": true,
@@ -176,7 +176,7 @@
     },
     "Google News: \"Active.Ai\" partnership": {
       "ok": true,
-      "count": 11
+      "count": 10
     },
     "Google News: \"Omilia\" funding": {
       "ok": true,
@@ -240,7 +240,7 @@
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 25
+      "count": 27
     }
   }
 }
