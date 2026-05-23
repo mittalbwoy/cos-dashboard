@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T04:34:46.460583+00:00",
+  "generated_at": "2026-05-23T17:42:23.712105+00:00",
   "items": [
     {
       "id": "d8236df31002",
@@ -92,11 +92,451 @@
       "category": "ai-news"
     },
     {
-      "id": "278a046336de",
-      "title": "All Model Labs Are Now Agent Labs",
-      "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+      "id": "efc361376f1e",
+      "title": "The first benchmark to test AI agent's video editing capability",
+      "url": "https://agenticvbench.com/",
       "source": "Hacker News",
-      "date": "2026-05-23T04:25:01+00:00",
+      "date": "2026-05-23T17:12:42+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "07efac750a4b",
+      "title": "Ask HN: How can you have fun doing corporate dev work in the age of AI tools?",
+      "url": "https://news.ycombinator.com/item?id=48249258",
+      "source": "Hacker News",
+      "date": "2026-05-23T17:03:19+00:00",
+      "snippet": "My company, like many others, is heavily pushing agentic dev tools, putting up token usage leaderboards, etc. My problem is that corporate SWE work was already boring enough. You already had no say in the product or UX. This was compensated for by the ability to enter a fun \"flow state\" during implementation work, jus…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "f09f2c7a1c79",
+      "title": "Personality Series: Agreeableness and Extraversion",
+      "url": "https://www.byarcadia.org/post/personality-101-agreeableness-and-extraversion",
+      "source": "Hacker News",
+      "date": "2026-05-23T17:00:54+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "f51ed7fb5ebd",
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "source": "Hacker News",
+      "date": "2026-05-23T16:36:49+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "17d2d07319ad",
+      "title": "Ask HN: Does anyone what a \"RiotCache.dat\" file was doing in my EFI partition?",
+      "url": "https://news.ycombinator.com/item?id=48248915",
+      "source": "Hacker News",
+      "date": "2026-05-23T16:19:09+00:00",
+      "snippet": "About a year ago, I was installing Arch Linux to try it out on my laptop but I was running into space issues on my EFI partition. When I went to take a look, I found a \"RiotCache.dat\" file. I subsequently made this post [1], but I never got an answer as to what that file was doing there. [1] https://old.reddit.com/r/l…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "be0dc352acc6",
+      "title": "Surface laptop ships with 8GB RAM for $1299 despite pushing 16GB for Copilot PCs",
+      "url": "https://www.windowslatest.com/2026/05/21/microsoft-pushed-16gb-ram-as-must-have-for-windows-11-for-years-now-sells-an-8gb-surface-laptop-for-1299/",
+      "source": "Hacker News",
+      "date": "2026-05-23T16:10:39+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "0b43a0b7bec6",
+      "title": "Show HN: I built a RAG and knowledge graph agent that runs locally",
+      "url": "https://news.ycombinator.com/item?id=48248801",
+      "source": "Hacker News",
+      "date": "2026-05-23T16:06:25+00:00",
+      "snippet": "Claw-Coder is an AI agent that runs locally on your laptop and has access to powerful tools instead of configuring claude or codex to use a local model just use claw-coder. Why was claw-coder created? Answer: To solve the problem of privacy and security. When you use an agent that is configured with a cloud model like…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "79b15f1d635c",
+      "title": "Printf Is a Secret Virtual Machine – and a Giant Security Hole [video]",
+      "url": "https://www.youtube.com/watch?v=kdnN0kk7MS0",
+      "source": "Hacker News",
+      "date": "2026-05-23T15:44:33+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "588456a9f33d",
+      "title": "Show HN: I built a site to watch, predct and prompt inject agents playing games",
+      "url": "https://clankerfights.ai",
+      "source": "Hacker News",
+      "date": "2026-05-23T15:42:22+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "09b05de39445",
+      "title": "Continual Harness: A reset-free self-improving harness for embodied agents",
+      "url": "https://sethkarten.ai/continual-harness/",
+      "source": "Hacker News",
+      "date": "2026-05-23T15:32:07+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "89e5bba2873d",
+      "title": "Texas Woman files lawsuit after arrest for Facebook post about polluted water",
+      "url": "https://www.fox4news.com/news/woman-arrested-facebook-post-concerning-trinidad-water-poisoning",
+      "source": "Hacker News",
+      "date": "2026-05-23T15:09:07+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "92a92740ec5d",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "source": "TechCrunch AI",
+      "date": "2026-05-23T15:08:00+00:00",
+      "snippet": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "a0be372f02ae",
+      "title": "Agentic AI token usage balloons cost at Microsoft, Meta, Amazon",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon",
+      "source": "Hacker News",
+      "date": "2026-05-23T15:03:58+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "53109592417d",
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "url": "https://nand2mario.github.io/posts/2026/z386/",
+      "source": "Hacker News",
+      "date": "2026-05-23T14:25:30+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "557e3dea5a5d",
+      "title": "Preventing AI agents from executing destructive terminal commands",
+      "url": "https://github.com/7Majesty-M/terminal-guardian-mcp",
+      "source": "Hacker News",
+      "date": "2026-05-23T14:05:51+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "c96e4253c86e",
+      "title": "PSA Crypto: The P is for Portability",
+      "url": "https://danielmangum.com/posts/psa-crypto-portability/",
+      "source": "Hacker News",
+      "date": "2026-05-23T13:30:02+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "e730411c8fbe",
+      "title": "I let an AI agent loose on my network – it owned my supply chain in 12 minutes",
+      "url": "https://dennysentinel.com/blog/deepseek-owned-supply-chain-12-minutes/",
+      "source": "Hacker News",
+      "date": "2026-05-23T13:18:44+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "c38b4907de0a",
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "source": "TechCrunch AI",
+      "date": "2026-05-23T13:00:00+00:00",
+      "snippet": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "d39ed2b261ec",
+      "title": "Herdr: A tmux-like terminal multiplexer for AI coding agents",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "source": "Hacker News",
+      "date": "2026-05-23T12:53:01+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "ba9a61f5624b",
+      "title": "MediaUse Makes FIFA 2026 Programmable for AI Agents (No Vision)",
+      "url": "https://mediause.dev/skills/fifa2026",
+      "source": "Hacker News",
+      "date": "2026-05-23T12:35:54+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "2332eb7c0314",
+      "title": "Building a claw-like agent to run in the browser",
+      "url": "https://aifoc.us/building-a-claw-in-the-browser/",
+      "source": "Hacker News",
+      "date": "2026-05-23T12:20:59+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "fe20e9399eec",
+      "title": "China: Mine death toll rises to 90 after gas blast",
+      "url": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping",
+      "source": "Hacker News",
+      "date": "2026-05-23T12:13:36+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "730f4212bcb6",
+      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
+      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
+      "source": "Hacker News",
+      "date": "2026-05-23T12:11:47+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "2c7465477bbc",
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "url": "https://horace.io/brrr_intro.html",
+      "source": "Hacker News",
+      "date": "2026-05-23T11:50:22+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "aa5400621e8c",
+      "title": "Show HN: I built a powerful RAG and knowledge graph agent that runs locally",
+      "url": "https://news.ycombinator.com/item?id=48246659",
+      "source": "Hacker News",
+      "date": "2026-05-23T11:05:43+00:00",
+      "snippet": "Claw-Coder is an AI agent that runs locally on your laptop and has access to powerful tools instead of configuring claude or codex to use a local model just use claw-coder. Why was claw-coder created? Answer: To solve the problem of privacy and security. When you use an agent that is configured with a cloud model like…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "95b31dfcdac2",
+      "title": "\"Plaything of the Gods\"",
+      "url": "https://publicdomainreview.org/collection/pushball/",
+      "source": "Hacker News",
+      "date": "2026-05-23T10:57:36+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "f7ae7ac9cae4",
+      "title": "Bun in Rust is better than the original",
+      "url": "https://twitter.com/jarredsumner/status/2058117201400562152",
+      "source": "Hacker News",
+      "date": "2026-05-23T10:44:44+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "5a03ede02ac1",
+      "title": "AI doesn't divide developers – it just reveals them",
+      "url": "https://overco.de/posts/ai-doesnt-divide-developers-it-just-reveals-them/",
+      "source": "Hacker News",
+      "date": "2026-05-23T10:42:50+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "d6d494272585",
+      "title": "COMP 115: Databases",
+      "url": "https://geophile.com/115/",
+      "source": "Hacker News",
+      "date": "2026-05-23T10:26:51+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "8be38434cae5",
+      "title": "Human factors comparison of a procedural and nonprocedural query language (1981)",
+      "url": "https://dl.acm.org/doi/10.1145/319628.319656",
+      "source": "Hacker News",
+      "date": "2026-05-23T10:21:57+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "503a506b86cc",
+      "title": "We ended up with Palantir and how to replace it",
+      "url": "https://berthub.eu/articles/posts/some-notes-on-palantir/",
+      "source": "Hacker News",
+      "date": "2026-05-23T10:06:16+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "e4fc0054f042",
+      "title": "Ask HN: Where AI Researchers Congregate?",
+      "url": "https://news.ycombinator.com/item?id=48246397",
+      "source": "Hacker News",
+      "date": "2026-05-23T10:05:47+00:00",
+      "snippet": "So I’m doing plenty of experiments and applied research in autonomous agents and agentic flows in general. I’m looking for a place where I could collaborate and discuss with other like minded people. I would love to get recommendations for such a place online.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "2f71b792ba3a",
+      "title": "Show HN: Directionally bad – a newsletter about risks of AI centralization",
+      "url": "https://deaination.substack.com/p/directionally-bad-issue-002",
+      "source": "Hacker News",
+      "date": "2026-05-23T09:51:59+00:00",
+      "snippet": "Hello, I'm sultan, a Research Analyst working to analyze and explore the world of decentralized AI. I have launched a new newsletter for everyone curious about where DeAI is going, and what's up with the centralized AI labs. Would be glad to hear your feedback!",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "ca3860bcf573",
+      "title": "Supply chain attacks and OSS sustainability go hand in hand",
+      "url": "https://twitter.com/mitchellh/status/2057567975826395606",
+      "source": "Hacker News",
+      "date": "2026-05-23T09:49:15+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "a8ed1a966038",
+      "title": "Did Google's AI agents build an operating system for $916?",
+      "url": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+      "source": "Hacker News",
+      "date": "2026-05-23T09:45:04+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "063055ad8e50",
+      "title": "Post-Primary-Care",
+      "url": "https://fulghum.io/post-primary-care",
+      "source": "Hacker News",
+      "date": "2026-05-23T09:34:28+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "73421eaa4878",
+      "title": "The Documentary That Drops You into a Class War [with Murder] [video]",
+      "url": "https://www.youtube.com/watch?v=IlId4uqzUfA",
+      "source": "Hacker News",
+      "date": "2026-05-23T09:26:43+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "5116982db5f3",
+      "title": "What the $#@! is Parallelism, Anyhow? (2009)",
+      "url": "https://web.archive.org/web/20091103162537/http://software.intel.com/en-us/articles/what-the-is-parallelism-anyhow-1/",
+      "source": "Hacker News",
+      "date": "2026-05-23T09:19:32+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "1de47d896472",
+      "title": "SerpSpur vs. SEO Giants",
+      "url": "https://news.ycombinator.com/item?id=48246062",
+      "source": "Hacker News",
+      "date": "2026-05-23T09:06:52+00:00",
+      "snippet": "SEO tools discussion: SerpSpur vs the big players. For basic keyword research and site audits, the free tier is actually usable. The backlink analysis is comprehensive.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "73cbaf1c1870",
+      "title": "Jd",
+      "url": "https://code.jsoftware.com/wiki/Jd/Overview",
+      "source": "Hacker News",
+      "date": "2026-05-23T08:54:55+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "4f3c7c249257",
+      "title": "ChatGPT as the AOL of AI",
+      "url": "https://rebecca-powell.com/posts/return-on-intelligence-02-moats/",
+      "source": "Hacker News",
+      "date": "2026-05-23T08:01:29+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "16f7badec966",
+      "title": "AI Reconstructed Dead Pilots' Voices from Public NTSB Records",
+      "url": "https://firethering.com/ai-recreated-dead-pilots-voices-ntsb-database/",
+      "source": "Hacker News",
+      "date": "2026-05-23T07:39:29+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "275b630fc96e",
+      "title": "Whimsical Animations",
+      "url": "https://whimsy.joshwcomeau.com",
+      "source": "Hacker News",
+      "date": "2026-05-23T07:07:05+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "706503d61f09",
+      "title": "Ask HN: Is $300/HR too low these days for custom full stack?",
+      "url": "https://news.ycombinator.com/item?id=48245259",
+      "source": "Hacker News",
+      "date": "2026-05-23T06:31:24+00:00",
+      "snippet": "Background. I'm a solo dev. I used to just bid contract jobs at around 25% less than where I used to work. So back in 2008 I would bid $75k to go solo on a job I knew my former employer would charge $100k for. I switched to an hourly rate around 2012 because I was tired of re-negotiating over every new feature (or wha…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "371e7ecba614",
+      "title": "Microsoft's new multi-model agentic security system tops leading benchmark",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
+      "source": "Hacker News",
+      "date": "2026-05-23T05:06:23+00:00",
       "snippet": "",
       "competitors": [],
       "category": "ai-news"
@@ -118,6 +558,16 @@
       "source": "Hacker News",
       "date": "2026-05-23T03:05:31+00:00",
       "snippet": "I started to wonder that I dont remember reading any positive articles or discussion about AI. It is deep in human nature for stressing out about our problems that might occur and possible dangers, and for myself I think I have been quite deep lately for the upcoming \"world-end\" and overall stressing about the world s…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "47df7790942c",
+      "title": "SignalLEMO - Ai Outreach Made Simple",
+      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
+      "source": "Product Hunt — AI",
+      "date": "2026-05-23T02:56:16+00:00",
+      "snippet": "AI-powered lead outreach for field service contractors Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -192,36 +642,6 @@
       "category": "ai-news"
     },
     {
-      "id": "a8ed1a966038",
-      "title": "Did Google's AI agents build an operating system for $916?",
-      "url": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
-      "source": "Hacker News",
-      "date": "2026-05-22T22:50:27+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "14df2a2f0206",
-      "title": "Show HN: Synchole is a native P2P data transfer protocol library in Rust",
-      "url": "https://github.com/doshareme/synchole",
-      "source": "Hacker News",
-      "date": "2026-05-22T22:23:04+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "170ae8a8a434",
-      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
-      "url": "https://github.com/secluso/core",
-      "source": "Hacker News",
-      "date": "2026-05-22T21:51:57+00:00",
-      "snippet": "Hey everyone, I'm back with some exciting updates. I previously introduced an open source private home security camera in 2024, which uses OpenMLS for end-to-end encryption. It was called Privastead then and it's now renamed to Secluso. John Kaczman found my project from here and has been working on it with me over th…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "70ee5f55e7f4",
       "title": "Departing Meta Staffer Posts Biting Anti-AI Video Internally Amid Mass Layoffs",
       "url": "https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/",
@@ -262,34 +682,24 @@
       "category": "ai-news"
     },
     {
-      "id": "bf136e3b561c",
-      "title": "Kommodo.ai Covered by Indiehackers",
-      "url": "https://www.indiehackers.com/post/tech/pivoting-to-reach-a-wider-audience-and-hitting-a-5-figure-mrr-BsyblK2pmWMVfkex10nU",
-      "source": "Hacker News",
-      "date": "2026-05-22T20:24:17+00:00",
-      "snippet": "",
+      "id": "f5b54ef1ab3d",
+      "title": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-22T20:15:00+00:00",
+      "snippet": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
       "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
     },
     {
-      "id": "2a74973c8cf0",
-      "title": "Show HN: Slophunt.ai – Come post your vibe coded projects",
-      "url": "https://slophunt.ai/",
-      "source": "Hacker News",
-      "date": "2026-05-22T20:22:47+00:00",
-      "snippet": "",
+      "id": "9179458731a5",
+      "title": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-22T20:00:00+00:00",
+      "snippet": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
       "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "d06ab3cbc012",
-      "title": "Ask HN: How does ranking work for Tell HN?",
-      "url": "https://news.ycombinator.com/item?id=48240445",
-      "source": "Hacker News",
-      "date": "2026-05-22T19:34:01+00:00",
-      "snippet": "I submitted a Tell HN post. It got 80 upvotes in an hour and hit the front page. However, about an hour later the post disappeared from the front page and from pages 2 and 3. It's now only visible in the Ask section. If the full text of the post is hosted directly on Hacker News, how does the algorithm detect upvote m…",
-      "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
     },
     {
       "id": "749b30d0db53",
@@ -297,16 +707,6 @@
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
       "source": "Hacker News",
       "date": "2026-05-22T19:31:45+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "36f77ed0e580",
-      "title": "Show HN: Canonry tracks how AI cites you – agent-first, open source",
-      "url": "https://github.com/AINYC/canonry",
-      "source": "Hacker News",
-      "date": "2026-05-22T19:24:18+00:00",
       "snippet": "",
       "competitors": [],
       "category": "ai-news"
@@ -322,82 +722,12 @@
       "category": "ai-news"
     },
     {
-      "id": "7949bcdf24f0",
-      "title": "Show HN: Compose-to-Cloud Pulumi Providers for AWS, GCP, and Azure",
-      "url": "https://github.com/DefangLabs/pulumi-defang",
-      "source": "Hacker News",
-      "date": "2026-05-22T18:59:17+00:00",
-      "snippet": "Hi HN, These are three FOSS Pulumi providers (defang-aws, defang-gcp, defang-azure) that take a Docker Compose-like project and provision it as real infrastructure to the respective cloud: VPC, subnets, load balancers, serverless containers (ECS Fargate, Cloud Run, Container App), builds, managed PostgreSQL, Redis, LL…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "083b79d94c9b",
-      "title": "SteelSpine: Replay tool for debugging AI agents",
-      "url": "https://steelspine.ai",
-      "source": "Hacker News",
-      "date": "2026-05-22T18:48:12+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "4aac70ab7b83",
-      "title": "NYSE Compression Case Study",
-      "url": "https://code.kx.com/q/kb/compression/fsicasestudy/",
-      "source": "Hacker News",
-      "date": "2026-05-22T18:34:02+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "859a85b7d575",
-      "title": "Loop Fusion in Array Languages",
-      "url": "https://mlochbaum.github.io/BQN/implementation/compile/fusion.html",
-      "source": "Hacker News",
-      "date": "2026-05-22T18:17:10+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "f3d7d009b0dd",
       "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
       "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
       "source": "TechCrunch AI",
       "date": "2026-05-22T18:17:07+00:00",
       "snippet": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the la…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "dc29fd4901c5",
-      "title": "Coins.stream – Multiplayer Coin Pusher",
-      "url": "https://coins.stream/",
-      "source": "Hacker News",
-      "date": "2026-05-22T18:15:10+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "f4db962c5740",
-      "title": "The Law of Leaky Abstractions (2002)",
-      "url": "https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/",
-      "source": "Hacker News",
-      "date": "2026-05-22T18:00:10+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "28dfdd832fbc",
-      "title": "Show HN: Nativeblocks – Code-push for native Kotlin and Swift apps",
-      "url": "https://nativeblocks.io/",
-      "source": "Hacker News",
-      "date": "2026-05-22T18:00:08+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -432,96 +762,6 @@
       "category": "ai-news"
     },
     {
-      "id": "eb659fed12ed",
-      "title": "Thinking in an array language (2022)",
-      "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-      "source": "Hacker News",
-      "date": "2026-05-22T17:42:53+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "74246ba31223",
-      "title": "AVX-512 and Validating Usage on AMD EPYC",
-      "url": "https://www.amd.com/en/blogs/2026/understanding-avx-512---validating-usage-on-amd-epyc-.html",
-      "source": "Hacker News",
-      "date": "2026-05-22T17:38:09+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "fc05c43089bc",
-      "title": "TorQ: Kdb+ Production Framework",
-      "url": "https://github.com/DataIntellectTech/TorQ",
-      "source": "Hacker News",
-      "date": "2026-05-22T17:31:17+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "e3fdaf5c6d29",
-      "title": "Venmo Takes Privacy Seriously",
-      "url": "https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts",
-      "source": "Hacker News",
-      "date": "2026-05-22T17:26:07+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "57e73ca5b73a",
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "source": "Hacker News",
-      "date": "2026-05-22T17:17:43+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "2d4125363242",
-      "title": "Liberating the public art on L.A.'s light rail lines (2021)",
-      "url": "https://palewi.re/posts/2021/05/09/public-art-on-la-light-rail-line/",
-      "source": "Hacker News",
-      "date": "2026-05-22T17:02:28+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "75c23e44578d",
-      "title": "Tell HN: The Threat to US Citizen's ID / Voting Is Private Services",
-      "url": "https://news.ycombinator.com/item?id=48238426",
-      "source": "Hacker News",
-      "date": "2026-05-22T16:54:11+00:00",
-      "snippet": "THE REAL RISK AROUND VOTER ID NOW COMES FROM PRIVATE ENTERPRISE This post has been condensed due to character limitations on HN posts. [...] What's happening is that private entities are curating the databases and operating automated adjudication services which the government contracts to utilize. \"But it's little thi…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "0acf6c4d386c",
-      "title": "How do AI chips work? [video]",
-      "url": "https://www.youtube.com/watch?v=oIk3R-sMX5o&list=PLd7-bHaQwnthaNDpZ32TtYONGVk95-fhF&index=1",
-      "source": "Hacker News",
-      "date": "2026-05-22T16:44:53+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "1e57d9d84fea",
-      "title": "Pentagon releases second batch of UFO videos and first-hand testimony",
-      "url": "https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents",
-      "source": "Hacker News",
-      "date": "2026-05-22T16:38:41+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "6c2d5896455d",
       "title": "Kevin Warsh sworn in as Federal Reserve chair",
       "url": "https://www.americanbanker.com/news/kevin-warsh-sworn-in-as-federal-reserve-chair",
@@ -532,52 +772,12 @@
       "category": "ai-news"
     },
     {
-      "id": "7af8966e507e",
-      "title": "WebGPU back end in llama.cpp/ggml",
-      "url": "https://twitter.com/ggerganov/status/2057668450076520811",
-      "source": "Hacker News",
-      "date": "2026-05-22T16:23:40+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "03f5c629bd76",
-      "title": "AI's Role in Revolutionizing Mathematics and the Quest for Ethical Science",
-      "url": "https://www.eliza-ng.me/post/llmslargelangua_4/",
-      "source": "Hacker News",
-      "date": "2026-05-22T16:22:41+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "6c5914b1180e",
-      "title": "Semantic Commit Messages",
-      "url": "https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716",
-      "source": "Hacker News",
-      "date": "2026-05-22T16:21:15+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "115d257efc36",
       "title": "You can no longer Google the word ‘disregard’",
       "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
       "source": "TechCrunch AI",
       "date": "2026-05-22T16:16:48+00:00",
       "snippet": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "725fa8d6954e",
-      "title": "Agents League: The Esports-Inspired Hackathon Where AI Agents Battle for Glory",
-      "url": "https://techcommunity.microsoft.com/blog/azuredevcommunityblog/agents-league-the-esports-inspired-hackathon-where-ai-agents-battle-for-glory/4521610",
-      "source": "Hacker News",
-      "date": "2026-05-22T16:10:42+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -632,16 +832,6 @@
       "category": "ai-news"
     },
     {
-      "id": "2a17dba05535",
-      "title": "Show HN: Prisma Next – data contracts, migration graphs, agent DX",
-      "url": "https://github.com/prisma/prisma-next",
-      "source": "Hacker News",
-      "date": "2026-05-22T14:53:32+00:00",
-      "snippet": "Hey I'm Will from the Prisma team, engineering manager and also the lead developer on Prisma Next. I'd like to introduce you all to the next version of Prisma: a full rewrite in TypeScript that builds on the established patterns in Prisma and comes with a family of skills that integrate it into whatever AI tooling you…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "276c448edc0b",
       "title": "NAB refreshes app",
       "url": "https://www.finextra.com/pressarticle/109931/nab-refreshes-app",
@@ -652,22 +842,22 @@
       "category": "ai-news"
     },
     {
-      "id": "7aa80436bada",
-      "title": "Show HN: Cq exchange: Hosted knowledge commons for AI coding agents",
-      "url": "https://blog.mozilla.ai/cq-exchange-agents-without-borders/",
-      "source": "Hacker News",
-      "date": "2026-05-22T14:38:48+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "3776a153f028",
       "title": "SpaceX files to go public, and the math requires a little faith",
       "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
       "source": "TechCrunch AI",
       "date": "2026-05-22T14:30:00+00:00",
       "snippet": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the la…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "fd43a753cb1e",
+      "title": "Command A+",
+      "url": "https://www.producthunt.com/products/cohere-2",
+      "source": "Product Hunt — AI",
+      "date": "2026-05-22T14:16:45+00:00",
+      "snippet": "Cohere’s open enterprise workhorse Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -722,6 +912,16 @@
       "category": "ai-news"
     },
     {
+      "id": "f2f52d52882a",
+      "title": "Vibedock",
+      "url": "https://www.producthunt.com/products/vibedock",
+      "source": "Product Hunt — AI",
+      "date": "2026-05-22T13:28:39+00:00",
+      "snippet": "Toggle Claude Code MCP servers from your menu bar Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "66a2f1ce81d2",
       "title": "Raqami Islamic Digital Bank granted commercial license by State Bank of Pakistan",
       "url": "https://www.finextra.com/pressarticle/109930/raqami-islamic-digital-bank-granted-commercial-license-by-state-bank-of-pakistan",
@@ -742,16 +942,6 @@
       "category": "ai-news"
     },
     {
-      "id": "8e93dcb678c3",
-      "title": "Is Capability a Liability? More Capable Language Models Make Worse Forecasts",
-      "url": "https://arxiv.org/abs/2605.22672",
-      "source": "Hacker News",
-      "date": "2026-05-22T13:06:56+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "69333c3d9ab2",
       "title": "Why agentic AI-led modernisation is emerging as a competitive divider in financial services - The Digital Banker",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeEVZUGhMWmFfc1BNQkJwQUJmenRna296X2lnYjVLV2NSc1VpVk9YWW5JZURrR082bEJxTWt4SVJIdHM4TzVXRjJxOTM0N0tzMS1MaXZ0N2JvMkJaRnpqYWFsakt1cnAwOFE0U2JJVWNRUzc3ekdvakRVSExRVkdyU1dFc0RRX190WWwtUlpwRHk3WWh5ZlRBWGdpb0dlTE15dVdfcDlOZlZnMXBEejdYUTVUTzhWekE1Q2RPTXlR?oc=5",
@@ -762,42 +952,12 @@
       "category": "ai-news"
     },
     {
-      "id": "f08703036110",
-      "title": "Diia - Ukraine gov app launched AI agent based on Google Gemini",
-      "url": "https://babel.ua/en/news/126979-diia-launched-its-own-ai-agent-in-the-application-what-services-does-it-support",
-      "source": "Hacker News",
-      "date": "2026-05-22T12:43:39+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "984a75e21158",
       "title": "ACU Warns AI, Social Media Are Driving Surge In NCUA Consumer Complaints - CUToday",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVFBmLVlLaGNldUZZQ2FNakg1VGhFeEhGa1ltdmQ2OVo2eU96cG94a1VfNGd0eklXd09pSmhoLVRCWkRyX0NpNl84V2pZMDBfd0N4dlRCYmp6SXU2RXlvNl9KLWlhVHFTYzZPLUo5WWV0aXAtUGxyeHVEa1o0QXI0ZEd6WmNUa1NWM2lKQ3A5TVlyUjE3YXVyd2xtMFR0QWlzYmJXN19jTjA3UFg1?oc=5",
       "source": "Google News",
       "date": "2026-05-22T12:37:30+00:00",
       "snippet": "ACU Warns AI, Social Media Are Driving Surge In NCUA Consumer Complaints CUToday",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "555237f4f7ac",
-      "title": "Show HN: OTA – a readiness contract for software repos",
-      "url": "https://ota.run",
-      "source": "Hacker News",
-      "date": "2026-05-22T12:17:38+00:00",
-      "snippet": "Hi HN, We're building Ota. Ota is open repo readiness infrastructure. It makes software repositories runnable and trustworthy for human, CI, and AI agents. The problem we kept seeing is that the real truth of how a repo gets set up and run is usually scattered across READMEs, scripts, CI config, env files, and maintai…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "ef9db10ef460",
-      "title": "What 1,192 conversations taught us about knowledge base search in AI agents",
-      "url": "https://www.kapa.ai/blog/knowledge-base-search-in-ai-agents",
-      "source": "Hacker News",
-      "date": "2026-05-22T12:17:26+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -838,16 +998,6 @@
       "source": "Finextra",
       "date": "2026-05-22T11:50:02+00:00",
       "snippet": "Every sanctions team I speak to quotes a false-positive rate above 95 per cent as if it were weather...",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "585737f8101f",
-      "title": "Add a Prototype Agents.md File",
-      "url": "https://github.com/sqlite/sqlite/commit/a1e5778889252d2609a59fd9b819d70392c5789e",
-      "source": "Hacker News",
-      "date": "2026-05-22T11:34:13+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -932,16 +1082,6 @@
       "category": "ai-news"
     },
     {
-      "id": "c7a4fd11f96c",
-      "title": "Nyx Wave: an AI agent that extracted expert knowledge via email",
-      "url": "https://splabs.io/nyx-wave-knowledge-extraction",
-      "source": "Hacker News",
-      "date": "2026-05-22T10:42:38+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "06462f342cc9",
       "title": "William Blair recruits fintech banker for London team",
       "url": "https://www.finextra.com/pressarticle/109927/william-blair-recruits-fintech-banker-for-london-team",
@@ -958,16 +1098,6 @@
       "source": "Finextra",
       "date": "2026-05-22T10:33:00+00:00",
       "snippet": "Mizuho Global Services India Pvt. Ltd., the Global Capabilities Center arm (Mizuho GCC) of Mizuho Financial Group, one of the world’s leading financial institutions, today announced the launch of its new Global Capabilities Center in Pune, India (Pune GCC).",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "ef784f6f22d8",
-      "title": "Proton Pass for AI Agents",
-      "url": "https://proton.me/blog/pass-access-tokens",
-      "source": "Hacker News",
-      "date": "2026-05-22T10:20:22+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1012,26 +1142,6 @@
       "category": "ai-news"
     },
     {
-      "id": "01064ba3b54a",
-      "title": "AI coding agents and the evolution of developer skills by 2026",
-      "url": "https://www.hitechies.com/ai-coding-agents-developer-skills-code-review-2026/",
-      "source": "Hacker News",
-      "date": "2026-05-22T08:52:53+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "8218e23c76dd",
-      "title": "Lucy – pay-per-task AI agent in USDC, no subscription (A2A/MCP/x402)",
-      "url": "https://github.com/Woodman97/lucy-agent",
-      "source": "Hacker News",
-      "date": "2026-05-22T08:43:14+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "81671b37d07b",
       "title": "Why Svelte Is Better Than React in the Agentic Era",
       "url": "https://zackwebster.com/blog/why-svelte-is-better-than-react-in-the-ai-era",
@@ -1072,32 +1182,12 @@
       "category": "ai-news"
     },
     {
-      "id": "1927c64dad3d",
-      "title": "You can't whisper at an AI agent",
-      "url": "https://stripe.dev/blog/ai-steering-experiments",
-      "source": "Hacker News",
-      "date": "2026-05-22T07:17:28+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "e59fc38e12c9",
       "title": "Shroomie",
       "url": "https://www.producthunt.com/products/shroomie",
       "source": "Product Hunt — AI",
       "date": "2026-05-22T06:49:14+00:00",
       "snippet": "AI-powered news made fun and habit-forming Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "118127192114",
-      "title": "Will Ever David Defeat Goliath? Epic vs. Apple",
-      "url": "https://www.macrumors.com/2026/05/21/apple-supreme-court-epic-games-case/",
-      "source": "Hacker News",
-      "date": "2026-05-22T06:48:58+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1126,22 +1216,12 @@
       "title": "CapCut Partners with Google’s Gemini for In-App Video Editing - Lapaas Voice",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ocEt4d0JTX0Ita3J5VmtkdS1JQmRtQTJ2U0VQdV9qWnlQdVZISmZnaUhBTFdKNC1rM21zVUk4dzFiZDlIQXc?oc=5",
       "source": "Google News",
-      "date": "2026-05-22T06:22:25+00:00",
+      "date": "2026-05-22T06:17:33+00:00",
       "snippet": "CapCut Partners with Google’s Gemini for In-App Video Editing Lapaas Voice",
       "competitors": [
         "Active.Ai"
       ],
       "category": "competitor"
-    },
-    {
-      "id": "8ad539f8c4a4",
-      "title": "Show HN: Sylph – the open-source company brain behind my YC startup",
-      "url": "https://github.com/getnao/sylph",
-      "source": "Hacker News",
-      "date": "2026-05-22T06:02:59+00:00",
-      "snippet": "Hello HN! I'm Claire, founder of nao Labs (YC X25). Two months ago I started building a company brain in a git repo. Now I fully run my company with 8 AI agents, 20+ skills, and a self-learning context repo. I built it in a git repo because I refused to lock into any tool - not a context layer, not a specific agent ha…",
-      "competitors": [],
-      "category": "ai-news"
     },
     {
       "id": "7712ba4cfac0",
@@ -1160,16 +1240,6 @@
       "source": "Hacker News",
       "date": "2026-05-22T04:33:54+00:00",
       "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "46f9c694dc95",
-      "title": "Big Bank’s AI Layoffs Highlight the Human Cost of Poor Messaging - The Financial Brand",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUhPV0ZVYmpQb2pCOEZaUnVBZTVYWkI1RVRJU05pb0ZEbElZVDVIcUp0RlAweXhEZ2lNR2lkQ0x6cGo2Q2VSQVRxcUxuMkVlc0t1MzJDTzBMNHE4Z0s3ZVpQb3Y4c3lFbjk5UUIzQ3ZBSFpTeTQ1RnZrRDQ3bGplMWxtbG44d0dscXF0N1VGcWt6WloxZVNNOThncFVuVm94T1pBUThFSGRPZlFzS2xhYzA5ZGViU3FqSjdSWVNn?oc=5",
-      "source": "Google News",
-      "date": "2026-05-22T03:35:28+00:00",
-      "snippet": "Big Bank’s AI Layoffs Highlight the Human Cost of Poor Messaging The Financial Brand",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1258,52 +1328,12 @@
       "category": "ai-news"
     },
     {
-      "id": "b93a6c91b559",
-      "title": "Show HN: Agent-estimate, how long a coding task takes, at agent speed",
-      "url": "https://github.com/kiloloop/agent-estimate",
-      "source": "Hacker News",
-      "date": "2026-05-21T22:46:38+00:00",
-      "snippet": "I have used Codex & Claude Code for coding for a while, but how long a coding task will actually take? When I ask Claude Code to estimate, the result is often from training data, which is based on human speed. That’s why I built this tool, to estimate effort in ai agent speed. I run it every morning before I dispatch…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "e98e215362dc",
       "title": "DCP",
       "url": "https://www.producthunt.com/products/dcp",
       "source": "Product Hunt — AI",
       "date": "2026-05-21T22:45:53+00:00",
       "snippet": "Give your AI agents encrypted permission and keys Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "96203a22e052",
-      "title": "We built an agent for CI despite using Claude Code for everything else",
-      "url": "https://www.mendral.com/blog/how-we-built-our-ai-agent",
-      "source": "Hacker News",
-      "date": "2026-05-21T22:31:08+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "9e384adc5a57",
-      "title": "A field guide for engineering teams making AI agent work compound",
-      "url": "https://www.memco.ai/field-guide",
-      "source": "Hacker News",
-      "date": "2026-05-21T22:30:13+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "6541d219f51c",
-      "title": "China sinks 2k servers beneath the ocean as AI power demands push ...",
-      "url": "https://www.techradar.com/pro/china-unveils-worlds-first-underwater-data-center-2-000-server-facility-is-powered-by-offshore-wind-and-cooled-by-the-sea-making-it-one-of-the-most-efficient-around",
-      "source": "Hacker News",
-      "date": "2026-05-21T22:20:01+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1368,16 +1398,6 @@
       "category": "ai-news"
     },
     {
-      "id": "2cfe09c37b02",
-      "title": "Peak unemployment for a software engineer. What did I do wrong?",
-      "url": "https://news.ycombinator.com/item?id=48226881",
-      "source": "Hacker News",
-      "date": "2026-05-21T18:17:24+00:00",
-      "snippet": "Back in 2019, I was a CS student in Iraq. I taught myself Node.js, React, and TypeScript. Then in 2020, the pandemic started, and honestly, it was perfect timing for me because suddenly a lot of local businesses needed delivery web apps. I was lucky enough to know some of those business owners, and I ended up building…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "699216c4062d",
       "title": "One Inc appoints Kishore Konakanchi chief product officer",
       "url": "https://www.finextra.com/pressarticle/109924/one-inc-appoints-kishore-konakanchi-chief-product-officer",
@@ -1394,16 +1414,6 @@
       "source": "Hacker News",
       "date": "2026-05-21T17:48:15+00:00",
       "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "97f7d025452f",
-      "title": "Ask HN: What is an optimal game theoretic response to AI adoption?",
-      "url": "https://news.ycombinator.com/item?id=48226484",
-      "source": "Hacker News",
-      "date": "2026-05-21T17:47:18+00:00",
-      "snippet": "Apologies for the claude dump, but this was too tempting to resist and partly also my context window is too small to generate a long thesis (a.k.a lazy). I wanted to share it with people as a conversation starter since many of us are grappling with this phenomenon. I had a realization that everybody using AI makes thi…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1428,22 +1438,22 @@
       "category": "ai-news"
     },
     {
-      "id": "dbde36580b51",
-      "title": "Show HN: My independent search engine focused on user control",
-      "url": "https://slicksearchhq.com",
-      "source": "Hacker News",
-      "date": "2026-05-21T17:05:57+00:00",
-      "snippet": "I've always been frustrated with search engines. Google used to be the one I always used, but it's now completely overrun with ads and AI Overview. Alternatives like Mojeek, Marginalia, DuckDuckGo, or Startpage don't seem to give me the results I'm looking for. What's even worse is that search engines like DuckDuckGo,…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "e1a83c6fa5f7",
       "title": "Tobacco Giant Donated $5M to MAGA Inc. Shortly Before Vaping Decision",
       "url": "https://www.wsj.com/business/tobacco-giant-donated-5-million-to-maga-inc-shortly-before-vaping-decision-3318d5db",
       "source": "Hacker News",
       "date": "2026-05-21T17:01:04+00:00",
       "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "6fe804df4fdd",
+      "title": "Ask HN: Anyone else struggling with AI and work?",
+      "url": "https://news.ycombinator.com/item?id=48225837",
+      "source": "Hacker News",
+      "date": "2026-05-21T16:59:15+00:00",
+      "snippet": "Been a developer for a little over 10 years now. I work on web stuff. Your typical React/Svelte codebases with Node backends. The past year or so I've been working with coding agents and at first they just felt like a really really great tool. They'd allow me to do my work faster, and while obviously not perfect, they…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1492,22 +1502,22 @@
       "category": "competitor"
     },
     {
-      "id": "6f7fb3463c4c",
-      "title": "Ask HN: Danger or Fun? encoding secret messages into HN comments",
-      "url": "https://news.ycombinator.com/item?id=48225424",
-      "source": "Hacker News",
-      "date": "2026-05-21T16:30:41+00:00",
-      "snippet": "I am a casual observer of HN and am kinda just here as a hobbyist. Most the stuff I read here I can't even comprehend to be honest, you guys speak a lot of gibberish to me. Ive made something I was surprised is even possible to make which is both fun and daunting in the context of what will be possible in the future.…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "5c55b7ad58e2",
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
       "source": "Hacker News",
       "date": "2026-05-21T16:23:11+00:00",
       "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "0d9d00e254ef",
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "url": "https://www.runtm.com/",
+      "source": "Hacker News",
+      "date": "2026-05-21T16:07:13+00:00",
+      "snippet": "Hey HN, We're Gus and Carlos from Runtime ( https://runtm.com ). We're building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to handhold every session. After Mentum (YC S21) was acquired, I personally shipped 4 full-stack products i…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1552,14 +1562,14 @@
       "category": "ai-news"
     },
     {
-      "id": "581efe1e67eb",
-      "title": "Show HN: Darc – grep-like memory search tool for coding agents",
-      "url": "https://github.com/0xjunha/darc",
-      "source": "Hacker News",
-      "date": "2026-05-21T15:26:45+00:00",
-      "snippet": "Hi HN, I’m Junha Park. I've been experimenting with agent memory, especially how to make agents run more reliably on large tasks. I built Darc, an open-source shared memory search tool for coding agents, with a different approach from most agent memory systems we can see today. It is an index + (lexical) search tool o…",
+      "id": "216bd1f08527",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-21T15:00:00+00:00",
+      "snippet": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
       "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
     },
     {
       "id": "3f06f2914591",
@@ -1578,16 +1588,6 @@
       "source": "TechCrunch AI",
       "date": "2026-05-21T14:00:00+00:00",
       "snippet": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "5cecf9b5e243",
-      "title": "The stock market returns 4 %",
-      "url": "https://entropicthoughts.com/stock-market-returns-4-percent",
-      "source": "Hacker News",
-      "date": "2026-05-21T13:58:54+00:00",
-      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1652,16 +1652,6 @@
       "category": "ai-news"
     },
     {
-      "id": "7b0168fc8189",
-      "title": "Ask HN: Does anyone believe role-play AI is effective for training?",
-      "url": "https://news.ycombinator.com/item?id=48221788",
-      "source": "Hacker News",
-      "date": "2026-05-21T12:46:47+00:00",
-      "snippet": "We built Socratize, an AI-based training tool where employees practice real workplace scenarios instead of watching videos or taking quizzes. Most corporate training is passive. People watch content, click through slides, pass a quiz, and forget most of it within days. We wanted to try a different approach: learning t…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "32ba683f9316",
       "title": "Mastercard scoops fleet deal with Germany's ryd",
       "url": "https://www.finextra.com/pressarticle/109921/mastercard-scoops-fleet-deal-with-germanys-ryd",
@@ -1672,32 +1662,12 @@
       "category": "ai-news"
     },
     {
-      "id": "8a9d76fb075c",
-      "title": "Show HN: Daily word puzzle game based on polysemy",
-      "url": "https://omitten.com",
-      "source": "Hacker News",
-      "date": "2026-05-21T12:10:39+00:00",
-      "snippet": "I built this daily puzzle game called \"Omitten\". The idea came from a compulsive habit I got from reading books on an e-reader and constantly looking up definitions (iykyk). Quite often you'd see a single word with 20 different meanings in different contexts, and I wanted to build a game around that. In the game you g…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "e179aaab2b52",
       "title": "TD Bank Launches Agentic AI to Streamline Real Estate Secured Lending - marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaEhkaDJFYzJ5Slo0WS1SMlJSTDNhT2NZV2RwTkxkUVlMbWN0NW0zdjBkTWQ1MmxzRFR5MWRFbWkwdVVlQ1VWeElsbFJHbnRlY3VfRlhnX2tHYmRTbUJwbk0xWE81QTNCSlhqdFEzV1BzUmJ6TjBZbHNuWEhUaklSblR0bU5fRjhxellDMUxtNE0xUXVURlAyWkgtMmJrUkNNUUpfaFRkWVJGM0Q4Z3NUTUh2czlUSEpUSG1aZEQxYw?oc=5",
       "source": "Google News",
       "date": "2026-05-21T11:59:00+00:00",
       "snippet": "TD Bank Launches Agentic AI to Streamline Real Estate Secured Lending marketscreener.com",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "28d58498c8d8",
-      "title": "Show HN: SoMatic – Vision-based OS automation framework for AI agents",
-      "url": "https://github.com/Smyan1909/SoMatic",
-      "source": "Hacker News",
-      "date": "2026-05-21T11:53:00+00:00",
-      "snippet": "Hi HN, I'm Smyan and I enjoy building agents. Modern multimodal LLMs are great at vision and perception but are quite poor at localization. This naturally creates a massive problem when we try to take our RPA frameworks and give them to agents to perform computer use tasks. For browsers, we have been able to solve thi…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1762,6 +1732,16 @@
       "category": "ai-news"
     },
     {
+      "id": "de8e40a01008",
+      "title": "TD Bank Group Launches Agentic AI Model for Real Estate Secured Lending - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmFxeXFPYVZ2d0JTcVRsT1FBb2Mtc0FzVHpFZTVNYkNKeHNXamFFTXNwN3BqMXdDWkdkcWg4RzVfZGoySWttcTFNS3NPcEJqR3ZwS0Z1a09YQTlUd3o3VkNwbVpDbWZXM1ZNYmJGRHJQeW5OSUtSMlBOMzhGaV9PZ19vR1JvaE9SdFIwRVpfaXUzaUtGc19MN1NUUGx5dmhseWo2UUM2dGJWWVJDd1ZQNGpWcnNoZWlLSVh1VjdnMVJodw?oc=5",
+      "source": "Google News",
+      "date": "2026-05-21T10:58:00+00:00",
+      "snippet": "TD Bank Group Launches Agentic AI Model for Real Estate Secured Lending marketscreener.com",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "b392305b4695",
       "title": "Revenue and profits slip at Starling",
       "url": "https://www.finextra.com/newsarticle/47793/revenue-and-profits-slip-at-starling",
@@ -1822,11 +1802,11 @@
       "category": "ai-news"
     },
     {
-      "id": "3b5b76380908",
-      "title": "Systematic Reward Hacking and Prime Sprints",
-      "url": "https://www.primeintellect.ai/blog/reward-hacking",
+      "id": "fd44ead81712",
+      "title": "China has named, defined and started governing agentic AI",
+      "url": "https://thewire.in/tech/chinas-landmark-framework-for-agentic-ai-and-why-it-matters",
       "source": "Hacker News",
-      "date": "2026-05-21T07:40:15+00:00",
+      "date": "2026-05-21T07:29:45+00:00",
       "snippet": "",
       "competitors": [],
       "category": "ai-news"
@@ -1914,16 +1894,6 @@
       "category": "ai-news"
     },
     {
-      "id": "ff7672695c45",
-      "title": "Anthropic says it’s about to have its first profitable quarter",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "source": "TechCrunch AI",
-      "date": "2026-05-21T00:21:21+00:00",
-      "snippet": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "5138f2130a75",
       "title": "AI set to automate up to 50% of tasks in most financial services roles",
       "url": "https://www.finextra.com/newsarticle/47792/ai-set-to-automate-up-to-50-of-tasks-in-most-financial-services-roles",
@@ -1964,22 +1934,12 @@
       "category": "ai-news"
     },
     {
-      "id": "166ddb425936",
-      "title": "TBC Uzbekistan Wins Global Finance 2026 Innovators Award for Central Asia's First AI Banking Assistant - London Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYVlQNDYxeWVXOW9IcTJTc3JOdkVhY3N6aGxkU2d0MFZ6QWdqeTJDLTNPc0FLNVdpbFAyT19LVXdKLUJmZEprQ2pIdl9pUWNraG1tRVJFYVZqaW9aQnJSbGxrVkhYXzdkcHFLUDFwcVpSQ2toa1QyajB0cnc4RXRrZlNVNEdPMm1saVppX3lIVW9OT3VHOGNaekwyajhCTWdqU2FBRUlUbmNXZmhGLXE0SlJGakZqeGxJbXFjNDQyazBvQkJiWFhz?oc=5",
-      "source": "Google News",
-      "date": "2026-05-20T22:43:19+00:00",
-      "snippet": "TBC Uzbekistan Wins Global Finance 2026 Innovators Award for Central Asia's First AI Banking Assistant London Post",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "daa5c2f8355c",
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-      "source": "TechCrunch AI",
-      "date": "2026-05-20T22:30:45+00:00",
-      "snippet": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "id": "67240f61db4d",
+      "title": "A solution for schlep blindness in agentic development for Kubernetes envs",
+      "url": "https://metalbear.com/mirrord/ai/",
+      "source": "Hacker News",
+      "date": "2026-05-20T22:18:07+00:00",
+      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2006,24 +1966,24 @@
       "category": "competitor"
     },
     {
-      "id": "672feefd30e6",
-      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
-      "url": "https://news.ycombinator.com/item?id=48212471",
-      "source": "Hacker News",
-      "date": "2026-05-20T19:03:41+00:00",
-      "snippet": "Hi HN, we're Haakam, Michael, and Adi from AgentMail a YCS25 company. We give AI agents their own email inboxes. Recently we ran an experiment: agent.email, a signup flow designed for AI agents instead of humans. After our seed launch a few months back, people started pointing this out on Twitter: it's a bit backwards…",
+      "id": "bdce82aec8b8",
+      "title": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-20T20:00:00+00:00",
+      "snippet": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
       "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
     },
     {
-      "id": "01c849a06ae5",
-      "title": "8k Meta employees are waking up to an email saying they've been laid off",
-      "url": "https://qz.com/meta-layoffs-8000-jobs-ai-restructuring-052026",
-      "source": "Hacker News",
-      "date": "2026-05-20T18:13:52+00:00",
-      "snippet": "",
+      "id": "c1a9755b85af",
+      "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-20T18:00:00+00:00",
+      "snippet": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
       "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
     },
     {
       "id": "5f313334f72a",
@@ -2086,32 +2046,12 @@
       "category": "ai-news"
     },
     {
-      "id": "d080b65cbc10",
-      "title": "Catena Labs lands $30 million Series A, files for national trust bank charter to underpin agentic finance - The Block",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ2RRMlp3Vm5oVHc0WklUeFprUDA4bXdxVVpJd3B1RlB0TVFOblBaVWFDeHQ2UXM4dFJickUzMk4xTE1DdGk5d1ZYd3ExeEZEWmRpbDJtQkMzemxQYXNRVURJX0xNZldqRVl3b2JjbHRZTkhCa1pER0dnd0N6WVF6bXdSWE1MWGhzMHdWN25hZUhuQ29LM0ZhRzV2QTg5Vzd1X1BTbndzU1FDaGpuX2tzQng1czdDN0F2YTY1T05kdGt3d0NVQ2J3dy1BWnhYeUJVRXRWTS1R?oc=5",
-      "source": "Google News",
-      "date": "2026-05-20T14:15:56+00:00",
-      "snippet": "Catena Labs lands $30 million Series A, files for national trust bank charter to underpin agentic finance The Block",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "522438540902",
       "title": "AutoSubtitles 2.0",
       "url": "https://www.producthunt.com/products/autosubtitles",
       "source": "Product Hunt — AI",
       "date": "2026-05-20T12:23:35+00:00",
       "snippet": "AI subtitles & animated captions with faster editing Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "807c7d7390ec",
-      "title": "Show HN: Proposalkit.io – you write the content, we control the design",
-      "url": "https://proposalkit.io/",
-      "source": "Hacker News",
-      "date": "2026-05-20T11:30:28+00:00",
-      "snippet": "This is a proposal creation and analytics software for small agencies. Who is it for: a five person web design studio sending a $15K-ish project proposal after a discovery call I've been long wanting to start building my own businesses, and this is my first true attempt to do so. I've built systems on top of platforms…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2186,9 +2126,9 @@
       "category": "ai-news"
     },
     {
-      "id": "9355936d479d",
+      "id": "52d30ab4acf6",
       "title": "India's Artificial Intelligence Job Postings Skyrocket 6X Since 2019 - The Hans India",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalpwcGxtTzFQQ3pISVdfN251eE8zdlNxYXVMcUlyZ0lSbVFCTjJVWk9BVmJDYjFpQkZYUFptczRoNXQwd3RoM1djQkhPRlB1Rk5sVXhtRDhydXRST2drcHlWSzUtcVBJcTBVNHhwbnYtNC1qQmUyODA0Vm5fMkJRR3poT0NCcmtJd3pFQTZQVDBXRjdmOXBmQzN6bnQxa0pMWjFSVEUtZ3NyaHNRUFE4VGhCc9IBswFBVV95cUxOalpwcGxtTzFQQ3pISVdfN251eE8zdlNxYXVMcUlyZ0lSbVFCTjJVWk9BVmJDYjFpQkZYUFptczRoNXQwd3RoM1djQkhPRlB1Rk5sVXhtRDhydXRST2drcHlWSzUtcVBJcTBVNHhwbnYtNC1qQmUyODA0Vm5fMkJRR3poT0NCcmtJd3pFQTZQVDBXRjdmOXBmQzN6bnQxa0pMWjFSVEUtZ3NyaHNRUFE4VGhCcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRnpzeHUzN2RtWmJYMmtsYnpOdk9UaW1JRkh1Z3AwS2Zwdm5MMXIyLVpwQjRRbm42SGpCd3pJQ1JoVjFHOHE5QXJfUUNrcDhTTU85aVU1b0ljZXlJUC10Y055NkxYeEJLUTVlN0gyY3pKV3BTeFdBazN1SWdNbzlCM2lqT29LNUZsaU5OTEVMT1FOeVlOLWtVSUFYcVJmck83NlpfMTJmTWtYb1pWLWfSAbMBQVVfeXFMTmpacHBsbU8xUEN6SElXXzdudXhPM3ZTcWF1THFJcmdJUm1RQk4yVVpPQVZiQ2IxaUJGWFBabXM0aDV0MHd0aDNXY0JIT0ZQdUZObFV4bUQ4cnV0Uk9na3B5Vks1LXFQSXEwVTR4cG52LTQtakJlMjgwNFZuXzJCUUd6aE9DQnJrSXd6RUE2UFQwV0Y3ZjlwZkMzem50MWtKTFoxUlRFLWdzcmhzUVBROFRoQnM?oc=5",
       "source": "Google News",
       "date": "2026-05-20T08:20:40+00:00",
       "snippet": "India's Artificial Intelligence Job Postings Skyrocket 6X Since 2019 The Hans India",
@@ -2214,6 +2154,16 @@
       "source": "Product Hunt — AI",
       "date": "2026-05-20T07:05:28+00:00",
       "snippet": "Instant computers for AI agents Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "88d5bf31b678",
+      "title": "Building the operating system markets now require: How agentic AI is forcing a rethink of markets and securities services - The Digital Banker",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNThpS2VoMDc1b0VQNE1ISW10WG1oVHVHZC1TUUxZZmxmcUY3Y2kyNTNZLUQ1dTlvODBjcFRGTTh4R00za0xTV2JONU1ZVTZ1YTdFQjE3czB0eG5yOHlXam94UUVpeGZKTWFnQUkyNmNLUHB2WUVBNkNMN2pXLVpJbnd6TkVROEJseVhJVUV5dmRGY1NCQnlSazN6SW5LZTFYMEVtZE5PYnJ3OGRDNVF0RE5JV29iT2xDWjBFdmg3RXlqMG9zSHFVdGRBeGo3QTlMRFdyZ1h3bTQ4aXp4dTZaUDdmblg?oc=5",
+      "source": "Google News",
+      "date": "2026-05-20T06:36:30+00:00",
+      "snippet": "Building the operating system markets now require: How agentic AI is forcing a rethink of markets and securities services The Digital Banker",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2394,16 +2344,6 @@
       "category": "competitor"
     },
     {
-      "id": "136e723318ac",
-      "title": "Show HN: How to analyze your LLM output – A behavioural health monitor for LLMs",
-      "url": "https://splabs.io",
-      "source": "Hacker News",
-      "date": "2026-05-19T12:48:32+00:00",
-      "snippet": "Hey HN! We're Dr. Kashyap Thimmaraju and Giuseppe Canale from Silicon Psyche. We've built Posture Sequence Analysis (PSA), a behavioural health monitor for LLMs and AI Agents. Why we built PSA We built PSA because we wanted to operationalize the Cybersecurity Psychology Framework (CPF3)[1] via Silicon Psyche[2]: our t…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "064f190fa39a",
       "title": "How Commercial Banking Client Demands Are Changing in 2026",
       "url": "https://www.finextra.com/videoarticle/3501/how-commercial-banking-client-demands-are-changing-in-2026",
@@ -2496,22 +2436,22 @@
       "category": "ai-news"
     },
     {
+      "id": "e64ddb219c96",
+      "title": "Composer 2.5",
+      "url": "https://www.producthunt.com/products/cursor",
+      "source": "Product Hunt — AI",
+      "date": "2026-05-19T02:39:57+00:00",
+      "snippet": "Cursor’s most powerful model yet Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "72fe08e6870c",
       "title": "Google, Blackstone plan AI cloud venture with $5B backing, WSJ reports",
       "url": "https://www.reuters.com/business/google-blackstone-create-new-ai-cloud-company-wsj-reports-2026-05-19/",
       "source": "Hacker News",
       "date": "2026-05-19T01:06:49+00:00",
       "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "624e12a25e19",
-      "title": "Talkdesk Targets Credit Unions With AI-Driven Customer Experience Automation - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTNKWlVienl5YlBZa0xhMkpoNElpQVpWQi1PeEYzRDNQYmVBN2JpUHd6cVFweXdqQzYySU5KanU2aDRQR3JORWhIaVV2ZDJ3R09aT1ItZnBfcVhuR3Bjc2lXUjdENDFZQkJjbEpYcVRUMFBKTjVpR0pDQ1B2QUF3anVvVnh5NHlvOVdVQ3R1ZlpQLUJKY0VGSTc5ZlpYNXJtdTBPM0xzQ2dsQjZObFZaWlF1RG1WMEttQmlyTFQyQmdkQQ?oc=5",
-      "source": "Google News",
-      "date": "2026-05-19T00:59:29+00:00",
-      "snippet": "Talkdesk Targets Credit Unions With AI-Driven Customer Experience Automation TipRanks",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2566,6 +2506,16 @@
       "category": "ai-news"
     },
     {
+      "id": "8cbdb28eb788",
+      "title": "Starchild-1 by Odyssey",
+      "url": "https://www.producthunt.com/products/odysseyml-starchild-1-model",
+      "source": "Product Hunt — AI",
+      "date": "2026-05-18T17:03:44+00:00",
+      "snippet": "The first real-time multimodal world model Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "21c39dc91dfa",
       "title": "Manus Scheduled Tasks 2.0",
       "url": "https://www.producthunt.com/products/manus",
@@ -2596,12 +2546,12 @@
       "category": "ai-news"
     },
     {
-      "id": "1e08c35a2719",
-      "title": "Insights by Omnia",
-      "url": "https://www.producthunt.com/products/omnia-2",
-      "source": "Product Hunt — AI",
-      "date": "2026-05-18T15:15:28+00:00",
-      "snippet": "Step-by-step action plans to improve your AI visibility. Discussion | Link",
+      "id": "0d225d1bf0f2",
+      "title": "BofA Reinstates ServiceNow at Buy: The Workflow Giant Built for the Agentic AI Era - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTN5REs0Y1FNV1g3cFo4alVOb19Vb3A0d0d3eGQyaWc5c3Y0R3lyLV9LeFFpNHc4b2ZnMXRla25SYjhHa2E5bXJMUnhWeC0tY0tzQzMzYnVEb3plbGR0UEtSUlJHOWEzTDFmYUZ3Z3dMSk16QU9pRUNfSi1PV1hpQmlhUmVIR2puMXdYQjU0SnZwTjVhd21KUEdoMS1CcjJwMWY1dTg5alZ0ODNNaXI0Z0xsYkw4M0hmWU1Za1B4LWg0LUU?oc=5",
+      "source": "Google News",
+      "date": "2026-05-18T15:25:16+00:00",
+      "snippet": "BofA Reinstates ServiceNow at Buy: The Workflow Giant Built for the Agentic AI Era 24/7 Wall St.",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2646,14 +2596,14 @@
       "category": "ai-news"
     },
     {
-      "id": "d9634dc45505",
-      "title": "Pair hiring £50k a year nanny to get up in night to deal with son when he wakes - thesun.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZk44alFwZm1jVV9STEgtbEptRTZPRmVraXQzTDFPeldNMHMwVXYzb0lmcDRIcHlxc09NOUlRMnRDaGFFWjVLWHNpal92TUpuSWNUR3NDVkpna0xJX1FRTWo1cFpKYVVOcFN2clVMZUU1VF9WZTlQcndBbVFnenlPS0ZBN1I4SUlKWWNWWkgwVG0?oc=5",
+      "id": "dff10aa4b44f",
+      "title": "Shyld AI Raises $13.4M in Seed Funding - FinSMEs",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVE9IVllJMUxYR3hybHkyU2JPRmNYTGpBWmVaVm9XQnV3UzdLN0xkeXFVc0tlb1VBOTVOSDJLcjlfT21nQTNuR2tZQ011MVlSQXpvWTNqZ1FXMUY0ZHVmdjRYY0RoVVppU3VvdGRRNDZyMHRRWEJtN0cwa1Ntem8?oc=5",
       "source": "Google News",
-      "date": "2026-05-18T03:10:05+00:00",
-      "snippet": "Pair hiring £50k a year nanny to get up in night to deal with son when he wakes thesun.co.uk",
+      "date": "2026-05-18T08:06:26+00:00",
+      "snippet": "Shyld AI Raises $13.4M in Seed Funding FinSMEs",
       "competitors": [
-        "Posh"
+        "Active.Ai"
       ],
       "category": "competitor"
     },
@@ -2668,24 +2618,16 @@
       "category": "ai-news"
     },
     {
-      "id": "26c6961efef4",
-      "title": "Haystack",
-      "url": "https://www.producthunt.com/products/haystack-editor",
-      "source": "Product Hunt — AI",
-      "date": "2026-05-17T18:55:22+00:00",
-      "snippet": "Review the pull requests that actually need human attention Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "c72585c2869d",
-      "title": "CaseGap AI",
-      "url": "https://www.producthunt.com/products/casegap-ai",
-      "source": "Product Hunt — AI",
-      "date": "2026-05-17T17:12:24+00:00",
-      "snippet": "Find law firm revenue leaks, then fix them Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
+      "id": "5f7376ee8fd0",
+      "title": "Pair hiring £50k a year nanny to get up in night to deal with son when he wakes - The Irish Sun",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQallEVjFOV2d6NWNnU3MzWXBXX1JINUtSNU42di1lTjVxUmt0SW40b3Itcm1JNVZaZVhacG1BNG14cDdBNmFRbU9NbHplc05walhDY1lPRWlsbUMwZ2QyWU1Cdl9DcVVWM2VIZnJoS002N0lDOXQ2Qjk4bWtMZEpsMHpUampaR2JlT1luUg?oc=5",
+      "source": "Google News",
+      "date": "2026-05-17T20:04:52+00:00",
+      "snippet": "Pair hiring £50k a year nanny to get up in night to deal with son when he wakes The Irish Sun",
+      "competitors": [
+        "Posh"
+      ],
+      "category": "competitor"
     },
     {
       "id": "96dd98f62945",
@@ -2694,16 +2636,6 @@
       "source": "Hacker News",
       "date": "2026-05-17T15:54:39+00:00",
       "snippet": "Something I've been pondering for a while now is how I feel about AI produced content. I find a lot of essays that are clearly AI assisted but I am able to get a feeling that the person who produced it put time and effort into writing it. My current model is something like: If it feels like AI generated content where…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "f8e0b39b3b05",
-      "title": "Give every tool LLM wiki and bypass Claude Code SSH Throttle",
-      "url": "https://news.ycombinator.com/item?id=48169701",
-      "source": "Hacker News",
-      "date": "2026-05-17T15:18:17+00:00",
-      "snippet": "So I get from a security perspective this is a terrible idea, but it works great! I wanted to give every tool I had access to LLM wiki and didn’t want to pay Mem0 or congee $100 a month for saving text files. Every AI I use hits the same wall. The conversation ends and everything disappears. Context, files, databases,…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2718,26 +2650,6 @@
         "Active.Ai"
       ],
       "category": "competitor"
-    },
-    {
-      "id": "4dc09d81dc79",
-      "title": "Chert",
-      "url": "https://www.producthunt.com/products/chert",
-      "source": "Product Hunt — AI",
-      "date": "2026-05-17T05:10:40+00:00",
-      "snippet": "Build AI agents that text customers in iMessage Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "aeec890d98a3",
-      "title": "Cosmic Insights",
-      "url": "https://www.producthunt.com/products/cosmic",
-      "source": "Product Hunt — AI",
-      "date": "2026-05-17T04:08:23+00:00",
-      "snippet": "Cookieless web analytics built into your CMS Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
     },
     {
       "id": "13741ae24f99",
@@ -2800,6 +2712,36 @@
       "category": "ai-news"
     },
     {
+      "id": "4c89bfa6ad69",
+      "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-15T21:00:00+00:00",
+      "snippet": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
+      "id": "8741a9e66a8a",
+      "title": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-15T20:30:00+00:00",
+      "snippet": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
+      "id": "82c1bc15c7e2",
+      "title": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-15T20:30:00+00:00",
+      "snippet": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "f3b60e028e24",
       "title": "Farmers State Bank uses agentic AI to deliver digital convenience without losing the personal touch - IBM",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOemJGeG5LcUgzUkY4T3JqaXF4Q3ljV04yeTRuMWFySW5SdmNVTzNLOUxFTVNqYkd2S2V0N21fVm1oMjFGWktnZXFFOEE5UUYydjc4YS1leUNzZkZ1V2Vna3o5S2RlZzBCVnFhcGNNcmZWYlU1UlI0OXlBOGdOMkhQdlJ0MzU5aW16dnhqRGxXTkdTdVN4OFZ6Z0JqSnQ3azg2RG12bw?oc=5",
@@ -2808,6 +2750,16 @@
       "snippet": "Farmers State Bank uses agentic AI to deliver digital convenience without losing the personal touch IBM",
       "competitors": [],
       "category": "ai-news"
+    },
+    {
+      "id": "0830516487ec",
+      "title": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-15T15:00:00+00:00",
+      "snippet": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+      "competitors": [],
+      "category": "regulatory"
     },
     {
       "id": "990a450e6d3f",
@@ -2916,6 +2868,16 @@
       "category": "ai-news"
     },
     {
+      "id": "d60eee29548d",
+      "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-14T18:00:00+00:00",
+      "snippet": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "0370e2d55cdf",
       "title": "First Orion and Glia Partner to Secure Branded Calls for Financial Institutions - citybuzz -",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQXpfM05Qc3JaTkN5akVOUVNveGJLa0I1SUxaS0RxeEpfcjgyQnh1YnEtMTlMUjl0a0NZVmtUQUNOcVBwclltdXhJNnlpU2NSVTZROUFmZ3FpQWg1MThpTkNsVEszbFUtamM0cGJMTkh6cGZtSk9JNFNieTE1SkVYbjl5TUw4UkF2WHhtWUVYZGhvcUJpckFxZ2l1dTBUeWlvcHhVcUYySVJEQUhhWVh5VG55d0Y1UQ?oc=5",
@@ -2924,18 +2886,6 @@
       "snippet": "First Orion and Glia Partner to Secure Branded Calls for Financial Institutions citybuzz -",
       "competitors": [
         "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "e0b1d6f3f119",
-      "title": "Shyld AI Raises $13.4M to Expand Active AI Across U.S. Hospitals - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjhJbW8tdF9jdjVVUmVCdXQxVlpUR1MxbUNWOUxrcDV2d3V0bGJPNmNmNmRNOXpKV3BnSVR1VDA0NlNfQl9NUHZJN2p6MWJMZ1JvNnZ6OEM5SVp1djVsallRcVE5ZlQtWDdHT25RMHcyQTlYNDVRRFhZZzZ4VmNTNFIxZzFNMnFmUlJlY1dnTElvY1FVSEVDbmE4UW4yTHhMYXZjZzFPWk9HdC1VLUg1VUgyeUxSYk1SUmVGV0JlLVBlbGp2ZWpuMnNoMkVzUmc?oc=5",
-      "source": "Google News",
-      "date": "2026-05-14T16:00:00+00:00",
-      "snippet": "Shyld AI Raises $13.4M to Expand Active AI Across U.S. Hospitals GlobeNewswire",
-      "competitors": [
-        "Active.Ai"
       ],
       "category": "competitor"
     },
@@ -3012,24 +2962,14 @@
       "category": "ai-news"
     },
     {
-      "id": "b7fb17bb5d52",
-      "title": "Four Credit Union-Supported Bills Clear House Financial Services Committee - CUToday",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGl2UUgxWUcyN2hHRk4zNGs0bzFZTW84V0pkNkd5WjlWMzRYNV9BZUtldjNmTk9QZURkbHRUV3lKU2tTTFNvV0p4aVhtNTNVNjlOVmpGSHNNR0pfelhpaHJwMk1BRWJqMlpVQ3NXVFZzZ1NKVlpCSFVTNDVjR1RjWWQ4NGJHNzdZenR5Q2cwTDUwalE0VDF5WkoxelJpY0xFZlE1QVhfdzh4Y0Z0Q25iSw?oc=5",
-      "source": "Google News",
-      "date": "2026-05-14T12:12:20+00:00",
-      "snippet": "Four Credit Union-Supported Bills Clear House Financial Services Committee CUToday",
+      "id": "9b3ee303db81",
+      "title": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-14T14:00:00+00:00",
+      "snippet": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
       "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "e67aaba1ea47",
-      "title": "Fiserv Launches agentOS: The Operating System for Agentic AI in Banking - Fiserv",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0xLLXVaMlBSbnpaUGNpYi1PZmV2X1lXWGZxWFExZDF0R0IyaElLUkpaVjNudjN3bl9kRmdSOUdENHBJWmJzQkhBV2VIcFN5OVUyd2E4Y1l3WFNmcVJiRkFpbTVSLXd2YXR1QVAxc09uUnlwb1RYSm1mVWRpMkh2ek0wLUlaRlhYTFpzY2c4WU03bWRTUjZLWDFiNWEyd3VCWHN6YThQVm4yQjZWTWdianFaN2xxdlVfZnpPb2ZDb0U?oc=5",
-      "source": "Google News",
-      "date": "2026-05-14T11:01:46+00:00",
-      "snippet": "Fiserv Launches agentOS: The Operating System for Agentic AI in Banking Fiserv",
-      "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
     },
     {
       "id": "a1811cc49d80",
@@ -3042,12 +2982,34 @@
       "category": "ai-news"
     },
     {
+      "id": "e0b1d6f3f119",
+      "title": "Shyld AI Raises $13.4M to Expand Active AI Across U.S. Hospitals - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjhJbW8tdF9jdjVVUmVCdXQxVlpUR1MxbUNWOUxrcDV2d3V0bGJPNmNmNmRNOXpKV3BnSVR1VDA0NlNfQl9NUHZJN2p6MWJMZ1JvNnZ6OEM5SVp1djVsallRcVE5ZlQtWDdHT25RMHcyQTlYNDVRRFhZZzZ4VmNTNFIxZzFNMnFmUlJlY1dnTElvY1FVSEVDbmE4UW4yTHhMYXZjZzFPWk9HdC1VLUg1VUgyeUxSYk1SUmVGV0JlLVBlbGp2ZWpuMnNoMkVzUmc?oc=5",
+      "source": "Google News",
+      "date": "2026-05-14T07:00:00+00:00",
+      "snippet": "Shyld AI Raises $13.4M to Expand Active AI Across U.S. Hospitals GlobeNewswire",
+      "competitors": [
+        "Active.Ai"
+      ],
+      "category": "competitor"
+    },
+    {
       "id": "85747a31fc86",
       "title": "Top 25 Generative AI Finance Use Cases in 2026 - AIMultiple",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWU2VBNWxybEkxWGd3VWJKaE5yTmRjTHIxNFEtdHF1bEJGREtxQ2V5U3N1eXl4eGcxenlIeW9PSlljVUdXQ05fWFJIWkRQRDZyMUxLcWQ3WQ?oc=5",
       "source": "Google News",
       "date": "2026-05-14T07:00:00+00:00",
       "snippet": "Top 25 Generative AI Finance Use Cases in 2026 AIMultiple",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "e67aaba1ea47",
+      "title": "Fiserv Launches agentOS: The Operating System for Agentic AI in Banking - Fiserv",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0xLLXVaMlBSbnpaUGNpYi1PZmV2X1lXWGZxWFExZDF0R0IyaElLUkpaVjNudjN3bl9kRmdSOUdENHBJWmJzQkhBV2VIcFN5OVUyd2E4Y1l3WFNmcVJiRkFpbTVSLXd2YXR1QVAxc09uUnlwb1RYSm1mVWRpMkh2ek0wLUlaRlhYTFpzY2c4WU03bWRTUjZLWDFiNWEyd3VCWHN6YThQVm4yQjZWTWdianFaN2xxdlVfZnpPb2ZDb0U?oc=5",
+      "source": "Google News",
+      "date": "2026-05-14T07:00:00+00:00",
+      "snippet": "Fiserv Launches agentOS: The Operating System for Agentic AI in Banking Fiserv",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3082,26 +3044,6 @@
       "category": "ai-news"
     },
     {
-      "id": "617cd751ae7c",
-      "title": "Voker",
-      "url": "https://www.producthunt.com/products/voker",
-      "source": "Product Hunt — AI",
-      "date": "2026-05-13T23:52:55+00:00",
-      "snippet": "The Agent Analytics Platform for AI Product Teams Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "a703630271b5",
-      "title": "EDGE 26: Tom Davis Says Credit Unions Have Already Proven They Can Adapt To AI Era - CUToday",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkpZTmluZFBaTW5mR25ub2RiTDdrVWxhZ0ExQTU1Zm4wUWFWak5fOFhTcDZSWWRvT003TV9VVHNpZm9MNFZwSTV6a29fM01wazJrQ1h5X1VBWE5tVTFTQTJfNUJpYWVlMnFjbXY0UE5oTnhqTHFfemxkeVdmWlJldWVaY2pWRUoweWUyYm9MbENMUDRTcW4zRlFNRWxJc3l0bU5nTzF1Z2pnaDFyeUc3czVrNVMwZ3lNRHc?oc=5",
-      "source": "Google News",
-      "date": "2026-05-13T21:52:10+00:00",
-      "snippet": "EDGE 26: Tom Davis Says Credit Unions Have Already Proven They Can Adapt To AI Era CUToday",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "f098fe58a4a3",
       "title": "Agentic AI Takes Over Banking: Why Fortune 500s Choose TechAhead's Secure Implementation - ACCESS Newswire",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ3B0UVNLY1dacFd5Z1l6UEx0cXAwZk42S2E1SnhJd1J6dE5qOXpraWI0MDl1ai1NbzBYdWx1NnZmbElXNUFic2o0ZC16UjZhX0JpOFZmVzJITGRGczUydzNKS3lQMFFmbXAweDZXTjFJY1h5TXljb2UzcHJfYXJKdk5yM0Y2eDNJTjhsT01JOU4zTmw2dXFPcklldWhDNXRUenpLdHVOMGhxUFQyd3NHcVZYQUc5bG5EQ2Q2cjZkVUYzQnZJX3lWQmVhTTVXQWVvLXhsdUdtT3N3VnAwenBWSUM2Zw?oc=5",
@@ -3122,6 +3064,16 @@
       "category": "ai-news"
     },
     {
+      "id": "fb5c1bf7dd96",
+      "title": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-13T15:30:00+00:00",
+      "snippet": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "200b06790a74",
       "title": "How Early Digital Payments Adoption in the Nordics Influenced Its Growth",
       "url": "https://www.finextra.com/videoarticle/3498/how-early-digital-payments-adoption-in-the-nordics-influenced-its-growth",
@@ -3132,22 +3084,22 @@
       "category": "ai-news"
     },
     {
-      "id": "98abe7a3cba2",
-      "title": "USF Credit Union partners with Upstart for AI-powered loans - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1R0LUJISm1fYkFsalE1WlA0Rnc1TF9QLVFwLUJuOC1PZWZhR1laR2ozeXA0U2otZXVTTXo5LU5DUUJvckU4LWVORWZ1cDNuVkNMa1FwRHNoaENMdkstQWVxRmozYlNUQVhnbTFFSXBqR2hYaENaOTVSYUZ1R1VfSWxKLXRsWWRfcnVmd1I5Ynk5bndOMC04R2g4enlYYTZfY1ZpenE5ZXdhNDNQdW9sYnExeTZKUQ?oc=5",
-      "source": "Google News",
-      "date": "2026-05-13T13:40:57+00:00",
-      "snippet": "USF Credit Union partners with Upstart for AI-powered loans Investing.com",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "4e4665f7156c",
       "title": "Open source voice-to-text for Linux. And macOS",
       "url": "https://ostt.ai",
       "source": "Hacker News",
       "date": "2026-05-13T13:36:25+00:00",
       "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "25cfef1070a6",
+      "title": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
+      "url": "https://github.com/torrix-ai/install",
+      "source": "Hacker News",
+      "date": "2026-05-13T12:14:26+00:00",
+      "snippet": "I work as a SAP Integration consultant and built this as a side project. Friction point: Most self hosted LLM observability tools require Postgres, Redis and non trivial infrastructure. Teams just want to see what their agents are actually doing in Production, that set up cost discorages adoption. Torrix runs as a sin…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3172,22 +3124,22 @@
       "category": "ai-news"
     },
     {
-      "id": "f81399042d07",
-      "title": "What is your AI agent constantly doing wrong?",
-      "url": "https://news.ycombinator.com/item?id=48120148",
-      "source": "Hacker News",
-      "date": "2026-05-13T10:36:08+00:00",
-      "snippet": "My colleague and I have found AI is consistently falling short on the following things. I'd be interested to know whether this is a prompting issue or a model issue (we use claude 4.7): - comments being too verbose, and making reference to the previous code. Also just using phrases that no human would ever use (e.g. s…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "4066d9605cce",
       "title": "Why banks are rethinking cloud operations in the age of Agentic AI - The Digital Banker",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1VYMzkyMm0tWnlnMHo5OW9EeHdNQmVXUm1sckQxVlhFUXA4WjhmSVFHWk9jT3lERmpkWDVnUTBHS0VFN0JUajl6emdnb3RqaXNwTGp6VEpwOUhnVnA2N0JIMl9CbjJUb0gwemNkbTM4cVdhekhYV3FEanRPeGgwUXlEVWt4NzRrQXlPcU5JaWJRU3A0YzZWbTVna0s?oc=5",
       "source": "Google News",
       "date": "2026-05-13T10:35:49+00:00",
       "snippet": "Why banks are rethinking cloud operations in the age of Agentic AI The Digital Banker",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "1c75f8a16a3c",
+      "title": "Forsy",
+      "url": "https://www.producthunt.com/products/forsy",
+      "source": "Product Hunt — AI",
+      "date": "2026-05-13T09:49:52+00:00",
+      "snippet": "Capture and sell your AI agent workflow data Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3214,22 +3166,32 @@
       "category": "ai-news"
     },
     {
+      "id": "a703630271b5",
+      "title": "EDGE 26: Tom Davis Says Credit Unions Have Already Proven They Can Adapt To AI Era - CUToday",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkpZTmluZFBaTW5mR25ub2RiTDdrVWxhZ0ExQTU1Zm4wUWFWak5fOFhTcDZSWWRvT003TV9VVHNpZm9MNFZwSTV6a29fM01wazJrQ1h5X1VBWE5tVTFTQTJfNUJpYWVlMnFjbXY0UE5oTnhqTHFfemxkeVdmWlJldWVaY2pWRUoweWUyYm9MbENMUDRTcW4zRlFNRWxJc3l0bU5nTzF1Z2pnaDFyeUc3czVrNVMwZ3lNRHc?oc=5",
+      "source": "Google News",
+      "date": "2026-05-13T07:00:00+00:00",
+      "snippet": "EDGE 26: Tom Davis Says Credit Unions Have Already Proven They Can Adapt To AI Era CUToday",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "98abe7a3cba2",
+      "title": "USF Credit Union partners with Upstart for AI-powered loans - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1R0LUJISm1fYkFsalE1WlA0Rnc1TF9QLVFwLUJuOC1PZWZhR1laR2ozeXA0U2otZXVTTXo5LU5DUUJvckU4LWVORWZ1cDNuVkNMa1FwRHNoaENMdkstQWVxRmozYlNUQVhnbTFFSXBqR2hYaENaOTVSYUZ1R1VfSWxKLXRsWWRfcnVmd1I5Ynk5bndOMC04R2g4enlYYTZfY1ZpenE5ZXdhNDNQdW9sYnExeTZKUQ?oc=5",
+      "source": "Google News",
+      "date": "2026-05-13T07:00:00+00:00",
+      "snippet": "USF Credit Union partners with Upstart for AI-powered loans Investing.com",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "f24bb6e9503f",
       "title": "Ask HN: Is your kids Alexa now have conversational AI?",
       "url": "https://news.ycombinator.com/item?id=48116806",
       "source": "Hacker News",
       "date": "2026-05-13T01:35:26+00:00",
       "snippet": "I had a very locked down kids Alexa for my daughter that could just play music and stories and was age restricted. Today though its now a conversational AI and my daughter is talking to it like a human. How can I disable this? How the heck did they opt-in to this?",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "ba20ab00cbfd",
-      "title": "ShioriCode",
-      "url": "https://www.producthunt.com/products/shioricode",
-      "source": "Product Hunt — AI",
-      "date": "2026-05-12T21:59:38+00:00",
-      "snippet": "Open-source alternative to Codex & Claude Code Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3254,16 +3216,6 @@
       "category": "ai-news"
     },
     {
-      "id": "ff7d81f83711",
-      "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
-      "url": "https://news.ycombinator.com/item?id=48110593",
-      "source": "Hacker News",
-      "date": "2026-05-12T16:32:54+00:00",
-      "snippet": "Hi HN, I’m Namanyay from Gigacatalyst (link: https://gigacatalyst.com/ ). Gigacatalyst allows sales, CS, and users to build one-off features, so your SaaS can support long-tail customer workflows and engineers aren’t pulled away from the roadmap. When you sell software to large businesses, you realize that each custom…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "57ba998589db",
       "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
       "url": "https://voker.ai",
@@ -3282,6 +3234,16 @@
       "snippet": "Joining FinextraTV at the Diebold Nixdorf Intersect event in Cannes, Shalima Adam, Product Line, Head of Cash, Supply Chain, Securities and Properties, and Danie Van Den Berg, Divisional Executive, Cash, Properties, Supply Chain, Security and Facilities, Capitec spoke about DDRP (Demand Driven Requirements Planning) a…",
       "competitors": [],
       "category": "ai-news"
+    },
+    {
+      "id": "ef4ebdacd9d0",
+      "title": "Federal Reserve Board announces termination of enforcement actions with F & M Holding Company, Inc. and Thread Bancorp, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-12T15:00:00+00:00",
+      "snippet": "Federal Reserve Board announces termination of enforcement actions with F & M Holding Company, Inc. and Thread Bancorp, Inc.",
+      "competitors": [],
+      "category": "regulatory"
     },
     {
       "id": "81bb15c5de06",
@@ -3304,12 +3266,32 @@
       "category": "ai-news"
     },
     {
+      "id": "1df5b6201505",
+      "title": "CME to Create Futures Market for Computing Power Backing AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/cme-to-create-futures-market-for-computing-power-backing-ai",
+      "source": "Hacker News",
+      "date": "2026-05-12T13:12:33+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "aa4f1e397be5",
       "title": "Show HN: Voice gender classifier for European voice AI (1MB, ONNX, 4ms)",
       "url": "https://huggingface.co/syntropicsignal-ai/gender-voice-classifier",
       "source": "Hacker News",
       "date": "2026-05-12T12:53:19+00:00",
       "snippet": "Hi, I'm Kamil and I'm a founder of Applied AI agency in Warsaw, Poland. We've trained a small <1MB voice classifier model that runs on CPU in 4ms. Can be run next to silero VAD in voice AI deployments. What we noticed in production deployments of voice assistants in Contact Centers in EU is that human consultants pick…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "d726fb43cde1",
+      "title": "Memdex",
+      "url": "https://www.producthunt.com/products/memdex",
+      "source": "Product Hunt — AI",
+      "date": "2026-05-12T12:27:45+00:00",
+      "snippet": "Turn every AI conversation into reusable local memory Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3346,22 +3328,22 @@
       "category": "ai-news"
     },
     {
-      "id": "0595f6359e5b",
-      "title": "Motion",
-      "url": "https://www.producthunt.com/products/motion-8",
-      "source": "Product Hunt — AI",
-      "date": "2026-05-12T00:31:35+00:00",
-      "snippet": "A video agent for tasteful motion design Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "284ad2cb2585",
       "title": "StoreClaw",
       "url": "https://www.producthunt.com/products/storeclaw",
       "source": "Product Hunt — AI",
       "date": "2026-05-12T00:00:55+00:00",
       "snippet": "Grow your store profits with agents that know how to sell Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "39145b2de9cb",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "source": "Hacker News",
+      "date": "2026-05-11T21:04:10+00:00",
+      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3382,16 +3364,6 @@
       "source": "Hacker News",
       "date": "2026-05-11T18:08:41+00:00",
       "snippet": "Got into YC interview recently and built this to practice, it's been helpful. Sharing, so it can be used by others well. Good luck everyone!",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "84ba2736e1df",
-      "title": "Show HN: I built an anonymous social platform after fighting with LinkedIn's API",
-      "url": "https://discreetvoice.com",
-      "source": "Hacker News",
-      "date": "2026-05-11T15:22:38+00:00",
-      "snippet": "Hi folks, I would like to share with you a project I built, which took me about 2 months as a side project to build. I am a solo dev, and mostly not using AI for my projects, as I want to keep the craft and actually learn stuff, while I am building the software. The original idea was to build a tool, where I can provi…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3424,6 +3396,16 @@
       "source": "Google News",
       "date": "2026-05-11T13:00:00+00:00",
       "snippet": "Barksdale Federal Credit Union Selects Scienaptic AI to Strengthen Fraud and Anomaly Detection Business Wire",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "59cbbaa424c0",
+      "title": "A.I. note takers are making lawyers nervous",
+      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "source": "Hacker News",
+      "date": "2026-05-11T10:04:47+00:00",
+      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3540,6 +3522,16 @@
       "category": "ai-news"
     },
     {
+      "id": "c146ccdaa61f",
+      "title": "Meta's embrace of AI is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "source": "Hacker News",
+      "date": "2026-05-09T18:33:36+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "3cd88257fead",
       "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmhqbkMxb0lwMW1PcjlQa0NYZUVaV3hZSVRsN05xUFphdHZ6YXNPb05aaW1kandaNmM2elBKMFlDelhVVVRxdDZoUVB1ZEViaTE3QnNrWERZbDJPYW12WG5sVmxWQmhKYlVUckVmRnV2VWZhcDV1ZHBNdUJvTVFEUjRQU3pqcUJiUUlONmEyaGY3S2hOUFFoMmdaYXFSVjZFcHowV2dwMjdoUXkwb0RUTGFWdlM0TDF5MF9BYmtUSEVSTE1SUGJ5SDU4cDREa1lhQi1WZDA0aHZKMGVlQTdPMVdncmdCZWwtVXNlR0h3?oc=5",
@@ -3550,6 +3542,16 @@
         "Active.Ai"
       ],
       "category": "competitor"
+    },
+    {
+      "id": "02de64c2ceb3",
+      "title": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-08T21:00:00+00:00",
+      "snippet": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
+      "competitors": [],
+      "category": "regulatory"
     },
     {
       "id": "1172e49e4858",
@@ -3578,6 +3580,16 @@
       "source": "Google News",
       "date": "2026-05-08T07:00:00+00:00",
       "snippet": "FSA entrusts FDUA to build AI agent for regional banks Let's Data Science",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "0a8d3cb29f6b",
+      "title": "Automating grunt work is still agentic AI's sweet spot - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVi0yS05NaWVrbGZkcl9Ba3NqakdnOXV2MEZ2Mnd6bGxGVVpHRzFNel9KRHRXeU42QlJpU0dSU0hwSWpGZ0dSN1VLMF85X1UwTFRKM0E2bVRCRW9POWc4REhkM085bGdDWV9CYW9HUnhjellXRlVrMXV6VzFBMENCZlRpdm5YWXcweF82eDRkdUdFYk0?oc=5",
+      "source": "Google News",
+      "date": "2026-05-08T07:00:00+00:00",
+      "snippet": "Automating grunt work is still agentic AI's sweet spot American Banker",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3614,16 +3626,6 @@
       "category": "competitor"
     },
     {
-      "id": "4a7f93a6b8ee",
-      "title": "Netflix tests its own AI-powered voice search",
-      "url": "https://www.lowpass.cc/p/ask-netflix-ai-voice-search",
-      "source": "Hacker News",
-      "date": "2026-05-08T01:01:22+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "f18b149a59d2",
       "title": "Kyndryl: The agentic AI shortcut to faster, cheaper and safer bank IT overhauls - Impact Economist",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vMkdOclVOdThBMm9ZME9CTzhxYWZiRUoxNngzdVEtMzUyS2Nxb0lsYmlUNV9NSTJRWWh0UDJVckoydmp5eU9QWmpIZUs0QWNwNmo1T0YzdzBHMlg1MDI3LS1iMElpT3N5Q2Y4SWdWc2NXdnNTMHM3bS1fOHlWY1k?oc=5",
@@ -3654,6 +3656,26 @@
         "Posh"
       ],
       "category": "competitor"
+    },
+    {
+      "id": "a1677affcea5",
+      "title": "Lewis Moody says using AI to bank voice ‘warming’ after being diagnosed with MND - Westmeath Independent",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3U1ejc4T0h1aEZ4dkRCdXFuY2dFUTg1eTdWMFkxMGhpY1NYZV9SaS0xSnpIQy1pdVo1bmlLcXY0ZmYxZFZIVlMzUWt4bE0wMml3Q3BCakhid0tUdzZRdmJQeWlFT0FDTHJ2WndENHd6YWVjaUJrME1EWXRNNVBRVEtQTGQ0R1dNbVVlWXdEQWF5WXJUUTBwZXE1RklxdC1QOC16RS1wRUtmOUhMRlhiUFMzTmJhenRKR1hiTVdrTk5HU1Nk?oc=5",
+      "source": "Google News",
+      "date": "2026-05-07T13:46:34+00:00",
+      "snippet": "Lewis Moody says using AI to bank voice ‘warming’ after being diagnosed with MND Westmeath Independent",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "ae4b402b1c60",
+      "title": "Show HN: LaoTzu Writer Studio",
+      "url": "https://news.ycombinator.com/item?id=48048118",
+      "source": "Hacker News",
+      "date": "2026-05-07T11:31:35+00:00",
+      "snippet": "Hello Hacker News! We bring to you today 2 things: 1. Our passion project - LaoTzu Writer Studio - a modern writing application 2. Thoughts on the abysmal state of Kickstarter - likely well known to you all, but having experienced it for the first time, it is disheartening So lets start with the good stuff: LaoTzu Wri…",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "4b39a2995b3d",
@@ -3690,6 +3712,36 @@
       "category": "competitor"
     },
     {
+      "id": "fe8c8d3ff705",
+      "title": "Lewis Moody says using AI to bank voice ‘warming’ after being diagnosed with MND - echo live",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KcnlPMnVZZ1ItcGE4dEZMTzNuM255WVd1VUFqa29vT0pYMkZDNnpyZ3lDOXN1YmNZWHY3eHBYRkdkNGs3aUdOY01wMTJGR1RMQlJ2bk41T1RfZFk0ZjJ4cEg4Zkx5Y1k?oc=5",
+      "source": "Google News",
+      "date": "2026-05-07T07:00:00+00:00",
+      "snippet": "Lewis Moody says using AI to bank voice ‘warming’ after being diagnosed with MND echo live",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "c1e65b647347",
+      "title": "Finvasia launches voice AI finance assistant jAI on jUMPP with YES Bank - Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVGE3MzFTTEpYSXQxSGlpWE9VTF9sU25Ha2ZOV1JkU2xZQThncUxDTS1VZ29NbjQwZkZYTkdoVnc2TUJsSmF4UEN3TTczQW1mMXNPMnZYQmRKVlc3eUt6RjBPU0lzMENraDVqNGFaaThydXRNM3ZfaERfcHNlMVd4VU1nbVFnREkwbkxQRmdQTkF1V090cmV6QjFJX2VYQkEzdnRHV0VCejZxNi1kV3RLTTh2TTRKMkpTd21WUEpJSHN3aFM1R3NIazZYUC0wU20wOXNadlFBNWdWMlZYSURsbmV0cXVMb3BGaXFaS0JIeUxkakNVOG53?oc=5",
+      "source": "Google News",
+      "date": "2026-05-07T04:50:35+00:00",
+      "snippet": "Finvasia launches voice AI finance assistant jAI on jUMPP with YES Bank Dailyhunt",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "3bb160075041",
+      "title": "Rumors of my death are slightly exaggerated",
+      "url": "https://news.ycombinator.com/item?id=48037336",
+      "source": "Hacker News",
+      "date": "2026-05-06T15:24:51+00:00",
+      "snippet": "AI hallucinations are getting ambitious. A couple people recently emailed, asking whether the Klein bottle business was still operating after my death. “Huh?” I thought. “I ain’t dead yet.” After some digging, I discovered the source: an AI-generated review of The Cuckoo’s Egg circulating on Facebook. Alongside the us…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "303d64103e29",
       "title": "Wolters Kluwer hosts Agentic AI session on the future of enterprise banking compliance - Wolters Kluwer",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWVRzZHJtakVITTU2UlBFNm5DdHZVUXpWRUxaVzhHN1pQQ0JMcjZ3RWxaU2FaZ25qakZRVmYwM3plSWoyODlmbEJ2RWtOOEh1VzF6T292TWhhUXU2T0R0OVRoNjdsQm5WRlFNNjNFc21lLXF4WjRrUGZDZWVUdW5PNURxd3l6X3pDMUtGcVZSZTFUcktPQkl5SEJaVlBDTHYwRDFMU1AxeDd2LXpiRHdNc1ozSVNGUEtMVzAyWWdpeTVtZw?oc=5",
@@ -3706,16 +3758,6 @@
       "source": "Google News",
       "date": "2026-05-06T07:00:00+00:00",
       "snippet": "How AI Helps Credit Union & Community Bank Advisors LPL Financial",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "909925d03103",
-      "title": "Inside the PRO Studio: The AI Therapy Session - Credit Union Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkNrR2luamFSSENjWnY4Y1ZJNzNDWXR5cW95NG40RTdPc2FDR05wUXlITjZEMGVudVY2NmV1NlpWSDl5NUtRTERUV253bEhzWGJvdmQ0TjFjaTRQLW80aEdxcUFULWhoWXVyZjBsZDhoalZrMG41LVloWEFhRm1tUWhXb01BZWPSAYwBQVVfeXFMTV81YnRXZkhWQ3d3cmZ6WW43R2YzaEphN19iZkFGQjdGYjdISFlUV252QXZVU0dBV2ltUm9kaU9KS0M4SEV4ODVhWDF1aTlhaGxSVUV4b2xDbjhtTEs0LUhGUk5pMDB5NVNUSGJrbjBWVF8zd25QcDMyd3pXc2tzU25qVlBHaEx0amhaRHM?oc=5",
-      "source": "Google News",
-      "date": "2026-05-05T18:18:05+00:00",
-      "snippet": "Inside the PRO Studio: The AI Therapy Session Credit Union Times",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3748,6 +3790,16 @@
       "source": "Google News",
       "date": "2026-05-05T16:47:43+00:00",
       "snippet": "The Agentic AI Challenge: Solve for Both Efficiency and Trust The Financial Brand",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "76ce1e954c53",
+      "title": "A bill banning AI companions for kids could usher in widespread ID checks online",
+      "url": "https://reason.com/2026/05/04/how-a-bill-banning-ai-companions-for-kids-could-usher-in-widespread-id-checks-online/",
+      "source": "Hacker News",
+      "date": "2026-05-05T11:44:13+00:00",
+      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3820,12 +3872,12 @@
       "category": "competitor"
     },
     {
-      "id": "029d2209c0fc",
-      "title": "FIS Brings Agentic AI to Banking with Anthropic, Starting with Financial Crimes - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlFhaU12TG1ZRTVGQTlFczdwcmliYWZSMHFaSnJUUUZUZE83aU5MV1BnQ2FUMDNEd1pIWVZhWFVlbmVNWllwTHdPcmk0bUM1MmdZZUZBaXlxS1BuUHQ2QkVQQWlIM1puYnBCWVlhUm5fZExFTFh2bTBMTXRnU0ozYjdnemRQc2RHNGpENDNKbTVGb0JEM3JIU0JTZFQtNVU?oc=5",
+      "id": "cd68c1b5dd62",
+      "title": "FIS Brings Agentic AI to Banking with Anthropic, Starting with Financial Crimes - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRnAtMHFPeWRmTEY4WWZGd2JvY0pWZHREeEduRW9zQk5feVRJUm96WjA0ZDJhT29tcHE3bEl1aGk1NTRoVHVKQUtSckczT0NnQ3V0bHZaaXZQaUFmNW12dHRXaHFCWEZUVERXbVd3RVV4dWRWX0N6dUdfbF9nQ0tXbENTWWhiREtmTGhhZVFFS1dzcnRwTkxGWDFVNkRGb3ZndXlCOWhvRlZhTk05QmgxZDV3RlR1NEphYnVXWVdUU0c4YXA4VTN4MlFkYVJYLVRk?oc=5",
       "source": "Google News",
       "date": "2026-05-04T07:00:00+00:00",
-      "snippet": "FIS Brings Agentic AI to Banking with Anthropic, Starting with Financial Crimes Yahoo Finance",
+      "snippet": "FIS Brings Agentic AI to Banking with Anthropic, Starting with Financial Crimes Business Wire",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3836,6 +3888,16 @@
       "source": "Google News",
       "date": "2026-05-04T07:00:00+00:00",
       "snippet": "Credit Unions Need Data Maps Before AI Guardrails PYMNTS.com",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "0e4b3a655441",
+      "title": "Show HN: A marketplace for LLM-powered webapps earning on token margins",
+      "url": "https://codeplusequalsai.com/dashboard",
+      "source": "Hacker News",
+      "date": "2026-05-02T20:54:11+00:00",
+      "snippet": "Hi everyone, I've encountered two major problems while building AI-powered sites: 1) Most agentic tooling doesn't have a enough of a targeted approach to edits to existing files, and will make extraneous edits, 2) Many users will want to try things casually but not spend on each LLM-powered webapp they want to use. Th…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3862,6 +3924,26 @@
       "category": "ai-news"
     },
     {
+      "id": "bbe91d08a14e",
+      "title": "Show HN: Generate marketing material with your text and images in minutes",
+      "url": "https://correctify.com.cy/",
+      "source": "Hacker News",
+      "date": "2026-05-01T19:10:13+00:00",
+      "snippet": "Correctify is an AI designer converting content into complete, branded designs. Forget templates or vague prompts. Correctify works around your content generating designs based on your size, style and branding.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "8ddfa55451f9",
+      "title": "Agencies issue host state loan-to-deposit ratios",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-05-01T15:00:00+00:00",
+      "snippet": "Agencies issue host state loan-to-deposit ratios",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "53aeab4bbf98",
       "title": "Qwen AI Releases Qwen-Scope: An Open-Source Sparse AutoEncoders (SAE) Suite That Turns LLM Internal Features into Practical Development Tools - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTE5MdjIwYjdNY0lIZnJNLU8tVUl5ZzF6dkdSN2VWazU0WG9veHBvOURjNnRaX1BnN3poM29ob0hBRzU0N0RqMjVHRkNldjVOc3NsQXRXbnhyRXpnMkFuSE9kaGpQQ3c4YUtKeFZaMmZLTi1ydG9FVjRGOEhPNTdad3lscDhaOXRuN2Z4bnhZdzZqM3QwTmdEaUpDQjNaX0RCdUhuZjN4U212WW9iS0RvQVRrQ0NHMXNJc0VYc3JpSzQxQnY1NWh4Sk1yYnM3WDlkd2Q4bWVOVDdYS2pBdFBxbFhNQXZQQnRRN0JldVRCNGVvbVhveWllWDF3VThJVW5tZ19kTlRyVEVDVDA?oc=5",
@@ -3872,6 +3954,16 @@
         "Active.Ai"
       ],
       "category": "competitor"
+    },
+    {
+      "id": "1b31a094b151",
+      "title": "AI Investment Boosted Economic Growth, While Consumers Tapped the Brakes",
+      "url": "https://www.wsj.com/economy/central-banking/u-s-economy-grew-at-2-rate-in-first-quarter-6e0c18cc",
+      "source": "Hacker News",
+      "date": "2026-04-30T16:41:42+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "5c7be9614d47",
@@ -3928,16 +4020,6 @@
       "category": "ai-news"
     },
     {
-      "id": "bbbf218b7421",
-      "title": "Exclusive: Citi moves into agentic AI - Axios",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pY0pQdzNHemlzajUwTXhKelNfc3drWVRvdnRDS3JOcDVYS2dpaHdZMFVaTjNIVjFlZkxDeDZydk94dWN4bWdSQlpPTzdicEdIZ1lWMVp1N2VfSDNDekxadEFtRVFndTBIbTlxbjluVnhSWjcwT1Rwbg?oc=5",
-      "source": "Google News",
-      "date": "2026-04-30T07:00:00+00:00",
-      "snippet": "Exclusive: Citi moves into agentic AI Axios",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "89e34df1bd23",
       "title": "PollyReach",
       "url": "https://www.producthunt.com/products/pollyreach",
@@ -3948,14 +4030,26 @@
       "category": "ai-news"
     },
     {
-      "id": "66755611a0bc",
-      "title": "Customers Bank CEO Sam Sidhu admits AI voice spoke for him during earnings call, ignites debate over ethics and human relevance in business - Dailyhunt",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQaVhFc0o1bDE0enkyWmh6UWpXYVMxNDFLS2owbFgzeDByUzR5YnpTcllfTDRkQ3ZrZ3BHRWY3N0NzNVk2MTdyYlpTS0VEX2oxZzJnTWdEN2xnc0hXTzd2bVIwSFMxaHdZeUEwWnAtbnNqRGlSUTdjTVl2YzlJYnVEZ3NzX2dOUUVmZWpudm1kZ25fbTN6aU4zLUVjeXNtVVZ5bkpHU0VQWG1ZdzJib3EyeGZibmJPN2hfZmh5SUUwQ2IyN3NYTjB5OUpSOXN1ak5maXp6T0s1VVdmel9JdFJOUG9WZDVoUzdjWm1WOThzYWVRRWpublFsZGg2NDNnaFprXzZxTlB6NzZIUHlnWGE0NDVWRW9sWV9lV2dOQUdJTkQ2YUd0SGNEU2ZISHB3dl84LUJ0M2FXa1JXZU12TGRZd0pzUHlEOG52?oc=5",
-      "source": "Google News",
-      "date": "2026-04-29T22:43:35+00:00",
-      "snippet": "Customers Bank CEO Sam Sidhu admits AI voice spoke for him during earnings call, ignites debate over ethics and human relevance in business Dailyhunt",
+      "id": "50adf5e180bb",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-04-29T18:00:00+00:00",
+      "snippet": "Federal Reserve issues FOMC statement",
       "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
+    },
+    {
+      "id": "e86af17d3796",
+      "title": "Onecom launches Halo, a first-of-a-kind agentic AI platform empowering businesses to deploy autonomous digital workforces - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVhzUkg5ZzdyaURLbFJBVWd3R21jc2E4TDF4TnNaN3l4OXJlRllyWHJiOWc3WUJ6LVZRa2l6V3pXX0xEbGJ6cHlqZ1h1VEhUTDZBbHhOVlRyd0lLblEycVNidDdWNkMwZDZKSnl4cHRxX0ZVdlplT1lZbjlWU1lCXzBJRmF6Y2gzc3hUZ3Z2akMyNnExSWViN3JtZVk3UFlSN0E?oc=5",
+      "source": "Google News",
+      "date": "2026-04-29T07:00:00+00:00",
+      "snippet": "Onecom launches Halo, a first-of-a-kind agentic AI platform empowering businesses to deploy autonomous digital workforces Yahoo Finance",
+      "competitors": [
+        "Omilia"
+      ],
+      "category": "competitor"
     },
     {
       "id": "de0ca2deb5ab",
@@ -3968,6 +4062,16 @@
         "Born Digital"
       ],
       "category": "competitor"
+    },
+    {
+      "id": "191ae6508667",
+      "title": "Instacart co-founder launches hedge fund backing AI agents",
+      "url": "https://www.privatebankerinternational.com/news/instacart-co-founder-launches-hedge-fund-backing-ai-agents-over-portfolio-managers/",
+      "source": "Hacker News",
+      "date": "2026-04-29T03:48:30+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "651195aa3cb5",
@@ -4000,12 +4104,32 @@
       "category": "ai-news"
     },
     {
+      "id": "633a2d5cb7ae",
+      "title": "Sam Sidhu used AI voice amid Customers Bank's automation push - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOREVvYzMtSGo3NkZCTmJVSmt0cFpKSXhvVnl5ZDloT3V0X3J4WHVTQ21QakxXVU5BSjlYRWVnbkdOUDhyMGJ6ZGRVMVpBLXpCTzFxdHhGMnR2ejJRdFd6T1VxbDE3RjEtTW1aQ0FseXpidzdjeDRDOGp5VnNNd201Y2QtOXdiM0loR0JTTE94eU01cXY5NFI1dlpKMVhodWpKSzlqN3JhcUloQ1Vi?oc=5",
+      "source": "Google News",
+      "date": "2026-04-28T07:00:00+00:00",
+      "snippet": "Sam Sidhu used AI voice amid Customers Bank's automation push NewsBytes",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "f91485bf08d2",
       "title": "Artificial Intelligence (AI) - NCUA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWduQjI5SHFzZ1I4SV9vb1ZwUWxnSlZ5NDM2b2IxLTRBOFMyQVJ1YUkyV2RrZ2FhTjlHY1RYTGdDNDdwcHJzWVhFcGZmWkxSS2kxcWJRUlozeWEzaXhvdHVadkdzRlRUc1RWOFdVbDJRbFQ0R195VFZXMnpsMWlVMUNoUTM3U0o5WXpCTWFqd0xXLXBwRGdKQTJxNmxHWlk?oc=5",
       "source": "Google News",
       "date": "2026-04-28T07:00:00+00:00",
       "snippet": "Artificial Intelligence (AI) NCUA (.gov)",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "9d5fac695227",
+      "title": "The DOJ is backing xAI in its lawsuit against Colorado",
+      "url": "https://www.engadget.com/ai/the-doj-is-backing-xai-in-its-lawsuit-against-colorado-200500890.html",
+      "source": "Hacker News",
+      "date": "2026-04-27T16:27:30+00:00",
+      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -4108,6 +4232,26 @@
       "category": "ai-news"
     },
     {
+      "id": "014bb6ebbb69",
+      "title": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-04-24T20:00:00+00:00",
+      "snippet": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
+      "id": "d4840eb36225",
+      "title": "Federal Reserve Board announces approval of application by Banco de Credito del Peru",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm",
+      "source": "Federal Reserve",
+      "date": "2026-04-24T20:00:00+00:00",
+      "snippet": "Federal Reserve Board announces approval of application by Banco de Credito del Peru",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "a8dabdd22f7b",
       "title": "DeepSeek AI Releases DeepSeek-V4: Compressed Sparse Attention and Heavily Compressed Attention Enable One-Million-Token Contexts - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ2Nndmx4bV83dGU0Mm1PdFNDS2Q2ODBsMWFrZWw5RTNiRmRuTVMyR2MwVXBJOGxWS3NtQWhJM0RrVURfU180QTU2TmdVTzQtRWpwWW41bGtjTFRyX0p6a3IxTHVSb0RsZ2h5bDVJVnJRd0F6RDVrRTlELXE1OHpfcy0xazFHdWJZQnc5b0pxTmNLbUVzQzRtclBVbkpzbi1UdHk4RmJPamZMU0JsdkxEMHNZNUxqbmJ6OHZlZGNUajAzMGY2dDRFdFNsQUlrYWxzMVV4dkVRaFlQWmNyMEpFRUtodWVrcjRLX3cycV85MU8tem1SaXA4dUxSemU?oc=5",
@@ -4130,6 +4274,16 @@
       "category": "ai-news"
     },
     {
+      "id": "a5ad11c0340c",
+      "title": "Agencies finalize changes to enhance community bank leverage ratio",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-04-23T19:30:00+00:00",
+      "snippet": "Agencies finalize changes to enhance community bank leverage ratio",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "6d1d09515c16",
       "title": "Show HN: A Collatz conjecture full music generator in 800 lines of C",
       "url": "https://github.com/pumpkin-bit/Flux3n1",
@@ -4138,6 +4292,18 @@
       "snippet": "Hi HN, while the hype around neural networks and neural network tools is still going strong. I decided to release my project as open source it generates IDM/Ambient music based on the Collatz hypothesis using numbers. It’s a procedural synthesizer written in pure C. It takes any number, calculates a sequence for it, a…",
       "competitors": [],
       "category": "ai-news"
+    },
+    {
+      "id": "10c869abda9b",
+      "title": "Posh Peanut And Hulken Launch Mother’s Day Collection For Stylish Schlepping - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUczN2xGZGRrWHJFTS15RzBNVGpCdGhhU0x6TWpSSUpCU0JyWDRlV1B1ZXB0cFB2QTZRXzZDYjRmY3hyclRETEhsUWZCWlMxTEtXdjQwWEJfNXNFSjlod0ZEUy1FM0gyRFRxc045NHlBWUs1dUdzekl3WmtWZnE4QlZHTVdVYjg2aHl6aDdSUzJYZ2s1UmxYNExPa0IyMlZlQ2R2S0dZWnBFMVVIcUJmWGs5WmlocTNBQ3FOUGxMem9MeVU2LVlYdl9adw?oc=5",
+      "source": "Google News",
+      "date": "2026-04-23T07:00:00+00:00",
+      "snippet": "Posh Peanut And Hulken Launch Mother’s Day Collection For Stylish Schlepping Forbes",
+      "competitors": [
+        "Posh"
+      ],
+      "category": "competitor"
     },
     {
       "id": "7c6ac3fbeee4",
@@ -4174,6 +4340,16 @@
       "category": "ai-news"
     },
     {
+      "id": "df221af7918f",
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm",
+      "source": "Federal Reserve",
+      "date": "2026-04-22T15:00:00+00:00",
+      "snippet": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "f81e506a59bb",
       "title": "Game Industry Embraces AI Amid Worker Job Insecurity - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONl9FZjBhVzBWd2Q5Y25IM3g0UkNkMWRONU5NbDVmZFc3OWdGMlJQbHFFYVpaZTZNVmdhWFk5ZFBHMTB6SGw2RFRGaWdHVDMzTzFraWRmT1NJNUpCYWtRWXpya0JvWTA3T01sRVBwRENBSHpmZTZrRTdrdkJORlk4QUhMTlNUcm9r?oc=5",
@@ -4206,16 +4382,14 @@
       "category": "ai-news"
     },
     {
-      "id": "64b762248642",
-      "title": "Blue Language Labs appoints Kasisto founder Zor Gorelov as CEO - FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnliclpqb2lXbE92allzbEJyWFBabXJqSkROa3Y5TmRCUjByM0ZfRERlTFFuZXhXWnJZRXFHNHp2ZWxBYUdjZ091bTh5dW5oN0RGR0N6ZGJBRURQa2dVcXBueVZnY2lqd25BdDNLLVRZLWxla1N6czN6ZzI5bUFadzM3WXExazlKR2t5NWZLS1pXcF9uMmhDcjdVOTVHblFqQnc?oc=5",
+      "id": "d7eb37125fb4",
+      "title": "How Vozzo AI Labs Is Automating Over 100,000 Enterprise Calls Every Month Across Banking, Government, E-Commerce, and More - Dailyhunt",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPWVQ1TUx1NFEyRzcybU1meXBvcm1QOEZLdllnTDlreWZGT0JmeHQ5eXlpTHUyTVNXY2lEN21lQnotMndaMGIwcDh5dC1wYVBCVDF0UlBOeENvQjVIMk95UmRXeWJPdWNCZHQ2akJyVEFibXYzTU5LRWNNRjVNVFdtU19GbmQxNlBReHNERjRxTm5IZy1tZlBWNWQyZTIteXd2Qm41VTBYNkNpUHM2VG5YTUoxQ3BZZldqWDNxSkEwTmYyTGU5N3hUdGlkNEM5el9ORGNWcElhSDdjdTFOY2ZMNzhCQ2NBWWRCa3NGSHpqSTZUeUN2WDFnbTVidnBJRFJtWTA5VkxyWXlTQUFsWlhrNWxPQzJmbnhHRzdRTm5HYW5BdWg2UW5FQU5yTkNWRXQ3Vk82LVhXbkpmT0ZWcldJWjVnLVc4OENxZThWWTRlUEs4YktfdnRRTDNRYUpDZ1NHNjlHWGIySF9sc1VjRTZibWJZbURZME52SDhJSDV4RnEtYXRpbHJpTndWZ25CbW9iYjBmMUVZbEpGS2JsNWc?oc=5",
       "source": "Google News",
-      "date": "2026-04-21T07:00:00+00:00",
-      "snippet": "Blue Language Labs appoints Kasisto founder Zor Gorelov as CEO FinTech Futures",
-      "competitors": [
-        "Kasisto"
-      ],
-      "category": "competitor"
+      "date": "2026-04-22T04:55:29+00:00",
+      "snippet": "How Vozzo AI Labs Is Automating Over 100,000 Enterprise Calls Every Month Across Banking, Government, E-Commerce, and More Dailyhunt",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "62afe832d5ca",
@@ -4584,18 +4758,6 @@
       "category": "competitor"
     },
     {
-      "id": "6761285b53ee",
-      "title": "Frontiers releases AI guidance - InPublishing",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVW16ZUc3UmtzY1dQa2dXS1JOUjAyOEJSNnFHeEpiYUh4bTRoM3p6dFYzVllPMDRBNFo4bnh0OGM3NWYtdlBNbVJfSTlDcmtBSU11azFsb1I2dFRIOTRjQ1pMaTB1Um1OaDI0dlhtczdjQWgzVnNYY2RZeERZLXhhSHFB?oc=5",
-      "source": "Google News",
-      "date": "2026-04-13T07:00:00+00:00",
-      "snippet": "Frontiers releases AI guidance InPublishing",
-      "competitors": [
-        "Born Digital"
-      ],
-      "category": "competitor"
-    },
-    {
       "id": "352d89f3bcf7",
       "title": "AI strategy for credit unions: From adoption to operational advantage - CUInsight",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlVTOTRGeUxOTmlXSG54ZlNqMExPcFJDb2Q3UFpvYkpoX0d1bTM4ZkVubnlkR0FhVFlvNVc5R1U3TGlOSi1vS1Z5T3ZDcVAzM01FQllsUEZQMU9acFV3ZlN0dHJERmtHSVJsdFo4VVRBSWJsUm1OUFNrTXNGZGt5c3kxMHZucXN5cWZzYTlOaFgwWTZDMldETEZ4Zw?oc=5",
@@ -4684,12 +4846,12 @@
       "category": "competitor"
     },
     {
-      "id": "0c84b3b78741",
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "id": "32fdb265dc17",
+      "title": "Show HN: PyClaw",
+      "url": "https://github.com/venkatram-s/pyclaw/",
       "source": "Hacker News",
-      "date": "2026-04-10T15:37:28+00:00",
-      "snippet": "",
+      "date": "2026-04-10T10:11:42+00:00",
+      "snippet": "A lightweight Python-based AI assistant in alpha stage with conversational capabilities and task management via CLI Contributors are welcome!",
       "competitors": [],
       "category": "ai-news"
     },
@@ -4728,6 +4890,16 @@
         "Active.Ai"
       ],
       "category": "competitor"
+    },
+    {
+      "id": "cdaf1a7d2efc",
+      "title": "Show HN: We made 25 years of a NYC gallery's exhibitions conversational with AI",
+      "url": "https://contxt.art/bitforms",
+      "source": "Hacker News",
+      "date": "2026-04-09T16:20:03+00:00",
+      "snippet": "We built Contxt, a conversational AI layer for art exhibitions. Today we're launching a public research preview with bitforms gallery in New York — 150+ exhibitions spanning 25 years of digital art, all accessible through chat and voice. If you're in NYC, you can walk into bitforms, take a photo of an artwork from May…",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "f6d9c46b7ed8",
@@ -4826,6 +4998,16 @@
         "Active.Ai"
       ],
       "category": "competitor"
+    },
+    {
+      "id": "3eb23d21029e",
+      "title": "Bank of Baroda unveils AI-powered multilingual conversational platform for customer interactions - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRThOYXp0aEZGNW9GOVVZajJpYkplbjVTSjdxQWVyQkhvWEZtSFlySFBGVjA1QlFBdXJqUDlEbFhJajBBVVZOX3I4aFhhdTRrUTluM2ZDbzlvdk5LYWZNMG01MlRRbE9XRDdmaHFjeWVXblFrT0w2V0NJbmVvYVh4VTNWZnptWG4xRTV2bGFqeW9xSlJMOTJSbjVobVBlVDRGb3lSRUwzTWlIVzRQVEM4WUZyRVlodXpobUJpSnJ2ZTh5cGpjZTE5YzhpekNEUGRzeENzLXk5ZFpLS3lIVnBtOWhIRmtCLTNYNHQwalE4WG5OdFRkVnh4YnRUUi1jempq0gGHAkFVX3lxTE9kenY5dnZiX1VJYmN1aU9xOWFWTEhBZ1pMM0I4bm5wcTVtcm52TlF5TkRNYzdsVVBOLVFBeExXMUVOMVB3dzlmQ3lXaURaSmljX21XYnFzUDd3bHpDV1NzWlRiLWdGazUzZWpFdWZjLXJBYktJR1ZOem4yVHpZRDNGZDZ6Z3drbF9kN21RbzNVYXBPMU1wUWJpRUJ5VXlHWnlXd1FEUHZMTXVWaEhxM2U2NWMwNzRoNEdJWVdoUHF0enU1VFA3OUh5UjFIWFB1Y0g5aHpWMVlIRjMwSmpJbTY3eUxjRTdIdEdOSS1mZ25uUmhSZDdCckRRYkZKZ2JGeHZpVnpzdWNJ?oc=5",
+      "source": "Google News",
+      "date": "2026-04-07T07:00:00+00:00",
+      "snippet": "Bank of Baroda unveils AI-powered multilingual conversational platform for customer interactions BusinessLine",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "00b9168bc4c4",
@@ -4968,14 +5150,14 @@
       "category": "ai-news"
     },
     {
-      "id": "2140ae12107a",
-      "title": "Acclaim: $34 Million Raised For Voice-First AI Customer Experience Platform U.S. Expansion - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXRHZWZDUU1MSE1wNkVmQloyekZOZ1p2UXUxZnVUUWJVSXNieG5BZldHbGZQNUxWMUpxczZyYUZKQk9nZFZkNVhyS2tCSHB2MUx4ejRNbjZ2RjRaX2hJR040WGRhR2NramZtTm52TUJmZXRaaTltTl80V3o0OEx0cG9MTUJwdWtsVFV0NWtESjBMV3RqR3dTcHB3REg4dEhxUlpqRU9IaE84c2_SAbABQVVfeXFMT3JpUjdyR0pIYUgybTEtekk3eXlMRllBNmM5V29Zb3dqdEdmcHVFU1gxSktBc056eUp6dXBrQVJobFdtaDdqaGZRYlNIWS03ZnRWcUlRSklTVEtYZV9XOF9jcFNsTFJhbUFYSmVwMkcyNkJCR1pqMW9RdGNTNVY1UmE2X092VEV0UUNvVGVlZk5ZR1NOSm1Jd29BaWZURjhFZk9ZUEV2UjRiYm5nR2FBX1E?oc=5",
-      "source": "Google News",
-      "date": "2026-03-31T07:00:00+00:00",
-      "snippet": "Acclaim: $34 Million Raised For Voice-First AI Customer Experience Platform U.S. Expansion Pulse 2.0",
+      "id": "52d25b33be80",
+      "title": "2025 HMDA Data on Mortgage Lending Now Available",
+      "url": "https://www.consumerfinance.gov/about-us/newsroom/2025-hmda-data-on-mortgage-lending-now-available/",
+      "source": "CFPB",
+      "date": "2026-03-31T04:00:00+00:00",
+      "snippet": "The 2025 HMDA Loan Application Register data can be found on the FFIEC's HMDA Platform.",
       "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
     },
     {
       "id": "d1a2e53bfa74",
@@ -5008,6 +5190,18 @@
       "snippet": "AI Product & Service Launches – 3/30/2026 planadviser",
       "competitors": [
         "Glia"
+      ],
+      "category": "competitor"
+    },
+    {
+      "id": "fbf06492563c",
+      "title": "Palantir (PLTR) Stock Rises as Stellantis Extends AI Partnership to 2031 - CoinCentral",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaW8wTVJ3Ry00dHVPNlpHbkxPZjBycE4zd0szbW5qZzhvdjlKZFVJNkVvOXB0R1BUS2hTeWZ0QV9pWjY2ejdXaWo5U2pIVlJQVlZ6M0xRb091aVdMbEVoTWFfcGdhdXg5U2x1TXFqX2gyLXQ3MXkzZHdETlhFVHFkR2Z5bEZOTUc3ZUdFTEdWTW05ZHBVTWpWZUE2MA?oc=5",
+      "source": "Google News",
+      "date": "2026-03-30T07:00:00+00:00",
+      "snippet": "Palantir (PLTR) Stock Rises as Stellantis Extends AI Partnership to 2031 CoinCentral",
+      "competitors": [
+        "Active.Ai"
       ],
       "category": "competitor"
     },
@@ -5086,6 +5280,16 @@
       "source": "Hacker News",
       "date": "2026-03-26T15:45:14+00:00",
       "snippet": "Hi HN. I'm Ken, a 20-year-old Stanford CS student. I built Sup AI. I started working on this because no single AI model is right all the time, but their errors don’t strongly correlate. In other words, models often make unique mistakes relative to other models. So I run multiple models in parallel and synthesize the o…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "396fdb89d92d",
+      "title": "What Is Entropy, Really?",
+      "url": "https://mathoverflow.net/questions/146463/what-is-entropy-really",
+      "source": "Hacker News",
+      "date": "2026-03-26T09:07:08+00:00",
+      "snippet": "",
       "competitors": [],
       "category": "ai-news"
     },
@@ -5190,96 +5394,12 @@
       "category": "ai-news"
     },
     {
-      "id": "807cc387c43b",
-      "title": "Posh Raises $37 Million in Series B - The SaaS News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UczlCeno2RFVpT0FQOTlGbDY4M1Uzai1mVnhzd3hjS3FONXpmU3lQRXFwY3RfNGMtLUVWbEVvcWEzSjBnOEdNNWNLcmxWZzd4UE1TUWZIT082M1pDMFA3TDlXUTd5dUpXY3RaYzg0eGJjcnlZd2c?oc=5",
-      "source": "Google News",
-      "date": "2026-03-24T07:00:00+00:00",
-      "snippet": "Posh Raises $37 Million in Series B The SaaS News",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "66c4a87119f6",
-      "title": "Black Founders Raises $37M To Build Event Platform For The Culture - peopleofcolorintech.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUmZmWF9yOE9RVEJQeDFBMDVSRFdtaGpfY0RPbFVSWV9MQjJiekN2MTg3MWp4TDR6NndQdlU4SkZDeWpUc0ZLSUE2cG9tMG5YMVYyYy1QLWpJOXEyY0JxcHpJOXItTnY2UGx4T0ZUSGhwWVVNMm1kRzcxaU5kQWU3eDE5eXZ5Wms5Q0FsTkpISE5JY3hOSW80TjNXYmZuNENLRDZIZHBtRGhnX0lDMnEzNw?oc=5",
-      "source": "Google News",
-      "date": "2026-03-24T07:00:00+00:00",
-      "snippet": "Black Founders Raises $37M To Build Event Platform For The Culture peopleofcolorintech.com",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "17c92abf9977",
-      "title": "Posh Bags $37M Series B to Scale Ticketing Services - Ventureburn",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2t0Unlrcy1IbktBY01Za3FIMEVfYkp2QnpObzhTSXhuYUxacUVJUXhRTlI4bWJISk5IZVdzX0ZTbVVia2k2c0tjczJpWUxQVGlOekMtWFZ0a2dsUThGR1JzTTV3Vy1FbU0zclloYWNhRy0xY0VGbnVWUy01RjhFNNIBgAFBVV95cUxNb2t0Unlrcy1IbktBY01Za3FIMEVfYkp2QnpObzhTSXhuYUxacUVJUXhRTlI4bWJISk5IZVdzX0ZTbVVia2k2c0tjczJpWUxQVGlOekMtWFZ0a2dsUThGR1JzTTV3Vy1FbU0zclloYWNhRy0xY0VGbnVWUy01RjhFNA?oc=5",
-      "source": "Google News",
-      "date": "2026-03-24T07:00:00+00:00",
-      "snippet": "Posh Bags $37M Series B to Scale Ticketing Services Ventureburn",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "122e65d54baf",
-      "title": "United Airlines announces posh new planes with Polaris suites - The Points Guy",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QWlg2REpxZktjRVpjZmtvLWFLcjlsd2dnanNuWnNqQV9yanduNjJVSWRvLU9RRlE4Mm9UVnJKSUFwcVIxNE93UzlDWU93TEloU0VMUGdpMHNxSWxNWFVXcmxBcnpPeXl6cmZpZnZiQUpKQ3pTazdpM3dxYU8xZw?oc=5",
-      "source": "Google News",
-      "date": "2026-03-24T07:00:00+00:00",
-      "snippet": "United Airlines announces posh new planes with Polaris suites The Points Guy",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "fa293a253d7d",
-      "title": "Posh coffee specialist Grind unveils collaboration with Pokémon - The Grocer",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmtuR2hfYTRnWTZ3bUVaaW1QZGxTYzJUUlV5TExwUkk4OWN4cS1EM1RHQWlWRTNCdzBIZlRrN1dhTTJqM1ZvdTN2Zm5Gd0FjeTJJNTVVOEVDbl9DcmdVOEdKZGhRc3ZXYUNvMkxLTDYyY2J2bXN5LTJFazhTM0J6M2RSaTlKSk5PRW9HdEtWWjNzakhySllCUmxWREFPY1BwblFLb29sS1JBeHZvYUltUA?oc=5",
-      "source": "Google News",
-      "date": "2026-03-24T07:00:00+00:00",
-      "snippet": "Posh coffee specialist Grind unveils collaboration with Pokémon The Grocer",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "107e322b4925",
-      "title": "Peterborough United Welcome Rapidrop As Official Club Partner | Peterborough United - The Posh - Peterborough United",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeWhjMXhtcmhlVFI4QklLMTJuM25aLUFiV0NJRDhFcFB1T0NkX3RadGltMDVsQ202d3lPUXplWVU3VHYzYXdjdmlPZGR2VThkN3dGVk83MEI5TjdnV0YxWXZvZUlfTGZVcmxDQkdPbnNIR2RTVGFvbDFLTjFwa3gxck5rMkRSTnZaQi1zX0pHbFlwaHM?oc=5",
-      "source": "Google News",
-      "date": "2026-03-24T07:00:00+00:00",
-      "snippet": "Peterborough United Welcome Rapidrop As Official Club Partner | Peterborough United - The Posh Peterborough United",
-      "competitors": [
-        "Posh"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "bbe00d147c55",
-      "title": "Glia Wins AI Excellence Award in Banking and Financial Services Category - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzVJaWdDY2ZMRVdvQ2taeVp1LXBqaUdCbFB5Q2xWMmpQNnNMMTJKUlJKYm9kWXEtZFMwMTI1TmVhb2NOZjBTMzNUem0wQmZNeHdKNTBDd25qSlBhaC03cmhoazU2Y2sxTUU4d1o2V1BLYU10bUxDOGlXQ0ZIV3RWblFDWUYtVlVCV3RHcTVIUTQ3NGtzTExIdENqQnRuTEdsdndnWnVoMUF1YlVOdWloTWZwYW0wQThabTRPbnZSc3J6c0tHb2NaQw?oc=5",
-      "source": "Google News",
-      "date": "2026-03-24T07:00:00+00:00",
-      "snippet": "Glia Wins AI Excellence Award in Banking and Financial Services Category Business Wire",
-      "competitors": [
-        "Glia"
-      ],
-      "category": "competitor"
-    },
-    {
-      "id": "535d0f2935da",
-      "title": "Universities of Wisconsin and UW Credit Union launch free online generative AI course - WLUK",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPQUMxMnViMTBXVkRzWUZ1eHZYUzFKTzJuLUhmYllYaDVSUGI4NHJJUEdOLTF0YVpkR2ZMZE9aR0VadTRQV1ROcDFIQWwzSjloNUxPaTc2NVp2Qzl3R3dwMmlUYmdTa3dMcHp2TmlGeVkzcEpWVUo3TXhfVGZLOHdyWlV2Y2I4ZEpNMUU2SVZyN3ppUFJ1WGRIc3pfMUhoVUZGNTZXcHF5M0dTbmFyekNnVGduM0lodi1YZzJNUFZhQkVScFJTZjYtX3BUamZZVjk3U1B4cHVQZFd1SmFPY3IxZFVRRU5Vck5RQTBTR25VZUE5b29wTVhjMXNrSFA1TFVRbkpoRm5rWHVUVWVhd2xHQnBwVWplZXBiVE96WllrcnVRZVU?oc=5",
-      "source": "Google News",
-      "date": "2026-03-24T07:00:00+00:00",
-      "snippet": "Universities of Wisconsin and UW Credit Union launch free online generative AI course WLUK",
+      "id": "d993cc6f773e",
+      "title": "Show HN: Travelwithsira: Find Cheapest Flights",
+      "url": "https://travelwithsira.com/",
+      "source": "Hacker News",
+      "date": "2026-03-25T05:12:04+00:00",
+      "snippet": "I am the founder of www.travelwithsira.com. It allows you to book flights across 100+ airlines and tells you when it is cheapest to book your flights. We also have an AI agent which can book flights for you in conversational form.",
       "competitors": [],
       "category": "ai-news"
     }

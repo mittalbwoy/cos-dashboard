@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-05-23T04:34:46.460583+00:00",
-  "item_count": 508,
-  "competitor_count": 101,
-  "ai_news_count": 407,
+  "generated_at": "2026-05-23T17:42:23.712105+00:00",
+  "item_count": 521,
+  "competitor_count": 96,
+  "ai_news_count": 404,
+  "regulatory_count": 21,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -48,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 30
+      "count": 26
     },
     "HN search: voice AI": {
       "ok": true,
@@ -79,8 +80,8 @@
       "count": 0
     },
     "Reddit r/CreditUnions": {
-      "ok": false,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
+      "ok": true,
+      "count": 0
     },
     "RSS: TechCrunch AI": {
       "ok": true,
@@ -97,6 +98,30 @@
     "RSS: Product Hunt — AI": {
       "ok": true,
       "count": 49
+    },
+    "Regulatory: CFPB": {
+      "ok": true,
+      "count": 1
+    },
+    "Regulatory: Federal Reserve": {
+      "ok": true,
+      "count": 20
+    },
+    "Regulatory: OCC": {
+      "ok": true,
+      "count": 0
+    },
+    "Regulatory: NCUA": {
+      "ok": true,
+      "count": 0
+    },
+    "Regulatory: FDIC": {
+      "ok": true,
+      "count": 0
+    },
+    "Regulatory: Treasury": {
+      "ok": true,
+      "count": 0
     },
     "Google News: \"Eltropy\" funding": {
       "ok": true,
@@ -124,7 +149,7 @@
     },
     "Google News: \"Kasisto\" hiring": {
       "ok": true,
-      "count": 1
+      "count": 0
     },
     "Google News: \"Kasisto\" partnership": {
       "ok": true,
@@ -132,11 +157,11 @@
     },
     "Google News: \"Posh\" funding": {
       "ok": true,
-      "count": 5
+      "count": 2
     },
     "Google News: \"Posh\" launches": {
       "ok": true,
-      "count": 12
+      "count": 11
     },
     "Google News: \"Posh\" hiring": {
       "ok": true,
@@ -144,7 +169,7 @@
     },
     "Google News: \"Posh\" partnership": {
       "ok": true,
-      "count": 5
+      "count": 3
     },
     "Google News: \"Glia\" funding": {
       "ok": true,
@@ -152,7 +177,7 @@
     },
     "Google News: \"Glia\" launches": {
       "ok": true,
-      "count": 9
+      "count": 8
     },
     "Google News: \"Glia\" hiring": {
       "ok": true,
@@ -160,11 +185,11 @@
     },
     "Google News: \"Glia\" partnership": {
       "ok": true,
-      "count": 8
+      "count": 7
     },
     "Google News: \"Active.Ai\" funding": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "Google News: \"Active.Ai\" launches": {
       "ok": true,
@@ -176,7 +201,7 @@
     },
     "Google News: \"Active.Ai\" partnership": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "Google News: \"Omilia\" funding": {
       "ok": true,
@@ -184,7 +209,7 @@
     },
     "Google News: \"Omilia\" launches": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Omilia\" hiring": {
       "ok": true,
@@ -216,7 +241,7 @@
     },
     "Google News: \"Born Digital\" launches": {
       "ok": true,
-      "count": 3
+      "count": 2
     },
     "Google News: \"Born Digital\" hiring": {
       "ok": true,
@@ -232,15 +257,15 @@
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 7
+      "count": 10
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 34
+      "count": 36
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 27
+      "count": 22
     }
   }
 }
