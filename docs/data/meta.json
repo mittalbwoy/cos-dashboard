@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-23T19:15:26.415850+00:00",
-  "item_count": 436,
-  "competitor_count": 3,
-  "ai_news_count": 295,
-  "regulatory_count": 138,
+  "generated_at": "2026-05-23T19:20:51.217978+00:00",
+  "item_count": 442,
+  "competitor_count": 12,
+  "ai_news_count": 293,
+  "regulatory_count": 137,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -117,143 +117,47 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 27
+      "count": 26
     },
     "Regulatory: Treasury": {
       "ok": true,
       "count": 59
     },
-    "Google News: \"Eltropy\" funding": {
+    "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 0
+      "count": 6
     },
-    "Google News: \"Eltropy\" launches": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Eltropy\" hiring": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Eltropy\" partnership": {
+    "Google News: \"Kasisto\"": {
       "ok": true,
       "count": 1
     },
-    "Google News: \"Kasisto\" funding": {
+    "Google News: \"Posh\"": {
+      "ok": true,
+      "count": 0
+    },
+    "Google News: \"Glia\"": {
       "ok": true,
       "count": 1
     },
-    "Google News: \"Kasisto\" launches": {
+    "Google News: \"Active.Ai\"": {
       "ok": true,
       "count": 0
     },
-    "Google News: \"Kasisto\" hiring": {
+    "Google News: \"Omilia\"": {
       "ok": true,
       "count": 0
     },
-    "Google News: \"Kasisto\" partnership": {
-      "ok": true,
-      "count": 1
-    },
-    "Google News: \"Posh\" funding": {
+    "Google News: \"Gridspace\"": {
       "ok": true,
       "count": 0
     },
-    "Google News: \"Posh\" launches": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Posh\" hiring": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Posh\" partnership": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Glia\" funding": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Glia\" launches": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Glia\" hiring": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Glia\" partnership": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Active.Ai\" funding": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Active.Ai\" launches": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Active.Ai\" hiring": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Active.Ai\" partnership": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Omilia\" funding": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Omilia\" launches": {
-      "ok": true,
-      "count": 1
-    },
-    "Google News: \"Omilia\" hiring": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Omilia\" partnership": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Gridspace\" funding": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Gridspace\" launches": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Gridspace\" hiring": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Gridspace\" partnership": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Born Digital\" funding": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Born Digital\" launches": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Born Digital\" hiring": {
-      "ok": true,
-      "count": 0
-    },
-    "Google News: \"Born Digital\" partnership": {
+    "Google News: \"Born Digital\"": {
       "ok": true,
       "count": 0
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "Google News: voice AI bank": {
       "ok": true,
@@ -261,11 +165,35 @@
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 36
+      "count": 34
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 23
+      "count": 22
+    },
+    "Blog: Eltropy Blog": {
+      "ok": true,
+      "count": 0
+    },
+    "Blog: Kasisto Blog": {
+      "ok": true,
+      "count": 0
+    },
+    "Blog: Posh Blog": {
+      "ok": true,
+      "count": 0
+    },
+    "Blog: Glia Blog": {
+      "ok": true,
+      "count": 0
+    },
+    "Blog: Omilia Blog": {
+      "ok": true,
+      "count": 4
+    },
+    "Blog: Gridspace Blog": {
+      "ok": true,
+      "count": 0
     }
   }
 }
