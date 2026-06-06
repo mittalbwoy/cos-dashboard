@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-05T20:34:05.817193+00:00",
-  "item_count": 448,
-  "competitor_count": 21,
+  "generated_at": "2026-06-06T17:56:30.944324+00:00",
+  "item_count": 445,
+  "competitor_count": 20,
   "ai_news_count": 320,
-  "regulatory_count": 107,
+  "regulatory_count": 105,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "HN search: voice AI": {
       "ok": true,
@@ -80,8 +80,8 @@
       "count": 0
     },
     "Reddit r/CreditUnions": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
     },
     "RSS: TechCrunch AI": {
       "ok": true,
@@ -97,7 +97,7 @@
     },
     "RSS: Product Hunt — AI": {
       "ok": true,
-      "count": 50
+      "count": 49
     },
     "Regulatory: CFPB": {
       "ok": true,
@@ -113,15 +113,15 @@
     },
     "Regulatory: FDIC": {
       "ok": true,
-      "count": 21
+      "count": 20
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 30
+      "count": 23
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 26
+      "count": 32
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
@@ -157,19 +157,19 @@
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 15
+      "count": 18
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 9
+      "count": 12
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 42
+      "count": 39
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 38
+      "count": 36
     },
     "Blog: Eltropy Blog": {
       "ok": true,
@@ -189,7 +189,7 @@
     },
     "Blog: Omilia Blog": {
       "ok": true,
-      "count": 8
+      "count": 7
     },
     "Blog: Gridspace Blog": {
       "ok": true,
