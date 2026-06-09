@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-08T21:23:19.425948+00:00",
-  "item_count": 429,
-  "competitor_count": 20,
-  "ai_news_count": 319,
-  "regulatory_count": 90,
+  "generated_at": "2026-06-09T21:17:28.705559+00:00",
+  "item_count": 463,
+  "competitor_count": 21,
+  "ai_news_count": 338,
+  "regulatory_count": 104,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 24
+      "count": 23
     },
     "HN search: voice AI": {
       "ok": true,
@@ -72,8 +72,8 @@
       "count": 0
     },
     "Reddit r/singularity": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
     },
     "Reddit r/fintech": {
       "ok": true,
@@ -109,7 +109,7 @@
     },
     "Regulatory: OCC": {
       "ok": true,
-      "count": 0
+      "count": 10
     },
     "Regulatory: FDIC": {
       "ok": true,
@@ -121,11 +121,11 @@
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 22
+      "count": 26
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 9
+      "count": 8
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
@@ -137,7 +137,7 @@
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 1
+      "count": 2
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -157,19 +157,19 @@
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 19
+      "count": 21
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 9
+      "count": 14
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 47
+      "count": 52
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 34
+      "count": 44
     },
     "Blog: Eltropy Blog": {
       "ok": true,
