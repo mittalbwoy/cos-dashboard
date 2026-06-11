@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-10T21:40:53.656363+00:00",
-  "item_count": 452,
+  "generated_at": "2026-06-11T21:39:56.807211+00:00",
+  "item_count": 454,
   "competitor_count": 22,
-  "ai_news_count": 337,
-  "regulatory_count": 93,
+  "ai_news_count": 336,
+  "regulatory_count": 96,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 24
+      "count": 23
     },
     "HN search: voice AI": {
       "ok": true,
@@ -80,8 +80,8 @@
       "count": 0
     },
     "Reddit r/CreditUnions": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
     },
     "RSS: TechCrunch AI": {
       "ok": true,
@@ -97,7 +97,7 @@
     },
     "RSS: Product Hunt — AI": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "Regulatory: CFPB": {
       "ok": true,
@@ -117,11 +117,11 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 29
+      "count": 36
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 24
+      "count": 20
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
@@ -157,19 +157,19 @@
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 21
+      "count": 20
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 14
+      "count": 19
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 34
+      "count": 31
     },
     "Blog: Eltropy Blog": {
       "ok": true,
