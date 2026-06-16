@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-15T22:32:06.382698+00:00",
-  "item_count": 444,
-  "competitor_count": 22,
-  "ai_news_count": 319,
-  "regulatory_count": 103,
+  "generated_at": "2026-06-16T22:22:42.036216+00:00",
+  "item_count": 422,
+  "competitor_count": 25,
+  "ai_news_count": 332,
+  "regulatory_count": 65,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -72,8 +72,8 @@
       "count": 0
     },
     "Reddit r/singularity": {
-      "ok": false,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
+      "ok": true,
+      "count": 0
     },
     "Reddit r/fintech": {
       "ok": true,
@@ -113,19 +113,19 @@
     },
     "Regulatory: FDIC": {
       "ok": true,
-      "count": 18
+      "count": 17
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 35
+      "count": 0
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 20
+      "count": 18
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 6
+      "count": 5
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
@@ -133,11 +133,11 @@
     },
     "Google News: \"Posh\"": {
       "ok": true,
-      "count": 1
+      "count": 0
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -153,23 +153,23 @@
     },
     "Google News: \"Born Digital\"": {
       "ok": true,
-      "count": 1
+      "count": 2
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 22
+      "count": 19
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 16
+      "count": 14
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 36
+      "count": 48
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 38
+      "count": 44
     },
     "Blog: Eltropy Blog": {
       "ok": true,
@@ -189,7 +189,7 @@
     },
     "Blog: Omilia Blog": {
       "ok": true,
-      "count": 6
+      "count": 8
     },
     "Blog: Gridspace Blog": {
       "ok": true,
