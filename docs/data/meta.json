@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-26T16:23:40.982533+00:00",
-  "item_count": 477,
-  "competitor_count": 38,
-  "ai_news_count": 326,
-  "regulatory_count": 113,
+  "generated_at": "2026-06-27T15:21:17.479838+00:00",
+  "item_count": 490,
+  "competitor_count": 41,
+  "ai_news_count": 331,
+  "regulatory_count": 118,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "HN search: voice AI": {
       "ok": true,
@@ -68,20 +68,20 @@
       "count": 1
     },
     "Reddit r/MachineLearning": {
-      "ok": false,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
+      "ok": true,
+      "count": 0
     },
     "Reddit r/singularity": {
-      "ok": false,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
+      "ok": true,
+      "count": 0
     },
     "Reddit r/fintech": {
       "ok": true,
       "count": 0
     },
     "Reddit r/CreditUnions": {
-      "ok": false,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.pullpush.io', port=443): Read timed out. (read timeout=20)"
+      "ok": true,
+      "count": 0
     },
     "RSS: TechCrunch AI": {
       "ok": true,
@@ -121,7 +121,7 @@
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 16
+      "count": 21
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
@@ -129,7 +129,7 @@
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
-      "count": 15
+      "count": 14
     },
     "Google News: \"Posh\"": {
       "ok": true,
@@ -137,7 +137,7 @@
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 0
+      "count": 5
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -157,19 +157,19 @@
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 29
+      "count": 31
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 17
+      "count": 11
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 37
+      "count": 47
     },
     "Blog: Eltropy Blog": {
       "ok": true,
