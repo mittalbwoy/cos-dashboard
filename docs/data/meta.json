@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-04T15:12:42.566572+00:00",
-  "item_count": 489,
+  "generated_at": "2026-07-05T15:18:04.334516+00:00",
+  "item_count": 494,
   "competitor_count": 41,
   "ai_news_count": 345,
-  "regulatory_count": 103,
+  "regulatory_count": 108,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 21
+      "count": 20
     },
     "HN search: voice AI": {
       "ok": true,
@@ -76,8 +76,8 @@
       "count": 0
     },
     "Reddit r/fintech": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.pullpush.io/reddit/search/submission/?subreddit=fintech&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/CreditUnions": {
       "ok": false,
@@ -97,7 +97,7 @@
     },
     "RSS: Product Hunt — AI": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "Regulatory: CFPB": {
       "ok": true,
@@ -117,11 +117,11 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 39
+      "count": 38
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 13
+      "count": 19
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
@@ -145,7 +145,7 @@
     },
     "Google News: \"Omilia\"": {
       "ok": true,
-      "count": 3
+      "count": 2
     },
     "Google News: \"Gridspace\"": {
       "ok": true,
@@ -157,19 +157,19 @@
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 33
+      "count": 31
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 22
+      "count": 20
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 53
+      "count": 52
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 37
+      "count": 45
     },
     "Blog: Eltropy Blog": {
       "ok": true,
