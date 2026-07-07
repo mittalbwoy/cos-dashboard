@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06T16:55:19.311051+00:00",
-  "item_count": 466,
-  "competitor_count": 38,
-  "ai_news_count": 330,
-  "regulatory_count": 98,
+  "generated_at": "2026-07-07T16:36:23.454162+00:00",
+  "item_count": 467,
+  "competitor_count": 40,
+  "ai_news_count": 324,
+  "regulatory_count": 103,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 20
+      "count": 19
     },
     "HN search: voice AI": {
       "ok": true,
@@ -61,11 +61,11 @@
     },
     "HN search: banking AI": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "HN search: credit union AI": {
       "ok": true,
-      "count": 1
+      "count": 0
     },
     "Reddit r/MachineLearning": {
       "ok": true,
@@ -97,7 +97,7 @@
     },
     "RSS: Product Hunt — AI": {
       "ok": true,
-      "count": 49
+      "count": 48
     },
     "Regulatory: CFPB": {
       "ok": true,
@@ -117,15 +117,15 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 15
+      "count": 19
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 6
+      "count": 5
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
@@ -137,7 +137,7 @@
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -145,7 +145,7 @@
     },
     "Google News: \"Omilia\"": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "Google News: \"Gridspace\"": {
       "ok": true,
@@ -157,19 +157,19 @@
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 16
+      "count": 13
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 53
+      "count": 52
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 38
+      "count": 37
     },
     "Blog: Eltropy Blog": {
       "ok": true,
@@ -189,7 +189,7 @@
     },
     "Blog: Omilia Blog": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "Blog: Gridspace Blog": {
       "ok": true,
