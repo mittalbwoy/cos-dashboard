@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-09T16:31:03.993616+00:00",
-  "item_count": 489,
-  "competitor_count": 51,
-  "ai_news_count": 332,
-  "regulatory_count": 106,
+  "generated_at": "2026-07-10T16:30:18.097102+00:00",
+  "item_count": 268,
+  "competitor_count": 12,
+  "ai_news_count": 205,
+  "regulatory_count": 51,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 19
+      "count": 18
     },
     "HN search: voice AI": {
       "ok": true,
@@ -89,7 +89,7 @@
     },
     "RSS: Finextra": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "RSS: American Banker": {
       "ok": true,
@@ -117,19 +117,19 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 31
+      "count": 0
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 24
+      "count": 0
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 8
+      "count": 0
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
-      "count": 17
+      "count": 0
     },
     "Google News: \"Posh\"": {
       "ok": true,
@@ -137,7 +137,7 @@
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 4
+      "count": 0
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -145,7 +145,7 @@
     },
     "Google News: \"Omilia\"": {
       "ok": true,
-      "count": 8
+      "count": 0
     },
     "Google News: \"Gridspace\"": {
       "ok": true,
@@ -153,23 +153,23 @@
     },
     "Google News: \"Born Digital\"": {
       "ok": true,
-      "count": 2
+      "count": 0
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 25
+      "count": 0
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 18
+      "count": 0
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 52
+      "count": 0
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 43
+      "count": 0
     },
     "Blog: Eltropy Blog": {
       "ok": true,
