@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-10T16:30:18.097102+00:00",
-  "item_count": 268,
-  "competitor_count": 12,
-  "ai_news_count": 205,
-  "regulatory_count": 51,
+  "generated_at": "2026-07-11T15:01:04.987984+00:00",
+  "item_count": 492,
+  "competitor_count": 47,
+  "ai_news_count": 333,
+  "regulatory_count": 112,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -25,7 +25,7 @@
     },
     "HN search: Posh": {
       "ok": true,
-      "count": 1
+      "count": 0
     },
     "HN search: Glia": {
       "ok": true,
@@ -68,20 +68,20 @@
       "count": 0
     },
     "Reddit r/MachineLearning": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://api.pullpush.io/reddit/search/submission/?subreddit=MachineLearning&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/singularity": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://api.pullpush.io/reddit/search/submission/?subreddit=singularity&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/fintech": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://api.pullpush.io/reddit/search/submission/?subreddit=fintech&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/CreditUnions": {
       "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.pullpush.io/reddit/search/submission/?subreddit=CreditUnions&size=100&sort=desc&sort_type=created_utc"
+      "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://api.pullpush.io/reddit/search/submission/?subreddit=CreditUnions&size=100&sort=desc&sort_type=created_utc"
     },
     "RSS: TechCrunch AI": {
       "ok": true,
@@ -113,31 +113,31 @@
     },
     "Regulatory: FDIC": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 0
+      "count": 37
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 0
+      "count": 23
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 0
+      "count": 7
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
-      "count": 0
+      "count": 13
     },
     "Google News: \"Posh\"": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 0
+      "count": 4
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -145,7 +145,7 @@
     },
     "Google News: \"Omilia\"": {
       "ok": true,
-      "count": 0
+      "count": 8
     },
     "Google News: \"Gridspace\"": {
       "ok": true,
@@ -153,23 +153,23 @@
     },
     "Google News: \"Born Digital\"": {
       "ok": true,
-      "count": 0
+      "count": 2
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 0
+      "count": 28
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 0
+      "count": 18
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 0
+      "count": 51
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 0
+      "count": 43
     },
     "Blog: Eltropy Blog": {
       "ok": true,
