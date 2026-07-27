@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-26T15:12:19.581531+00:00",
-  "item_count": 273,
-  "competitor_count": 12,
-  "ai_news_count": 213,
-  "regulatory_count": 48,
+  "generated_at": "2026-07-27T16:26:06.143043+00:00",
+  "item_count": 475,
+  "competitor_count": 50,
+  "ai_news_count": 325,
+  "regulatory_count": 100,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -97,7 +97,7 @@
     },
     "RSS: Product Hunt — AI": {
       "ok": true,
-      "count": 50
+      "count": 49
     },
     "Regulatory: CFPB": {
       "ok": true,
@@ -117,35 +117,35 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 0
+      "count": 32
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 0
+      "count": 20
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 0
+      "count": 8
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
-      "count": 0
+      "count": 13
     },
     "Google News: \"Posh\"": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 0
+      "count": 6
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Omilia\"": {
       "ok": true,
-      "count": 0
+      "count": 7
     },
     "Google News: \"Gridspace\"": {
       "ok": true,
@@ -153,23 +153,23 @@
     },
     "Google News: \"Born Digital\"": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 0
+      "count": 22
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 0
+      "count": 21
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 0
+      "count": 45
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 0
+      "count": 33
     },
     "Blog: Eltropy Blog": {
       "ok": true,
