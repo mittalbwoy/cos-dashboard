@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T17:46:46.947991+00:00",
-  "item_count": 276,
-  "competitor_count": 12,
-  "ai_news_count": 217,
-  "regulatory_count": 47,
+  "generated_at": "2026-09-04T17:31:37.469938+00:00",
+  "item_count": 474,
+  "competitor_count": 38,
+  "ai_news_count": 324,
+  "regulatory_count": 112,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -89,7 +89,7 @@
     },
     "RSS: Finextra": {
       "ok": true,
-      "count": 56
+      "count": 55
     },
     "RSS: American Banker": {
       "ok": true,
@@ -113,23 +113,23 @@
     },
     "Regulatory: FDIC": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 0
+      "count": 28
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 0
+      "count": 36
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 0
+      "count": 8
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
-      "count": 0
+      "count": 2
     },
     "Google News: \"Posh\"": {
       "ok": true,
@@ -137,7 +137,7 @@
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 0
+      "count": 2
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -145,7 +145,7 @@
     },
     "Google News: \"Omilia\"": {
       "ok": true,
-      "count": 0
+      "count": 13
     },
     "Google News: \"Gridspace\"": {
       "ok": true,
@@ -153,23 +153,23 @@
     },
     "Google News: \"Born Digital\"": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 0
+      "count": 15
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 0
+      "count": 13
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 0
+      "count": 39
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 0
+      "count": 48
     },
     "Blog: Eltropy Blog": {
       "ok": true,
