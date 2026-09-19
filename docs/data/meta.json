@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T17:37:03.806049+00:00",
-  "item_count": 470,
-  "competitor_count": 38,
-  "ai_news_count": 321,
-  "regulatory_count": 111,
+  "generated_at": "2026-09-19T17:07:12.920386+00:00",
+  "item_count": 471,
+  "competitor_count": 36,
+  "ai_news_count": 330,
+  "regulatory_count": 105,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -117,19 +117,19 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 20
+      "count": 16
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 41
+      "count": 39
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 13
+      "count": 12
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Posh\"": {
       "ok": true,
@@ -137,7 +137,7 @@
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 2
+      "count": 1
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -161,7 +161,7 @@
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 25
+      "count": 28
     },
     "Google News: agentic AI bank": {
       "ok": true,
@@ -169,7 +169,7 @@
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 40
+      "count": 45
     },
     "Blog: Eltropy Blog": {
       "ok": true,
