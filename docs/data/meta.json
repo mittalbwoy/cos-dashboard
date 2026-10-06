@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T21:31:16.585454+00:00",
-  "item_count": 501,
+  "generated_at": "2026-10-06T19:23:27.524762+00:00",
+  "item_count": 494,
   "competitor_count": 26,
-  "ai_news_count": 364,
-  "regulatory_count": 111,
+  "ai_news_count": 359,
+  "regulatory_count": 109,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -85,7 +85,7 @@
     },
     "RSS: TechCrunch AI": {
       "ok": true,
-      "count": 20
+      "count": 18
     },
     "RSS: Finextra": {
       "ok": true,
@@ -121,15 +121,15 @@
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 44
+      "count": 42
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 8
+      "count": 6
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Posh\"": {
       "ok": true,
@@ -153,23 +153,23 @@
     },
     "Google News: \"Born Digital\"": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 14
+      "count": 18
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 40
+      "count": 43
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 52
+      "count": 41
     },
     "Blog: Eltropy Blog": {
       "ok": true,
