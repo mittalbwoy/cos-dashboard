@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-23T18:12:44.858695+00:00",
-  "item_count": 456,
+  "generated_at": "2026-10-24T17:18:07.715273+00:00",
+  "item_count": 541,
   "competitor_count": 27,
-  "ai_news_count": 343,
-  "regulatory_count": 86,
+  "ai_news_count": 387,
+  "regulatory_count": 127,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 18
+      "count": 16
     },
     "HN search: voice AI": {
       "ok": true,
@@ -105,7 +105,7 @@
     },
     "Regulatory: Federal Reserve": {
       "ok": true,
-      "count": 0
+      "count": 20
     },
     "Regulatory: OCC": {
       "ok": true,
@@ -113,15 +113,15 @@
     },
     "Regulatory: FDIC": {
       "ok": true,
-      "count": 16
+      "count": 15
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 34
+      "count": 33
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 24
+      "count": 47
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
@@ -157,7 +157,7 @@
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 24
+      "count": 29
     },
     "Google News: voice AI bank": {
       "ok": true,
@@ -165,11 +165,11 @@
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 26
+      "count": 58
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 33
+      "count": 43
     },
     "Blog: Eltropy Blog": {
       "ok": true,
