@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T20:29:09.552607+00:00",
-  "item_count": 446,
-  "competitor_count": 15,
-  "ai_news_count": 338,
-  "regulatory_count": 93,
+  "generated_at": "2026-11-04T20:43:06.127771+00:00",
+  "item_count": 365,
+  "competitor_count": 18,
+  "ai_news_count": 282,
+  "regulatory_count": 65,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -69,19 +69,19 @@
     },
     "Reddit r/MachineLearning": {
       "ok": false,
-      "error": "HTTPError: 522 Server Error: <none> for url: https://api.pullpush.io/reddit/search/submission/?subreddit=MachineLearning&size=100&sort=desc&sort_type=created_utc"
+      "error": "HTTPError: 521 Server Error: <none> for url: https://api.pullpush.io/reddit/search/submission/?subreddit=MachineLearning&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/singularity": {
       "ok": false,
-      "error": "HTTPError: 522 Server Error: <none> for url: https://api.pullpush.io/reddit/search/submission/?subreddit=singularity&size=100&sort=desc&sort_type=created_utc"
+      "error": "HTTPError: 521 Server Error: <none> for url: https://api.pullpush.io/reddit/search/submission/?subreddit=singularity&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/fintech": {
       "ok": false,
-      "error": "HTTPError: 522 Server Error: <none> for url: https://api.pullpush.io/reddit/search/submission/?subreddit=fintech&size=100&sort=desc&sort_type=created_utc"
+      "error": "HTTPError: 521 Server Error: <none> for url: https://api.pullpush.io/reddit/search/submission/?subreddit=fintech&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/CreditUnions": {
       "ok": false,
-      "error": "HTTPError: 522 Server Error: <none> for url: https://api.pullpush.io/reddit/search/submission/?subreddit=CreditUnions&size=100&sort=desc&sort_type=created_utc"
+      "error": "HTTPError: 521 Server Error: <none> for url: https://api.pullpush.io/reddit/search/submission/?subreddit=CreditUnions&size=100&sort=desc&sort_type=created_utc"
     },
     "RSS: TechCrunch AI": {
       "ok": true,
@@ -89,7 +89,7 @@
     },
     "RSS: Finextra": {
       "ok": true,
-      "count": 51
+      "count": 50
     },
     "RSS: American Banker": {
       "ok": true,
@@ -117,11 +117,11 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 44
+      "count": 15
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
@@ -137,7 +137,7 @@
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -153,7 +153,7 @@
     },
     "Google News: \"Born Digital\"": {
       "ok": true,
-      "count": 1
+      "count": 3
     },
     "Google News: conversational AI banking": {
       "ok": true,
@@ -161,15 +161,15 @@
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 12
+      "count": 9
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 58
+      "count": 34
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 54
+      "count": 28
     },
     "Blog: Eltropy Blog": {
       "ok": true,
