@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T23:20:17.797403+00:00",
+  "generated_at": "2026-11-10T20:45:05.588241+00:00",
   "items": [
     {
       "id": "0fa0b78f20f7",
@@ -102,6 +102,878 @@
       "category": "ai-news"
     },
     {
+      "id": "8da2aa390036",
+      "title": "Show HN: Zeus – Claude Code for AI voice agents",
+      "url": "https://thunderphone.com/blog/introducing-zeus",
+      "source": "Hacker News",
+      "date": "2026-11-10T20:20:03+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "aae9a324eafb",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T19:57:52+00:00",
+      "snippet": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "67ca1e8141bb",
+      "title": "RIA Leaders: Top 10 firms by number of financial advisors for 2026",
+      "url": "https://www.americanbanker.com/list/ria-leaders-top-10-firms-by-number-of-financial-advisors-for-2026",
+      "source": "American Banker",
+      "date": "2026-11-10T19:50:50+00:00",
+      "snippet": "For the third year in a row, registered investment advisory firm Savant Wealth Management has more financial advisors than any other fee-only financial planning company.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "7dd4c0e02e60",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T19:23:34+00:00",
+      "snippet": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "d77291bd0f95",
+      "title": "North Dakota bank looks to put down roots in Dallas",
+      "url": "https://www.americanbanker.com/news/north-dakota-bank-looks-to-put-down-roots-in-dallas",
+      "source": "American Banker",
+      "date": "2026-11-10T19:12:32+00:00",
+      "snippet": "First International Bank & Trust has agreed to pay an undisclosed sum to acquire a Dallas community bank, joining a growing list of out-of-state and international companies seeking to expand in the fast-growing city.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "fa65508816ea",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T19:03:52+00:00",
+      "snippet": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "c634ca02528c",
+      "title": "JPMorganChase to use OpenAI models for coding, security",
+      "url": "https://www.americanbanker.com/news/jpmorganchase-to-use-openai-models-for-coding-security",
+      "source": "American Banker",
+      "date": "2026-11-10T18:51:30+00:00",
+      "snippet": "The deal matters because what JPMorganChase does, other banks copy.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "030e23074a36",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T18:49:52+00:00",
+      "snippet": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "911579b7cc53",
+      "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
+      "url": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg",
+      "source": "Finextra",
+      "date": "2026-11-10T18:46:00+00:00",
+      "snippet": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "1129261535c4",
+      "title": "Wirex appoints former Starling COO Julian Sawyer to board",
+      "url": "https://www.finextra.com/pressarticle/111639/wirex-appoints-former-starling-coo-julian-sawyer-to-board",
+      "source": "Finextra",
+      "date": "2026-11-10T18:36:00+00:00",
+      "snippet": "Wirex Limited, the UK headquartered payments provider, has appointed Julian Sawyer, co-founder and former Chief Operating Officer of Starling Bank, to the Board as an Independent Non-Executive Director.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "d72e6ac4cd62",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "source": "Hacker News",
+      "date": "2026-11-10T18:01:15+00:00",
+      "snippet": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without <span>s everywhere, `<dialog>` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrai…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "f2cd1cbe8cd7",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T17:30:00+00:00",
+      "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "fbdc445f7b3a",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T17:04:19+00:00",
+      "snippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "eee732cd29b3",
+      "title": "Show HN: Ramble – Message your agent directly from your Apple Watch",
+      "url": "https://ramble.watch",
+      "source": "Hacker News",
+      "date": "2026-11-10T16:22:01+00:00",
+      "snippet": "I made Ramble because I wanted to get off my phone but still be able to capture thoughts, reminders, action items - whatever. Some of my best thoughts happen when I'm playing with my kids or on a run - and this lets me stay in the moment, fire off a quick message on my watch and not get pulled into the screen waiting…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "819ebdd54ae7",
+      "title": "Glia Surpasses $100M ARR as Financial Institutions Pivot to Specialized Banking AI - FF News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczFWN2ZVT0N0T0JFQ0tHQmpmcGRBRmlObDYwc0dtVEVHV0VudnFNZnpVc0JXcVJyc3RJdUNTZm1fTGVfY3pUM1NGZlVwWTRrcjlWMWVkQXZCOUE4OXo1eTJqQlcyU0c0c2RoY183UVZvU25ER2xWbGNUQTVkRWY1Y1R6d29fb1QxWjhOME8wNFZjWDRjM0kyYVJkSU95Nmk3OVNFSE9rdE1YS2d6VkRLZlczVQ?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T16:15:45+00:00",
+      "snippet": "Glia Surpasses $100M ARR as Financial Institutions Pivot to Specialized Banking AI FF News",
+      "competitors": [
+        "Glia"
+      ],
+      "category": "competitor"
+    },
+    {
+      "id": "9e0afe965695",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T15:54:08+00:00",
+      "snippet": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "8ca4b83c19a6",
+      "title": "Bank of Cyprus Debuts DANAI: The Island's First AI Banking Assistant for Instant Support - FF News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRm5Ya0tWM0M1OEx3OW1jUGYzTDVMejVVS2xwNmFnam5rRUszWnpib2JqaTRJTFhNdWFNS0VtRnFtWDR3VnVUR0tlRlVxeUw4ODBjdGFvbXVhWE1md1N2N1FRV1hnbFhNRHU3SHNfekUxamxTa0NZLTRsbkItQ3B5YURGTDFVQWQyOW9wVVhUZHJibkVjaWdv?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T15:50:45+00:00",
+      "snippet": "Bank of Cyprus Debuts DANAI: The Island's First AI Banking Assistant for Instant Support FF News",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "ebff7cd5b811",
+      "title": "Private banking fintech Light Frame raises $5.1m",
+      "url": "https://www.finextra.com/newsarticle/48737/private-banking-fintech-light-frame-raises-51m",
+      "source": "Finextra",
+      "date": "2026-11-10T15:39:00+00:00",
+      "snippet": "Light Frame, a Swiss startup providing core banking and portfolio management software for the wealth industry, has closed an oversubscribed $5.1 million seed financing round.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "b16ad35f30b4",
+      "title": "BioCatch launches agentic AI detection tech",
+      "url": "https://www.finextra.com/pressarticle/111638/biocatch-launches-agentic-ai-detection-tech",
+      "source": "Finextra",
+      "date": "2026-11-10T15:38:00+00:00",
+      "snippet": "BioCatch, which prevents fraud, scams, and financial crime by recognizing patterns in human behavior, today launched BioCatch AiRE™ (Agentic AI Risk Essentials), the company’s new agentic AI detection capability.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "738eb44bb5bc",
+      "title": "Banks top JD Power originator ranking as digital drives satisfaction",
+      "url": "https://www.americanbanker.com/news/banks-top-jd-power-originator-ranking-as-digital-drives-satisfaction",
+      "source": "American Banker",
+      "date": "2026-11-10T15:34:25+00:00",
+      "snippet": "Multiple product relationships give bank originators an edge in the 2026 JD Power Originator Satisfaction Study, but some nonbanks show they can keep up.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "c36fce4d0f08",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T15:29:30+00:00",
+      "snippet": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "32b07ce35e14",
+      "title": "SEC, CFTC poised to plow ahead with crypto rules",
+      "url": "https://www.americanbanker.com/news/sec-cftc-poised-to-plow-ahead-with-crypto-rules",
+      "source": "American Banker",
+      "date": "2026-11-10T15:17:53+00:00",
+      "snippet": "Industry stakeholders expect Democrats to use their new Congressional majorities to scrutinize the Securities and Exchange Commission and Commodity Futures Trading Commission, but the agencies are unlikely to slow their pro-crypto agenda.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "6dedad801ab4",
+      "title": "Nexi to sell Ratepay to Affirm",
+      "url": "https://www.finextra.com/newsarticle/48736/nexi-to-sell-ratepay-to-affirm",
+      "source": "Finextra",
+      "date": "2026-11-10T15:12:00+00:00",
+      "snippet": "Italian payments giant Nexi has agreed to sell German fintech Ratepay to buy now, pay later player Affirm. Financial terms were not disclosed.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "93e3386b36c3",
+      "title": "Show HN: Valin – your private memory for everything you save",
+      "url": "https://www.valin.ai/",
+      "source": "Hacker News",
+      "date": "2026-11-10T15:10:15+00:00",
+      "snippet": "Hi HN, I build Valin because my wife needed a way to search across all the saves and all the information she came across online - from recipes, books, children activities, vacation recommendations. She didn't want another AI subscription or another account to manage. Valin was born - an application that allows users t…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "3e2ecfa32461",
+      "title": "FI Works launches Signals to turn predictive insights into action",
+      "url": "https://www.finextra.com/pressarticle/111637/fi-works-launches-signals-to-turn-predictive-insights-into-action",
+      "source": "Finextra",
+      "date": "2026-11-10T15:08:00+00:00",
+      "snippet": "FI Works, the Relationship Intelligence and Engagement Platform purpose-built for community banks and credit unions, today announced Signals, a new feature that uses machine learning to identify households likely to add a product, adopt checking or digital services, or leave the institution.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "2af2614585d6",
+      "title": "US Treasury yields surge as October CPI inflation exceeds forecasts - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDhCNmtXaUlKWkNBZUZBbTE0aURDTHBxdnZpTjFJNUs2cWpGYVJpek5IeWFsRXBWUXFwblpsY01SRm5ydFkwZGN1UmpvZnlnLUtJWE5NdDIzZ1lMQzROOHJ6RmY1MGZBQnFfeVB5WGNJR21iejFBOWFIT1UtWnV5eUtDNmFkUVc1dThFcnpxaw?oc=5",
+      "source": "Treasury",
+      "date": "2026-11-10T15:06:45+00:00",
+      "snippet": "US Treasury yields surge as October CPI inflation exceeds forecasts Beinsure",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
+      "id": "c0bde470423f",
+      "title": "Why SMB crypto hesitation favors banks",
+      "url": "https://www.americanbanker.com/payments/news/how-banks-can-attract-reluctant-businesses-to-crypto",
+      "source": "American Banker",
+      "date": "2026-11-10T14:57:07+00:00",
+      "snippet": "A general lack of interest and low uptake are hindering digital asset growth at small and mid-sized merchants, but bank-powered cross-border transactions are a way through the door.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "c8dd60378383",
+      "title": "CIBC Innovation Banking: Growth Financing To Support PortX's AI-Native Banking Integration Platform - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQckppRUxRX3NGYjYwZC1NTTVxX0d0c2RGV2dpMFlpTzZ4a1VjRl93MC1DZjlRM0tzVkFDNkdROVpLSXlrZVhockZvR053bTEzbzFWRnRtS1NJNTV5SVI2Vm9FMUx3cnB2NlBQVzhIcWhYeWpSZ1lBR3BSUnN6VXZ4WWphRk5qS0pSckxiRU92eld0RExiZzBIRkxFWnhfUUk3cXh0OFJucVdvSzctbVZ0RUFZRlB4NXp1?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T14:46:16+00:00",
+      "snippet": "CIBC Innovation Banking: Growth Financing To Support PortX's AI-Native Banking Integration Platform Pulse 2.0",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "da9a48a92a35",
+      "title": "BioCatch launches AiRE to detect AI agents in digital banking - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnZ3UEU4dmhGUWpCSXhjdUhwOVhSRzFYVEVzWG9reHVIdWNPUlpRWjVvV0plV25mU3hmUk1JLTBkM3BQdThPNEdOZVhBWGVPV2FrenpzTnpfa3lqTW5UcTc3eEVJMXRZeE1GUm1OaGFaQzdrdHBFOFF2andmRjVDNERfWUlLV3hDSHZTOWhFTFRQNFd6WUdyYXU4M1owTWdXRTdKLW1aelREZExa?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T14:29:47+00:00",
+      "snippet": "BioCatch launches AiRE to detect AI agents in digital banking The Paypers",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "ac1af9aae69c",
+      "title": "Venmo launches receipt scanning feature for bill splitting",
+      "url": "https://www.finextra.com/newsarticle/48735/venmo-launches-receipt-scanning-feature-for-bill-splitting",
+      "source": "Finextra",
+      "date": "2026-11-10T14:24:00+00:00",
+      "snippet": "Venmo has added a receipt scanning feature that makes it easy for users split bills by item.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "a990d6fc190b",
+      "title": "Global Payments expands Adaptive Authentication platform with Visa",
+      "url": "https://www.finextra.com/pressarticle/111636/global-payments-expands-adaptive-authentication-platform-with-visa",
+      "source": "Finextra",
+      "date": "2026-11-10T14:15:00+00:00",
+      "snippet": "Global Payments Inc. (NYSE: GPN), a leading payment technology and software company that powers commerce for businesses of all sizes worldwide, today announced the expansion of its Adaptive Authentication platform with the addition of Visa Intelligent Data Exchange (IDX) API, helping clients in the U.S. and Canada imp…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "6c6e8b912533",
+      "title": "Oracle brings conversational AI to financial services data",
+      "url": "https://www.finextra.com/pressarticle/111635/oracle-brings-conversational-ai-to-financial-services-data",
+      "source": "Finextra",
+      "date": "2026-11-10T14:10:00+00:00",
+      "snippet": "Oracle today announced Oracle Financial Services Data Intelligence Treasury Analytics and Oracle Financial Services Data Intelligence Customer Analytics, new analytics applications that combine curated financial services data with AI-assisted exploration to help financial institutions and insurers analyze complex data…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "7a087be30535",
+      "title": "DTCC launches EU-MiFID approved reporting mechanism",
+      "url": "https://www.finextra.com/pressarticle/111634/dtcc-launches-eu-mifid-approved-reporting-mechanism",
+      "source": "Finextra",
+      "date": "2026-11-10T14:09:00+00:00",
+      "snippet": "The Depository Trust & Clearing Corporation (DTCC), the premier post-trade market infrastructure for the global financial services industry, today announced the launch of its EU Markets in Financial Instruments Directive (MiFID) Approved Reporting Mechanism (ARM), delivering an end-to-end transaction reporting solutio…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "b3bbd4d25bda",
+      "title": "Ecommpay partners with Getnet for Spanish acquiring rails",
+      "url": "https://www.finextra.com/pressarticle/111633/ecommpay-partners-with-getnet-for-spanish-acquiring-rails",
+      "source": "Finextra",
+      "date": "2026-11-10T14:06:00+00:00",
+      "snippet": "Supporting the addition of Bizum to its suite of Alternative Payment Methods (APMs) targeted at merchants operating in Southern Europe inclusive global payments platform, Ecommpay, is partnering with Getnet to deliver a direct connection between the platform and the APM.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "471c9844d105",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T14:05:10+00:00",
+      "snippet": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "73c629c3928d",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T14:01:39+00:00",
+      "snippet": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "2af2caeccd0c",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T14:00:00+00:00",
+      "snippet": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "7ecf9dcb85b1",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T14:00:00+00:00",
+      "snippet": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "b0ce2717bca4",
+      "title": "Bud lands venture backing for US push",
+      "url": "https://www.finextra.com/newsarticle/48729/bud-lands-venture-backing-for-us-push",
+      "source": "Finextra",
+      "date": "2026-11-10T14:00:00+00:00",
+      "snippet": "Bud Financial, the UK customer intelligence layer fintechs for banks, has secured investment from BankTech Ventures for a concerted push into the US.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "b70e3f43b7e7",
+      "title": "Bud Financial Secures US Investment from BankTech Ventures to Scale AI Banking Intelligence - FF News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGQwZTAtNXdvRnBZYTRBQS1zUmdiVkVVSmJUc291S0lNdWlhaUNEdy1WcnFRcl9NSXpDR3RNbjZLZ0lmMFNOOFFDQkJLLXJXLW9WZTRScnVtU3M1MGFNSVpPeXFBVlhGZ3J6WWdWTFFsSy0wMjVUbXlUTVhnVkRZOVVhVHFsN2JOeV8tYzBBbU1ha0FvZ2dLcjl1YmpselUtY2RZT3B3?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T13:55:36+00:00",
+      "snippet": "Bud Financial Secures US Investment from BankTech Ventures to Scale AI Banking Intelligence FF News",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "98dc1c6d5149",
+      "title": "Hot inflation report puts Fed on track for December rate hike",
+      "url": "https://www.americanbanker.com/news/hot-inflation-report-puts-fed-on-track-for-december-rate-hike",
+      "source": "American Banker",
+      "date": "2026-11-10T13:53:59+00:00",
+      "snippet": "Inflation continued to pick up steam in October, setting the Fed up to raise interest rates by a quarter point or more next month.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "07f0d335ec0f",
+      "title": "Trust Stamp launches automated biometric-based authorization for transactions initiated by Agentic-AI - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUGdzN2Y5YUJjbGN2LXhsUGZDVEtOWXNEMklhTFVYUnBaTDlkTVB0b0RWbkpvMk9KNnRxRU5ZVUxBeTE4TXJzZV9nSGJaWGNXQWJHT0dGU292Y09qTkZJS3AwUWtjdlpxWm1MV0wyR3R2cEJ1Q2pFNVR2YVN5bVE4a3YyaTRodU9KeHhpcENValROZVJPYlRwUHNkT0JqM1R1ZTNNUy15NG5VZnBzSUh2SFlxdHRBUlFYSXJ2bGN4RzU2S25VQktlLUx0RHFKOGR4WExwTDQzYWI1OEtLRlZGYzgtLUVuQ29LY0RZRDFCYnRmd0U2aGFyM2F6M3NSdGpsRmhpRXlR0gGLAkFVX3lxTE52UlIyTnFPNWVTeU80Y2hvUFMyZm5Ib1lWU0wxcDRqb1F3cUhqdkVsQnVEeDR5dF9ZMEVrSkRXNm5SNm4wTHc1aGs4RGNPMW1JaW8yQVNCSWZrS3c3dmo4TnJaWTNzUWJ2WjdMOEE4SWlFWXBLbU15Skw0UzdjRzR0d3FKM05YNENUS3dnY0RvRzBnYkE1TWFtbnJQMEdLX0tPcWp3MlhGTEV0MDNXa0c4U2lHWFJhc2Z6dGVEVVk4eVFCeGgydUJLbWhFV2VXbkd0NVlHVkxtS3VDOVZsSHgxSTNRNGZIQjZORk1UTlVzTnA4TkhLZDBST2VwNUNmVDQ4N2JIMzE5TlRRUQ?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T13:40:55+00:00",
+      "snippet": "Trust Stamp launches automated biometric-based authorization for transactions initiated by Agentic-AI The Manila Times",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "99b59ddf23b6",
+      "title": "Banks seek to rein in soaring AI agent costs, McKinsey says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlk5SWg5U2ZDeExQOUMycHJsMWoycHpLYWY2S2Ntc3RhZllRcTBFTnpQSlU1eF96emQ3S1VRRFoybFdBaHZvR1k4TmFDd19uT3huaElhUzhmaUtlTW1LaEZjSmZCbENrenRkNzJjMlZwcDN6QW1zc2hHUFYtbHJJYTZWV09yRHllSWtmZ1ZNa1FEZ1NyYVdiRFdibi1OOURTLWpXSGhNRnE?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T13:32:52+00:00",
+      "snippet": "Banks seek to rein in soaring AI agent costs, McKinsey says Reuters",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "95a79e855637",
+      "title": "Bottomline brings USDC stablecoin payments into platform",
+      "url": "https://www.finextra.com/pressarticle/111632/bottomline-brings-usdc-stablecoin-payments-into-platform",
+      "source": "Finextra",
+      "date": "2026-11-10T13:32:00+00:00",
+      "snippet": "Bottomline, a global leader in business payments, today announced that it has completed cross-border stablecoin payments through its Global Payments Hub and Cash Management platform using USDC, issued through regulated entities[https:][1] of Circle Internet Group, Inc. (‘Circle’) (NYSE:CRCL).",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "1c8d51ee7375",
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T13:30:00+00:00",
+      "snippet": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "2aad36d183ea",
+      "title": "Paytech Orchestr rebrands as Upprove",
+      "url": "https://www.finextra.com/pressarticle/111631/paytech-orchestr-rebrands-as-upprove",
+      "source": "Finextra",
+      "date": "2026-11-10T13:30:00+00:00",
+      "snippet": "Orchestr has rebranded as Upprove. The new name, identity and website, upprove.com, went live on 4 November, with the company’s AI Payments Manager at the centre of the new brand.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "a0f294f26c10",
+      "title": "Axiology secures approval to expand investment services",
+      "url": "https://www.finextra.com/pressarticle/111630/axiology-secures-approval-to-expand-investment-services",
+      "source": "Finextra",
+      "date": "2026-11-10T13:29:00+00:00",
+      "snippet": "Axiology, a regulated European capital markets infrastructure provider, has received approval from the Bank of Lithuania to extend its EU investment firm authorisation, allowing it to provide additional brokerage services alongside its existing trading and settlement infrastructure.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "b2a177f32585",
+      "title": "FCA AI guidance: What lenders need to know about oversight, resilience and customer outcomes",
+      "url": "https://www.finextra.com/blogposting/33407/fca-ai-guidance-what-lenders-need-to-know-about-oversight-resilience-and-customer-outcomes",
+      "source": "Finextra",
+      "date": "2026-11-10T13:25:01+00:00",
+      "snippet": "Author: A finextra community member",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "ffa8018099ac",
+      "title": "Mojaloop powers the launch of Guinea's NimbaPay",
+      "url": "https://www.finextra.com/pressarticle/111628/mojaloop-powers-the-launch-of-guineas-nimbapay",
+      "source": "Finextra",
+      "date": "2026-11-10T13:22:00+00:00",
+      "snippet": "The Mojaloop Foundation, a nonprofit advancing financial inclusion through open-source interoperable, instant payment systems, today announced that its technology has been implemented in Guinea to power NimbaPay, the country’s national Inclusive Instant Payment System (IIPS).",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "74c15b0af167",
+      "title": "Standard Chartered powered bank Mox appoints Anshul Sabherwal as CEO",
+      "url": "https://www.finextra.com/newsarticle/48734/standard-chartered-powered-bank-mox-appoints-anshul-sabherwal-as-ceo",
+      "source": "Finextra",
+      "date": "2026-11-10T13:12:00+00:00",
+      "snippet": "The former head of product and payment of Standard Chartered Hong Kong Anshul Sabherwal has been appointed CEO of Mox, a digital bank licensed in Hong Kong, powered by Standard Chartered in partnership with PCCW, HKT and Trip.com.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "8c4f173acb0a",
+      "title": "Ohio based Buckeye State Bank launches new credit card issuing program with CorServ",
+      "url": "https://www.finextra.com/pressarticle/111627/ohio-based-buckeye-state-bank-launches-new-credit-card-issuing-program-with-corserv",
+      "source": "Finextra",
+      "date": "2026-11-10T13:04:00+00:00",
+      "snippet": "CorServ, a company enabling banks and fintechs with modern credit card issuing solutions, has partnered with Buckeye State Bank to strengthen the credit card experience for retail and commercial customers.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "c33d07a23fd4",
+      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T13:00:00+00:00",
+      "snippet": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "6de04e17f4cb",
+      "title": "BioCatch Launches AiRE to Detect Malicious AI Agents as UK Banks Tighten Security - FF News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1ZnUDcwS1hWcHEza0sxQ045Y09iSWp4a09Pc1BqOExOVEhtYWhDZEdEeUllR3B2aXpLY09GTkVZWDBVSGtBaElGQ2JEMEZXYllsYTZpMjhmZjBLTkI4MFpGVVhsMkZuWDRuYTZQb0k4d2hXU2lqUnZDdHBWVWVUaTItVUZ0M0RxWHBRelN1Z0NzODR2UjVoTzZUUGk5UQ?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T12:30:34+00:00",
+      "snippet": "BioCatch Launches AiRE to Detect Malicious AI Agents as UK Banks Tighten Security FF News",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "87e531cd75fc",
+      "title": "Credit Unions' income tax exemption is directly tied to their mission",
+      "url": "https://www.americanbanker.com/creditunions/opinion/credit-unions-income-tax-exemption-is-directly-tied-to-their-mission",
+      "source": "American Banker",
+      "date": "2026-11-10T12:30:00+00:00",
+      "snippet": "Bank trade groups' attacks on credit unions focus on red herrings like membership requirements and a well-deserved income tax exemption. What they ignore is how well credit unions serve their members.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "9191089a756a",
+      "title": "Stripe and HSBC drive contactless payments for UK small businesses",
+      "url": "https://www.finextra.com/newsarticle/48733/stripe-and-hsbc-drive-contactless-payments-for-uk-small-businesses",
+      "source": "Finextra",
+      "date": "2026-11-10T12:24:00+00:00",
+      "snippet": "According to HSBC UK research conducted by Censuswide among 594 small business owners with turnover below £2 million who are involved in processing customer or client payments or transactions, 33% have lost a sale because they could not accept a customer's preferred payment method.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "8c544f43bbf4",
+      "title": "Show HN: VoxaDub – Open-source AI video dubbing with speaker-aware voices",
+      "url": "https://github.com/kadirb4rut/voxadub",
+      "source": "Hacker News",
+      "date": "2026-11-10T12:06:21+00:00",
+      "snippet": "Hi HN, I have been working on a project called VoxaDub: an open source local-first AI dubbing tool which can translate videos into other languages while preserving the original voices of the speakers. A major issue when translating is ensuring the translation matches with the length of speech in the target language. E…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "626c881d209b",
+      "title": "Finovox detects more than €100,000 in AI-related fraud every month",
+      "url": "https://www.finextra.com/newsarticle/48732/finovox-detects-more-than-100000-in-ai-related-fraud-every-month",
+      "source": "Finextra",
+      "date": "2026-11-10T11:50:00+00:00",
+      "snippet": "Finovox, a European specialist in AI-powered document fraud detection that helps organisations identify falsified and manipulated documents and strengthen their verification processes, has found that document fraud is now that sophisticated that AI-related fraud is at an annualised rate of over €1.2 million.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "a6abaf4af2bd",
+      "title": "Backbase bets on agentic AI with dual CTO leadership - FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzhHOWQ1UUxuVm1lcWc5LWNRellQaUI4dlB3WXdrMHR6WTMtSUczOHBJZmJHdVBjeDdoWkhIQ3Q3SnJBWkJiQVZCNTRLTGtNVUYxQUpESW9NY2hmSm9CWm5WUndWajNERUgwMnhzVHV6SThSUE5mTm9hYUcwM1pNQndKSEJvM3hXZlh6elVBZzM?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T11:08:35+00:00",
+      "snippet": "Backbase bets on agentic AI with dual CTO leadership FinTech Global",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "aaa53ddd17b4",
+      "title": "The hidden cost of running an international business on domestic banking rails",
+      "url": "https://www.finextra.com/blogposting/33429/the-hidden-cost-of-running-an-international-business-on-domestic-banking-rails",
+      "source": "Finextra",
+      "date": "2026-11-10T11:03:51+00:00",
+      "snippet": "Author: A finextra community member",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "a535c595c502",
+      "title": "Building the Foundations for AI-Ready, Future-Proof Payments",
+      "url": "https://www.finextra.com/videoarticle/3644/building-the-foundations-for-ai-ready-future-proof-payments",
+      "source": "Finextra",
+      "date": "2026-11-10T11:00:00+00:00",
+      "snippet": "At Sibos 2026, ACI Worldwide’s Rachel Hunt reveals how banks can simplify payment modernisation and build a solid data foundation for AI.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "b9fb01448abd",
+      "title": "These are the best banks to work for in 2026",
+      "url": "https://www.americanbanker.com/news/these-are-the-best-banks-to-work-for-in-2026",
+      "source": "American Banker",
+      "date": "2026-11-10T11:00:00+00:00",
+      "snippet": "American Banker's Best Banks to Work For program honors 100 banks across the U.S. that have kept their employees happy amid a host of internal and external challenges.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "75abfc4d9f9e",
+      "title": "Morgan Stanley places big bet on scale as AI commoditizes advice",
+      "url": "https://www.americanbanker.com/news/morgan-stanley-places-big-bet-on-scale-as-ai-commoditizes-advice",
+      "source": "American Banker",
+      "date": "2026-11-10T11:00:00+00:00",
+      "snippet": "Morgan Stanley's head of wealth management says technology is turning firms' previous advantages in portfolio construction and financial planning into common property.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "e8109863af01",
+      "title": "When an AI agent acts for a UK customer, who answers for it? - Resultsense",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkFab0xMaVNfbEYyenhnV1pfMnEtZkpmMzRIbmlQX1NrbUZaR0ZEMUlMWFllN1RNOUNTOUNhRUJuQzJiN3Y3TExncXZ0WHR0TllPaG5BeHdQem9fbUN5emtBTUlOMVF0V1d4T2wyTDYtRU5RWXo5dVJ4SmVWUmx5MkhCM05ydm52cDhsOHh1dmc?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T10:44:24+00:00",
+      "snippet": "When an AI agent acts for a UK customer, who answers for it? Resultsense",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "ad2ea952f5c2",
+      "title": "80% of Banks Have Already Faced Agentic AI Attacks, According to BioCatch Survey - Finance Magnates",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQenlydUdvNFZiejBmZkFlQlN3WlJPZV8zTXdGYVFDMmg3RVNPRjJZUVRCaGlTVEczS0FSdktIRXo4Yjc0bDFTUnluOXY1cm9RNVpqUHZsMUFhNDlobmtCMGVIVUlfcEJVWVRjOUkwS0dscmR5WW1jMmgyUDJrSEgwUUJFYXlaT1dTX083UUFzcU9VV3NkY1VjMjBJOEs0SGFSaC1oMEVxOXRPQm1xRGNucnJCT3BmdkZr?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T10:35:24+00:00",
+      "snippet": "80% of Banks Have Already Faced Agentic AI Attacks, According to BioCatch Survey Finance Magnates",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "6ff1e5057aa9",
+      "title": "Unstoppable Starts Here: The Future of Infrastructure and AI, with Jeff Parker and Ahmed Gaber - FF News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlZPc2RJVXlpQkZ4M29SQlU2aUt5cE9fR2t2MjZFNm9vRjQzazBnWmtLVXZNZ2tDMU9leU1XSjItNkY1YWxQbW16c0VGcmZNWVo4RG9VUE1qZ1NGQjlSS1FwLVdZMkp2SThDSHlzcHNlVzdpM3VhZGhSdXVrQ1VZT2ljQkxlTGtRY1IxQ0sxMzBCMjZ1YlhZenJBQnhnZWhHbDMzV1I0RjBUSDdrS2VUQ01vZTcwbVk?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T10:30:00+00:00",
+      "snippet": "Unstoppable Starts Here: The Future of Infrastructure and AI, with Jeff Parker and Ahmed Gaber FF News",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "23de700a0e91",
+      "title": "What Greek mythology can teach us about AI’s journey",
+      "url": "https://www.finextra.com/blogposting/33428/what-greek-mythology-can-teach-us-about-ais-journey",
+      "source": "Finextra",
+      "date": "2026-11-10T09:42:46+00:00",
+      "snippet": "Author: A finextra community member",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "d31e5c89a67f",
+      "title": "The Emerging Agentic Playbook for Community Banks and Credit Unions - The Financial Brand",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOE0zalAzRGU2ZWJ4VzVyQkdtSTRoMENQODJCOHNTWXd0SEIzVHZvTEU1d3lESlVmdGd5Qm9YcjF2MENLS0Jfd1FZMFdSNU9vOEI3eFRiWFR1V05kaE1oWVNzMFJFMUI2NG5JWEJ4dkNkSDJBMC1Kc2N0WkxjZ3JrRmtWSUk0NlBnOVZSMU5uRnlCbm9ybnBzbXRKdFpnZXdIaVpHNTFvbmdMS2VocTN6dkY5cWJrZEVodzdqd242QzVBaHJhblkwcFF3cjFpZTNrZ1haZ0w0RVZCNHJOR191bHlMa2hCMFVrei0xYjl6R1MyZEk?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T07:39:34+00:00",
+      "snippet": "The Emerging Agentic Playbook for Community Banks and Credit Unions The Financial Brand",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "9e2042fdfa59",
+      "title": "Woori Bank's high-function ATM \"Smart Kiosk\" will be equipped with artificial intelligence (AI) voic.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3cUg0YmV4alBydkVjNkE2Tnl6Qm9DWktoNXA1T3VQSUFKUWt3S016c2VBVFJuQXk1NnhXV0VEMU81ckVsS0tIV0Viems1alVqYkE?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T07:15:19+00:00",
+      "snippet": "Woori Bank's high-function ATM \"Smart Kiosk\" will be equipped with artificial intelligence (AI) voic.. 매일경제",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "4b367bcc7536",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T07:00:00+00:00",
+      "snippet": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "0803a5ff41a6",
+      "title": "MuJoCo 4",
+      "url": "https://www.producthunt.com/products/google",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-10T06:23:09+00:00",
+      "snippet": "A physics engine for robots with its own studio Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "a67ee237d05e",
+      "title": "FLEY AI-Voce – a voice AI assistant you but can also control your PC and phone",
+      "url": "https://news.ycombinator.com/item?id=50436493",
+      "source": "Hacker News",
+      "date": "2026-11-10T05:37:27+00:00",
+      "snippet": "FLEY AI-Voce - a voice AI assistant that will not only talk with : open links, websites, and programs, create files, presentations, write code, and even shut down and turn on your PC, work with a printer, and do just about anything. Everything to automate and make your device, like a PC and phone, smart as a robot. ht…",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "2d3f28771ca2",
+      "title": "Woori Bank adds AI voice recognition to smart kiosk for certificate issuance and loss reports - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDZLQWFITEhWVG9mZDFoUXZEWTA2TGpDTjlERXRZclVka0xteWFpSUJsWTFuWkM2aC1NLXR3Zm1hSDZLMERaZ216ZVdhQ0IteVgwMTEzVkJkVzVPbW5PdDZvUXVfVHBkbDhvT3NSLWZVZy1zWUhfcEc3aVF2YzlWbXFWSDYtUEF5ek5UaFdubnB1b09YMS1lb2ZUZC1wTVRzQWhiZzQza2JtSWNxMmx1dHBkdFZIeW5LdXMweE1xWjJfQTBaRXVjYW1vWlZ4SUxjdUtXQkJn?oc=5",
+      "source": "Google News",
+      "date": "2026-11-10T05:16:43+00:00",
+      "snippet": "Woori Bank adds AI voice recognition to smart kiosk for certificate issuance and loss reports 디지털투데이",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "59458181f143",
+      "title": "FlashStates Unlocking Flexible Hybrid State Management for Agentic LLM Inference",
+      "url": "https://flashstates.ai/",
+      "source": "Hacker News",
+      "date": "2026-11-10T04:29:35+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "42868e931721",
+      "title": "AppuBot",
+      "url": "https://www.producthunt.com/products/appubot",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-10T04:16:01+00:00",
+      "snippet": "Grok Bot alternative that runs on your AI, completely free Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "fa56fc4d70fe",
+      "title": "HitPay Agentic Discovery",
+      "url": "https://www.producthunt.com/products/hitpay-agentic-discovery",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-10T03:04:23+00:00",
+      "snippet": "Make your store findable and buyable by AI agents Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "8144195f1ac5",
+      "title": "Dover Startup Jobs",
+      "url": "https://www.producthunt.com/products/dover",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-10T02:53:06+00:00",
+      "snippet": "Where great startups meet great candidates Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "4590d2dc3195",
+      "title": "3 Bank Stocks Tied To Treasury Yields Investors May Want To Watch - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVgzZndnYVBGMElfd1Z0dTZpRUlIb1ZaTTVxQUN1aDV4azh3YWhyMGlwSXhBYl93Rnl2ZnpoWlh2MUpmN0hXWFhTX0o4c0dudWJJU0JYajhyakpxQU5rOXpoam1ESmpEUDRJSGZTTmZ5RXpEYjJqd0RncjFQMjNJRHpB?oc=5",
+      "source": "Treasury",
+      "date": "2026-11-10T02:14:00+00:00",
+      "snippet": "3 Bank Stocks Tied To Treasury Yields Investors May Want To Watch Yahoo Finance Singapore",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
+      "id": "704829189dce",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-10T01:27:12+00:00",
+      "snippet": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "c54be26d7ddc",
+      "title": "openring",
+      "url": "https://www.producthunt.com/products/openring",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-10T01:26:14+00:00",
+      "snippet": "Open-source voice AI agents with no platform fee Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "688a1fc5df1d",
+      "title": "Seldon",
+      "url": "https://www.producthunt.com/products/seldon",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-10T01:18:21+00:00",
+      "snippet": "Behavioral QA agents that use your product like customers do Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "b4487034155f",
+      "title": "OpenRing – self-hosted voice AI agents with a Vapi-compatible API",
+      "url": "https://github.com/elifalanrocha/openring",
+      "source": "Hacker News",
+      "date": "2026-11-10T00:43:29+00:00",
+      "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "389d751b9468",
+      "title": "Clive",
+      "url": "https://www.producthunt.com/products/clive",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-10T00:23:22+00:00",
+      "snippet": "Let Claude and other AIs set your iPhone alarms Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "4c48ea0f5be6",
+      "title": "Almanzor",
+      "url": "https://www.producthunt.com/products/almanzor",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-10T00:21:01+00:00",
+      "snippet": "Ask AI + MCP server for your docs, with cited answers Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "658d44fafee4",
+      "title": "PNC launches stablecoin payments for corporate clients",
+      "url": "https://www.finextra.com/newsarticle/48728/pnc-launches-stablecoin-payments-for-corporate-clients",
+      "source": "Finextra",
+      "date": "2026-11-10T00:01:00+00:00",
+      "snippet": "PNC Bank is working with Coinbase to make incoming stablecoin payments available to its corporate and institutional clients.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "69e42c284a19",
+      "title": "Banks Draw Lines Around Customers’ AI Agents - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUDlxdU5QUFkzU29QOEFyd0J1SVYzRzZ6NkVhWENYZkJvMDEtSlExRnp2dmZZTW1BRWcxNnVVcnAzdXhrU1B6VUVaQjNWU1ZVZlM2ZnZCb085LV9FSk91RDRsNkFHdzhQMHFLUkpHd1RNMlNnNUkzRUdzVjNmaE53WlpudjRCeFMzSHFua2VB?oc=5",
+      "source": "Google News",
+      "date": "2026-11-09T23:57:14+00:00",
+      "snippet": "Banks Draw Lines Around Customers’ AI Agents PYMNTS.com",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "152678674cea",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch AI",
+      "date": "2026-11-09T23:28:37+00:00",
+      "snippet": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "0e4f97de0f11",
+      "title": "Members Receive Portion of Ohio Credit Union's Net Worth Before Merger Closes - CUTimes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXJ1c2NZei02WFhBY0gxd3FiVGQzNGdqS2p6N2p2eEdVdHZENExxZGswMndRMURoUWdYckY3OGR5YTUybEYxRTZhREEyaHUta3A3YU4wMWlEYUdmaF9jc0VhSFJWQVgwaGc2eUstLTd0WnctQWhkX1EyQnVkLWR0Vk9wLTRoc3lmXzhhckt5ZktiVnZLcVlxM3RJeUJuUDZ0ajMwdDdQUU9lWFRBYUI0eDd3?oc=5",
+      "source": "NCUA",
+      "date": "2026-11-09T22:54:30+00:00",
+      "snippet": "Members Receive Portion of Ohio Credit Union's Net Worth Before Merger Closes CUTimes",
+      "competitors": [],
+      "category": "regulatory"
+    },
+    {
       "id": "c23424235ff4",
       "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
       "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
@@ -122,12 +994,22 @@
       "category": "ai-news"
     },
     {
-      "id": "94c350c04d73",
-      "title": "San Francisco poised to approve public-banking measure",
-      "url": "https://www.americanbanker.com/news/san-francisco-poised-to-approve-public-banking-measure",
-      "source": "American Banker",
-      "date": "2026-11-09T22:23:04+00:00",
-      "snippet": "As the city continues to count ballots, the votes in favor of creating a governance framework for a public bank have gained a lead that appears to be insurmountable.",
+      "id": "6cee351c79df",
+      "title": "Inspo by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T21:48:31+00:00",
+      "snippet": "Real website inspiration for your coding agent Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "81fd00d113d1",
+      "title": "Kettle",
+      "url": "https://www.producthunt.com/products/kettle",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T21:40:46+00:00",
+      "snippet": "The helper in your family group chat Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -142,42 +1024,12 @@
       "category": "ai-news"
     },
     {
-      "id": "103a40905eb8",
-      "title": "Will the midterms trigger an RIA M&A rush? It's complicated",
-      "url": "https://www.americanbanker.com/news/will-the-midterms-trigger-an-ria-m-a-rush-its-complicated",
-      "source": "American Banker",
-      "date": "2026-11-09T21:36:22+00:00",
-      "snippet": "Any impact from Democrats' victories last week may take longer to emerge in wealth management M&A than in other industries. But typically strong momentum closes out any year — especially after elections.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "4115c891e751",
       "title": "From Agentic AI to Stablecoins: 4 Trends Shaping the FinovateSpring 2027 Agenda - Finovate",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNl92Wk5kN2RUQTB1TFVhOGk0YXlkVUNkMWQ5R2VSMGhSd1VlV3lvT3BUVXJhQ0ZWTThrYXpsRUd4YkdHOXQ2OGxMbVVFSHRmRUpWc2szeDlUMHp6Umducm14Vk1WSjB3QklSTFlUR0w2RVlBQ3VEdmVKZTRtX0w1Vy1mcE9wUTVyRjM3TGgybi12ajVfZWozdGxabjNCaXZWbVE?oc=5",
       "source": "Google News",
       "date": "2026-11-09T21:32:58+00:00",
       "snippet": "From Agentic AI to Stablecoins: 4 Trends Shaping the FinovateSpring 2027 Agenda Finovate",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "2aaa2e7e4ed9",
-      "title": "How Canada's real-time payment rail challenges bank innovation",
-      "url": "https://www.americanbanker.com/payments/news/canada-debuts-long-awaited-instant-payments-scheme",
-      "source": "American Banker",
-      "date": "2026-11-09T21:18:13+00:00",
-      "snippet": "The long-awaited instant settlement scheme has finally launched, pressuring banks to improve processing technology before fintechs swoop in to nab clients.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "111bbb6ec0d8",
-      "title": "FMSI adds AI analytics to branch software so leaders can ask questions in plain language - Utah Business",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNDlyX3NPQVROOGNxWGV6cHVlQmxjN1dmMWcyanQzMkc1MGtXTVlHVTk2MW14U2VxX0dxclYtSFNrR20tZmY4a2lCdDhRVmczMkJDRGlieGl0VktrOHhCbmRmU3FXT2N4Z2VzN0NGTDVYbHpsT25rS25ZT0xCYlRHeTdOZnc3dnlvVXNIemdueHlUNUliQWJRMWtiV09NT1hDc3B4aDdKLUdhQWI1T3RMd3lzMlZjQV93WUh0d3lybE0wamhqXzdyRXF3LXlzWDQ?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T21:02:12+00:00",
-      "snippet": "FMSI adds AI analytics to branch software so leaders can ask questions in plain language Utah Business",
       "competitors": [],
       "category": "ai-news"
     },
@@ -190,16 +1042,6 @@
       "snippet": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "421cb9e94fd8",
-      "title": "Inside Franklin Templeton's crypto leap",
-      "url": "https://www.americanbanker.com/news/inside-franklin-templetons-crypto-leap",
-      "source": "American Banker",
-      "date": "2026-11-09T20:56:50+00:00",
-      "snippet": "A look at how the 75-year-old Wall Street firm has leaned into tokenized finance, at a time when most banks are still peering into this new world.",
-      "competitors": [],
-      "category": "ai-news"
     },
     {
       "id": "0d50484063db",
@@ -244,22 +1086,32 @@
       "category": "ai-news"
     },
     {
-      "id": "16a3bf966343",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-09T19:24:51+00:00",
-      "snippet": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "id": "403ae4e9b814",
+      "title": "Willder",
+      "url": "https://www.producthunt.com/products/willder-with-will-wield-the-wilder",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T20:05:59+00:00",
+      "snippet": "The context layer that syncs your apps, agents and teams Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
     {
-      "id": "999c128c5cc4",
-      "title": "TransUnion adds Snappt income verification to its SmartMove screening platform",
-      "url": "https://www.finextra.com/pressarticle/111620/transunion-adds-snappt-income-verification-to-its-smartmove-screening-platform",
-      "source": "Finextra",
-      "date": "2026-11-09T19:16:00+00:00",
-      "snippet": "Snappt, the Applicant Trust Platform for rental housing, today announced an expansion of its collaboration with TransUnion to include SmartMove, the tenant screening solution platform built for independent property owners.",
+      "id": "5525c8c541e4",
+      "title": "MoreFrame",
+      "url": "https://www.producthunt.com/products/moreframe",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T19:44:36+00:00",
+      "snippet": "Dual-screen recording and editing for Mac and Windows Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "e30d3a4e3bf7",
+      "title": "Obsiva",
+      "url": "https://www.producthunt.com/products/obsiva",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T19:41:51+00:00",
+      "snippet": "Turn site pics + voice notes into a PDF inspection report Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -274,32 +1126,12 @@
       "category": "ai-news"
     },
     {
-      "id": "a99f315e7f9d",
-      "title": "New Jersey community banker on the virtue of fast following",
-      "url": "https://www.americanbanker.com/payments/news/how-new-jerseys-first-bank-approaches-new-payments-tech",
-      "source": "American Banker",
-      "date": "2026-11-09T19:04:08+00:00",
-      "snippet": "First Bank, which specializes in small-business banking in the Philadelphia suburbs, is betting on personal relationships rather than moving quickly into AI, real-time payments and other innovations.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "55a9f66381a0",
       "title": "New Jersey community banker on the virtue of fast following - American Banker",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2lkOFNoUUVnLUsxYldvRG9Uc3RXcnJ3UFdSZ3IwanpFSDJGZEI5cWxNcFAwZmZyZmR6UVdCTHpVTDhuRHhDY0JIa0pwcTYxUVFweG1YUU5mYmtFSzYzakgxWjRtWjJlby10Qkc5YVNBM0JsWUJYVGlELVZicm5Zc0gwS0JXZlhrN2ROTVdHcDJKT0tjTGY5YURiZWFrTWMzdHc?oc=5",
       "source": "Google News",
       "date": "2026-11-09T19:04:00+00:00",
       "snippet": "New Jersey community banker on the virtue of fast following American Banker",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "0ed30610eced",
-      "title": "Fed's Goolsbee says AI spending resembles demand shock",
-      "url": "https://www.americanbanker.com/news/feds-goolsbee-says-ai-spending-resembles-demand-shock",
-      "source": "American Banker",
-      "date": "2026-11-09T18:35:53+00:00",
-      "snippet": "The Chicago Fed president said there are signs that investment in the technology is outpacing economic capacity, creating a frothy market environment and possibly one that the Fed will tamp down with more rate hikes.",
       "competitors": [],
       "category": "ai-news"
     },
@@ -334,26 +1166,6 @@
       "category": "ai-news"
     },
     {
-      "id": "0e4af9aeae57",
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-09T18:09:52+00:00",
-      "snippet": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "9064c0143a08",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-09T18:00:00+00:00",
-      "snippet": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "ecf7ca80e4d4",
       "title": "NCUA finalizes PPP and statutory lien rules, removes commercial lending transition provision - JD Supra",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbDRCMF9xS042Q3ZxMjEtZS1MYmU3SENHMlpxTEltNTVfcndJVUMwZ1RfS2Y4cXp4endLOGhKN3hsOFNWTW4wUHhySUY4a2NXY1d6WUx1VWdaOGxzSFI4NHBRWHZxajRUTHdBZ2pBMHdGZmhLNU44NDIydUdlQ3U2R2VSODA4RUk?oc=5",
@@ -374,22 +1186,22 @@
       "category": "ai-news"
     },
     {
+      "id": "3b34f04ddbe6",
+      "title": "ZUS",
+      "url": "https://www.producthunt.com/products/zus-2",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T17:01:49+00:00",
+      "snippet": "AI-native IDE: agents code with human review Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "b2b46064cef4",
       "title": "Beyond Artex: 45 Agentic Attack Frameworks, and How to Find Them",
       "url": "https://blog.gitguardian.com/ai-pentesting-tools-beyond-artex/",
       "source": "Hacker News",
       "date": "2026-11-09T16:57:38+00:00",
       "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "a51ae9242754",
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-09T16:56:54+00:00",
-      "snippet": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
       "competitors": [],
       "category": "ai-news"
     },
@@ -434,36 +1246,6 @@
       "category": "regulatory"
     },
     {
-      "id": "c270d2c846e9",
-      "title": "Banks are catching AI agents in customer accounts — security isn’t ready - TechTarget",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYm5XTXpmUjA0c3ZKekVYU2E2a3p5WEtKUXZMbmZHQXZmZ01rTjE2SVhNTG1jTHlQdUcyNHZCeHU4NWFjSmpTUXI4bDB5UHYtaF9HWmJZcUQzdnh0ZDdxLVZnaHg4d3ZvX3ZvU2VxNHM2R0lndDZhLU0zMnJORUkxdU1CSkE2OF9SM0JfZE1mbXJva1F1RW9nUVBDVEloX25nSkxCMVhmdmpYYkppcXc?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T16:14:02+00:00",
-      "snippet": "Banks are catching AI agents in customer accounts — security isn’t ready TechTarget",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "a7aaa19f74f9",
-      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-09T16:12:28+00:00",
-      "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "408f5b5a3abd",
-      "title": "Northern Trust streamlines client onboarding with AI agent - CIO",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGFJcDBBeTJEaHc2QUtXYzE0UmJLOEpVZkJhQzRrNXN3Tkl6VlVPQ3E4SV9VWkVYQ2d2d2Z0cVFiRVZHT1B3S3FfZDk2N1BrMllQU1FrcTFtZzhNLTdsdlJHSFRRVVlvRTJwREdVWldqRHZlRG94TldkQ1JlQWFlQXFvYXBlYVZVelYtdWNmQUFSQlY2dFpVWVJwbEZmajd2?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T16:05:15+00:00",
-      "snippet": "Northern Trust streamlines client onboarding with AI agent CIO",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "9e061647cf66",
       "title": "Morgan Stanley agrees to buy transfer agent Vinyl Equity",
       "url": "https://www.finextra.com/newsarticle/48727/morgan-stanley-agrees-to-buy-transfer-agent-vinyl-equity",
@@ -484,102 +1266,22 @@
       "category": "ai-news"
     },
     {
-      "id": "bd7969c9a728",
-      "title": "Canada's real-time payments system launches",
-      "url": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches",
-      "source": "Finextra",
-      "date": "2026-11-09T15:10:00+00:00",
-      "snippet": "Following years of delays, Canada's Real-Time Rail (RTR) payments system has finally launched.",
+      "id": "65e5956efded",
+      "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0N5Skk5WEFjeFZaU2hkdnczUWd0Y2QzNEFJNFF0Mk9UdTd0LUhCRGI4aVBldGpNaDRoWFdJT0xDcldjX0p0OG5yS1lBQktuSVo3alNaTkVSNmI3WWZ2M25WSnJ4Y1BkTGEzM05NamtJYlBQSk1pdVdMNHg2MTJVd0Yxc29Xc3ZOUkFPYkJxdWQtU3BINU42NjVlSl85Z0ZG?oc=5",
+      "source": "Treasury",
+      "date": "2026-11-09T15:20:44+00:00",
+      "snippet": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook WSJ",
       "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
     },
     {
-      "id": "768b41439d56",
-      "title": "Software subscription management platform Cledara launches AI agent",
-      "url": "https://www.finextra.com/pressarticle/111619/software-subscription-management-platform-cledara-launches-ai-agent",
-      "source": "Finextra",
-      "date": "2026-11-09T15:07:00+00:00",
-      "snippet": "Businesses in the UK, the EU and the US lose an estimated $41bn (£31bn) a year to software admin: signing in to vendor portals to download invoices, setting people up in new tools and switching them off when they leave.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "03523f399987",
-      "title": "PhotonPay becomes registered PSP in Canada",
-      "url": "https://www.finextra.com/pressarticle/111618/photonpay-becomes-registered-psp-in-canada",
-      "source": "Finextra",
-      "date": "2026-11-09T15:02:00+00:00",
-      "snippet": "PhotonPay today announced that its Canadian operating entity, Photon Dance CA Inc., is now registered with the Bank of Canada as a payment service provider (PSP) under Canada's Retail Payment Activities Act (RPAA).",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "31f43e1d5e4f",
-      "title": "Revolut launches mobile plans in Ireland",
-      "url": "https://www.finextra.com/pressarticle/111617/revolut-launches-mobile-plans-in-ireland",
-      "source": "Finextra",
-      "date": "2026-11-09T15:01:00+00:00",
-      "snippet": "Revolut, the global financial leader with over 3.4 million customers in Ireland and more than 80 million users worldwide has announced the launch of Revolut Mobile – with plans starting from just €9.99.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "a7f3532e8113",
-      "title": "Agentic AI Transforms Banking: Scaling Struggles - Funds Society",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQaHNQS182YUl2UmNFN244bGhGazFrZ1Vxem00dHpfN1IzNVhmWEh0MTJTeFF4Z3lpdGFMWE0xU19GVFdsQjdwaV9vdUlQVXVCRENOWHdFZk1ITHNNeHgwQ0M1OGJ1Z0dHUFdMTHhEMFJZQTg3TVB4Y2hIS2xuOEFiekg0Tkc1cGVaRHlZWmw1VkdVOHBOeW5XZlYxaHdoZU9MRjhVbk5nREZEOXhOUzd5Y0I5YTBBM3dfUzZOU3RJWS1kZHJLVlFFNzJSVl9raHU0Zzd4UVRlWnZtMzhReEVMZXZkZWc1UGJOUm1FYXFkN0FTdUJzRFFWOTA2ekVOTFc1NHVaRnN0OUJzaHc1eUE?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T14:29:00+00:00",
-      "snippet": "Agentic AI Transforms Banking: Scaling Struggles Funds Society",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "744b7370d1b3",
-      "title": "Kyiv to Host UAFIN.TECH 2026 as AI Agents Set to Transform Banking and Financial Services - Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xaG5FVmlQWkYyaEJzNWI2amd0d2pOMV9IWmdYWGk1djUtejc1UEZpMGsxdF9BbVV3UmxyaDZEVy1QbnlKYjc4dm52cw?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T14:26:26+00:00",
-      "snippet": "Kyiv to Host UAFIN.TECH 2026 as AI Agents Set to Transform Banking and Financial Services Kyiv Post",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "6552d2995414",
-      "title": "Coinbase gets full US trust charter",
-      "url": "https://www.finextra.com/newsarticle/48724/coinbase-gets-full-us-trust-charter",
-      "source": "Finextra",
-      "date": "2026-11-09T14:25:00+00:00",
-      "snippet": "Crypto exchange Coinbase has secured final approval from US regulators for a national trust bank charter.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "d7a8ef1e22f2",
-      "title": "Your Payment Stack Won't Fail on an Outage. It Will Fail on a Requirement You Don't Have Yet.",
-      "url": "https://www.finextra.com/blogposting/33424/your-payment-stack-wont-fail-on-an-outage-it-will-fail-on-a-requirement-you-dont-have-yet",
-      "source": "Finextra",
-      "date": "2026-11-09T14:04:22+00:00",
-      "snippet": "Author: A finextra community member",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "d1e1ee456e97",
-      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-09T14:00:00+00:00",
-      "snippet": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "7c103af4f486",
-      "title": "Tradeweb collaborates with BNY to expand ICD Portal investment options",
-      "url": "https://www.finextra.com/pressarticle/111616/tradeweb-collaborates-with-bny-to-expand-icd-portal-investment-options",
-      "source": "Finextra",
-      "date": "2026-11-09T13:54:00+00:00",
-      "snippet": "Tradeweb Markets Inc. (Nasdaq: TW), a global leader in electronic trading across asset classes, today announced a strategic collaboration with BNY’s (NYSE: BNY) LiquidityDirect to expand investment options available through Tradeweb ICD Portal (“ICD Portal”), a multi-fund platform through which Tradeweb’s corporate tr…",
+      "id": "05eec5217536",
+      "title": "Daytwo",
+      "url": "https://www.producthunt.com/products/daytwo-2",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T15:17:34+00:00",
+      "snippet": "Let your team change your custom site without touching code Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -588,62 +1290,12 @@
       "title": "Vertical AI for Banking Turns Profitable as Glia Passes $100m ARR - FinanceX Magazine",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnRHV2ptWEhjc3oya2pZM2F5NS1PRlZkR2JGMmVfTE9DdU1fY2xMcG1NanJMRGk5TC1TMmJsUHBaTmlScXJUbzZydHJ5THFpM2tKbVZYWGVsMWhKVnFrUVpia1ZfWVctNEdXRGdiYzNDODU2V1VFcnVmRmR2R0NPUkJDa01lOENCSktuQXpKT0NnUVM4M3hlczBRYVNpTkFzOUhjSg?oc=5",
       "source": "Google News",
-      "date": "2026-11-09T13:45:24+00:00",
+      "date": "2026-11-09T13:45:25+00:00",
       "snippet": "Vertical AI for Banking Turns Profitable as Glia Passes $100m ARR FinanceX Magazine",
       "competitors": [
         "Glia"
       ],
       "category": "competitor"
-    },
-    {
-      "id": "bae691788b11",
-      "title": "Wirex and Aurora target fragmentation in stablecoin payments",
-      "url": "https://www.finextra.com/pressarticle/111615/wirex-and-aurora-target-fragmentation-in-stablecoin-payments",
-      "source": "Finextra",
-      "date": "2026-11-09T13:25:00+00:00",
-      "snippet": "Aurora Intents, the cross-chain execution solution built by Aurora Labs, has partnered with Wirex, the global stablecoin infrastructure platform, to let partners’ users top up their accounts from almost any blockchain using one permanent deposit address.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "9ee9111b96fd",
-      "title": "Bir partners CineMastercard to add cinema booking to mobile app",
-      "url": "https://www.finextra.com/pressarticle/111613/bir-partners-cinemastercard-to-add-cinema-booking-to-mobile-app",
-      "source": "Finextra",
-      "date": "2026-11-09T13:20:00+00:00",
-      "snippet": "Bir, the Caucasus' first fully integrated e-commerce, banking and payments ecosystem, announces a new partnership with CineMastercard, one of Azerbaijan’s largest cinema networks, bringing a seamless digital experience to the world of entertainment.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "c07337c8ced8",
-      "title": "Central Bank of Trinidad and Tobago selects CRT SupTech platform",
-      "url": "https://www.finextra.com/pressarticle/111612/central-bank-of-trinidad-and-tobago-selects-crt-suptech-platform",
-      "source": "Finextra",
-      "date": "2026-11-09T13:18:00+00:00",
-      "snippet": "The Central Bank of Trinidad and Tobago (CBTT) has chosen Compliant Risk Technology (CRT) to support the next stage of its supervisory transformation.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "bfaad7015a16",
-      "title": "Robinhood launches IPO access in the UK",
-      "url": "https://www.finextra.com/pressarticle/111611/robinhood-launches-ipo-access-in-the-uk",
-      "source": "Finextra",
-      "date": "2026-11-09T13:16:00+00:00",
-      "snippet": "Today, Robinhood is launching IPO Access in the UK with zero commission. For the first time, Robinhood UK customers will be able to request shares in new US listings at the official offer price before public trading opens.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "96bee6c3a20f",
-      "title": "Chase customers can now deposit cash into their accounts at UK PayPoint locations",
-      "url": "https://www.finextra.com/newsarticle/48723/chase-customers-can-now-deposit-cash-into-their-accounts-at-uk-paypoint-locations",
-      "source": "Finextra",
-      "date": "2026-11-09T13:07:00+00:00",
-      "snippet": "With more than 30,000 PayPoint locations available across the UK and over 99% of the population living within one mile of a PayPoint store, Chase has made it easier for its customers to manage their money.",
-      "competitors": [],
-      "category": "ai-news"
     },
     {
       "id": "175a2a85a8e6",
@@ -668,22 +1320,12 @@
       "category": "ai-news"
     },
     {
-      "id": "8518427e9001",
-      "title": "AlRayan Bank selects Monument Technology to support move to cloud",
-      "url": "https://www.finextra.com/pressarticle/111610/alrayan-bank-selects-monument-technology-to-support-move-to-cloud",
-      "source": "Finextra",
-      "date": "2026-11-09T13:02:00+00:00",
-      "snippet": "The UK’s longest-established Islamic bank is investing in technology to deliver capabilities that will rival many of the UK’s leading challenger banks.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "63499cd0f0f7",
-      "title": "Embedded finance platform Synctera raises $24.5m",
-      "url": "https://www.finextra.com/newsarticle/48720/embedded-finance-platform-synctera-raises-245m",
-      "source": "Finextra",
-      "date": "2026-11-09T13:00:00+00:00",
-      "snippet": "Embedded finance and Banking-as-a-Service player Synctera has raised $24.5 million in funding.",
+      "id": "3b10e7b9d99c",
+      "title": "SideKick By Open",
+      "url": "https://www.producthunt.com/products/open-for-sales",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T12:59:46+00:00",
+      "snippet": "“Claude, but for your product” is here. Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -698,62 +1340,12 @@
       "category": "ai-news"
     },
     {
-      "id": "6b12f15717f1",
-      "title": "Crédit Agricole proposes merger with Banco BPM to create new Italian bank",
-      "url": "https://www.finextra.com/newsarticle/48721/crdit-agricole-proposes-merger-with-banco-bpm-to-create-new-italian-bank",
-      "source": "Finextra",
-      "date": "2026-11-09T12:34:00+00:00",
-      "snippet": "France’s Crédit Agricole has proposed a merger between its Italian operations and Banco BPM that would create Italy’s third-largest banking group.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "3b0139b48ad4",
-      "title": "Bank CEOs are navigating more uncertainty than ever before",
-      "url": "https://www.americanbanker.com/opinion/bank-ceos-are-navigating-more-uncertainty-than-ever-before",
-      "source": "American Banker",
-      "date": "2026-11-09T12:30:00+00:00",
-      "snippet": "Washington keeps changing the rules while new competitors, technology and divisive politics keep changing the game. As we enter banking's land of confusion in 2027, here's a 10-step playbook for CEOs facing unprecedented uncertainty.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "edec81a9f9f1",
-      "title": "Nubank Accelerates AI Development by 80% Using Large-Scale Synthetic Customer Simulations - FF News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzNQNmlsNHVfSWlpYlNzZUhjWE1mTDlTTW9ycFZpZWc1MHZWcUVCTXFUWF9DOTZSOEcxS3VKaEVoWUJRV05PWExqUkI5eTF6enduaC1ENTluRTA0anFKOEdWZjJMeGlYcExSNUhHLTFaVDViaVBQV2ZldXBRbGFYcDFxa3A3b1dOT3Q2eXRNWVA5ek01NE5fWlJEU3ZWczlJUVl0b0phTE5jejluUEpIZVdzOA?oc=5",
+      "id": "420d9551e1f1",
+      "title": "Allegacy Financial Selects Kobalt Labs to Replace Legacy Systems and Unify TPRM, ERM, and Compliance on an AI-Native Platform - markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTkdIN2NyUkM5bDdabE1nUHNFRkZyWFh1T19IbDU1a0lOWlhGOXJxRm12SENERlBRZF9KRXI0RG9YWmpTbXBkZ3JlQjVveFJ2NGgzWURpSDh5N2Y2UHk3RDRCMWZ0N0h1ZXdqclg0UFB2MWFmeVdpSmZLSVVURXpNQnd4dzNtRmEwZ2UxRUdBWjRKOTMxUXB3aURhRTkzdGJuQUJ2T2hxM1VlNkhnR0lPU2xSVWFwZ3JfcmdhUndoZE9Ba2laT2kxeXFjcW9TVWZiQlFFdGhaTXRKU093UjJkX0YwNG04dzlRNXUwR3ZmTHl0Q3hORTFyMUZ1c0piNVhxSkV5UFJDdHVyaUdvbHJB?oc=5",
       "source": "Google News",
-      "date": "2026-11-09T12:29:42+00:00",
-      "snippet": "Nubank Accelerates AI Development by 80% Using Large-Scale Synthetic Customer Simulations FF News",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "585752700de5",
-      "title": "Allegacy Financial Selects Kobalt Labs to Replace Legacy Systems and Unify TPRM, ERM, and Compliance on an AI-Native Platform - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUXAxdHQybGc1S19LMVB3MzdfdDFGcHVpWVZpcktLQVp6ODlrYzBicW5Zcm9BYURRU3BGVjlBSkVDdnVINHNZdDhVd2NPZGJmbFV4R1dscEpuWGc3ZEMxd3RqdVdpN21uaVlpeFJ1dnRCOVNBa2NkeWFTQ1lxZmRUWGJ3STVZelVaLVVjZVd1NmdaaWctYnFwbkM1cEZTTGNybXl6VlFzVTkyM2ZYMHZwZW5uU1VfcDdUcldfakVDd2RyQUplM0wxd3cxUnJEZ2pGendXejNVVEF4U3h3LXAtc2RDdmdPSHRqY3g3eHRoV2FUaTZ5Z2pFd000U2QzNjV6QXVLZmxwU1A3aV9vOW4zWU02bTRzLXQzTjhta3RKYUhDVGvSAagCQVVfeXFMTWVjRGlmZHhoQi1zZUY0Y0hta1JDdHBkSVdGbFZmNUhKYTRfSG1EQ0pmS0o5dWhOM2ptZDl4Y040bTdRRjhmYWVkWFpKQkFobE8zMFBuRUZWOVpmS29OS0tIdXoxVWlzVnpqVlRDRThWOEdsWm51WlVWRmhUOGItVzZ4cGd3UnNlaWZPTzRjOHFDSm52S3ZxTDh3WVlGNVlXYWRxTjhXMDFNc1NRdHNCczYzU2ZJSWJhaW8wblhJZFB0NDZOeXNpTWpPbm1aVUVVcm5iUXZzSUJ5SmNVOWRvVTlQSXQtUTJWOFpvdnJERXlXMko2QUNHZk1jY241dTNoQ1JDbFBaNG1QR0w5OWozS1lZWUd2TTNERGFIZkNuMjVjakVyYTJWMTQ?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T12:11:55+00:00",
-      "snippet": "Allegacy Financial Selects Kobalt Labs to Replace Legacy Systems and Unify TPRM, ERM, and Compliance on an AI-Native Platform The Manila Times",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "d9e760cf2ef1",
-      "title": "A payment can pass testing and still fail the customer. What needs to be done?",
-      "url": "https://www.finextra.com/blogposting/33423/a-payment-can-pass-testing-and-still-fail-the-customer-what-needs-to-be-done",
-      "source": "Finextra",
-      "date": "2026-11-09T12:06:13+00:00",
-      "snippet": "Author: A finextra community member",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "8cc87671531b",
-      "title": "How an alleged fake-CEO scheme took $2.7 million from R.I. bank",
-      "url": "https://www.americanbanker.com/news/how-an-alleged-fake-ceo-scheme-took-2-7m-from-r-i-bank",
-      "source": "American Banker",
-      "date": "2026-11-09T12:00:00+00:00",
-      "snippet": "Emails asked accounting staff to sign an NDA and call a lawyer. Then came the CEO's voice, prosecutors said, and a request to keep the deal from colleagues.",
+      "date": "2026-11-09T12:54:21+00:00",
+      "snippet": "Allegacy Financial Selects Kobalt Labs to Replace Legacy Systems and Unify TPRM, ERM, and Compliance on an AI-Native Platform markets.businessinsider.com",
       "competitors": [],
       "category": "ai-news"
     },
@@ -764,16 +1356,6 @@
       "source": "Finextra",
       "date": "2026-11-09T11:00:00+00:00",
       "snippet": "In this interview, Mastercard's Greg Ulrich discusses the nuances of building a trust framework for enabling secure AI-led transactions.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "d4a25c2d070e",
-      "title": "The Financial Intelligence Audit Trail: What Did We Know at the Time?",
-      "url": "https://www.finextra.com/blogposting/33422/the-financial-intelligence-audit-trail-what-did-we-know-at-the-time",
-      "source": "Finextra",
-      "date": "2026-11-09T10:48:27+00:00",
-      "snippet": "Author: A finextra community member",
       "competitors": [],
       "category": "ai-news"
     },
@@ -808,16 +1390,6 @@
       "category": "ai-news"
     },
     {
-      "id": "1bcc1ad459d7",
-      "title": "Coinbase gets final OCC charter approval",
-      "url": "https://www.americanbanker.com/news/coinbase-gets-final-occ-charter-approval",
-      "source": "American Banker",
-      "date": "2026-11-09T10:00:00+00:00",
-      "snippet": "The Office of the Comptroller of the Currency handed the cryptocurrency exchange and custodian final unconditional approval for a national trust charter, amid an ongoing legal battle about what the law says about the limits of an OCC trust charter.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "d932c11d246f",
       "title": "Agentic Payments in Wholesale Finance: Deutsche Bank and Ant Map the Guardrails - FinanceX Magazine",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0dsZlFXMjJnN05YRlhuY1c5VlFfT0t6clNWZ2FIU0JIWEtHaklGNmtxVHpCTlotUHo4N2EtZDN3M1pBMTI2Y2YtSld5dWxXbl9aUVk5Q3FqaHZrcnRZYXpDVC1tYjdVcTJIZUx0SWsxYktOX18wdzBya0lQSUpuT2hzVzd3dmxMNEg3VFVuT3RYRDFXZUxuaUNfT0dkUk9sSUhKeDAxbHVJdnJrQmtSRnpvYTRQSTA?oc=5",
@@ -828,14 +1400,14 @@
       "category": "ai-news"
     },
     {
-      "id": "b4e4d10e330d",
-      "title": "FinCEN Cuts MEXC Off From the US Financial System Over $16 Billion in Illicit Flows - Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbzB6VUFQNS1sdHJLb1YtMkRZUERROVhrUXBhR2FMcjZSQVBTVElWdUpKS0UxWkVLQWYzcmlKdEpBUFBlcEFydzE2YTBQSHdlZllPbUNkYUY0eU5Pa3dyR09aQXZCM0RKbFB0RFMxaGtPVmotcHRndU1faFdNUXZ0WjRYZTlwdUJVX181SGQ3SFVwMGxPNkI4TTVSb2NrbmdSQ0Vj?oc=5",
-      "source": "Treasury",
-      "date": "2026-11-09T09:58:00+00:00",
-      "snippet": "FinCEN Cuts MEXC Off From the US Financial System Over $16 Billion in Illicit Flows Technology Org",
+      "id": "4a4f6846def4",
+      "title": "Co-Review",
+      "url": "https://www.producthunt.com/products/co-review",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T09:54:32+00:00",
+      "snippet": "Read the whole repository with the agent that built it Discussion | Link",
       "competitors": [],
-      "category": "regulatory"
+      "category": "ai-news"
     },
     {
       "id": "2d5c59f034b3",
@@ -858,6 +1430,16 @@
       "category": "ai-news"
     },
     {
+      "id": "a4acbb2333a4",
+      "title": "Bank of Cyprus launches island’s first AI banking assistant - Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR29yY2E0Y3NSYTFkX1NUa01RLTZnaGdyLUhEQkZCM1VCZW5aNS1JVEpzLVBna1NtX1dJM1NFRmFXU01ZMUVmV0ZYcy0xX2ZSam5aa2dpWW5aNm8tVlItT0FLYjRMamF2WGJUN2ktR0E5NFdWamY0dG9VLUlZQVVMdDd5a2VqQjQ4VnFWakpwVVN3dzlnYTlIWg?oc=5",
+      "source": "Google News",
+      "date": "2026-11-09T08:14:14+00:00",
+      "snippet": "Bank of Cyprus launches island’s first AI banking assistant Cyprus Mail",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "f5551c646866",
       "title": "The U.S. Treasury’s liquidity drain restarts: With aggressive short-term debt issuance, can the fragile AI trade withstand the pressure? - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2lEcXBYVF9Yd2JUb3I3SXBZYU55eWFHejRtTWNjc19UUWk2Q2R6bENSalRpbjVMQVpUM0xWZDZMYnhQRXR6c2ZzZVVUSzRUV0xUbVd2bXBYWnZfMjA1TlgxVVpocUxhYWNCZ1N4bHBLUDZISjBRS1ZNT0JFVHdrUEVvaHV2N1JxX3YtQnBaVTBNUTNrZEtnVFpMRHk4ZE4wc0FSOHVlRXNIUnV3?oc=5",
@@ -866,56 +1448,6 @@
       "snippet": "The U.S. Treasury’s liquidity drain restarts: With aggressive short-term debt issuance, can the fragile AI trade withstand the pressure? Moomoo",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "0129801f3182",
-      "title": "HSBC, Barclays and Lloyds Join Banks Blocking AI Agents - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGJHNUdfS2pJNC1jWDFlbEc0VmF6TmZOb2FxbnJ2dHVkTVMxcjczaUF0ZENwS2diZ3lkclU5UXVYTTgxclNNUjUzdXZEZXNJZ0pkZ1QzenR5cEFfNm04b3laM0hRMlZtWU51ei1INF9hMlJBd3BRSnBPcWVTMWtTSnVVd3gwX1d4Qmc?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T06:52:45+00:00",
-      "snippet": "HSBC, Barclays and Lloyds Join Banks Blocking AI Agents FourWeekMBA",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "746f0b78ec68",
-      "title": "Meta Readies UK Muse Launch as 5 UK Banks Block AI Agents - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQejZHOUpUUVBHbmJpVmV3TnA4aFRneWZrY1lFYnRzcTNSWEFaS29nNGU3TU9TSnNiZElxS1h2bVRNOHBoSjNzMFV1S3d5UVdnaXcxcmJIckVKY01zS1ZKSWV3bmNXdWxjVUNkUEV1MmQ1UEo2cFhxQnhoU25ORU9zQm5NRk5qcVFVSWVSYTln?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T06:48:50+00:00",
-      "snippet": "Meta Readies UK Muse Launch as 5 UK Banks Block AI Agents FourWeekMBA",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "5044d7eaafc3",
-      "title": "Starling’s 17-sec AI sleuth puts QA on the clock - QA Financial",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDkzeHl6cW5ZcVVUZ0VsWGdmMVdfeVJRZjZsYVF1UElQOEU1LTFiUW9fNXZGUEl6TkRDTTEzTFl5NF8xb0dOWjljUDdoVWkyekU4V2Q3Wjl6SWZiMng2dEU5dmhRYzlIM0xibjhPZno5VWl4OUhlelBSbTBZSWl6S3lpN3VSMW13Nmc?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T05:26:37+00:00",
-      "snippet": "Starling’s 17-sec AI sleuth puts QA on the clock QA Financial",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "3c99c93a7b65",
-      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-09T05:26:29+00:00",
-      "snippet": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "497945a2d96e",
-      "title": "Can Banks Learn to Trust AI Financial Agents? Big AI’s Read-Only Promise Isn’t Enough - The Financial Brand",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNC05ZV8taXllUXB2aUY0bFFHZEV0MnIyMVB3WktYbmhhZ0w3VUF6U2E5Ykpkang4Uy1yUjJMd2lvREFpSVppcHpYY3ZyNi1wVXFQNUN3Z3VZeFRXM3NKa1JUbUIwSlc5dWhqWFczcTFUV3RxQ3dEcGlFT2hRTTBORFpNclU5MnFSZDdZWl90NWt0Nl9oUncwQ1RURWkxcWlDSEExcHdTUVk2cmdIZ0RUQ1c1eS1sT3BLZWZzZHdia1ZKQzJTLUQzaXNzYVlwbHdYNERQS1ViWDNkaFphUnhCemhGeDdQQQ?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T05:08:01+00:00",
-      "snippet": "Can Banks Learn to Trust AI Financial Agents? Big AI’s Read-Only Promise Isn’t Enough The Financial Brand",
-      "competitors": [],
-      "category": "ai-news"
     },
     {
       "id": "68414997f814",
@@ -938,16 +1470,6 @@
       "category": "ai-news"
     },
     {
-      "id": "9b879a731ee4",
-      "title": "Exploring AI pilots to autonomous banking: How tech is reshaping the future of financial services - ET CIO",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNFlUYXpJdVh2RnFicnhXZV8wWlRmdUZZbTY3bm5OVnlPU3ZTWmlsbkFwMUZUMlhWdFJVVGhpWmJsS2hmeVFNaGRxSXZBRG44enhDb1c1aEZGVmhrenRjd1R4Qm55OEU4cC15aHdFcnBDX3ljVGxwRDl1cXowVjBaWmxPVkY2LUtPTEo0SVNXdkpodkIyQlI5RUpVMUJZdWtra1BXRS1waWNUajdyUjFOZW9SUTdsdi1YZTJRd3BUbEtkbXVoUU1td0Q1R3dFSVRLRXRZQ3ZiaGg2eUtkLTJGMWNOMlVMVXBlSDBlUWt5b2V4XzhXWnBESEZyX3FqMjMyN255Mlpta9IBjAJBVV95cUxPblJVeFJWeGIyaUJDS1JUQ3dGdzFqYlFRYlpxbVk0cFdZQ19EUzhGeW5kbFRUT05wWUdTOTEtel9EUUlzVkFUd04xT29ZcG1FZmZJd2p4MVpVYk8tQ0VmNmItRmpDam1Nb2d0MG0tUzU3aWlXMmtIWEpUU2Z1Uk0tWTQ1QTNsTmd1MTdVUHdlWE5OdkotUXdHcnFpeXh1UzRzaUtWQmxWRV84aFdMMG05bmYyQzRuaWxFVXZGZWtmUzVXbXJiaWhCaFNvTUxpZlVTQjE0TllWZ1VNNG9qczN3Sm9vU1V4TmtjcTVSbW1wTHVrMmxqRlZSZU11OVdSWWZCc2hlQW5UMnpWMUlf?oc=5",
-      "source": "Google News",
-      "date": "2026-11-09T02:43:18+00:00",
-      "snippet": "Exploring AI pilots to autonomous banking: How tech is reshaping the future of financial services ET CIO",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "9a79d006e6f2",
       "title": "Today’s Market Recap: Nonfarm Payrolls Beat Expectations, AI Stocks Rebound Broadly as Nvidia Strengthens, AMD Surges Over 11%, SpaceX Gains Over 8% - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjZ5NUVyRjVEZ1l2dlZlbGYxNmFRWW9qdmVBTkdKVER5Rjl0QWV0cXdvSUFLWTAydzhWU0JjZU5PWi1MMksxcVM4ZGlWX05zUHJUZWZ3dUNMSXhaOFhKY3hMd3dxMnNxOVp6SF9GVGNEYzJIbk9BZ1RvZmNsNlRTR3NoUlB5U2NxenYyd1BJeDI0Zm1BUUNPQ3JHcS1wQXZ1SUhydkVQX2VCa24wM05hSDc5R1o?oc=5",
@@ -958,34 +1480,24 @@
       "category": "regulatory"
     },
     {
-      "id": "ec98829ba188",
-      "title": "Visa benchmark finds AI models fail 43% of shopping test runs",
-      "url": "https://www.finextra.com/newsarticle/48719/visa-benchmark-finds-ai-models-fail-43-of-shopping-test-runs",
-      "source": "Finextra",
-      "date": "2026-11-09T00:01:00+00:00",
-      "snippet": "With agentic commerce beginning to gain traction, Visa has put a slew of models through their paces by giving them realistic shopping scenarios. The models failed 43% of the test runs.",
+      "id": "6234e8061f97",
+      "title": "QuotedPart",
+      "url": "https://www.producthunt.com/products/quotedpart",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-09T00:04:46+00:00",
+      "snippet": "AI quoting for CNC and sheet metal job shops Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
     {
-      "id": "5d7b0a8b0e2b",
-      "title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUplcHR2dndoRDJzaW1sSWdZVHRCWk41TG5xMGY2SVU1YnhCMmRRdWM1VzNYaEQ5OXNHNUdYZkhaZHFFcFRZMldFeVpNTFRDNkk3WC1sZmtxbEJOUGxiWTRhbTZrbDN3NGZUZ3dHS0xNU083QVM5ZEtwWVB3TjZleQ?oc=5",
-      "source": "Google News",
-      "date": "2026-11-08T23:34:09+00:00",
-      "snippet": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I. The New York Times",
+      "id": "5525b6d3f22b",
+      "title": "The market bloodbath just exposed Wall Street's true fears about U.S. debt, top economist warns - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVFRa2tNVUgxVHFMRy1ub243MW1jM01PaVBiSlg2dll1bFdWUGpGaVhHSHhkSGxRWTBYQ0RDWGY5bmk3Y1RwTmRveFp1NlFTMXRSNllkT2hZUVdHMnp2NmxoZ2kyMUwzU1RIMnJnTjZCMzFsQVUzOXJ1amkzRVVVRmc4ZllBX2paalB5TzIySHRNSUk2MkM1MXVsZF9uZw?oc=5",
+      "source": "Treasury",
+      "date": "2026-11-08T20:46:00+00:00",
+      "snippet": "The market bloodbath just exposed Wall Street's true fears about U.S. debt, top economist warns Fortune",
       "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "d0a614653d47",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-08T21:00:11+00:00",
-      "snippet": "In a memo to the company, Huang admitted that he had an affair.",
-      "competitors": [],
-      "category": "ai-news"
+      "category": "regulatory"
     },
     {
       "id": "27ab81390005",
@@ -994,16 +1506,6 @@
       "source": "Hacker News",
       "date": "2026-11-08T20:45:59+00:00",
       "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "551409fc771b",
-      "title": "OCC Issues “Super Intelligence” Framework for Bank Examiners - Fintech Business Weekly | Jason Mikula",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVVSMkEzOUlPZU9HQ2s1Slc4ZGVWQnZqMjdaTlBxRXJ1elJfRmpsbmZFSFVqNUZpSlB4RVV1S0NYY3BnWi1OUXRLeFNhR1JsUzFNS3o1TmVGZTg0TEhMRWg1UnpSS2oydXNUN3dRSjV2ajlwbTBsWXk1b0VkaTdXMElIc1c1R2x3YXN1TA?oc=5",
-      "source": "Google News",
-      "date": "2026-11-08T13:59:33+00:00",
-      "snippet": "OCC Issues “Super Intelligence” Framework for Bank Examiners Fintech Business Weekly | Jason Mikula",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1028,16 +1530,6 @@
       "category": "ai-news"
     },
     {
-      "id": "4e1bb5ab7076",
-      "title": "The new banking risk: AI agents that hack at machine speed - The Federal",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFcxOUJ2aFZfdWNQMkdIMkdnQ1JudlZvSFI4UUNwbEZmYlFkampuUzcxYU9RQ3Z5Ukc2ekVtcU9iZWltdzlnTkVsSDlJSGNLWFJRWVZYTzREODhLSDIxWG1NMExTVWM2a1FLZjJaUHRzT2tuN2pSVU83Y0VhYVJucGxkUHBrYl80azFiN19ZLTg5ZkU4MmxEd0ZB?oc=5",
-      "source": "Google News",
-      "date": "2026-11-08T11:44:32+00:00",
-      "snippet": "The new banking risk: AI agents that hack at machine speed The Federal",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "5303fb978796",
       "title": "Show HN: stardelt.io – a self-hosted lakehouse on k8s (pre-alpha)",
       "url": "https://stardelt.io/",
@@ -1058,32 +1550,12 @@
       "category": "ai-news"
     },
     {
-      "id": "640ded04377c",
-      "title": "Banks ban AI from accounts over fears of rogue agents - The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTJtdlBWV0JrX0hzcGwwRzk3NjdpeC02VVY0emFzU2tYaDc5TlJVdVd0aEtCeHJHeklfdFBQZkZnTmItSUhvQjhNMjNoS09BYVBuNGVYS0ozNE9nWXpyb2FkWElEeWFvVlVFLW1GV21IUTB4dGRHVHdCaUltN1otcjQ1Ui0wTmRLYm80XzhDdXlhX05RS2dfZmR1MF96V3NCZDNGVA?oc=5",
-      "source": "Google News",
-      "date": "2026-11-08T06:50:00+00:00",
-      "snippet": "Banks ban AI from accounts over fears of rogue agents The Telegraph",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "1be78ca5ca1b",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-07T22:07:22+00:00",
-      "snippet": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "470e7ce964b7",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-07T21:17:08+00:00",
-      "snippet": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "id": "1e692e5514fe",
+      "title": "Levo",
+      "url": "https://www.producthunt.com/products/levo-3",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-07T21:30:59+00:00",
+      "snippet": "Your AI agent finds what's safe to delete on your Mac Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1108,16 +1580,6 @@
       "category": "ai-news"
     },
     {
-      "id": "7b1171f19b02",
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV3dLTVBIT2tvTkJKR0RTd1lIVEJ3a2pWZlBxVkozZ1ZNeFhTdEpXX2pUZHNvUk5QSDV3S1FwRC1uVlhueEo0VW11WHgzMVdxc2xicXJsejNRVkVaa1V5U0RYZVc3a0FnbERkRmloRUhmUnp6U0c3WXFkN2dQS3ZUQmg2OGR6WEpmR210QXpVbzBsYlJPR0NoSndXZVh0eDRKbk5xYWd1bnQ4QnQyejVHVHJIRld3S1YyUjdHdlJjWWJoN010aVM3dWlucFlLR3lhLVhSUDZB?oc=5",
-      "source": "Treasury",
-      "date": "2026-11-07T17:36:46+00:00",
-      "snippet": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows CoinDesk",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
       "id": "9c9f83ec8c01",
       "title": "Tell HN: Hanzo AI Is Spamming From GitHub Contributions",
       "url": "https://news.ycombinator.com/item?id=50406105",
@@ -1138,32 +1600,12 @@
       "category": "ai-news"
     },
     {
-      "id": "9276d2ec6b57",
-      "title": "ISMG Editors: Agentic AI Triggers Blocks, Breach Concerns - BankInfoSecurity",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWU5La3JlWnFvRzQzdGxoSWZIQ3Z0dHFYenRYNlhndjN5T0NLaENTZG5Ic2NwQlhaZl9zX3JPTTI1Nk1kNjZGR3dnN1owcThjZkxCMXFhajNEQXp5YjFNWHZZQXVzcXZhbTctTXI1WktibWN0b3c0MDFQRU5yWlR2V2FiOUM5dTRRX044MWVIR1Z4Mm9UOWhjTnFuSmY?oc=5",
-      "source": "Google News",
-      "date": "2026-11-07T05:11:58+00:00",
-      "snippet": "ISMG Editors: Agentic AI Triggers Blocks, Breach Concerns BankInfoSecurity",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "3f43e81ff1de",
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-07T04:16:43+00:00",
-      "snippet": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "6cee351c79df",
-      "title": "Trace by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
+      "id": "2af713913bff",
+      "title": "RunThru",
+      "url": "https://www.producthunt.com/products/runthru",
       "source": "Product Hunt — AI",
-      "date": "2026-11-07T04:05:08+00:00",
-      "snippet": "Weekly web scraping API benchmark Discussion | Link",
+      "date": "2026-11-07T08:05:49+00:00",
+      "snippet": "Video proof that your agent's pull request works Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1174,16 +1616,6 @@
       "source": "Hacker News",
       "date": "2026-11-07T02:00:13+00:00",
       "snippet": "FLEY AI-Voce - a voice AI assistant that will not only talk with you but can also control your PC: open links, websites, and programs, create files, presentations, write code, and even shut down and turn on your PC, work with a printer, and do just about anything. https://github.com/AnonimusShamshiAlex/FLEYAI",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "30ae17da85ff",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-07T01:40:28+00:00",
-      "snippet": "The deal highlights the challenges of developing massive AI data centers.",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1204,26 +1636,6 @@
       "source": "Hacker News",
       "date": "2026-11-06T22:58:34+00:00",
       "snippet": "A few days back I posted here asking about how people were using AI / doing agentic coding (see: https://news.ycombinator.com/item?id=50366117 ). Needless to say, I was overwhelmed by the response! The one challenge I found, however, was that the comments were almost impossible to parse: some users answered my questio…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "007db15e2669",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-06T22:53:46+00:00",
-      "snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "2b86c71cd7a6",
-      "title": "Citi shooter was enraged over Best Buy credit-card debt suit",
-      "url": "https://www.americanbanker.com/news/citi-shooter-was-enraged-over-best-buy-credit-card-debt-suit",
-      "source": "American Banker",
-      "date": "2026-11-06T22:41:43+00:00",
-      "snippet": "After receiving a court summons over $2,500 in delinquent debt, an Orlando, Florida, man shot and killed a Citi employee at the bank's Tampa campus, according to police.",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1268,16 +1680,6 @@
       "category": "regulatory"
     },
     {
-      "id": "193bd98de904",
-      "title": "US Treasury walks back crypto surveillance 'travel rule' proposal - The Block",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXBiQUVpMlZmYW4zMW8zeUdzZTJ4OU40ODVEUl9DUUlWWGhYZUctTGJnY1dUMmdZaEZYU3hsY2xQN2QtcHp4TWtyZHBDZU1pb3RQakRNNjJOdUpWSFRCbjgtWmJCNURMU1d0c0g4dk5yRnJIRkduUlVvQXMyU09CRXIxRUJfUDZCMUtLelY5enlMbmtwcUZvRl9uTWJoRjN0cTI0dzUxMGJkV3czV2xES1FCUjhlQWJYS2tsSjJR?oc=5",
-      "source": "Treasury",
-      "date": "2026-11-06T20:37:00+00:00",
-      "snippet": "US Treasury walks back crypto surveillance 'travel rule' proposal The Block",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
       "id": "04f9ffc3dc4e",
       "title": "Credit Union Times Honors Eltropy’s Ashish Garg for AI Leadership at 2026 Luminaries Awards - citybiz",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeDM1NkZTVzdoWkFzaWNvSUNlYnNUY05tS2VDTE94RktIUWVORjhsdVBaamNvRlhWbUV2eVRVZnlEbDd4NXVPX1Rza0lJcXJYZGFGYTdUclAyVVVWUk5ZWDJOWndmVnh1dndLRHVRREFkbzBOdlFxYjJDUzkwQUZmOHJqc19xakk5UmpNRDM4UHNIMl9PUkNFRnJtc09wc2Z1XzJtdHdDQzNkNnhIMTR3QkdTb29xbTBMcU5kSUVJbEh6V2NDUDllMA?oc=5",
@@ -1300,76 +1702,6 @@
       "category": "ai-news"
     },
     {
-      "id": "30a927c37c73",
-      "title": "Finovate Global Canada: Agentic AI, Cross-Border Payments, and Partnering with the EU - Finovate",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWI3VVM0Rm0tYjZHOHdyUnc2ZTBVOTNTaGRvYjVjTWs4aDQySzZKRkF6NllPaWtwNmNNZnl4NEVSQkVPRTVzQWhKWnBNbEtJQktXQXJ5aGZrbVo0VEpxYmgyY2dMek9EZzhlOW1OUnJ1Z1NPMnR3VGR2MWcwMWxQSmY2dnRNbVdwLUVSV2ljY2VvcEFmakJXcDdHWG5pODNINWtLTXRjcw?oc=5",
-      "source": "Google News",
-      "date": "2026-11-06T19:24:38+00:00",
-      "snippet": "Finovate Global Canada: Agentic AI, Cross-Border Payments, and Partnering with the EU Finovate",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "ede9ff095595",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-06T18:44:38+00:00",
-      "snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "c9cbe5e564e2",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-06T18:44:20+00:00",
-      "snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "98567d3c1bcc",
-      "title": "BMO launches AI agent to help credit card customers get answers",
-      "url": "https://www.finextra.com/pressarticle/111609/bmo-launches-ai-agent-to-help-credit-card-customers-get-answers",
-      "source": "Finextra",
-      "date": "2026-11-06T18:43:00+00:00",
-      "snippet": "BMO is introducing AI Agent Assist to help clients get faster answers and resolutions when they contact BMO's Virtual Connect contact centre about their credit card transactions.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "89585d0088d3",
-      "title": "PayFacto intergrates Interac Konek digital wallet across merchant network",
-      "url": "https://www.finextra.com/pressarticle/111608/payfacto-intergrates-interac-konek-digital-wallet-across-merchant-network",
-      "source": "Finextra",
-      "date": "2026-11-06T18:41:00+00:00",
-      "snippet": "Interac Corp. (Interac) today announced that PayFacto Payments Inc. (PayFacto), a Montreal-based leader in payment and hospitality technology, is integrating Konek across its merchant and partner networks in Canada, giving businesses the option to enable account-based payments alongside card-based payments.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "db45392a2084",
-      "title": "Muse Realtime Avatar",
-      "url": "https://www.producthunt.com/products/meta-ai",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-06T18:21:58+00:00",
-      "snippet": "Turn voice chats with Muse into live video calls Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "4ca844df5bb6",
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-06T18:00:00+00:00",
-      "snippet": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "1da3e154598e",
       "title": "Eltropy CEO Ashish Garg Wins Executive Leadership Honor at 2026 CU Times Luminaries Awards - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTF1Q3FDajlHbGRhSTItRmo1ek5HdkdjdDJ3OTgzbHZpNVhXd3BRVFZmWnphYmhYcnhKM2x6QlFUODhvSEhJRTh3Unk1eHJuNmpWZ2FKZ2NlUFdXVXI2UXNBWnIxaEFsQ3ZEOTBTUUJwUThLYm9mUTNfVGpVckJsUUVUMmhkSkRsZk5QbEwyZXMyMnBkWm93OVAycHJZSk9CSzVHa29nQmpxZFFMWmc?oc=5",
@@ -1380,16 +1712,6 @@
         "Eltropy"
       ],
       "category": "competitor"
-    },
-    {
-      "id": "875bb8aaac19",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "source": "TechCrunch AI",
-      "date": "2026-11-06T17:23:52+00:00",
-      "snippet": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot…",
-      "competitors": [],
-      "category": "ai-news"
     },
     {
       "id": "842870d96b0e",
@@ -1422,62 +1744,12 @@
       "category": "ai-news"
     },
     {
-      "id": "61799b4304e5",
-      "title": "NCUA's One-Member Board Approves Three Rules as Public Meetings Remain on Hold - CUTimes",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQanAxQjBsVS1EQjVRYlpLX0dycEtpRS1sY0VsaU9HNlpYeHJaMkhuWHU5eC1HMWRUZWJ3WXhqWDZLUVlIMGJmYzhHZ2UwSFN0UnIwcGxHem5wYWF1Si1kRngwdkw3UGl4R1g0eFhwNW9OelFCZzR3QmszYW84bm1PTGd4MmdoY2d1NzBuODBXVUZqckVxd2xlZ3ltRUgzVm50bzM2aFppYlYwSldUS1VtdUF0UQ?oc=5",
-      "source": "NCUA",
-      "date": "2026-11-06T15:01:27+00:00",
-      "snippet": "NCUA's One-Member Board Approves Three Rules as Public Meetings Remain on Hold CUTimes",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
-      "id": "e58e3cffb19b",
-      "title": "JPMorgan Chase signs cybersecurity and coding deal with OpenAI",
-      "url": "https://www.finextra.com/newsarticle/48718/jpmorgan-chase-signs-cybersecurity-and-coding-deal-with-openai",
-      "source": "Finextra",
-      "date": "2026-11-06T14:53:00+00:00",
-      "snippet": "JPMorgan Chase has formed a strategic partnership with OpenAI for use of the AI lab's coding and cybersecurity models.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "b6b08cbeb9a3",
       "title": "Inkling 2 Small",
       "url": "https://www.producthunt.com/products/tinker-2",
       "source": "Product Hunt — AI",
       "date": "2026-11-06T14:18:59+00:00",
       "snippet": "A model that can see and refine what it builds Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "54098278d2b2",
-      "title": "Claude gets personal finance tool",
-      "url": "https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool",
-      "source": "Finextra",
-      "date": "2026-11-06T14:11:00+00:00",
-      "snippet": "Anthropic has unveiled a personal finance tool for Claude that lets users connect their bank and card accounts to get answers to questions about their money.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "14aaaf32cb7a",
-      "title": "FMSI Launches Pulse AI Analytics and Surveys to Transform Bank Branch Performance - FF News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFNZajBUR3V6ZUVzZFlXZncxNU5xWTgxRThUZm40RnU4VUxwQzctaXZER1QwUDFMMUxvd1dfcS1yaGxncFdWUW1jUlYyTnd6ZWszd1QyZjd4NV9XRXJkVGprbWlGSHF0TUloeTI3S1hFTHozU25zdGthWXlwbWJ0ZG5CRzdQOU1jUGIybjdvbVZuOVJDZjV3Mm02WkdYZFhEb3EwNkUtQjRySnNDV01Da2l0Yw?oc=5",
-      "source": "Google News",
-      "date": "2026-11-06T14:03:39+00:00",
-      "snippet": "FMSI Launches Pulse AI Analytics and Surveys to Transform Bank Branch Performance FF News",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "65db32589f8e",
-      "title": "Monzo eyes fresh funding at £7.5bn valuation - FT",
-      "url": "https://www.finextra.com/newsarticle/48715/monzo-eyes-fresh-funding-at-75bn-valuation---ft",
-      "source": "Finextra",
-      "date": "2026-11-06T13:52:00+00:00",
-      "snippet": "After a takeover by Brazil's Nubank failed to materialise, Monzo is exploring a new funding round that would value the UK digital bank at around £7.5 billion, according to the Financial Times.",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1534,6 +1806,16 @@
       "category": "competitor"
     },
     {
+      "id": "c7fa7c643744",
+      "title": "VeilCC",
+      "url": "https://www.producthunt.com/products/veilcc",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-06T07:02:53+00:00",
+      "snippet": "Ship code AI can't reverse engineer Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "4af50327fab9",
       "title": "Frameboy by World Labs",
       "url": "https://www.producthunt.com/products/marble-by-world-labs",
@@ -1544,42 +1826,12 @@
       "category": "ai-news"
     },
     {
-      "id": "b12ad3d1ef7b",
-      "title": "Instagram Edits for Desktop",
-      "url": "https://www.producthunt.com/products/instagram",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-06T00:46:05+00:00",
-      "snippet": "Instagram's free desktop video editor with AI agents Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "46a5ac52fbb5",
-      "title": "Cloptima",
-      "url": "https://www.producthunt.com/products/cloptima",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-05T23:40:34+00:00",
-      "snippet": "AI Gateway, Guardrails & LLM FinOps Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "65a48f222c33",
       "title": "Ask HN: In the age of agentic AI, do you still pair program?",
       "url": "https://news.ycombinator.com/item?id=50385171",
       "source": "Hacker News",
       "date": "2026-11-05T22:06:49+00:00",
       "snippet": "What about mob/ensemble programming? I work on a team that used to use mob programming heavily. There would be a driver and a navigator, and then someone taking notes. Other people would be \"muses\" or observers. Always occurring over Zoom. I always felt like this was a very draining way of programming. Pair programmin…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "c9d2fe0515fc",
-      "title": "How AI and Data Modernization are Transforming Credit Unions with Citadel’s Courtney Rowan - Finovate",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLW5kSHh4eVJheGFVeVF2OW5hQlBBSERBUEtNY20wZ3oteV81bWJHYk11SGM0V0M2TV93bFExdHlCU2RjRW5oWTBkZEIyUTVPYVh5OHZsVTV2ODEwZlZ5cGRQbUwtN09QZmpmTHJsOW51RnhZeHR2OHR2RlRBTUhLWW9mdW9JR0plYlR0NzZ4eU9qNXVMdmZscjBZd1lmcTFwa0F2a1JxWjAxakhrS2FhdQ?oc=5",
-      "source": "Google News",
-      "date": "2026-11-05T20:26:43+00:00",
-      "snippet": "How AI and Data Modernization are Transforming Credit Unions with Citadel’s Courtney Rowan Finovate",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1614,16 +1866,6 @@
       "category": "regulatory"
     },
     {
-      "id": "a3f7ae687ad8",
-      "title": "Plainmail",
-      "url": "https://www.producthunt.com/products/plainmail",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-05T18:55:10+00:00",
-      "snippet": "Real email on every domain you own, for $5 a month flat Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "1d304c463ea6",
       "title": "Show HN: GPT-Live and GPT-Realtime: Arch Trade-Offs Behind Continuous Voice AI",
       "url": "https://agentunicorn.ai/research/gpt-live-voice-ai-tradeoffs",
@@ -1634,52 +1876,12 @@
       "category": "ai-news"
     },
     {
-      "id": "0aa2224b067e",
-      "title": "Kivo",
-      "url": "https://www.producthunt.com/products/kivo-4",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-05T17:51:26+00:00",
-      "snippet": "Free on device dictation for any Mac app and AI agent Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "208340e21c56",
       "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
       "url": "https://github.com/rivet-dev/rivet",
       "source": "Hacker News",
       "date": "2026-11-05T17:17:42+00:00",
       "snippet": "Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provide a long-lived process for long agent t…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "ce681cdcb050",
-      "title": "GPT‑6 Cyber",
-      "url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-05T17:12:40+00:00",
-      "snippet": "OpenAI’s cyber model, with vetted access for defenders Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "43faab0af030",
-      "title": "Google Omni 1.2 Flash",
-      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-05T17:10:35+00:00",
-      "snippet": "Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "a5bb7c61070c",
-      "title": "Wisp",
-      "url": "https://www.producthunt.com/products/wisp-9",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-05T16:28:20+00:00",
-      "snippet": "Wisp is a little AI fairy who lives on your desktop Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1714,6 +1916,16 @@
       "category": "ai-news"
     },
     {
+      "id": "34eded2cacfa",
+      "title": "Quillo",
+      "url": "https://www.producthunt.com/products/quillo-2",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-05T15:57:02+00:00",
+      "snippet": "Listen to any PDF in a natural voice, then ask Quillo Ai Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "ae4f86314c2e",
       "title": "Cardboard AI",
       "url": "https://www.producthunt.com/products/cardboard-3",
@@ -1744,22 +1956,12 @@
       "category": "ai-news"
     },
     {
-      "id": "16b3236a0c06",
-      "title": "Translucent AI",
-      "url": "https://www.producthunt.com/products/translucent-ai",
+      "id": "be8b2e2ef061",
+      "title": "TK by Medium",
+      "url": "https://www.producthunt.com/products/medium",
       "source": "Product Hunt — AI",
-      "date": "2026-11-05T14:57:51+00:00",
-      "snippet": "Test infrastructure for hardware teams Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "c2e8284b0e6f",
-      "title": "Rankfender v3.0",
-      "url": "https://www.producthunt.com/products/rankfender",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-05T14:05:15+00:00",
-      "snippet": "The SEO/GEO operating system, built for people and AI agents Discussion | Link",
+      "date": "2026-11-05T14:33:24+00:00",
+      "snippet": "An agentic notebook to build your best thinking Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1784,12 +1986,12 @@
       "category": "ai-news"
     },
     {
-      "id": "786307be2968",
-      "title": "TraceX",
-      "url": "https://www.producthunt.com/products/tracex",
+      "id": "1db548c3ce95",
+      "title": "Kata Send",
+      "url": "https://www.producthunt.com/products/kata-send",
       "source": "Product Hunt — AI",
-      "date": "2026-11-05T08:53:29+00:00",
-      "snippet": "The AI engineer for your production issues Discussion | Link",
+      "date": "2026-11-05T08:50:12+00:00",
+      "snippet": "Cold email infrastructure for AI agents Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1806,12 +2008,12 @@
       "category": "competitor"
     },
     {
-      "id": "57ff5bed5df1",
-      "title": "Thunderduck Inc.",
-      "url": "https://www.producthunt.com/products/thunderduck-inc",
+      "id": "3dcb46c51cd7",
+      "title": "ForAgent",
+      "url": "https://www.producthunt.com/products/foragent",
       "source": "Product Hunt — AI",
-      "date": "2026-11-05T05:38:06+00:00",
-      "snippet": "Modular Data Warehouse for Agentic Data Teams Discussion | Link",
+      "date": "2026-11-05T07:09:58+00:00",
+      "snippet": "Private phone numbers so AI agents can call each other Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1822,16 +2024,6 @@
       "source": "Hacker News",
       "date": "2026-11-05T05:25:34+00:00",
       "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "3adc8b50dbb4",
-      "title": "Pressure",
-      "url": "https://www.producthunt.com/products/pressure",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-05T01:29:32+00:00",
-      "snippet": "Need a second opinion? Have two agents debate your topic Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1856,16 +2048,6 @@
       "category": "ai-news"
     },
     {
-      "id": "b4487034155f",
-      "title": "OpenRing – Open-source, self-hosted voice AI agent platform (Vapi alternative)",
-      "url": "https://github.com/elifalanrocha/openring",
-      "source": "Hacker News",
-      "date": "2026-11-04T21:56:55+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "aa2ce86599c5",
       "title": "Travis Credit Union Personalizes Its Website for 280,000 Members With Finalytics.ai - citybiz",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXpfRi1faEJnejdzQnpkUmxHU0hGaEZhVHBsbmt0c2paMTIxWC1UZDB3U24tWW1vNFdEV0doejRhQk1Nb1dmZEZUVldGdnJqNkJWZjRFS096bnhqTTN3YVRxMGRZMnpfcnR6eS12c081Y1R0QllSSXRMYlBkUkhvVnBrbjM0M3pHWG9NMXFYcDhpdlNGaWZuNGFPRnZrWE9UTm80SlhxelBWb09KSDNmMHEtU056enl5VXBJRWxn?oc=5",
@@ -1882,16 +2064,6 @@
       "source": "Hacker News",
       "date": "2026-11-04T17:48:27+00:00",
       "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "b50087b4c310",
-      "title": "OrgSync",
-      "url": "https://www.producthunt.com/products/orgsync-2",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-04T15:12:38+00:00",
-      "snippet": "Company brain for Claude, ChatGPT & Codex teams Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1922,16 +2094,6 @@
       "source": "Hacker News",
       "date": "2026-11-04T13:59:42+00:00",
       "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "6f891c6289f1",
-      "title": "Pauta",
-      "url": "https://www.producthunt.com/products/pauta",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-04T12:35:32+00:00",
-      "snippet": "Your private memory for every conversation Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -1978,6 +2140,16 @@
       "category": "competitor"
     },
     {
+      "id": "f356863aee59",
+      "title": "Gesso",
+      "url": "https://www.producthunt.com/products/gesso-2",
+      "source": "Product Hunt — AI",
+      "date": "2026-11-04T05:47:42+00:00",
+      "snippet": "Ask ChatGPT or Claude to design, then edit every layer Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "2c9b9b208bd8",
       "title": "Eltropy Brings Auto-Authenticated Support Into Tyfone Digital Banking - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVRiWW1NRlk2enZrRkpMdkFPbktwLW5wVVdEanpIWGZRYW1ZbG5VZFlpNzQwanY4VURiT096a2hVSHFKUDNuTDlma09UQmxXV1pCWld5dlhkdzZVbjYtS1FhSHgxeTkyRlM1S0QtUFlwekhYdmQtS2M4eHROelZ4Z2ZVVGlBbVV4MVhNbUlHM3d3NXQwV2lGRDU3V0RHV0pzYnc5ZlZTZw?oc=5",
@@ -2022,22 +2194,12 @@
       "category": "ai-news"
     },
     {
-      "id": "ee8910c4b81c",
-      "title": "Vakilat",
-      "url": "https://www.producthunt.com/products/vakilat",
+      "id": "2f2a840cbf37",
+      "title": "TOWeb 15",
+      "url": "https://www.producthunt.com/products/toweb",
       "source": "Product Hunt — AI",
-      "date": "2026-11-03T19:34:46+00:00",
-      "snippet": "AI research for Indian lawyers with \"0\" hallucinations Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "51f464c3b33c",
-      "title": "Any Video to Text",
-      "url": "https://www.producthunt.com/products/any-video-to-text",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-03T19:34:34+00:00",
-      "snippet": "Paste a video link, get the transcript in seconds Discussion | Link",
+      "date": "2026-11-03T18:07:07+00:00",
+      "snippet": "Rewritten as a native Mac & Windows app, with AI and MCP Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2052,42 +2214,12 @@
       "category": "ai-news"
     },
     {
-      "id": "ae09586a6920",
-      "title": "Finalytics.ai and Travis Credit Union Launch AI-Driven Personalized Digital Banking Experience - FF News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXV5VDFJaXNvYlZZSllQLUhXa3hFTmNDNENpZzVZQ1NFaDdfVlRNX2hhS1BsbUd4NmNJWURHeTMwSTctTEtrZzRNNnpqeXl3c2RBUjdyQTltOGRCZjlRVnpiVWJWVWZDQmJPSlNETUp4SmtMSE90cEJXbDRNcnJraVlfMldXYk9zUWlnVmhTRGhQc25UdVNZcFI2UFJHdVFDc1REeXVoM2Z4QXk5eWFjVE93NmNWVmoz?oc=5",
-      "source": "Google News",
-      "date": "2026-11-03T16:54:34+00:00",
-      "snippet": "Finalytics.ai and Travis Credit Union Launch AI-Driven Personalized Digital Banking Experience FF News",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "676ea4f858dc",
       "title": "Show HN: Oathshaper – A BioWare Inspired Open RPG Game Engine",
       "url": "https://github.com/oathshaper/oathshaper",
       "source": "Hacker News",
       "date": "2026-11-03T16:48:13+00:00",
       "snippet": "Hey HN! I’ve been building an open RPG game engine called Oathshaper. It’s current incarnation was created with Godot and inspired by the BioWare classics (Jade Empire, Mass Effect, Knights of the Old Republic, Dragon Age, etc.) The storytelling, voice acting and actions that have consequences in those games have alwa…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "273695bc5404",
-      "title": "Show HN: CleanSlop – Find what breaks in AI-generated TypeScript/Node web apps",
-      "url": "https://cleanslop.com",
-      "source": "Hacker News",
-      "date": "2026-11-03T15:59:04+00:00",
-      "snippet": "Hello HN! We have recently launched a scanning and remediation system for AI-built web applications. It is fully agentic as well as has a web UI that supports GitHub sign-in. Would love some hackers and tinkerers to try it out. An agent can natively interact with the system when you pass the prompt: \"Scan with cleansl…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "0e886458d244",
-      "title": "Show HN: I built Knemora – An Open-source AI Second brain",
-      "url": "https://github.com/federicolaterra/knemora",
-      "source": "Hacker News",
-      "date": "2026-11-03T15:58:06+00:00",
-      "snippet": "Hi HN, my name is Federico. I’m an Italian graphic designer and full stack developer. In recent months, there has been a lot of talk about the \"second brain\" articles and YouTube videos; everyone is still discussing it, but I see a significant difference between that and what the concept of a second brain means to me.…",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2122,26 +2254,6 @@
       "category": "ai-news"
     },
     {
-      "id": "b30255e1f809",
-      "title": "Exa Monitors v2",
-      "url": "https://www.producthunt.com/products/exa-ai",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-02T18:27:33+00:00",
-      "snippet": "Web search on a schedule that calls your agent, $2/1k runs Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "193d3123f978",
-      "title": "Sage2 by Levanto Labs",
-      "url": "https://www.producthunt.com/products/sagecraft",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-02T18:04:38+00:00",
-      "snippet": "Turn live talk into structured data and instant actions Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "cffe26bfa944",
       "title": "Show HN: Subvocal – Talk to your computer without making noise",
       "url": "https://news.ycombinator.com/item?id=50340088",
@@ -2160,18 +2272,6 @@
       "snippet": "",
       "competitors": [],
       "category": "ai-news"
-    },
-    {
-      "id": "a33927451e15",
-      "title": "Born Digital, Born Automated: How Lockheed Martin’s NGSRI Program is Scaling Manufacturing Processes - Lockheed Martin",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaHU5SFJzTEJyYS1lOWIwT2dvWUlCZXhHNm04ckpVY1RkcDN1NUpXLTNLYVV6ZWVRZjduZWJfeW12MU12TktFNWVRQlBGS180ZE0zek1PMERfQ1BEbWxCNVdjZ1U5NnpnS3dybHFxVk1JLTNwMzAwbUctUlUzaU5SUklkbzRiM3VURnRabTYtX2MxbVQ3RmIxMm40OFZ2aGN3dE41Y0dqTkV6RzJyWEs3Qm1JZGZxbmdxNEk4SlVva1dTVUJYM2QtYXRzcng5UHVJNkduc1FwaGZSTTlJZkxld3drMlNyMGo5eTBZY2dBdw?oc=5",
-      "source": "Google News",
-      "date": "2026-11-02T16:48:43+00:00",
-      "snippet": "Born Digital, Born Automated: How Lockheed Martin’s NGSRI Program is Scaling Manufacturing Processes Lockheed Martin",
-      "competitors": [
-        "Born Digital"
-      ],
-      "category": "competitor"
     },
     {
       "id": "9e274fb964c7",
@@ -2214,34 +2314,26 @@
       "category": "ai-news"
     },
     {
-      "id": "805d429ccf43",
-      "title": "Credit Union of Colorado Selects Scienaptic AI's LendSmart Auto to Sharpen Vehicle Loan Pricing - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLTFXTTRpNWZOY2VyekFvV1ZZMDhGV08wWGxwLXhXaUFQcmVuY1AxU0xzNF9qNkFzbUJCS0NNaENnenU3ci1VWlhNVktidF9vaVhkdjgxcXE0NGgzaGdmbEd1Vlc0UmFOTWN5bF9WRlYtVzlVQnR1LUNVenBLSFJ1UVhRMUc2SFNzXzE1WGxYb3BwWEZYN0JFZ1FuVGNTREtwU1kwVms4WmJZZW93enBxZmVUeUxncjgtNTNPa0VuT0RPVkNJSVZvSWU3c0RHWmVVYVpIb3ZpeVZsQ0djQUxzb2tkaU9IUQ?oc=5",
+      "id": "653ae9d7c3d9",
+      "title": "Credit Union of Colorado Selects Scienaptic AI's LendSmart Auto to Sharpen Vehicle Loan Pricing - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjk5VnlYUU1DZXFENEYtT1lEM2lwN01YTDJoYkhwT1RwNkxINlNoQ1FtSDdvX0ZSS3IyUHhIMjlQNUxfaERlWWdQb1haanpFVkFEczJnSm9MTU42YVM4VDM4VTQ0dHZteVM1RXRHSTlXQUdlcXRwaURqTXlqT2pxaXBiR3UzblJkbUtsUF9JQlIzWGdUVG9kemYtVTZXb1RZdWdQYlZFWQ?oc=5",
       "source": "Google News",
       "date": "2026-11-02T13:00:00+00:00",
-      "snippet": "Credit Union of Colorado Selects Scienaptic AI's LendSmart Auto to Sharpen Vehicle Loan Pricing Business Wire",
+      "snippet": "Credit Union of Colorado Selects Scienaptic AI's LendSmart Auto to Sharpen Vehicle Loan Pricing Yahoo Finance",
       "competitors": [],
       "category": "ai-news"
     },
     {
-      "id": "5a40da3d8123",
-      "title": "Wonder Dev View",
-      "url": "https://www.producthunt.com/products/wonder-dev-view",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-02T03:47:30+00:00",
-      "snippet": "Run many Claude Code and Codex agents in parallel Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "f30cb4bbd5cf",
-      "title": "Deal Pilot",
-      "url": "https://www.producthunt.com/products/deal-pilot",
-      "source": "Product Hunt — AI",
-      "date": "2026-11-02T00:27:34+00:00",
-      "snippet": "AI SDR that books meetings in Japan, the US & SE Asia Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
+      "id": "a33927451e15",
+      "title": "Born Digital, Born Automated: How Lockheed Martin’s NGSRI Program is Scaling Manufacturing Processes - Lockheed Martin",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaHU5SFJzTEJyYS1lOWIwT2dvWUlCZXhHNm04ckpVY1RkcDN1NUpXLTNLYVV6ZWVRZjduZWJfeW12MU12TktFNWVRQlBGS180ZE0zek1PMERfQ1BEbWxCNVdjZ1U5NnpnS3dybHFxVk1JLTNwMzAwbUctUlUzaU5SUklkbzRiM3VURnRabTYtX2MxbVQ3RmIxMm40OFZ2aGN3dE41Y0dqTkV6RzJyWEs3Qm1JZGZxbmdxNEk4SlVva1dTVUJYM2QtYXRzcng5UHVJNkduc1FwaGZSTTlJZkxld3drMlNyMGo5eTBZY2dBdw?oc=5",
+      "source": "Google News",
+      "date": "2026-11-02T08:00:00+00:00",
+      "snippet": "Born Digital, Born Automated: How Lockheed Martin’s NGSRI Program is Scaling Manufacturing Processes Lockheed Martin",
+      "competitors": [
+        "Born Digital"
+      ],
+      "category": "competitor"
     },
     {
       "id": "3ced8705b585",
@@ -2258,7 +2350,7 @@
       "title": "How voice AI is transforming banking and insurance: Desible.ai founders on the business behind the technology - YourStory.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnh6MW5zbVVmcVl6T1BNTzdMNHI1SF9pNXo3N2FVRXY3QW5BbkRMQnBaa1AyeTJlMVEwV2xtOGk2OXVEQjFVV21SaElyRXRERmVnV29DWGNnSHhGNk1XUnNSSUxqMW0xVXh1eHRaUERPa3JTN25ibnJQWFFGcjBJNVltZWtyMUV6RDZ3a3VFQTNqUWVhbVVZOTYwa1dtbFV1bldCdU5ObWtVNF9vQ09vNkwxZWxlUQ?oc=5",
       "source": "Google News",
-      "date": "2026-11-01T03:07:57+00:00",
+      "date": "2026-11-01T07:00:00+00:00",
       "snippet": "How voice AI is transforming banking and insurance: Desible.ai founders on the business behind the technology YourStory.com",
       "competitors": [],
       "category": "ai-news"
@@ -2364,32 +2456,22 @@
       "category": "regulatory"
     },
     {
-      "id": "4ae3f9a42173",
-      "title": "chalk",
-      "url": "https://www.producthunt.com/products/chalk-546d9cf8-cdc3-4b80-9b88-f441167c8f6e",
-      "source": "Product Hunt — AI",
-      "date": "2026-10-29T18:42:39+00:00",
-      "snippet": "learn anything, anywhere Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "f94c565236db",
-      "title": "Make0 Brain OSS",
-      "url": "https://www.producthunt.com/products/make0-brain",
-      "source": "Product Hunt — AI",
-      "date": "2026-10-29T15:42:42+00:00",
-      "snippet": "Sync context across all your agents Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "ca4e67c518f5",
       "title": "Building a Trusted Ecosystem: AI’s Changing Role in Corporate Banking",
       "url": "https://www.finextra.com/videoarticle/3634/building-a-trusted-ecosystem-ais-changing-role-in-corporate-banking",
       "source": "Finextra",
       "date": "2026-10-29T15:00:00+00:00",
       "snippet": "At Sibos 2026, CoCoNet’s CEO and director of product share their thoughts on how banks can build trusted AI execution layers and connect corporate ecosystems to meet evolving client demands.",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "6938365386d8",
+      "title": "Latch.ai",
+      "url": "https://www.producthunt.com/products/latch-ai-2",
+      "source": "Product Hunt — AI",
+      "date": "2026-10-28T20:19:05+00:00",
+      "snippet": "Automate complex accounting work without a single prompt Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2440,16 +2522,6 @@
       "source": "Finextra",
       "date": "2026-10-28T15:00:00+00:00",
       "snippet": "At Sibos 2026, Volante’s Nadish Lad reveals how tokenisation and programmable money will revolutionise cross-border payments and compliance.",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "cf358912e1a5",
-      "title": "How Market Developments Have Fundamentally Changed Risk Mitigation and Resilience Requirements in FX",
-      "url": "https://www.finextra.com/videoarticle/3629/how-market-developments-have-fundamentally-changed-risk-mitigation-and-resilience-requirements-in-fx",
-      "source": "Finextra",
-      "date": "2026-10-28T11:00:00+00:00",
-      "snippet": "In this interview, conducted following Sibos 2026, CLS's Marc Bayle De Jessé discusses how evolving geopolitics and emerging technologies are impacting operational resilience requirements in FX.",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2524,42 +2596,12 @@
       "category": "regulatory"
     },
     {
-      "id": "20a8bc5288c1",
-      "title": "Show HN: Sóþspell, a model-guided walkthrough of a codebase",
-      "url": "https://github.com/anthonyclarka2/sothspell",
-      "source": "Hacker News",
-      "date": "2026-10-26T15:05:31+00:00",
-      "snippet": "I kept finding myself wanting a way to get talked through the code that a model had created, which led to me making Sóþspell (old English, \"Truth Story\"). You give it a git repo locally or via URL, and it creates a tour of the repo in a web page, with the aim of it explaining the whole thing. There's also model harnes…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "dc4a6654f45e",
       "title": "Diversified Members Credit Union Selects Scienaptic AI to Strengthen Fraud Detection - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR3VXVkgtZGhpdzZ5VjY1WEtrZHFYYkhCWmE5UnJRcUQyRnh4eWdySEVKMm4tNXQ3aHJHNmlxVlhoOFZ2RjRxUVZHZG5neXlHVWh5ME1IejBDMUY0ZXo0NU9OaS05bXR6alJfcll2dzk2dGxjMlB6YzFGSE9ySjMzV25HSHVYTS1tQmtEcFA2bmpaZy1hSm9DMTUtUEJkQ0l0cDhUSkJUQ3QtbWVfb040bVhISGp3X1VZby1VZVpNZG1tdnlRSF9RRmo2S1JGc2pXNkJLSjNfSE0?oc=5",
       "source": "Google News",
       "date": "2026-10-26T13:01:00+00:00",
       "snippet": "Diversified Members Credit Union Selects Scienaptic AI to Strengthen Fraud Detection Business Wire",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "6023b6d5b744",
-      "title": "LiveReview",
-      "url": "https://www.producthunt.com/products/livereview",
-      "source": "Product Hunt — AI",
-      "date": "2026-10-26T12:40:53+00:00",
-      "snippet": "Free, Risk-Aware Code Review: Auto Approve Low-Risk Changes Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "4daefdbdb594",
-      "title": "ClarifierAI for Chrome",
-      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
-      "source": "Product Hunt — AI",
-      "date": "2026-10-26T10:38:44+00:00",
-      "snippet": "Use AI for writing & translating in your Chrome Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2584,76 +2626,6 @@
       "category": "ai-news"
     },
     {
-      "id": "8b9446b4f15c",
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "url": "https://huggingface.co/destined/hurston-1",
-      "source": "Hacker News",
-      "date": "2026-10-25T01:30:13+00:00",
-      "snippet": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce an…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "534afda8a53a",
-      "title": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
-      "url": "https://github.com/swrdfish/narro",
-      "source": "Hacker News",
-      "date": "2026-10-24T19:37:32+00:00",
-      "snippet": "I wanted a read-aloud extension that could read from the Kindle Online Reader. The ones I tried used voices I did not enjoy listening to or had a UX that was too cluttered or annoying or needed a signup. So I decided to vibe code my own. It is open source and uses open weight models that run in the browser. https://sw…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "01d5034112b5",
-      "title": "What if you could have AI applied to your brain?",
-      "url": "https://news.ycombinator.com/item?id=50223726",
-      "source": "Hacker News",
-      "date": "2026-10-24T18:16:47+00:00",
-      "snippet": "Imagine this. You can control Alexa with your voice and ask it to play songs, remember grocery lists, add reminders to your calendar. Elon Musk's Neuralink can interface with your brain and reduce the latency with which you can communicate with computers. What if you had AI applied to your brain and you could train it…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "b855987d60c2",
-      "title": "Piper TTS: A fast, CPU-only neural TTS engine that runs offline",
-      "url": "https://tts.ai/voices/piper/",
-      "source": "Hacker News",
-      "date": "2026-10-24T16:33:11+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "07676bceca45",
-      "title": "Tobira Site Agent",
-      "url": "https://www.producthunt.com/products/tobira-ai",
-      "source": "Product Hunt — AI",
-      "date": "2026-10-24T11:25:07+00:00",
-      "snippet": "Turn your website into an AI agent that sells to AI agents Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "7385b9aa9b46",
-      "title": "12 Angry Agents",
-      "url": "https://news.ycombinator.com/item?id=50216167",
-      "source": "Hacker News",
-      "date": "2026-10-23T22:21:03+00:00",
-      "snippet": "12 angry men is a very thought-provoking film, and there is nothing quite like it. Its premise is just 12 people sitting in the jury room and sharing their experiences and judgment on a very sensitive case. They need to decide whether a boy is innocent or guilty of a crime. I have been playing around with a thought ex…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "baa600177ecc",
-      "title": "Royak",
-      "url": "https://www.producthunt.com/products/royak",
-      "source": "Product Hunt — AI",
-      "date": "2026-10-23T17:32:53+00:00",
-      "snippet": "AI employees that get the work done for you Discussion | Link",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "54f7c8f870b7",
       "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries - CNBC",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUFhkR0R0cmxYeWNRb2Y2LXEyNUlGQnozcWxNUW1jaWRDcUdpYnBTWVZGR3p4OWwydEdicWRMMEozdXpxUl9td1V6SVVZM2JOT25hOWU3TUFLU1h4aHk0VC1VcjQ2bkhyMGJSVzduZ9IBdEFVX3lxTE1KUjZzM3JxQnUxN2Y0LVlocU52STl2ZUIwSlNOMFNnY3hyUlJ5TGJpZjJlc3VRaS1LdDh1ZlNvSDNCYWlmdnpIMHk4ZWFTT1E3UmplVjAwRm5MNnM5V2FsSWVpZ0Z3aWVhMjNVeWhrX1lRWWtk?oc=5",
@@ -2662,16 +2634,6 @@
       "snippet": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries CNBC",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "7988c27a99f4",
-      "title": "‘Window of vulnerability’: Banks move to restrict AI agent access - USA Today",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObm4yWXp5WnVGalp2SE9ZMkExb3ZtOUhKZDV6VDd3Q0hGckI3Z1NMcEMtMkpjUG8tOXFmaERMWGZPc3pTWXNBQ3hyNHhtWTRpQTZJdlNLNDVUWjM2US1weHRpem5Zd01nVGF4c0U5Z0VVUFo4el92WENtUFRnZHd3NVRQeG5sWjR3MGZQU3B6bTVvc0o4dHFabkF4NFk?oc=5",
-      "source": "Google News",
-      "date": "2026-10-23T07:00:00+00:00",
-      "snippet": "‘Window of vulnerability’: Banks move to restrict AI agent access USA Today",
-      "competitors": [],
-      "category": "ai-news"
     },
     {
       "id": "84ea3d035756",
@@ -2708,44 +2670,24 @@
       "category": "competitor"
     },
     {
-      "id": "7ec7c9465b8e",
-      "title": "Eltropy Named to 2026 Inc. Power Partner Awards for Fifth Time in Six Years - El Paso Times",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaFYxZ19IcGVnZExIQi1TUEt6Y3FKZk9JWGtrV0d1WWF1LVdIT3RISTUtelgtdVB3OHJnbFVNQnY0a3dpR2t2TWh5emFMSnJ4UkptX1FYdE1JQmVMNU5wS2c0OUVuVXB0czJudHQyNEJoREdFUk80Zjk0MUlud3FyZFd3Y1h3czY2Q3hUdnNibHlwYTBZb2xwU0J4b2FfWk52Q3ZrWlMtX0Q3Qi1XcWJJS1VQUXJwLUJ4eEZWT29qNnBCOUI5dFRxZUVR?oc=5",
+      "id": "cbdf251da674",
+      "title": "Eltropy Named to 2026 Inc. Power Partner Awards for Fifth Time in Six Years - Akron Beacon Journal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0xhTnNsaFFTZVdiRndSSVpJMi11bFFnVHJ3NTFlYVYwSXBvaWQ4U0FFRTRXYllQblktd0ZlUVZfeUpFUFJJam5MWFJ2bkxZSkgyVDl3c0Ywd0xCZjJiaXQzV01kUjdhOE04T2pRTFhXMEpRd1k3M3RueGJ5SWpHekFCVTRhbWRPR0hBXzllaExzYlZ1aHRLRVlSNklCdlN2ZHpNeUY5QW92LTBuTGEyaUFEb0g4WHlxb3VZbmhCVmtMUmFWcVFXNV9tSFI?oc=5",
       "source": "Google News",
       "date": "2026-10-22T07:00:00+00:00",
-      "snippet": "Eltropy Named to 2026 Inc. Power Partner Awards for Fifth Time in Six Years El Paso Times",
+      "snippet": "Eltropy Named to 2026 Inc. Power Partner Awards for Fifth Time in Six Years Akron Beacon Journal",
       "competitors": [
         "Eltropy"
       ],
       "category": "competitor"
     },
     {
-      "id": "6a8e4653ffd7",
-      "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts - Axios",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDhwTU0wLUJrU2kza3Z2bFJoNmQ2NENWa1JRRHppbTc0OGJ2MHVOU1BfTzBMNzNVRGplNEdqSTZ4NlZfUDRCOVdoNk9PelNoalE0WDNRcVh1bGIzZlVLU0dWLVFGWjJpd1dEcFItX2RFT1k2Tmk1RHBBckd6aV9GVGdSaw?oc=5",
-      "source": "Google News",
-      "date": "2026-10-22T07:00:00+00:00",
-      "snippet": "Scoop: Unvetted AI agents are accessing U.S. bank accounts Axios",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "78cd1c8da737",
-      "title": "US banks are blocking third-party AI agents access to customer accounts, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFxNjAweHdoQ0ZaOWpUTGdVNWRkTXJ2Z08zeG1wOG03ZklKSW9WbTFBbGJWUVZVb211eFN4UFpjTG83aHBtMTViQ21fQmxBd2U0b2JTLXNHcjBReXRpMDl3am82SUVqVU1ndmRxejczTVZaWFlCMVZQSGNwWEQ0NXcyLWt0dlduZ2VUbjNyTUdyRUVndWEzV041cVQ1Mk1uV21vNGZBTUpaQ0tkVk1sOElNZW5NQThVZm9SemdUbXY?oc=5",
-      "source": "Google News",
-      "date": "2026-10-22T07:00:00+00:00",
-      "snippet": "US banks are blocking third-party AI agents access to customer accounts, sources say Reuters",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "d5284ddc7a1d",
-      "title": "Quest",
-      "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
+      "id": "86be932f6786",
+      "title": "Alsona",
+      "url": "https://www.producthunt.com/products/alsona",
       "source": "Product Hunt — AI",
-      "date": "2026-10-21T15:22:29+00:00",
-      "snippet": "Your personal AI advisor for a more intentional life Discussion | Link",
+      "date": "2026-10-21T15:41:38+00:00",
+      "snippet": "AI agents that turn buying signals into booked sales calls Discussion | Link",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2760,22 +2702,32 @@
       "category": "regulatory"
     },
     {
+      "id": "2c5b19a18c59",
+      "title": "AppTraction",
+      "url": "https://www.producthunt.com/products/apptraction",
+      "source": "Product Hunt — AI",
+      "date": "2026-10-20T20:30:58+00:00",
+      "snippet": "Supercharge Apple App Store analytics Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "fa2bcf7de19c",
+      "title": "Main Street Ledger: Agentic AI Is Here. The Rules of the Road Must Keep Pace. - consumerbankers.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODMxMDM2R0lVLWZ6akVNcmMxYl9tS1JNZm1SRjYyTnV5THV0REZRcEN4RTVzTDc3UTBWdXZfcXRpemdBZWpZR0xQbTNsZ2tQWnFWNVc2QUNLZG9ETXNMeWpLT3RNMzRxMEZFWDZaMkwwZmt4TDdyT1FnR05uaVBaakoycS16a2V3SnVhMl8xMjdmb3FoY2Y2TVIzc2M1RUlSUVptUEFHb2x0bFRf?oc=5",
+      "source": "Google News",
+      "date": "2026-10-19T07:00:00+00:00",
+      "snippet": "Main Street Ledger: Agentic AI Is Here. The Rules of the Road Must Keep Pace. consumerbankers.com",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "4531bc9570c3",
       "title": "Justice Federal Credit Union Expands AI, Analytics and Digital Banking Strategy for the Justice, Law Enforcement, and Public Safety Community - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFZxOU81amF3cG1qQl9YNEpkZlRpX3ZVMU1kd3RxZUJUVkNDMlBHM0oxN3F1YXBQY1QxeVJKa3Nzd0hPUnJmY3R3MzhvX0ZWTVJHdllkV092S2FacDlfSFhDY0l0ZlU5RGxPN0N2blQxOXpzUmc4M0l0M0Vsc2FwdVBNcGV1Xy1vaHM5amREa3dlak9OZU9CUzVJd3hEazFFcjVVR0NEcUZsNHdMS0VQS3JzSQ?oc=5",
       "source": "Google News",
       "date": "2026-10-19T07:00:00+00:00",
       "snippet": "Justice Federal Credit Union Expands AI, Analytics and Digital Banking Strategy for the Justice, Law Enforcement, and Public Safety Community Fortune",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "51aee657382e",
-      "title": "APG Federal Credit Union Goes Live with Scienaptic AI - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaC1yYnJXVEVhb3FiLVo3cXd3NWRhSFRaZlN6R2NxRk9YS0FzNjRsRkJtTkdkU19KcTFHYkZnQ0lLSk9VNzJxcEoyLTJSblcyMnhwTkVNM1g3cDdKeDNtcUVmTUZZYVBlOWN2Mnc2X0RQSEdvWmc1ZndmQl9sYWU3Wlh1TVZqUk9PT1htamtXdWhoOXJURk5aLURJWmNaeGp1elozWlhmNFV1My10MHFN?oc=5",
-      "source": "Google News",
-      "date": "2026-10-19T07:00:00+00:00",
-      "snippet": "APG Federal Credit Union Goes Live with Scienaptic AI Business Wire",
       "competitors": [],
       "category": "ai-news"
     },
@@ -2810,6 +2762,16 @@
         "Omilia"
       ],
       "category": "competitor"
+    },
+    {
+      "id": "cfbf2740508a",
+      "title": "Billing MCP By SubscriptionFlow",
+      "url": "https://www.producthunt.com/products/subscriptionflow-ai-billing-mcp",
+      "source": "Product Hunt — AI",
+      "date": "2026-10-15T07:32:33+00:00",
+      "snippet": "Open Source AI Agent to Run Your Subscription Billing Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
     },
     {
       "id": "4668070be10c",
@@ -2938,16 +2900,6 @@
       "category": "ai-news"
     },
     {
-      "id": "28f66b485c9e",
-      "title": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3V4aHFMSTR2WVhYZVU4NEN4WXZVYmo3WW1YWmZ1MTd1MGFjc3VyMTgwTjdiZGxPdXcyRllRakc5aWNaNVZkQzZIcVZCbjlLTG1hZUdIYk9SdHJiQkd1ejcxSkRubTZRZ25BbXRsa0xBendNSEdrZDgtTXI5end1anA4T0x4QzA3VUpWbXZCYmhUTG1pMWdpSVA1NWJkQ2lOckk2b3RnbDA1N0VJcEJwZVFrdXUzTUJ5REZvYld0d0JGdw?oc=5",
-      "source": "Google News",
-      "date": "2026-10-13T07:00:00+00:00",
-      "snippet": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say Reuters",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "b589501003c7",
       "title": "TD expands agentic AI across mortgage operations to make banking faster, simpler and more human - Oct 13, 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS1ctazA2UFl4MmlyTnowZ3ZMbnBtQktQbmM2R0RSSjZOMUgxblc4U0xWc2w3Q01nVUJWcF9LZDhqcllxQUkzM01nMkRFbzExX19rcmNsS2hGdnRkWVJHLVd2MEEtNHdwV0Uyam03RTdueDBsTzdRamJMS2lKYlhoQzNxS3lmMm1LUGJsVERsRTZvMEJ6WXAyelZoc1VTWnR0SXJMd1NsNTNmQ013Z3cyRi04NGNXc3p6N1BKcDdVbTFxLWx1U25udGFWSQ?oc=5",
@@ -2978,6 +2930,16 @@
       "category": "regulatory"
     },
     {
+      "id": "18338167a875",
+      "title": "Operum",
+      "url": "https://www.producthunt.com/products/operum",
+      "source": "Product Hunt — AI",
+      "date": "2026-10-11T03:07:59+00:00",
+      "snippet": "Your AI product team, with expert workflows built in Discussion | Link",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "40201dca0060",
       "title": "Show HN: Aporium – A UMAP galaxy of 5800 philosophy excerpts in conversation",
       "url": "https://www.aporium.app/explore",
@@ -3004,16 +2966,6 @@
       "source": "Hacker News",
       "date": "2026-10-09T07:18:41+00:00",
       "snippet": "I'm a writer who was pondering the problems with getting my work discovered and realized that current search/recommendation engines don't go very deep. So I thought about ways to address this. I was obviously mostly interested in books, so I worked on that first. I'd noticed LLMs are capable of pretty solid textual an…",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "9afc7da4838c",
-      "title": "Inside Navy Federal's fight against military payment scammers - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPanRxczdxdEFwRERhQmVpX3Z6aUpkY2lLQldYeUUzYkgyZl92TWFvdzljdFc4aGZsX3RQQTVMVDNqNmVtdVR4bXJJN1d5a2o1Rk5hX1pKYm00eFNuVXJmejV1ZUlPR1R1SmgxamVJMzRRZjVOd1lKU1V1RktpN0dZMXhVUDBzaGZseUFEVl9CTXdDY3Fp?oc=5",
-      "source": "Google News",
-      "date": "2026-10-09T07:00:00+00:00",
-      "snippet": "Inside Navy Federal's fight against military payment scammers American Banker",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3076,16 +3028,6 @@
       "snippet": "Global bond sell-off pushes U.S. Treasury yields to fresh 24-year highs NBC News",
       "competitors": [],
       "category": "regulatory"
-    },
-    {
-      "id": "c2c1c995baa9",
-      "title": "AI agents could cost banks $500bn — by winning savers better rates - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc01iQU13b0hoV1BpcnRUYW1qWUs2NVhTM3RxM0VDT24yNFpZMHhtZXVEZU1kWm16OUVMY3ZPTWZxOXY1Z3RnUWl4SFpMYXlkWkNiT2ppX3dZdEQ2VVhERjlYWTVaYzVFcHRiTEFJZ2ItdE9zSGoyd3RWUUVEQzZhdFJRV3U?oc=5",
-      "source": "Google News",
-      "date": "2026-10-07T07:00:00+00:00",
-      "snippet": "AI agents could cost banks $500bn — by winning savers better rates Financial Times",
-      "competitors": [],
-      "category": "ai-news"
     },
     {
       "id": "15f1909703c1",
@@ -3300,32 +3242,24 @@
       "category": "competitor"
     },
     {
+      "id": "cda14395add1",
+      "title": "Omilia Appoints David Stone as Head of Asia-Pacific - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzlWb3JQZkpVUGVWVnkwaWswUHBERUpwdWo1dERmRXNVcUdBd2ZjTVNVQzNlNTZRNGhjRkI2WlpMaWlWYVNJZExOd3NfZ1V4QkNXNHFSWlgyOVNQLUducXlhcWtpYUFGQ3NHZERTbzFRTlA4ZHpQMVc0QzU4YjVMNzlvYWRBZ0RuQW52MUgwT1dPXy1QSHd4M2RJeEU?oc=5",
+      "source": "Google News",
+      "date": "2026-09-28T07:00:00+00:00",
+      "snippet": "Omilia Appoints David Stone as Head of Asia-Pacific Yahoo Finance",
+      "competitors": [
+        "Omilia"
+      ],
+      "category": "competitor"
+    },
+    {
       "id": "301e44f22bae",
       "title": "Intesa’s private banking arm hit by €95m voice AI scam – report - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUFLY0MwMGc3VHdqamgtWXZwTlYwMnVwa19mUFJBa1JvZmJ6ZmZfbkFuYW5DblNhYVlTMHEtRnhzaFRkSkQxYjB0dno2VnRzOU55cWFNVkl6d29LdWJvYTUtbWM2Y3pRb3Z0cHZaTzQ5Q2JBbHBhb1doTjgtWmxsQmpra1U2bkc2ZmxRUmFtTUtpLThQME1qOVVB?oc=5",
       "source": "Google News",
       "date": "2026-09-28T07:00:00+00:00",
       "snippet": "Intesa’s private banking arm hit by €95m voice AI scam – report Yahoo Finance",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "ae14b6ff5a54",
-      "title": "Apollo raises specter of an AI agentic 'bank run' hitting financial industry - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcGpFNXJodmxHZzc3NEx5c2xTRFlGTGdON3YyZ2haeDF0dlN1UU8xQm9xX0xoS3JTYlZaT1ZUSUNraXhDcjN5Uk1rR0VJaklkc2Yxa0RERWlPajFUdkd2Z3lTck9jMzdkZXFrUnJSTkp3TjBsYnpmaDNoTjlpQkNRZzRpd3ZsTVJBektzdk9SQTY2SC14VGlLWGpTQ2RwT085ZGFhbGRsVzN0RVB4eHc3ZA?oc=5",
-      "source": "Google News",
-      "date": "2026-09-28T07:00:00+00:00",
-      "snippet": "Apollo raises specter of an AI agentic 'bank run' hitting financial industry CNBC",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "a9a6c3df7096",
-      "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUM5RHF3MHFWeE9xd0pXQW1JcElXbEhnTXVsdjJQTDdRSU96N25KazVJSzlzSlhTbFd1Tmh4VF9EY2ZGRnlBbzZDaFM0Tm1KbUpMc29KaV9uR0xUemQyLXBnNkJZcEF3cU9EanQ2YkxSaThCZkRMeTllckhZZXVGdEdFY3dCWk9fR3E3bElPTkV3SW9OY1hqYWw4UlRNUGw3LWhwTnBTd3MtbkZnUzlYcmQ5MA?oc=5",
-      "source": "Google News",
-      "date": "2026-09-28T07:00:00+00:00",
-      "snippet": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns CoinDesk",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3386,16 +3320,6 @@
       "source": "Google News",
       "date": "2026-09-26T07:00:00+00:00",
       "snippet": "AI voice-cloning scam hits Italian bank: Fake executives trigger €95m overseas transfers Gulf News",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "ac362a5c793b",
-      "title": "Banks have profited from idle cash for years. AI agents could change that. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2ZjR0IwRGpQSEdUUGJjYzVOaTRNZmNMc1lwYk5PcGo0NWFPY0c4Z0lnWTc4MVlydWxIc3hMa0VjZm5sR2xYY1hQV1RhemZ2STBsOEtzYUdDQ21ZdDg5YUhfc0J5b3FyUXVybnIzdnlFbkJBQUZHdV9ET2o5VTVoXzk1Mm4zRWJtOTIyMmZ5S2VNTXp5VjNIaV9UVzhua2diQWc2bXotTHpIbWpuUXJ0X3RQTVpER1BDenNwRWxJeEppWTBuRDZvTA?oc=5",
-      "source": "Google News",
-      "date": "2026-09-26T07:00:00+00:00",
-      "snippet": "Banks have profited from idle cash for years. AI agents could change that. Yahoo Finance",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3482,9 +3406,9 @@
       "category": "ai-news"
     },
     {
-      "id": "ef65e860bba2",
+      "id": "c8ad808ce9a8",
       "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlBrWWNnNFRxaEZrbm1LMktVbmtqLTlGa2JKVGRHa0lQRmFWajFBaGFOMjF1S0tLN2VWWXVCbzcxTWhnWWhnUnpiTVpqTnBWdF9PU1hrQnZLSDBMNUZZeDAya0h3MTFEZ1pEZnd5by1TRlAxbHNpa3dYYnhkZnhKZnJOUkVtdE9qNHdrMWtRMTFvaUF6WlgtNE5kUHpYYnhIekZjQ1ln0gGrAUFVX3lxTE8zRzN6MEtJNDV1RERhaEJCcklObmVrRDIwdTRidDRtU0xMTVVBM0FpWXhETTRFYzFKMFJORDFrVjBjdGZCaEpiZVg0Y09UQUFJX3RZYU92UHF3cE5XZU5VSXJmMXJ1WmxHNERHQVpDMGc3cldUSzgyOFdmMHZ3bWxiUm1WOVU4WEtPZHJHR29WSjBqdzlsclN1WkN2NW9tTXFGWG5HOVpuN1pMWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWlBrWWNnNFRxaEZrbm1LMktVbmtqLTlGa2JKVGRHa0lQRmFWajFBaGFOMjF1S0tLN2VWWXVCbzcxTWhnWWhnUnpiTVpqTnBWdF9PU1hrQnZLSDBMNUZZeDAya0h3MTFEZ1pEZnd5by1TRlAxbHNpa3dYYnhkZnhKZnJOUkVtdE9qNHdrMWtRMTFvaUF6WlgtNE5kUHpYYnhIekZjQ1ln?oc=5",
       "source": "Google News",
       "date": "2026-09-25T07:00:00+00:00",
       "snippet": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company CNBC",
@@ -3544,6 +3468,16 @@
       "category": "competitor"
     },
     {
+      "id": "09cd3913e511",
+      "title": "Family First CU CEO Out Following ‘Lake America’ AI-Photo Controversy - CU Today",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0VYZWhFaFNrV3Mwem1jaXBFNWhUNnNxWmMtVWx0OFR6VzFKU0FHNkx6ZV9jaHc2ZnY4ZHphc09TelptblE1enE2MFZvZkw5OXR3dmxlekI1YWVrNklXdmhVMFQybm1wTlFCY0ZEZ3ZUNUFmMThNNE1JQjR6VkpCb1lVeEQyQU11NWlYU3dhNmx2TEpWYlRYUE5BWm04aHRYRlVuZTBXYw?oc=5",
+      "source": "Google News",
+      "date": "2026-09-23T07:00:00+00:00",
+      "snippet": "Family First CU CEO Out Following ‘Lake America’ AI-Photo Controversy CU Today",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
       "id": "c456a98e0ec7",
       "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
@@ -3576,22 +3510,22 @@
       "category": "regulatory"
     },
     {
-      "id": "e60c36b375cc",
-      "title": "Big Banks Say They’re Uneasy About People Shopping via AI Agents - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemRkVzFkMTVuMkZucU9JVXdfVndRWVVDZ3IwX2xFQXFtdHdmMHQ5emlGcTZRdE1DNHFmQV9TSmRyTXlmMzlhVEZzYWg5UHZNR0staTdTX0pxTjA2dU00Nm82XzVEbm9YWmRid3lVbEVKb0JSd3VOdmVFdXRzUmo1VWVZcVNaUlJWZzRmYWd2bmhyYjhwX09YWGtB?oc=5",
-      "source": "Google News",
-      "date": "2026-09-22T07:00:00+00:00",
-      "snippet": "Big Banks Say They’re Uneasy About People Shopping via AI Agents Gizmodo",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
       "id": "88da6b0359c6",
       "title": "A Cute Proof That Makes e Natural",
       "url": "https://poshenloh.com/e",
       "source": "Hacker News",
       "date": "2026-09-21T05:20:22+00:00",
       "snippet": "",
+      "competitors": [],
+      "category": "ai-news"
+    },
+    {
+      "id": "1cc1f70b4d77",
+      "title": "Michigan Credit Union CEO Apologizes for AI Photo of Her Family in ‘Lake America’ Sweatshirts - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbkJ3VWgyZFJpS1dUUVM2ekhDdHltNTBuZ19meHgtZmxPMXZCQWE2akFwaHUtZUprVFZiSUR6VF9HbUF5M2hpR09Yc1ZvY0F6ZDhpTnZUUjlOdHMwWFVhc2R5NmxMN20yYXk0VzljeU9Pb0JfdExfdXZYUGh3ZHVlblpvMDZrQXNDbEM0U2Q2MkFQQzlkS2U3SzFNN1E?oc=5",
+      "source": "Google News",
+      "date": "2026-09-20T07:00:00+00:00",
+      "snippet": "Michigan Credit Union CEO Apologizes for AI Photo of Her Family in ‘Lake America’ Sweatshirts Yahoo",
       "competitors": [],
       "category": "ai-news"
     },
@@ -3712,46 +3646,6 @@
       "source": "Hacker News",
       "date": "2026-09-13T10:08:53+00:00",
       "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "3cbc7879aec5",
-      "title": "Press Release: Joint Readout of Principals’ Meeting of UK and U.S. Authorities Regarding Central Counterparty Resolution",
-      "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/429c028",
-      "source": "FDIC",
-      "date": "2026-09-11T15:01:03+00:00",
-      "snippet": "PRESS RELEASE | SEPTEMBER 11, 2026 Joint Readout of Principals’ Meeting of UK and U.S. Authorities Regarding Central Counterparty Resolution WASHINGTON—Senior officials from the Bank of England, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Securities and Exchange Commission, and Federal…",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
-      "id": "be779791c70d",
-      "title": "Press Release: Agencies Seek Comment on Proposed Third-Party Risk Management Guidance and Issue Statement on Community Bank Engagement with Core Service Providers",
-      "url": "https://content.govdelivery.com/accounts/USFDIC/bulletins/42943e6",
-      "source": "FDIC",
-      "date": "2026-09-11T14:05:21+00:00",
-      "snippet": "PRESS RELEASE | SEPTEMBER 11, 2026 Agencies Seek Comment on Proposed Third-Party Risk Management Guidance and Issue Statement on Community Bank Engagement with Core Service Providers WASHINGTON— Today the Federal Deposit Insurance Corporation, the Federal Reserve Board, the National Credit Union Administration, and th…",
-      "competitors": [],
-      "category": "regulatory"
-    },
-    {
-      "id": "4953a4497dad",
-      "title": "Act as a Conversational AI Prompt",
-      "url": "https://prompts.chat/prompts/cmjbfdtbb0001sc0rtm5gh8f5",
-      "source": "Hacker News",
-      "date": "2026-09-11T08:02:36+00:00",
-      "snippet": "",
-      "competitors": [],
-      "category": "ai-news"
-    },
-    {
-      "id": "b99190913759",
-      "title": "How Navy Federal harnesses AI to confront scam activity - Banking Dive",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjJzM0Jic09nY0hjN2VyWVE0ZXFpb011OUZqS0JYeWtLWGZzdVp6bm9kcFQwSE5yaFJ4dGJNc2lEWlp3OW5PaFBQNDQ5NFZBOXVMNXZJa3NDbkQwdW93ck5HYTVQa1hnM1BaNTlZdHRJTGJDb1laUnVZbDlTdGExQ1RxX0xmTWJm?oc=5",
-      "source": "Google News",
-      "date": "2026-09-11T07:00:00+00:00",
-      "snippet": "How Navy Federal harnesses AI to confront scam activity Banking Dive",
       "competitors": [],
       "category": "ai-news"
     }
