@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-25T23:00:29.409668+00:00",
-  "item_count": 461,
-  "competitor_count": 27,
-  "ai_news_count": 320,
-  "regulatory_count": 114,
+  "generated_at": "2026-11-26T22:54:07.468925+00:00",
+  "item_count": 489,
+  "competitor_count": 29,
+  "ai_news_count": 359,
+  "regulatory_count": 101,
   "competitors": [
     "Eltropy",
     "Kasisto",
@@ -49,7 +49,7 @@
     },
     "HN search: conversational AI": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "HN search: voice AI": {
       "ok": true,
@@ -61,7 +61,7 @@
     },
     "HN search: banking AI": {
       "ok": true,
-      "count": 4
+      "count": 3
     },
     "HN search: credit union AI": {
       "ok": true,
@@ -69,19 +69,19 @@
     },
     "Reddit r/MachineLearning": {
       "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.pullpush.io/reddit/search/submission/?subreddit=MachineLearning&size=100&sort=desc&sort_type=created_utc"
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://api.pullpush.io/reddit/search/submission/?subreddit=MachineLearning&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/singularity": {
       "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.pullpush.io/reddit/search/submission/?subreddit=singularity&size=100&sort=desc&sort_type=created_utc"
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://api.pullpush.io/reddit/search/submission/?subreddit=singularity&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/fintech": {
       "ok": false,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.pullpush.io/reddit/search/submission/?subreddit=fintech&size=100&sort=desc&sort_type=created_utc"
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://api.pullpush.io/reddit/search/submission/?subreddit=fintech&size=100&sort=desc&sort_type=created_utc"
     },
     "Reddit r/CreditUnions": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://api.pullpush.io/reddit/search/submission/?subreddit=CreditUnions&size=100&sort=desc&sort_type=created_utc"
     },
     "RSS: TechCrunch AI": {
       "ok": true,
@@ -89,7 +89,7 @@
     },
     "RSS: Finextra": {
       "ok": true,
-      "count": 51
+      "count": 50
     },
     "RSS: American Banker": {
       "ok": true,
@@ -117,15 +117,15 @@
     },
     "Regulatory: NCUA": {
       "ok": true,
-      "count": 14
+      "count": 10
     },
     "Regulatory: Treasury": {
       "ok": true,
-      "count": 51
+      "count": 42
     },
     "Google News: \"Eltropy\"": {
       "ok": true,
-      "count": 13
+      "count": 12
     },
     "Google News: \"Kasisto\"": {
       "ok": true,
@@ -137,7 +137,7 @@
     },
     "Google News: \"Glia\"": {
       "ok": true,
-      "count": 0
+      "count": 4
     },
     "Google News: \"Active.Ai\"": {
       "ok": true,
@@ -157,19 +157,19 @@
     },
     "Google News: conversational AI banking": {
       "ok": true,
-      "count": 4
+      "count": 17
     },
     "Google News: voice AI bank": {
       "ok": true,
-      "count": 5
+      "count": 31
     },
     "Google News: agentic AI bank": {
       "ok": true,
-      "count": 57
+      "count": 55
     },
     "Google News: credit union AI": {
       "ok": true,
-      "count": 48
+      "count": 52
     },
     "Blog: Eltropy Blog": {
       "ok": true,
